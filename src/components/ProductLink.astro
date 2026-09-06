@@ -1,0 +1,31 @@
+---
+import siteConfig from '../../site.config.json' with { type: 'json' };
+
+interface Props {
+	asin: string;
+	name: string;
+	tag?: string;
+}
+
+const { asin, name, tag = siteConfig.amazonAssociateTag } = Astro.props;
+const href = `https://www.amazon.com/dp/${asin}?tag=${tag}`;
+---
+
+<a class="product-link" href={href} target="_blank" rel="nofollow sponsored noopener">
+	Check price for {name} on Amazon
+</a>
+
+<style>
+	.product-link {
+		display: inline-block;
+		margin: 0.5rem 0;
+		padding: 0.55rem 1rem;
+		background: var(--accent);
+		color: white;
+		text-decoration: none;
+		border-radius: 6px;
+		font-weight: 600;
+		font-size: 0.9rem;
+	}
+	.product-link:hover { opacity: 0.9; }
+</style>

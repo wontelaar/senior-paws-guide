@@ -1,0 +1,229 @@
+{
+  "_comment": "Topic backlog for the content-generation pipeline. Only 'ready' topics have real, manually-verified Amazon ASINs (checked on Amazon.com on 2026-09-07) and should be used by scripts/generate-post.mjs. 'needs-research' topics are placeholders — verify real products on Amazon before flipping them to 'ready'. Never invent an ASIN; a fabricated one links to a wrong/nonexistent product.",
+  "topics": [
+    {
+      "id": "orthopedic-dog-beds-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "7 Best Orthopedic Dog Beds for Senior Dogs with Joint Pain",
+      "targetKeyword": "best orthopedic dog bed for senior dogs",
+      "products": [
+        {
+          "asin": "B0BDLGZCTY",
+          "name": "EHEYCIGA Orthopedic Extra-Large Dog Bed",
+          "notes": "44-inch XL bed, egg-crate polyurethane foam, waterproof machine-washable cover, non-slip bottom"
+        },
+        {
+          "asin": "B089RGDQBB",
+          "name": "Bedsure Orthopedic Dog Bed (Original)",
+          "notes": "35-inch, bolstered sides, waterproof lining, removable washable cover, non-slip bottom, marketed for senior dogs"
+        },
+        {
+          "asin": "B0F1CM5RHT",
+          "name": "Bedsure SupportMax Extra-Thick Orthopedic XL Bed",
+          "notes": "42-inch, extra-thick supportive foam, sherpa top, 100% removable washable cover, aimed at senior/large dogs"
+        },
+        {
+          "asin": "B0H7X73RD6",
+          "name": "LE SURE RealOrtho 3-Layer Orthopedic XL Bed",
+          "notes": "42-inch, premium memory foam, marketed for joint support in older dogs, waterproof washable cover"
+        },
+        {
+          "asin": "B0D6DSQ78J",
+          "name": "CWAWZ Cooling-Gel Orthopedic Dog Bed",
+          "notes": "42-inch XL, cooling gel memory foam, waterproof, removable washable cover"
+        }
+      ]
+    },
+    {
+      "id": "dog-stairs-for-bed-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Dog Stairs vs Ramps for Getting on the Bed: A Senior Dog Owner's Guide",
+      "targetKeyword": "dog stairs for bed senior dog",
+      "products": [
+        {
+          "asin": "B0FSD2GRKD",
+          "name": "YENING Extra-Wide Pet Stairs for Tall Beds",
+          "notes": "3-step, extra-wide deep steps, foam ramp design for larger dogs"
+        },
+        {
+          "asin": "B0FL7J4BV5",
+          "name": "Miorun Extra-Wide Dog Stairs (25-inch)",
+          "notes": "5-step high-density foam, 20-inch wide, fits beds up to 30 inches tall"
+        },
+        {
+          "asin": "B0BSCZYYTN",
+          "name": "Love's Cabin Foldable Pet Stairs",
+          "notes": "3-step, foldable with storage compartment, supports up to 200 lbs, zippered cover"
+        },
+        {
+          "asin": "B0BLKN98V6",
+          "name": "Aodisman 3-Step Pet Stairs for Small Dogs & Cats",
+          "notes": "15.7-inch height, curved ramp side, marketed for senior/short-legged dogs"
+        }
+      ]
+    },
+    {
+      "id": "elevated-dog-bowls-arthritis-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Best Elevated Dog Bowls for Dogs with Arthritis: FAQ + Picks",
+      "targetKeyword": "elevated dog bowls for arthritis",
+      "products": [
+        {
+          "asin": "B0C1V9LNG1",
+          "name": "COMESOON Adjustable Elevated Dog Bowl (4 Heights)",
+          "notes": "4 adjustable heights, thick stainless steel bowls (50oz), non-slip base"
+        },
+        {
+          "asin": "B0CRV41Q3Y",
+          "name": "XIAZ Raised Bowl Stand for Large Breeds",
+          "notes": "5 adjustable heights, stainless steel food and water bowls, non-slip"
+        },
+        {
+          "asin": "B0FFB9TT7F",
+          "name": "COMESOON Elevated Feeder (5 Heights, Foldable)",
+          "notes": "5 adjustable heights (3.9-13.4in), foldable/travel-friendly, non-slip, stainless steel"
+        },
+        {
+          "asin": "B0BN5WV5V2",
+          "name": "Niubya Stainless Steel Raised Dog Bowl Set",
+          "notes": "5 adjustable heights, two stainless bowls included"
+        }
+      ]
+    },
+    {
+      "id": "soft-recovery-collar-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Soft Recovery Collar Alternatives to the Plastic Dog Cone",
+      "targetKeyword": "soft cone alternative for dogs eye",
+      "ownerInsight": "Breeds with prominent/bulging eyes (e.g. Chihuahuas) are prone to scratching their own eyes with a hind paw when rubbing an itchy or irritated eye, which can cause real corneal damage over time. Rigid plastic E-collars are the standard fix, but some dogs get ear irritation or even bleeding from the hard edge when they shake their head — which is why inflatable/padded fabric alternatives are worth covering as a real option, not just a novelty.",
+      "products": [
+        {
+          "asin": "B0BSLRXP9G",
+          "name": "Supet Inflatable Recovery Collar",
+          "notes": "Inflatable donut-style collar, alternative to plastic cone, for small/medium dogs and cats"
+        },
+        {
+          "asin": "B0725C3RJX",
+          "name": "BENCMATE Inflatable Recovery Collar (Large)",
+          "notes": "Inflatable donut collar, soft, for small/medium/large dogs and cats"
+        },
+        {
+          "asin": "B0H8SLFY7Z",
+          "name": "Mesh Dog Cone Collar (Soft, Breathable)",
+          "notes": "Breathable mesh cone alternative, removable lining, for large/medium dogs"
+        },
+        {
+          "asin": "B0C972XW2N",
+          "name": "BARDIMIES Soft Donut Recovery Collar",
+          "notes": "Soft fabric donut-style E-collar alternative, adjustable, for small/medium/large dogs"
+        },
+        {
+          "asin": "B0FFSTY7V7",
+          "name": "Agape Soft Dog Cone (Small Dogs & Cats)",
+          "notes": "Adjustable soft fabric cone, washable, sized for small dogs and kittens"
+        }
+      ]
+    },
+    {
+      "id": "sensitive-skin-dog-shampoo-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Best Medicated Shampoos for Dogs with Sensitive Skin",
+      "targetKeyword": "medicated dog shampoo sensitive skin",
+      "products": [
+        {
+          "asin": "B0947674MT",
+          "name": "Douxo S3 PYO Antimicrobial Shampoo",
+          "notes": "Contains chlorhexidine 3%, antimicrobial/antifungal, clinically studied, for dogs and cats"
+        },
+        {
+          "asin": "B09478KGJZ",
+          "name": "Douxo S3 Calm Shampoo",
+          "notes": "Formulated to soothe itchy/irritated/allergic skin in dogs and cats"
+        },
+        {
+          "asin": "B0037Z6VLC",
+          "name": "Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo",
+          "notes": "Medicated formula for sensitive skin, scratching, and excessive licking"
+        },
+        {
+          "asin": "B000WT8REK",
+          "name": "TropiClean Oatmeal & Tea Tree Pet Shampoo",
+          "notes": "Oatmeal-based, marketed for itchy skin relief"
+        },
+        {
+          "asin": "B0GV1MB64N",
+          "name": "Nizoral Ketoconazole + Chlorhexidine Pet Shampoo",
+          "notes": "1% ketoconazole + 2% chlorhexidine gluconate, antifungal/antibacterial, for skin health and odor control"
+        }
+      ]
+    },
+    {
+      "id": "pill-hiding-treats-picky-dogs-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "How to Give a Picky Senior Dog Pills or Supplements (Without a Fight)",
+      "targetKeyword": "how to give a dog a pill picky eater",
+      "ownerInsight": "Some senior dogs are picky enough that they'll refuse even flavored pill-hiding treats unless it's a specific trusted brand/flavor they already like, which makes daily supplements and monthly chewable parasite-prevention medication (e.g. NexGard-type products) a recurring struggle rather than a one-time problem. A soft, moldable pill-wrap treat that can be shaped around a pill/capsule (rather than a fixed-shape pocket) tends to work better for dogs this fussy. This is a behavioral/practical tips topic, not medical advice — don't give dosing guidance, just coverage of the product category and technique.",
+      "products": [
+        {
+          "asin": "B077JBYP6P",
+          "name": "Greenies Pill Pockets (Chicken & Hickory Smoke)",
+          "notes": "Soft treat with a pocket to hide a pill inside, chicken/hickory smoke flavor"
+        },
+        {
+          "asin": "B0GT6P7QXJ",
+          "name": "Milk-Bone Pill Pouches (Hickory Smoked Bacon)",
+          "notes": "Soft pouch-style treat for hiding pills, bacon flavor"
+        },
+        {
+          "asin": "B0GGM9PM49",
+          "name": "Pet MD Wrap-A-Pill Paste (Peanut Butter)",
+          "notes": "Moldable paste/putty that can be shaped around a pill or capsule, peanut butter flavor, ~59 servings per package"
+        },
+        {
+          "asin": "B0G4SJXRPG",
+          "name": "Zoe Zoë Pill Pops (Roasted Chicken & Rosemary)",
+          "notes": "Natural-ingredient soft treat for hiding medication, chicken/rosemary flavor"
+        }
+      ]
+    },
+    {
+      "id": "dog-ramps-for-car-guide",
+      "status": "needs-research",
+      "structureType": "comparison",
+      "title": "Best Dog Ramps for Cars and SUVs (Senior & Large Dogs)",
+      "targetKeyword": "best dog ramp for car senior dog",
+      "products": []
+    },
+    {
+      "id": "senior-dog-joint-supplements-guide",
+      "status": "needs-research",
+      "structureType": "narrative-guide",
+      "title": "Joint Supplements for Senior Dogs: What to Look for Before You Buy",
+      "targetKeyword": "joint supplements for senior dogs",
+      "products": [],
+      "caution": "Health/supplement content — stick to describing ingredients and manufacturer claims, avoid making medical claims ourselves, and suggest checking with a vet."
+    },
+    {
+      "id": "non-slip-flooring-senior-dogs-guide",
+      "status": "needs-research",
+      "structureType": "qna",
+      "title": "How to Stop a Senior Dog from Slipping on Hardwood Floors",
+      "targetKeyword": "non slip floor solution for senior dogs",
+      "products": []
+    },
+    {
+      "id": "heated-dog-beds-guide",
+      "status": "needs-research",
+      "structureType": "comparison",
+      "title": "Best Heated Dog Beds for Senior Dogs with Arthritis",
+      "targetKeyword": "heated dog bed for senior dogs",
+      "products": []
+    }
+  ]
+}

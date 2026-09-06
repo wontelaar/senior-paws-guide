@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../../site.config.json' with { type: 'json' };
+---
+
+<BaseLayout title="About" description={`About ${siteConfig.siteName}.`}>
+	<h1>About {siteConfig.siteName}</h1>
+
+	<!--
+		TODO (required before submitting to AdSense): replace this placeholder
+		with real, specific information about who runs the site and why.
+		Generic "we love pets" filler reads as thin content to reviewers —
+		be concrete about the site's actual focus and origin.
+	-->
+	<p>
+		{siteConfig.siteName} publishes independent buying guides and product
+		comparisons focused on senior dog care — mobility, comfort, and
+		everyday products for aging dogs.
+	</p>
+	<p>
+		We research products, compare specs, and link out to retailers like
+		Amazon. Some of those links are affiliate links — see our
+		<a href="/affiliate-disclosure">affiliate disclosure</a> for details.
+	</p>
+</BaseLayout>

@@ -1,0 +1,49 @@
+name: Generate content
+
+# Manual trigger for testing, plus a throttled schedule (3x/week) so the
+# site doesn't publish at a velocity that reads as spam. Adjust the cron
+# once the pipeline has proven itself.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 14 * * 1,3,5' # Mon/Wed/Fri 14:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+
+      - name: Generate draft post
+        id: generate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run generate
+
+      # Every generated post is written with `draft: true`, so it does not
+      # appear on the live site regardless of this step's result. QA
+      # failures are surfaced as a workflow warning, not a blocker — a
+      # human still reviews every draft before flipping it to published.
+      - name: Run QA gate (informational)
+        if: steps.generate.outputs.post_path
+        run: |
+          npm run qa -- "${{ steps.generate.outputs.post_path }}" || \
+          echo "::warning::QA gate flagged ${{ steps.generate.outputs.topic_id }} — needs a closer human look before publishing."
+
+      - name: Commit draft
+        if: steps.generate.outputs.post_path
+        run: |
+          git config user.name "content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add "${{ steps.generate.outputs.post_path }}"
+          git commit -m "content: draft ${{ steps.generate.outputs.topic_id }}"
+          git push

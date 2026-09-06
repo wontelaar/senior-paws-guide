@@ -1,0 +1,40 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+
+interface Props {
+	title: string;
+	description: string;
+	pubDate: Date;
+	updatedDate?: Date;
+}
+
+const { title, description, pubDate, updatedDate } = Astro.props;
+
+const dateFmt = (d: Date) =>
+	d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<BaseLayout title={title} description={description}>
+	<article>
+		<header class="post-header">
+			<h1>{title}</h1>
+			<p class="post-meta">
+				Published {dateFmt(pubDate)}
+				{updatedDate && <> &middot; Updated {dateFmt(updatedDate)}</>}
+			</p>
+		</header>
+
+		<AffiliateDisclosure />
+
+		<div class="post-body">
+			<slot />
+		</div>
+	</article>
+</BaseLayout>
+
+<style>
+	.post-header h1 { margin-bottom: 0.25rem; }
+	.post-meta { color: var(--muted); font-size: 0.85rem; margin-top: 0; }
+	.post-body { margin-top: 1.5rem; }
+</style>

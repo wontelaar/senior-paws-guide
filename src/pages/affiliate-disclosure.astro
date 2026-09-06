@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../../site.config.json' with { type: 'json' };
+---
+
+<BaseLayout
+	title="Affiliate Disclosure"
+	description={`How ${siteConfig.siteName} uses affiliate links.`}
+>
+	<h1>Affiliate Disclosure</h1>
+	<p>
+		{siteConfig.siteName} is a participant in the Amazon Services LLC
+		Associates Program, an affiliate advertising program designed to
+		provide a means for sites to earn advertising fees by advertising and
+		linking to Amazon.com.
+	</p>
+	<p>
+		When you click one of our product links and make a purchase, we may
+		receive a small commission at no additional cost to you. This helps
+		fund the research and writing that goes into our guides. We only
+		recommend products we believe are genuinely useful based on our
+		research — commission does not influence which products we cover or
+		how we rate them.
+	</p>
+	<p>
+		This disclosure is provided in accordance with the U.S. Federal Trade
+		Commission's guidelines on endorsements and testimonials.
+	</p>
+</BaseLayout>

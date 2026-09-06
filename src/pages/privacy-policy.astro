@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../../site.config.json' with { type: 'json' };
+
+const updated = 'TODO: set real launch date';
+---
+
+<!--
+	This is a standard boilerplate privacy policy template, not legal advice.
+	Before launch: fill in the TODOs, confirm it matches which ad/analytics
+	services you actually enable, and if you expect EU/UK/California
+	traffic, consider running it past a proper policy generator or lawyer —
+	GDPR/CCPA have specific consent requirements this template doesn't cover.
+-->
+<BaseLayout title="Privacy Policy" description={`Privacy policy for ${siteConfig.siteName}.`}>
+	<h1>Privacy Policy</h1>
+	<p><em>Last updated: {updated}</em></p>
+
+	<h2>Overview</h2>
+	<p>
+		{siteConfig.siteName} ("we", "us") respects your privacy. This policy
+		explains what data is collected when you visit this site and how it's
+		used.
+	</p>
+
+	<h2>Information We Collect</h2>
+	<ul>
+		<li>
+			<strong>Analytics:</strong> We use privacy-focused analytics (e.g.
+			Cloudflare Web Analytics) to see aggregate traffic, which does not
+			use cookies or track individuals across sites.
+		</li>
+		<li>
+			<strong>Advertising cookies:</strong> If this site displays Google
+			AdSense ads, Google and its partners may use cookies to serve ads
+			based on your visits to this and other sites. You can opt out of
+			personalized advertising by visiting
+			<a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ads Settings</a>.
+		</li>
+		<li>
+			<strong>Affiliate links:</strong> This site participates in the
+			Amazon Associates Program. Clicking an affiliate link may set a
+			cookie on Amazon's site to track referrals; we do not receive any
+			personal data from this.
+		</li>
+		<li>
+			<strong>Contact form / email:</strong> If you email us directly,
+			we retain that correspondence only to respond to you.
+		</li>
+	</ul>
+
+	<h2>Your Choices</h2>
+	<p>
+		You can disable cookies in your browser settings. Doing so may affect
+		how ads are personalized but will not prevent you from reading the
+		site.
+	</p>
+
+	<h2>Contact</h2>
+	<p>
+		Questions about this policy: <a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a>.
+	</p>
+</BaseLayout>

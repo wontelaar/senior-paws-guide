@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../../site.config.json' with { type: 'json' };
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+	title="Home"
+	description={`${siteConfig.siteName} — honest, practical buying guides for senior dog care.`}
+>
+	<h1>{siteConfig.siteName}</h1>
+	<p>Practical, no-nonsense buying guides for senior dog care.</p>
+
+	{posts.length === 0 && (
+		<p><em>No posts yet — the first batch is on its way.</em></p>
+	)}
+
+	<ul class="post-list">
+		{posts.map((post) => (
+			<li>
+				<a href={`/posts/${post.id}/`}>{post.data.title}</a>
+				<p>{post.data.description}</p>
+			</li>
+		))}
+	</ul>
+</BaseLayout>
+
+<style>
+	.post-list { list-style: none; padding: 0; }
+	.post-list li { margin-bottom: 1.5rem; }
+	.post-list a { font-size: 1.1rem; font-weight: 600; color: var(--fg); }
+	.post-list p { color: var(--muted); margin: 0.25rem 0 0; }
+</style>
