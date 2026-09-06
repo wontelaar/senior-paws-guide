@@ -22,8 +22,10 @@ Hard rules — do not break these:
   Dog Bed {{LINK:B0BDLGZCTY:EHEYCIGA Orthopedic Extra-Large Dog Bed}}.
   Do not write markdown links or raw URLs yourself; only use this token.
 - Output GitHub-flavored Markdown for the article body only — no frontmatter,
-  no top-level title heading (the page template renders the H1 separately),
-  start directly with the introduction paragraph.
+  no top-level title heading (the page template renders the H1 separately).
+  The very first line of your output must be the first sentence of the
+  introduction paragraph itself — not a "#" heading, not a label like
+  "Article Body" or "Introduction", nothing before the actual prose.
 - Target length: 1100-1600 words in the body.
 - No keyword stuffing: use the target keyword and close variants naturally,
   not repeated mechanically.

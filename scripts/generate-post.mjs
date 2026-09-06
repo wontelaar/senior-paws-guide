@@ -47,13 +47,35 @@ function resolveLinkTokens(markdown, products, amazonTag) {
 	});
 }
 
+// The model is told not to add a leading heading (e.g. "# Article Body")
+// before the intro paragraph, but this strips one defensively in case it
+// does anyway — the layout renders its own H1, so a stray heading would
+// otherwise show up as a duplicate, oddly-placed title in the body.
+function stripLeadingHeading(markdown) {
+	const lines = markdown.split('\n');
+	let i = 0;
+	while (i < lines.length && lines[i].trim() === '') i++;
+	if (lines[i] && /^#{1,6}\s/.test(lines[i])) {
+		lines.splice(i, 1);
+		while (lines[i] !== undefined && lines[i].trim() === '') lines.splice(i, 1);
+	}
+	return lines.join('\n');
+}
+
 function deriveDescription(markdown) {
 	const firstParagraph = markdown
 		.split('\n\n')
 		.map((s) => s.trim())
 		.find((s) => s.length > 40 && !s.startsWith('#') && !s.startsWith('|'));
 	const plain = (firstParagraph || '').replace(/\{\{LINK:[^}]+\}\}/g, '').replace(/[*_#]/g, '');
-	return plain.slice(0, 155).trim();
+	if (plain.length <= 155) return plain.trim();
+	// Cut at the last sentence boundary within the limit; fall back to the
+	// last word boundary so we never truncate mid-word or mid-clause.
+	const hardCut = plain.slice(0, 155);
+	const sentenceEnd = Math.max(hardCut.lastIndexOf('. '), hardCut.lastIndexOf('? '), hardCut.lastIndexOf('! '));
+	if (sentenceEnd > 60) return hardCut.slice(0, sentenceEnd + 1).trim();
+	const wordEnd = hardCut.lastIndexOf(' ');
+	return `${hardCut.slice(0, wordEnd > 0 ? wordEnd : 155).trim()}…`;
 }
 
 function countWords(markdown) {
@@ -99,11 +121,13 @@ async function main() {
 		messages: [{ role: 'user', content: prompt }],
 	});
 
-	const rawBody = response.content
-		.filter((block) => block.type === 'text')
-		.map((block) => block.text)
-		.join('\n')
-		.trim();
+	const rawBody = stripLeadingHeading(
+		response.content
+			.filter((block) => block.type === 'text')
+			.map((block) => block.text)
+			.join('\n')
+			.trim(),
+	);
 
 	const body = resolveLinkTokens(rawBody, next.products, siteConfig.amazonAssociateTag);
 	const wordCount = countWords(rawBody);
