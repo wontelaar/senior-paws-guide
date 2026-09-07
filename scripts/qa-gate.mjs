@@ -19,12 +19,18 @@ const SIMILARITY_THRESHOLD = 0.5;
 // Phrases that would fabricate first-hand experience or credentials we
 // don't have — this is the exact pattern the plan identified as the likely
 // cause of the earlier "low value content" rejection.
+//
+// Note: bare "my dog" / "our dog" is deliberately NOT banned here — in
+// qna-structured articles the model writes FAQ headings from the reader's
+// own voice ("Can my dog eat fine from the floor?"), which is normal,
+// expected FAQ phrasing, not a fabricated authorial claim. Only patterns
+// that specifically assert first-hand author experience/credentials count.
 const BANNED_PATTERNS = [
 	/\bin my experience\b/i,
 	/\bi(?:'ve| have) (?:owned|used|tried)\b/i,
 	/\bas a (?:veterinarian|vet|dog trainer)\b/i,
-	/\bmy (?:dog|senior dog|puppy)\b/i,
-	/\bour (?:dog|senior dog|puppy)\b/i,
+	/\bmy own (?:dog|senior dog|puppy)\b/i,
+	/\bour own (?:dog|senior dog|puppy)\b/i,
 	/\bi personally\b/i,
 	/\bwe personally\b/i,
 ];

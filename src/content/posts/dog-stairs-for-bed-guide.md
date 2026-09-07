@@ -7,7 +7,7 @@ pubDate: '2026-09-06'
 structureType: narrative-guide
 topicId: dog-stairs-for-bed-guide
 tags: []
-draft: true
+draft: false
 ---
 
 ## Understanding the Challenge: Why Bed Access Matters for Senior Dogs
