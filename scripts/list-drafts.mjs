@@ -17,21 +17,33 @@ if (files.length === 0) {
 	process.exit(0);
 }
 
-let draftCount = 0;
+let unreviewedCount = 0;
+let queuedCount = 0;
 for (const file of files) {
 	const raw = await fs.readFile(path.join(POSTS_DIR, file), 'utf-8');
 	const { data } = matter(raw);
-	if (data.draft) {
-		draftCount++;
-		console.log(`DRAFT  ${file}  —  "${data.title}"`);
+	if (data.draft && data.approved) {
+		queuedCount++;
+		console.log(`QUEUED   ${file}  —  "${data.title}"  (waiting for publish-queue to release it)`);
+	} else if (data.draft) {
+		unreviewedCount++;
+		console.log(`REVIEW   ${file}  —  "${data.title}"`);
 	}
 }
 
-if (draftCount === 0) {
-	console.log('No drafts waiting — everything published has been reviewed.');
+if (unreviewedCount === 0 && queuedCount === 0) {
+	console.log('Nothing waiting — everything has been reviewed and published.');
 } else {
-	console.log(
-		`\n${draftCount} draft(s) waiting for review. Open the file, read it, then delete the ` +
-			'"draft: true" line (or set it to false) to publish.',
-	);
+	if (unreviewedCount > 0) {
+		console.log(
+			`\n${unreviewedCount} draft(s) need review. Read each one, then set "approved: true" ` +
+				'(keep draft: true) to queue it, or fix/delete it if it has a problem.',
+		);
+	}
+	if (queuedCount > 0) {
+		console.log(
+			`${queuedCount} draft(s) approved and queued — the daily publish-queue workflow releases ` +
+				'one per day automatically.',
+		);
+	}
 }

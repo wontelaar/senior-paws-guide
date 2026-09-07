@@ -10,7 +10,10 @@ site + Claude-generated content + Amazon Associates + AdSense). See
 
 - `src/content/posts/*.md` — articles. Every field is defined in
   `src/content.config.ts`. New posts are written with `draft: true` and stay
-  invisible on the site until that's removed after a human review.
+  invisible on the site until reviewed. Review sets `approved: true` (draft
+  stays true); the daily publish-queue workflow is what actually flips
+  `draft` to false, one post per day — so approving several at once doesn't
+  cause a same-day burst of new posts.
 - `data/topics.json` — the topic backlog. Only `"status": "ready"` topics
   (with real, manually-verified Amazon ASINs) get picked up by the generator.
   Never hand-write a fake ASIN here — see the comment at the top of the file.
@@ -20,9 +23,14 @@ site + Claude-generated content + Amazon Associates + AdSense). See
 - `scripts/qa-gate.mjs` — automated checks (length, product-link count,
   fabricated-experience phrases, near-duplicate content). Informational, not
   a hard blocker — every draft still needs a human read before publishing.
-- `scripts/list-drafts.mjs` — lists posts still waiting on review.
+- `scripts/list-drafts.mjs` — lists posts awaiting review vs. approved and
+  queued for publish.
+- `scripts/publish-next.mjs` — releases the single oldest `approved: true`
+  draft by flipping its `draft` field to false.
 - `.github/workflows/generate-content.yml` — runs the generator on a
   schedule (Mon/Wed/Fri by default) and commits the resulting draft.
+- `.github/workflows/publish-queue.yml` — runs `publish-next.mjs` daily and
+  commits the release.
 - `site.config.json` — the one place that holds the site name, domain, and
   Amazon Associates tag. Update this before going live.
 
@@ -35,6 +43,7 @@ site + Claude-generated content + Amazon Associates + AdSense). See
 | `npm run generate` | Generate one new draft post (needs `ANTHROPIC_API_KEY` in `.env`) |
 | `npm run qa` | Run the QA gate against all posts |
 | `npm run drafts` | List posts still waiting on review |
+| `npm run publish-next` | Release the next approved draft (normally runs via the daily workflow) |
 
 ## Before this makes any money
 

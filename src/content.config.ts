@@ -14,6 +14,12 @@ const posts = defineCollection({
 		topicId: z.string(),
 		tags: z.array(z.string()).default([]),
 		draft: z.boolean().default(false),
+		// Set by a human (or Claude, after reading the post) once it has
+		// passed review. Distinct from `draft`: this just marks "cleared to
+		// publish" — scripts/publish-next.mjs is what actually flips `draft`
+		// to false, one post per day, so approving several at once doesn't
+		// cause a same-day burst of new posts.
+		approved: z.boolean().default(false),
 	}),
 });
 

@@ -13,7 +13,8 @@
     "astro": "astro",
     "generate": "node scripts/generate-post.mjs",
     "qa": "node scripts/qa-gate.mjs",
-    "drafts": "node scripts/list-drafts.mjs"
+    "drafts": "node scripts/list-drafts.mjs",
+    "publish-next": "node scripts/publish-next.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.124.0",
