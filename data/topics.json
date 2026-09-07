@@ -194,36 +194,120 @@
     },
     {
       "id": "dog-ramps-for-car-guide",
-      "status": "needs-research",
+      "status": "ready",
       "structureType": "comparison",
       "title": "Best Dog Ramps for Cars and SUVs (Senior & Large Dogs)",
       "targetKeyword": "best dog ramp for car senior dog",
-      "products": []
+      "products": [
+        {
+          "asin": "B0016HNU12",
+          "name": "PetSafe Happy Ride Folding Pet Ramp",
+          "notes": "62-inch, lightweight, folding, side rails, high-traction surface, well-known established pet brand"
+        },
+        {
+          "asin": "B0CG2VNXWG",
+          "name": "HerCcreta wigge Car Dog Ramp (160cm)",
+          "notes": "17-inch wide, foldable, non-slip rug surface, for large dogs"
+        },
+        {
+          "asin": "B0HD6CZ2C2",
+          "name": "Extra-Wide Car Dog Ramp (183.8cm x 50.8cm)",
+          "notes": "74-inch long x 20-inch wide, foldable, for trucks/SUVs/RVs/beds, large dogs"
+        },
+        {
+          "asin": "B0D2NMKNWH",
+          "name": "PetThem Car Dog Ramp (180.3cm)",
+          "notes": "71-inch extra-long, foldable, non-slip rug surface, 250lb capacity"
+        }
+      ]
     },
     {
       "id": "senior-dog-joint-supplements-guide",
-      "status": "needs-research",
+      "status": "ready",
       "structureType": "narrative-guide",
       "title": "Joint Supplements for Senior Dogs: What to Look for Before You Buy",
       "targetKeyword": "joint supplements for senior dogs",
-      "products": [],
-      "caution": "Health/supplement content — stick to describing ingredients and manufacturer claims, avoid making medical claims ourselves, and suggest checking with a vet."
+      "caution": "Health/supplement content — stick to describing ingredients and manufacturer claims, avoid making medical claims ourselves, and suggest checking with a vet. Do not claim any supplement treats, cures, or replaces veterinary care or prescribed medication.",
+      "products": [
+        {
+          "asin": "B0GQVP23NB",
+          "name": "Nutramax Cosequin Joint Health Supplement",
+          "notes": "Glucosamine, chondroitin, and MSM chewable tablets; Cosequin is a long-established, widely vet-recommended brand"
+        },
+        {
+          "asin": "B0H73LV856",
+          "name": "Zesty Paws Mobility Bites Joint Supplement",
+          "notes": "Soft chews with glucosamine, chondroitin, and MSM plus added vitamins"
+        },
+        {
+          "asin": "B0002AYR9I",
+          "name": "Ark Naturals Sea Mobility Joint Chews",
+          "notes": "Chicken-flavored chews, 500mg glucosamine, marketed for flexibility and joint comfort"
+        },
+        {
+          "asin": "B0F22YMB5V",
+          "name": "Nutri-Vet Hip & Joint Chewable Supplement",
+          "notes": "Glucosamine and chondroitin chewable, budget-friendly option"
+        }
+      ]
     },
     {
       "id": "non-slip-flooring-senior-dogs-guide",
-      "status": "needs-research",
+      "status": "ready",
       "structureType": "qna",
       "title": "How to Stop a Senior Dog from Slipping on Hardwood Floors",
       "targetKeyword": "non slip floor solution for senior dogs",
-      "products": []
+      "products": [
+        {
+          "asin": "B0BHKN1G9C",
+          "name": "DOK TigerToes Non-Slip Dog Socks",
+          "notes": "Thick-grip traction socks for hardwood floors, protects paws, sized S-L"
+        },
+        {
+          "asin": "B0CW9RB4YR",
+          "name": "Roilpet Non-Slip Dog Socks for Senior Dogs",
+          "notes": "Double-sided grip, adjustable straps, marketed for senior dogs and post-surgery recovery, machine washable"
+        },
+        {
+          "asin": "B00GWHISI6",
+          "name": "Dr. Buzby's ToeGrips",
+          "notes": "Vet-developed rubber grips that attach to nails for instant traction on hardwood, specifically marketed for senior dogs"
+        },
+        {
+          "asin": "B0H3DX25WL",
+          "name": "OUTTDOZ Paw Grip Traction Spray",
+          "notes": "Fast-drying spray-on paw traction, no socks/boots required"
+        }
+      ]
     },
     {
       "id": "heated-dog-beds-guide",
-      "status": "needs-research",
+      "status": "ready",
       "structureType": "comparison",
       "title": "Best Heated Dog Beds for Senior Dogs with Arthritis",
       "targetKeyword": "heated dog bed for senior dogs",
-      "products": []
+      "products": [
+        {
+          "asin": "B07R81LNJH",
+          "name": "K&H Pet Bed Warmer (XL)",
+          "notes": "Waterproof heating pad insert to turn any bed into a heated bed, smart auto temperature, established pet brand"
+        },
+        {
+          "asin": "B0F9F2T8SR",
+          "name": "ZOMISIA Large Dog Heating Pad",
+          "notes": "11 temperature settings, 25 timer settings, chew-resistant cord, waterproof PVC, washable"
+        },
+        {
+          "asin": "B0GMDCJN73",
+          "name": "Heated Orthopedic Dog Bed (Medium)",
+          "notes": "Memory foam orthopedic bed with built-in heating pad, waterproof cover"
+        },
+        {
+          "asin": "B0FBKCQ3JG",
+          "name": "DEOMAN Large Pet Heating Pad",
+          "notes": "6 heat levels, auto shut-off, waterproof, chew-resistant cord, removable washable cover"
+        }
+      ]
     }
   ]
 }
