@@ -13,38 +13,15 @@ approved: true
 ---
 The rigid plastic cone has long been the standard tool for preventing dogs from licking or scratching post-surgery wounds and eye irritation, but it comes with real drawbacks—especially for senior dogs, breeds with prominent eyes, or pets prone to ear chafing from the hard edges. Soft recovery collar alternatives offer a gentler option that can reduce head-shaking discomfort while still providing effective protection. For dogs with conditions like corneal scratching (common in flat-faced and bulging-eyed breeds) or those recovering from eye procedures, choosing the right soft collar can make a meaningful difference in comfort and healing.
 
-<div class="product-gallery">
-  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0BSLRXP9G?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
-    <img src="https://m.media-amazon.com/images/I/714R-eY-T6L._AC_SL1500_.jpg" alt="Supet Inflatable Recovery Collar" loading="lazy" />
-    <span>Supet Inflatable Recovery Collar</span>
-  </a>
-  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0725C3RJX?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
-    <img src="https://m.media-amazon.com/images/I/81HwBW6OyJL._AC_SL1500_.jpg" alt="BENCMATE Inflatable Recovery Collar (Large)" loading="lazy" />
-    <span>BENCMATE Inflatable Recovery Collar (Large)</span>
-  </a>
-  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0H8SLFY7Z?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
-    <img src="https://m.media-amazon.com/images/I/81B852hNWrL._AC_SL1500_.jpg" alt="Mesh Dog Cone Collar (Soft, Breathable)" loading="lazy" />
-    <span>Mesh Dog Cone Collar (Soft, Breathable)</span>
-  </a>
-  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0C972XW2N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
-    <img src="https://m.media-amazon.com/images/I/81KrmDyJSKL._AC_SL1500_.jpg" alt="BARDIMIES Soft Donut Recovery Collar" loading="lazy" />
-    <span>BARDIMIES Soft Donut Recovery Collar</span>
-  </a>
-  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0FFSTY7V7?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
-    <img src="https://m.media-amazon.com/images/I/61Pe26uz6yL._AC_SL1500_.jpg" alt="Agape Soft Dog Cone (Small Dogs & Cats)" loading="lazy" />
-    <span>Agape Soft Dog Cone (Small Dogs & Cats)</span>
-  </a>
-</div>
-
 ## Product Comparison Table
 
 | Product | Best For | Key Feature | Notes |
 |---------|----------|------------|-------|
-| Supet Inflatable Recovery Collar <a href="https://www.amazon.com/dp/B0BSLRXP9G?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Supet Inflatable Recovery Collar</a> | Small/medium dogs and cats | Inflatable donut-style design | Lightweight alternative to plastic cones |
-| BENCMATE Inflatable Recovery Collar (Large) <a href="https://www.amazon.com/dp/B0725C3RJX?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">BENCMATE Inflatable Recovery Collar (Large)</a> | Small/medium/large dogs and cats | Soft inflatable donut collar | Covers a wider size range than single-size options |
-| Mesh Dog Cone Collar (Soft, Breathable) <a href="https://www.amazon.com/dp/B0H8SLFY7Z?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Mesh Dog Cone Collar (Soft, Breathable)</a> | Large/medium dogs | Breathable mesh with removable lining | Best if you prefer traditional cone shape but softer construction |
-| BARDIMIES Soft Donut Recovery Collar <a href="https://www.amazon.com/dp/B0C972XW2N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">BARDIMIES Soft Donut Recovery Collar</a> | Small/medium/large dogs | Adjustable soft fabric donut E-collar | One-size-fits-many approach with adjustability |
-| Agape Soft Dog Cone (Small Dogs & Cats) <a href="https://www.amazon.com/dp/B0FFSTY7V7?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Agape Soft Dog Cone (Small Dogs & Cats)</a> | Small dogs and kittens | Adjustable soft fabric cone with washable design | Sized specifically for smaller breeds |
+| Supet Inflatable Recovery Collar <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/714R-eY-T6L._AC_SL1500_.jpg" alt="Supet Inflatable Recovery Collar" loading="lazy" /><a href="https://www.amazon.com/dp/B0BSLRXP9G?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Supet Inflatable Recovery Collar</a> | Small/medium dogs and cats | Inflatable donut-style design | Lightweight alternative to plastic cones |
+| BENCMATE Inflatable Recovery Collar (Large) <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/81HwBW6OyJL._AC_SL1500_.jpg" alt="BENCMATE Inflatable Recovery Collar (Large)" loading="lazy" /><a href="https://www.amazon.com/dp/B0725C3RJX?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">BENCMATE Inflatable Recovery Collar (Large)</a> | Small/medium/large dogs and cats | Soft inflatable donut collar | Covers a wider size range than single-size options |
+| Mesh Dog Cone Collar (Soft, Breathable) <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/81B852hNWrL._AC_SL1500_.jpg" alt="Mesh Dog Cone Collar (Soft, Breathable)" loading="lazy" /><a href="https://www.amazon.com/dp/B0H8SLFY7Z?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Mesh Dog Cone Collar (Soft, Breathable)</a> | Large/medium dogs | Breathable mesh with removable lining | Best if you prefer traditional cone shape but softer construction |
+| BARDIMIES Soft Donut Recovery Collar <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/81KrmDyJSKL._AC_SL1500_.jpg" alt="BARDIMIES Soft Donut Recovery Collar" loading="lazy" /><a href="https://www.amazon.com/dp/B0C972XW2N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">BARDIMIES Soft Donut Recovery Collar</a> | Small/medium/large dogs | Adjustable soft fabric donut E-collar | One-size-fits-many approach with adjustability |
+| Agape Soft Dog Cone (Small Dogs & Cats) <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/61Pe26uz6yL._AC_SL1500_.jpg" alt="Agape Soft Dog Cone (Small Dogs & Cats)" loading="lazy" /><a href="https://www.amazon.com/dp/B0FFSTY7V7?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Agape Soft Dog Cone (Small Dogs & Cats)</a> | Small dogs and kittens | Adjustable soft fabric cone with washable design | Sized specifically for smaller breeds |
 
 ---
 
