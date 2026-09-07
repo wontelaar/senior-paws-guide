@@ -9,6 +9,7 @@ structureType: comparison
 topicId: sensitive-skin-dog-shampoo-guide
 tags: []
 draft: true
+approved: true
 ---
 Dogs with sensitive skin—especially aging or arthritic companions that struggle to groom themselves effectively—often suffer from persistent itching, bacterial or fungal infections, and inflamed patches that worsen without proper care. A medicated dog shampoo formulated for sensitive skin can break this cycle by treating the underlying cause while soothing discomfort, but the wrong choice may irritate further or fail to address the root problem. This guide compares five clinically formulated options to help you identify the best medicated shampoo for your dog's specific skin needs.
 
@@ -26,7 +27,7 @@ Dogs with sensitive skin—especially aging or arthritic companions that struggl
 
 ### Douxo S3 PYO Antimicrobial Shampoo <a href="https://www.amazon.com/dp/B0947674MT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 PYO Antimicrobial Shampoo</a>
 
-This formula combines 3% chlorhexidine with antimicrobial and antifungal properties, backed by clinical study data to demonstrate efficacy on both dogs and cats. It is well-suited for owners whose dogs show signs of secondary bacterial or fungal skin infections, particularly those with compromised skin barriers or chronic conditions. The trade-off: this is a prescription-strength product often priced higher than over-the-counter alternatives, and some owners report that frequent use may require veterinary monitoring to avoid disrupting healthy skin flora.
+This formula combines 3% chlorhexidine with antimicrobial and antifungal properties, backed by clinical study data to demonstrate efficacy on both dogs and cats. It is well-suited for owners whose dogs show signs of secondary bacterial or fungal skin infections, particularly those with compromised skin barriers or chronic conditions. The trade-off: this is a clinical-strength product (no prescription required, but formulated at a higher potency than typical pet-store shampoos) often priced higher than gentler alternatives, and some owners report that frequent use may require veterinary monitoring to avoid disrupting healthy skin flora.
 
 ### Douxo S3 Calm Shampoo <a href="https://www.amazon.com/dp/B09478KGJZ?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 Calm Shampoo</a>
 
