@@ -47,6 +47,38 @@ function resolveLinkTokens(markdown, products, amazonTag) {
 	});
 }
 
+// Real product photos, pulled from each product's actual Amazon listing
+// (see data/topics.json imageUrl fields) — not AI-generated, since a
+// generated image claiming to depict a specific real product would be
+// inaccurate. Rendered as a simple gallery right after the intro so every
+// article has visuals regardless of which prompt structure/template wrote
+// the prose (inline image placement inside arbitrary generated paragraphs
+// would be fragile to parse reliably across all three structures).
+function buildProductGallery(products, amazonTag) {
+	const items = products
+		.filter((p) => p.imageUrl)
+		.map((p) => {
+			const href = `https://www.amazon.com/dp/${p.asin}?tag=${amazonTag}`;
+			return `  <a class="product-gallery-item" href="${href}" target="_blank" rel="nofollow sponsored noopener">
+    <img src="${p.imageUrl}" alt="${p.name}" loading="lazy" />
+    <span>${p.name}</span>
+  </a>`;
+		})
+		.join('\n');
+	if (!items) return '';
+	return `<div class="product-gallery">\n${items}\n</div>`;
+}
+
+function insertAfterFirstParagraph(markdown, block) {
+	if (!block) return markdown;
+	// \r?\n\r?\n rather than a literal '\n\n' — defensive against CRLF, in
+	// case this ever runs on content that didn't come straight from the API.
+	const parts = markdown.split(/\r?\n\r?\n/);
+	const idx = parts.findIndex((p) => p.trim().length > 0);
+	parts.splice(idx === -1 ? 0 : idx + 1, 0, block);
+	return parts.join('\n\n');
+}
+
 // The model is told not to add a leading heading (e.g. "# Article Body")
 // before the intro paragraph, but this strips one defensively in case it
 // does anyway — the layout renders its own H1, so a stray heading would
@@ -64,7 +96,7 @@ function stripLeadingHeading(markdown) {
 
 function deriveDescription(markdown) {
 	const firstParagraph = markdown
-		.split('\n\n')
+		.split(/\r?\n\r?\n/)
 		.map((s) => s.trim())
 		.find((s) => s.length > 40 && !s.startsWith('#') && !s.startsWith('|'));
 	const plain = (firstParagraph || '').replace(/\{\{LINK:[^}]+\}\}/g, '').replace(/[*_#]/g, '');
@@ -129,7 +161,9 @@ async function main() {
 			.trim(),
 	);
 
-	const body = resolveLinkTokens(rawBody, next.products, siteConfig.amazonAssociateTag);
+	let body = resolveLinkTokens(rawBody, next.products, siteConfig.amazonAssociateTag);
+	const gallery = buildProductGallery(next.products, siteConfig.amazonAssociateTag);
+	body = insertAfterFirstParagraph(body, gallery);
 	const wordCount = countWords(rawBody);
 
 	const frontmatter = {

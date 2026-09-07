@@ -1,5 +1,5 @@
 {
-  "_comment": "Topic backlog for the content-generation pipeline. Only 'ready' topics have real, manually-verified Amazon ASINs (checked on Amazon.com on 2026-09-07) and should be used by scripts/generate-post.mjs. 'needs-research' topics are placeholders — verify real products on Amazon before flipping them to 'ready'. Never invent an ASIN; a fabricated one links to a wrong/nonexistent product.",
+  "_comment": "Topic backlog for the content-generation pipeline. Only 'ready' topics have real, manually-verified Amazon ASINs and imageUrls (checked on Amazon.com on 2026-09-07) and should be used by scripts/generate-post.mjs. 'needs-research' topics are placeholders — verify real products on Amazon before flipping them to 'ready'. Never invent an ASIN or imageUrl; a fabricated one links to/shows the wrong product.",
   "topics": [
     {
       "id": "orthopedic-dog-beds-senior-guide",
@@ -11,27 +11,32 @@
         {
           "asin": "B0BDLGZCTY",
           "name": "EHEYCIGA Orthopedic Extra-Large Dog Bed",
-          "notes": "44-inch XL bed, egg-crate polyurethane foam, waterproof machine-washable cover, non-slip bottom"
+          "notes": "44-inch XL bed, egg-crate polyurethane foam, waterproof machine-washable cover, non-slip bottom",
+          "imageUrl": "https://m.media-amazon.com/images/I/61E5+Tg-R9L._AC_SL1500_.jpg"
         },
         {
           "asin": "B089RGDQBB",
           "name": "Bedsure Orthopedic Dog Bed (Original)",
-          "notes": "35-inch, bolstered sides, waterproof lining, removable washable cover, non-slip bottom, marketed for senior dogs"
+          "notes": "35-inch, bolstered sides, waterproof lining, removable washable cover, non-slip bottom, marketed for senior dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LrJEODtrL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0F1CM5RHT",
           "name": "Bedsure SupportMax Extra-Thick Orthopedic XL Bed",
-          "notes": "42-inch, extra-thick supportive foam, sherpa top, 100% removable washable cover, aimed at senior/large dogs"
+          "notes": "42-inch, extra-thick supportive foam, sherpa top, 100% removable washable cover, aimed at senior/large dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/91AHg8JhtKL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0H7X73RD6",
           "name": "LE SURE RealOrtho 3-Layer Orthopedic XL Bed",
-          "notes": "42-inch, premium memory foam, marketed for joint support in older dogs, waterproof washable cover"
+          "notes": "42-inch, premium memory foam, marketed for joint support in older dogs, waterproof washable cover",
+          "imageUrl": "https://m.media-amazon.com/images/I/81aj4RpEINL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0D6DSQ78J",
           "name": "CWAWZ Cooling-Gel Orthopedic Dog Bed",
-          "notes": "42-inch XL, cooling gel memory foam, waterproof, removable washable cover"
+          "notes": "42-inch XL, cooling gel memory foam, waterproof, removable washable cover",
+          "imageUrl": "https://m.media-amazon.com/images/I/71b-4mfxoFL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -45,22 +50,26 @@
         {
           "asin": "B0FSD2GRKD",
           "name": "YENING Extra-Wide Pet Stairs for Tall Beds",
-          "notes": "3-step, extra-wide deep steps, foam ramp design for larger dogs"
+          "notes": "3-step, extra-wide deep steps, foam ramp design for larger dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71D-1hhXFrL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0FL7J4BV5",
           "name": "Miorun Extra-Wide Dog Stairs (25-inch)",
-          "notes": "5-step high-density foam, 20-inch wide, fits beds up to 30 inches tall"
+          "notes": "5-step high-density foam, 20-inch wide, fits beds up to 30 inches tall",
+          "imageUrl": "https://m.media-amazon.com/images/I/81NBvQOi7ZL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0BSCZYYTN",
           "name": "Love's Cabin Foldable Pet Stairs",
-          "notes": "3-step, foldable with storage compartment, supports up to 200 lbs, zippered cover"
+          "notes": "3-step, foldable with storage compartment, supports up to 200 lbs, zippered cover",
+          "imageUrl": "https://m.media-amazon.com/images/I/71jTDZc9NRL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0BLKN98V6",
           "name": "Aodisman 3-Step Pet Stairs for Small Dogs & Cats",
-          "notes": "15.7-inch height, curved ramp side, marketed for senior/short-legged dogs"
+          "notes": "15.7-inch height, curved ramp side, marketed for senior/short-legged dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Sk-DM-PBL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -74,22 +83,26 @@
         {
           "asin": "B0C1V9LNG1",
           "name": "COMESOON Adjustable Elevated Dog Bowl (4 Heights)",
-          "notes": "4 adjustable heights, thick stainless steel bowls (50oz), non-slip base"
+          "notes": "4 adjustable heights, thick stainless steel bowls (50oz), non-slip base",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EeQMpFkHL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0CRV41Q3Y",
           "name": "XIAZ Raised Bowl Stand for Large Breeds",
-          "notes": "5 adjustable heights, stainless steel food and water bowls, non-slip"
+          "notes": "5 adjustable heights, stainless steel food and water bowls, non-slip",
+          "imageUrl": "https://m.media-amazon.com/images/I/71rkBAgOnLL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0FFB9TT7F",
           "name": "COMESOON Elevated Feeder (5 Heights, Foldable)",
-          "notes": "5 adjustable heights (3.9-13.4in), foldable/travel-friendly, non-slip, stainless steel"
+          "notes": "5 adjustable heights (3.9-13.4in), foldable/travel-friendly, non-slip, stainless steel",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pUNnhkDGL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0BN5WV5V2",
           "name": "Niubya Stainless Steel Raised Dog Bowl Set",
-          "notes": "5 adjustable heights, two stainless bowls included"
+          "notes": "5 adjustable heights, two stainless bowls included",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RutLBQ10L._AC_SL1500_.jpg"
         }
       ]
     },
@@ -104,27 +117,32 @@
         {
           "asin": "B0BSLRXP9G",
           "name": "Supet Inflatable Recovery Collar",
-          "notes": "Inflatable donut-style collar, alternative to plastic cone, for small/medium dogs and cats"
+          "notes": "Inflatable donut-style collar, alternative to plastic cone, for small/medium dogs and cats",
+          "imageUrl": "https://m.media-amazon.com/images/I/714R-eY-T6L._AC_SL1500_.jpg"
         },
         {
           "asin": "B0725C3RJX",
           "name": "BENCMATE Inflatable Recovery Collar (Large)",
-          "notes": "Inflatable donut collar, soft, for small/medium/large dogs and cats"
+          "notes": "Inflatable donut collar, soft, for small/medium/large dogs and cats",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HwBW6OyJL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0H8SLFY7Z",
           "name": "Mesh Dog Cone Collar (Soft, Breathable)",
-          "notes": "Breathable mesh cone alternative, removable lining, for large/medium dogs"
+          "notes": "Breathable mesh cone alternative, removable lining, for large/medium dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81B852hNWrL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0C972XW2N",
           "name": "BARDIMIES Soft Donut Recovery Collar",
-          "notes": "Soft fabric donut-style E-collar alternative, adjustable, for small/medium/large dogs"
+          "notes": "Soft fabric donut-style E-collar alternative, adjustable, for small/medium/large dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81KrmDyJSKL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0FFSTY7V7",
           "name": "Agape Soft Dog Cone (Small Dogs & Cats)",
-          "notes": "Adjustable soft fabric cone, washable, sized for small dogs and kittens"
+          "notes": "Adjustable soft fabric cone, washable, sized for small dogs and kittens",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Pe26uz6yL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -138,27 +156,32 @@
         {
           "asin": "B0947674MT",
           "name": "Douxo S3 PYO Antimicrobial Shampoo",
-          "notes": "Contains chlorhexidine 3%, antimicrobial/antifungal, clinically studied, for dogs and cats"
+          "notes": "Contains chlorhexidine 3%, antimicrobial/antifungal, clinically studied, for dogs and cats",
+          "imageUrl": "https://m.media-amazon.com/images/I/61MjxCuo+JL._AC_SL1500_.jpg"
         },
         {
           "asin": "B09478KGJZ",
           "name": "Douxo S3 Calm Shampoo",
-          "notes": "Formulated to soothe itchy/irritated/allergic skin in dogs and cats"
+          "notes": "Formulated to soothe itchy/irritated/allergic skin in dogs and cats",
+          "imageUrl": "https://m.media-amazon.com/images/I/61fIkdZDoiL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0037Z6VLC",
           "name": "Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo",
-          "notes": "Medicated formula for sensitive skin, scratching, and excessive licking"
+          "notes": "Medicated formula for sensitive skin, scratching, and excessive licking",
+          "imageUrl": "https://m.media-amazon.com/images/I/61xBvr1mMGL._AC_SL1500_.jpg"
         },
         {
           "asin": "B000WT8REK",
           "name": "TropiClean Oatmeal & Tea Tree Pet Shampoo",
-          "notes": "Oatmeal-based, marketed for itchy skin relief"
+          "notes": "Oatmeal-based, marketed for itchy skin relief",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JItQEcOPL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0GV1MB64N",
           "name": "Nizoral Ketoconazole + Chlorhexidine Pet Shampoo",
-          "notes": "1% ketoconazole + 2% chlorhexidine gluconate, antifungal/antibacterial, for skin health and odor control"
+          "notes": "1% ketoconazole + 2% chlorhexidine gluconate, antifungal/antibacterial, for skin health and odor control",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RDgNBnOaL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -173,22 +196,26 @@
         {
           "asin": "B077JBYP6P",
           "name": "Greenies Pill Pockets (Chicken & Hickory Smoke)",
-          "notes": "Soft treat with a pocket to hide a pill inside, chicken/hickory smoke flavor"
+          "notes": "Soft treat with a pocket to hide a pill inside, chicken/hickory smoke flavor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-9yTpp9AL._AC_SL1001_.jpg"
         },
         {
           "asin": "B0GT6P7QXJ",
           "name": "Milk-Bone Pill Pouches (Hickory Smoked Bacon)",
-          "notes": "Soft pouch-style treat for hiding pills, bacon flavor"
+          "notes": "Soft pouch-style treat for hiding pills, bacon flavor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81aJAhpwoKL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0GGM9PM49",
           "name": "Pet MD Wrap-A-Pill Paste (Peanut Butter)",
-          "notes": "Moldable paste/putty that can be shaped around a pill or capsule, peanut butter flavor, ~59 servings per package"
+          "notes": "Moldable paste/putty that can be shaped around a pill or capsule, peanut butter flavor, ~59 servings per package",
+          "imageUrl": "https://m.media-amazon.com/images/I/41FRoilfSgL._AC_SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
           "asin": "B0G4SJXRPG",
           "name": "Zoe Zoë Pill Pops (Roasted Chicken & Rosemary)",
-          "notes": "Natural-ingredient soft treat for hiding medication, chicken/rosemary flavor"
+          "notes": "Natural-ingredient soft treat for hiding medication, chicken/rosemary flavor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LhK0BRX-L._AC_SL1500_.jpg"
         }
       ]
     },
@@ -202,22 +229,26 @@
         {
           "asin": "B0016HNU12",
           "name": "PetSafe Happy Ride Folding Pet Ramp",
-          "notes": "62-inch, lightweight, folding, side rails, high-traction surface, well-known established pet brand"
+          "notes": "62-inch, lightweight, folding, side rails, high-traction surface, well-known established pet brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/61jJ0Mw2neL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0CG2VNXWG",
           "name": "HerCcreta wigge Car Dog Ramp (160cm)",
-          "notes": "17-inch wide, foldable, non-slip rug surface, for large dogs"
+          "notes": "17-inch wide, foldable, non-slip rug surface, for large dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/91qjXOkfBuL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0HD6CZ2C2",
           "name": "Extra-Wide Car Dog Ramp (183.8cm x 50.8cm)",
-          "notes": "74-inch long x 20-inch wide, foldable, for trucks/SUVs/RVs/beds, large dogs"
+          "notes": "74-inch long x 20-inch wide, foldable, for trucks/SUVs/RVs/beds, large dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81p+3WhHH3L._AC_SL1500_.jpg"
         },
         {
           "asin": "B0D2NMKNWH",
           "name": "PetThem Car Dog Ramp (180.3cm)",
-          "notes": "71-inch extra-long, foldable, non-slip rug surface, 250lb capacity"
+          "notes": "71-inch extra-long, foldable, non-slip rug surface, 250lb capacity",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FfmAXH40L._AC_SL1500_.jpg"
         }
       ]
     },
@@ -232,22 +263,26 @@
         {
           "asin": "B0GQVP23NB",
           "name": "Nutramax Cosequin Joint Health Supplement",
-          "notes": "Glucosamine, chondroitin, and MSM chewable tablets; Cosequin is a long-established, widely vet-recommended brand"
+          "notes": "Glucosamine, chondroitin, and MSM chewable tablets; Cosequin is a long-established, widely vet-recommended brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/8131u8rgseL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0H73LV856",
           "name": "Zesty Paws Mobility Bites Joint Supplement",
-          "notes": "Soft chews with glucosamine, chondroitin, and MSM plus added vitamins"
+          "notes": "Soft chews with glucosamine, chondroitin, and MSM plus added vitamins",
+          "imageUrl": "https://m.media-amazon.com/images/I/81eVok71NhL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0002AYR9I",
           "name": "Ark Naturals Sea Mobility Joint Chews",
-          "notes": "Chicken-flavored chews, 500mg glucosamine, marketed for flexibility and joint comfort"
+          "notes": "Chicken-flavored chews, 500mg glucosamine, marketed for flexibility and joint comfort",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TQLtnB+yL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0F22YMB5V",
           "name": "Nutri-Vet Hip & Joint Chewable Supplement",
-          "notes": "Glucosamine and chondroitin chewable, budget-friendly option"
+          "notes": "Glucosamine and chondroitin chewable, budget-friendly option",
+          "imageUrl": "https://m.media-amazon.com/images/I/816zFcTplTL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -261,22 +296,26 @@
         {
           "asin": "B0BHKN1G9C",
           "name": "DOK TigerToes Non-Slip Dog Socks",
-          "notes": "Thick-grip traction socks for hardwood floors, protects paws, sized S-L"
+          "notes": "Thick-grip traction socks for hardwood floors, protects paws, sized S-L",
+          "imageUrl": "https://m.media-amazon.com/images/I/817ncfpteiL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0CW9RB4YR",
           "name": "Roilpet Non-Slip Dog Socks for Senior Dogs",
-          "notes": "Double-sided grip, adjustable straps, marketed for senior dogs and post-surgery recovery, machine washable"
+          "notes": "Double-sided grip, adjustable straps, marketed for senior dogs and post-surgery recovery, machine washable",
+          "imageUrl": "https://m.media-amazon.com/images/I/71w1+O-nphL._AC_SL1500_.jpg"
         },
         {
           "asin": "B00GWHISI6",
           "name": "Dr. Buzby's ToeGrips",
-          "notes": "Vet-developed rubber grips that attach to nails for instant traction on hardwood, specifically marketed for senior dogs"
+          "notes": "Vet-developed rubber grips that attach to nails for instant traction on hardwood, specifically marketed for senior dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81-qNjkoBqL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0H3DX25WL",
           "name": "OUTTDOZ Paw Grip Traction Spray",
-          "notes": "Fast-drying spray-on paw traction, no socks/boots required"
+          "notes": "Fast-drying spray-on paw traction, no socks/boots required",
+          "imageUrl": "https://m.media-amazon.com/images/I/81uXIFKrFRL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -290,22 +329,26 @@
         {
           "asin": "B07R81LNJH",
           "name": "K&H Pet Bed Warmer (XL)",
-          "notes": "Waterproof heating pad insert to turn any bed into a heated bed, smart auto temperature, established pet brand"
+          "notes": "Waterproof heating pad insert to turn any bed into a heated bed, smart auto temperature, established pet brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pTz5ZNenL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0F9F2T8SR",
           "name": "ZOMISIA Large Dog Heating Pad",
-          "notes": "11 temperature settings, 25 timer settings, chew-resistant cord, waterproof PVC, washable"
+          "notes": "11 temperature settings, 25 timer settings, chew-resistant cord, waterproof PVC, washable",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ccEi18qSL._AC_SL1500_.jpg"
         },
         {
           "asin": "B0GMDCJN73",
           "name": "Heated Orthopedic Dog Bed (Medium)",
-          "notes": "Memory foam orthopedic bed with built-in heating pad, waterproof cover"
+          "notes": "Memory foam orthopedic bed with built-in heating pad, waterproof cover",
+          "imageUrl": "https://m.media-amazon.com/images/I/61WVefd99GL._AC_SL1446_.jpg"
         },
         {
           "asin": "B0FBKCQ3JG",
           "name": "DEOMAN Large Pet Heating Pad",
-          "notes": "6 heat levels, auto shut-off, waterproof, chew-resistant cord, removable washable cover"
+          "notes": "6 heat levels, auto shut-off, waterproof, chew-resistant cord, removable washable cover",
+          "imageUrl": "https://m.media-amazon.com/images/I/51bTqhApG1L._AC_SL1200_.jpg"
         }
       ]
     }

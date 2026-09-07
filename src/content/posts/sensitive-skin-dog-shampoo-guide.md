@@ -13,6 +13,29 @@ approved: true
 ---
 Dogs with sensitive skin—especially aging or arthritic companions that struggle to groom themselves effectively—often suffer from persistent itching, bacterial or fungal infections, and inflamed patches that worsen without proper care. A medicated dog shampoo formulated for sensitive skin can break this cycle by treating the underlying cause while soothing discomfort, but the wrong choice may irritate further or fail to address the root problem. This guide compares five clinically formulated options to help you identify the best medicated shampoo for your dog's specific skin needs.
 
+<div class="product-gallery">
+  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0947674MT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
+    <img src="https://m.media-amazon.com/images/I/61MjxCuo+JL._AC_SL1500_.jpg" alt="Douxo S3 PYO Antimicrobial Shampoo" loading="lazy" />
+    <span>Douxo S3 PYO Antimicrobial Shampoo</span>
+  </a>
+  <a class="product-gallery-item" href="https://www.amazon.com/dp/B09478KGJZ?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
+    <img src="https://m.media-amazon.com/images/I/61fIkdZDoiL._AC_SL1500_.jpg" alt="Douxo S3 Calm Shampoo" loading="lazy" />
+    <span>Douxo S3 Calm Shampoo</span>
+  </a>
+  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0037Z6VLC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
+    <img src="https://m.media-amazon.com/images/I/61xBvr1mMGL._AC_SL1500_.jpg" alt="Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo" loading="lazy" />
+    <span>Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo</span>
+  </a>
+  <a class="product-gallery-item" href="https://www.amazon.com/dp/B000WT8REK?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
+    <img src="https://m.media-amazon.com/images/I/81JItQEcOPL._AC_SL1500_.jpg" alt="TropiClean Oatmeal & Tea Tree Pet Shampoo" loading="lazy" />
+    <span>TropiClean Oatmeal & Tea Tree Pet Shampoo</span>
+  </a>
+  <a class="product-gallery-item" href="https://www.amazon.com/dp/B0GV1MB64N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">
+    <img src="https://m.media-amazon.com/images/I/71RDgNBnOaL._AC_SL1500_.jpg" alt="Nizoral Ketoconazole + Chlorhexidine Pet Shampoo" loading="lazy" />
+    <span>Nizoral Ketoconazole + Chlorhexidine Pet Shampoo</span>
+  </a>
+</div>
+
 ## Product Comparison Table
 
 | Product | Best For | Key Feature | Notes |
