@@ -47,61 +47,17 @@ function resolveLinkTokens(markdown, products, amazonTag) {
 	});
 }
 
-// Real product photos, pulled from each product's actual Amazon listing
-// (see data/topics.json imageUrl fields) — not AI-generated, since a
-// generated image claiming to depict a specific real product would be
-// inaccurate. Inserted right before each product's FIRST link occurrence
-// in the body — inside a comparison-table cell, a "### Product Name"
-// heading, or an inline prose mention — so photos sit next to the text
-// that's talking about that product instead of all being dumped at the
-// top. Only the first mention gets a thumbnail; later repeat mentions of
-// the same product stay plain text.
-//
-// Floated (large) thumbnails look good when a paragraph discusses one
-// product at a time (narrative-guide articles are usually written this
-// way). But qna-style answers sometimes mention 2-3 products in the same
-// paragraph, and floating several large images side by side there crams
-// the text into a narrow column. So: paragraphs with exactly one
-// first-mention get the large floated photo; paragraphs with more than
-// one get a smaller, non-floating inline photo instead.
-function injectInlineThumbnails(markdown, products) {
-	const byAsin = new Map(products.filter((p) => p.imageUrl).map((p) => [p.asin, p]));
-	if (byAsin.size === 0) return markdown;
-
-	const linkRe = /<a href="https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})\?[^"]*"[^>]*>/g;
-	const seen = new Set();
-	const paragraphs = markdown.split(/\r?\n\r?\n/);
-
-	for (const para of paragraphs) {
-		const firstMentionsHere = [];
-		for (const match of para.matchAll(linkRe)) {
-			const asin = match[1];
-			if (seen.has(asin) || !byAsin.has(asin)) continue;
-			seen.add(asin);
-			firstMentionsHere.push(asin);
-		}
-		if (firstMentionsHere.length === 0) continue;
-		const thumbClass = firstMentionsHere.length === 1 ? 'product-inline-thumb' : 'product-inline-thumb-sm';
-		for (const asin of firstMentionsHere) {
-			const p = byAsin.get(asin);
-			markdown = markdown.replace(
-				new RegExp(`<a href="https://www\\.amazon\\.com/dp/${asin}\\?[^"]*"[^>]*>`),
-				(m) => `<img class="${thumbClass}" src="${p.imageUrl}" alt="${p.name}" loading="lazy" />${m}`,
-			);
-		}
-	}
-	return markdown;
-}
-
 function escapeHtml(str) {
 	return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 // Boxed "pick card" (image + name + short blurb + CTA button), the
 // review-roundup pattern sites like Wirecutter use — image on the left,
-// a clear buy button on the right, instead of a bare text link. Used for
-// 'comparison'-structured articles, where every product already gets its
-// own "### Product Name" heading to anchor the card to.
+// a clear buy button on the right, instead of a bare text link. Real
+// product photos only (pulled from each product's actual Amazon listing,
+// see data/topics.json imageUrl fields) — never AI-generated, since a
+// generated image claiming to depict a specific real product would be
+// inaccurate.
 function buildProductCard(product, amazonTag) {
 	const href = `https://www.amazon.com/dp/${product.asin}?tag=${amazonTag}`;
 	const notes = product.notes ? `<p class="product-card-notes">${escapeHtml(product.notes)}</p>` : '';
@@ -137,6 +93,33 @@ function injectProductCardsAfterHeadings(markdown, products, amazonTag) {
 		result = parts.join('\n\n');
 	}
 	return result;
+}
+
+// Same pick card, but for narrative-guide/qna articles, which don't have
+// a "### Product Name" heading per product — instead, insert a card
+// right after whichever paragraph first mentions each product. If a
+// paragraph introduces more than one product (common in qna answers),
+// their cards stack one after another rather than cramming several
+// inline images into that one paragraph.
+function injectProductCardsAfterParagraphs(markdown, products, amazonTag) {
+	const byAsin = new Map(products.filter((p) => p.imageUrl).map((p) => [p.asin, p]));
+	if (byAsin.size === 0) return markdown;
+
+	const linkRe = /<a href="https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})\?[^"]*"[^>]*>/g;
+	const seen = new Set();
+	const paragraphs = markdown.split(/\r?\n\r?\n/);
+	const out = [];
+
+	for (const para of paragraphs) {
+		out.push(para);
+		for (const match of para.matchAll(linkRe)) {
+			const asin = match[1];
+			if (seen.has(asin) || !byAsin.has(asin)) continue;
+			seen.add(asin);
+			out.push(buildProductCard(byAsin.get(asin), amazonTag));
+		}
+	}
+	return out.join('\n\n');
 }
 
 // The model is told not to add a leading heading (e.g. "# Article Body")
@@ -225,7 +208,7 @@ async function main() {
 	body =
 		next.structureType === 'comparison'
 			? injectProductCardsAfterHeadings(body, next.products, siteConfig.amazonAssociateTag)
-			: injectInlineThumbnails(body, next.products);
+			: injectProductCardsAfterParagraphs(body, next.products, siteConfig.amazonAssociateTag);
 	const wordCount = countWords(rawBody);
 
 	const frontmatter = {

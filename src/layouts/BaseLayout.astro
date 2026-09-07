@@ -116,51 +116,12 @@ const siteName = siteConfig.siteName;
 			th, td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; }
 			th { background: color-mix(in srgb, var(--accent) 12%, transparent); }
 
-			/* Product photo shown right before a product's first link mention
-			   — inside a table cell, a heading, or prose — so images sit next
-			   to the text discussing that product instead of being grouped
-			   separately. Floated so it reads as a real product photo (not a
-			   tiny icon) with text wrapping beside it, Wirecutter-style. */
-			.product-inline-thumb {
-				float: left;
-				width: 160px;
-				height: 160px;
-				object-fit: contain;
-				margin: 0 1rem 0.5rem 0;
-				padding: 6px;
-				border: 1px solid var(--border);
-				border-radius: 8px;
-				background: #fff;
-			}
-			/* Inside a table cell there isn't room to float and wrap text
-			   sensibly, so keep it smaller and inline there instead. */
-			td .product-inline-thumb {
-				float: none;
-				width: 72px;
-				height: 72px;
-				vertical-align: middle;
-				margin: 0 0.5rem 0 0;
-			}
-			/* Used instead of .product-inline-thumb when a paragraph mentions
-			   more than one product — floating several large photos side by
-			   side there would squeeze the text into a narrow column, so
-			   these stay small and flow inline with the text instead. */
-			.product-inline-thumb-sm {
-				width: 72px;
-				height: 72px;
-				object-fit: contain;
-				vertical-align: middle;
-				margin: 0 0.4rem 0.3rem 0;
-				padding: 4px;
-				border: 1px solid var(--border);
-				border-radius: 6px;
-				background: #fff;
-			}
-
 			/* "Pick card" — boxed product callout (image + name + blurb + CTA
-			   button) used in comparison-style articles, one per product
-			   right after its "### Product Name" heading. Modeled on the
-			   review-roundup pattern (Wirecutter-style pick boxes). */
+			   button), one per product, inserted right after its "###
+			   Product Name" heading (comparison articles) or right after the
+			   paragraph that first mentions it (narrative-guide/qna).
+			   Modeled on the review-roundup pattern (Wirecutter-style pick
+			   boxes). */
 			.product-card {
 				display: flex;
 				gap: 1.1rem;

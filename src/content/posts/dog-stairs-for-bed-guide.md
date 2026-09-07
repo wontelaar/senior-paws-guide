@@ -22,11 +22,38 @@ Pet stairs work by breaking the full bed height into smaller, manageable increme
 
 The appeal of stairs for older dogs is biomechanical: each step is a controlled movement, and dogs can rest between steps if needed. For dogs with significant arthritis, this is often gentler than asking them to leap from one surface to another. However, stairs take up floor space, and they require your dog to actually climb—which can still be challenging for dogs with severe mobility issues or those recovering from joint surgery.
 
-When evaluating stairs, width matters significantly. A narrow staircase forces a senior dog to position their paws precisely, which requires more balance and coordination than a wider option. The **Miorun Extra-Wide Dog Stairs (25-inch)** <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/81NBvQOi7ZL._AC_SL1500_.jpg" alt="Miorun Extra-Wide Dog Stairs (25-inch)" loading="lazy" /><a href="https://www.amazon.com/dp/B0FL7J4BV5?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Miorun Extra-Wide Dog Stairs (25-inch)</a> exemplifies this design philosophy. With its 20-inch width and five high-density foam steps, it provides multiple smaller increments to a bed up to 30 inches tall—useful if you have a platform bed or tall mattress. The extra width gives a dog more stability on each step, and the five-step design means each individual step is lower than a three-step model would require.
+When evaluating stairs, width matters significantly. A narrow staircase forces a senior dog to position their paws precisely, which requires more balance and coordination than a wider option. The **Miorun Extra-Wide Dog Stairs (25-inch)** <a href="https://www.amazon.com/dp/B0FL7J4BV5?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Miorun Extra-Wide Dog Stairs (25-inch)</a> exemplifies this design philosophy. With its 20-inch width and five high-density foam steps, it provides multiple smaller increments to a bed up to 30 inches tall—useful if you have a platform bed or tall mattress. The extra width gives a dog more stability on each step, and the five-step design means each individual step is lower than a three-step model would require.
 
-For those with a standard-height bed (typically 18–22 inches), a three-step stair can be sufficient if the steps themselves are deep enough. The **YENING Extra-Wide Pet Stairs for Tall Beds** <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/71D-1hhXFrL._AC_SL1500_.jpg" alt="YENING Extra-Wide Pet Stairs for Tall Beds" loading="lazy" /><a href="https://www.amazon.com/dp/B0FSD2GRKD?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">YENING Extra-Wide Pet Stairs for Tall Beds</a> uses a foam ramp design across its three steps and is marketed specifically for larger dogs. The emphasis on extra-wide deep steps suggests it's aimed at dogs who need more surface area to stand comfortably, which can be helpful for senior dogs whose hind legs may not have their old range of motion.
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/81NBvQOi7ZL._AC_SL1500_.jpg" alt="Miorun Extra-Wide Dog Stairs (25-inch)" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Miorun Extra-Wide Dog Stairs (25-inch)</div>
+    <p class="product-card-notes">5-step high-density foam, 20-inch wide, fits beds up to 30 inches tall</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0FL7J4BV5?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
-A middle-ground option is the **Love's Cabin Foldable Pet Stairs** <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/71jTDZc9NRL._AC_SL1500_.jpg" alt="Love's Cabin Foldable Pet Stairs" loading="lazy" /><a href="https://www.amazon.com/dp/B0BSCZYYTN?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Love's Cabin Foldable Pet Stairs</a>, which provides three steps with a practical twist: it folds for storage and includes a zippered cover. With a 200-pound weight capacity, it's built sturdy enough for larger senior dogs. The foldability makes it useful if you need to move the stairs between rooms or store them away, though a foldable design may not be as rigid as a fixed staircase during use.
+For those with a standard-height bed (typically 18–22 inches), a three-step stair can be sufficient if the steps themselves are deep enough. The **YENING Extra-Wide Pet Stairs for Tall Beds** <a href="https://www.amazon.com/dp/B0FSD2GRKD?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">YENING Extra-Wide Pet Stairs for Tall Beds</a> uses a foam ramp design across its three steps and is marketed specifically for larger dogs. The emphasis on extra-wide deep steps suggests it's aimed at dogs who need more surface area to stand comfortably, which can be helpful for senior dogs whose hind legs may not have their old range of motion.
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/71D-1hhXFrL._AC_SL1500_.jpg" alt="YENING Extra-Wide Pet Stairs for Tall Beds" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">YENING Extra-Wide Pet Stairs for Tall Beds</div>
+    <p class="product-card-notes">3-step, extra-wide deep steps, foam ramp design for larger dogs</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0FSD2GRKD?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
+
+A middle-ground option is the **Love's Cabin Foldable Pet Stairs** <a href="https://www.amazon.com/dp/B0BSCZYYTN?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Love's Cabin Foldable Pet Stairs</a>, which provides three steps with a practical twist: it folds for storage and includes a zippered cover. With a 200-pound weight capacity, it's built sturdy enough for larger senior dogs. The foldability makes it useful if you need to move the stairs between rooms or store them away, though a foldable design may not be as rigid as a fixed staircase during use.
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/71jTDZc9NRL._AC_SL1500_.jpg" alt="Love's Cabin Foldable Pet Stairs" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Love's Cabin Foldable Pet Stairs</div>
+    <p class="product-card-notes">3-step, foldable with storage compartment, supports up to 200 lbs, zippered cover</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0BSCZYYTN?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
 ## Approach 2: Ramps—The Inclined Alternative
 
@@ -36,7 +63,16 @@ The tradeoff is that ramps require your dog to use their hind legs continuously 
 
 Ramps often feature textured or cushioned surfaces to prevent slipping—critical since a senior dog can't afford a fall. Some ramps are curved or have a transition section where the ramp meets the bed, easing the final step up.
 
-The **Aodisman 3-Step Pet Stairs for Small Dogs & Cats** <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/71Sk-DM-PBL._AC_SL1500_.jpg" alt="Aodisman 3-Step Pet Stairs for Small Dogs & Cats" loading="lazy" /><a href="https://www.amazon.com/dp/B0BLKN98V6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Aodisman 3-Step Pet Stairs for Small Dogs & Cats</a>, despite its name, includes a curved ramp side, making it a hybrid solution. At 15.7 inches in height and specifically marketed for senior and short-legged dogs, it's designed for dogs who may struggle with tall steps. The curved ramp component provides that gentler inclined surface while still offering the structure of steps, making it a useful middle-ground option for dogs that might find traditional stairs too steep.
+The **Aodisman 3-Step Pet Stairs for Small Dogs & Cats** <a href="https://www.amazon.com/dp/B0BLKN98V6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Aodisman 3-Step Pet Stairs for Small Dogs & Cats</a>, despite its name, includes a curved ramp side, making it a hybrid solution. At 15.7 inches in height and specifically marketed for senior and short-legged dogs, it's designed for dogs who may struggle with tall steps. The curved ramp component provides that gentler inclined surface while still offering the structure of steps, making it a useful middle-ground option for dogs that might find traditional stairs too steep.
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/71Sk-DM-PBL._AC_SL1500_.jpg" alt="Aodisman 3-Step Pet Stairs for Small Dogs &amp; Cats" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Aodisman 3-Step Pet Stairs for Small Dogs &amp; Cats</div>
+    <p class="product-card-notes">15.7-inch height, curved ramp side, marketed for senior/short-legged dogs</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0BLKN98V6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
 The practical reality is that ramps suit some senior dogs better than stairs and vice versa. A dog with hip dysplasia might do better with stairs (which require less continuous hind-leg pushing), while a dog with knee osteoarthritis might find a ramp's gradual incline more tolerable because the movement pattern feels more natural.
 
