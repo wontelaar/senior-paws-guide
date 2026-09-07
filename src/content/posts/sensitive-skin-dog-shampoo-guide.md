@@ -17,31 +17,76 @@ Dogs with sensitive skin—especially aging or arthritic companions that struggl
 
 | Product | Best For | Key Feature | Notes |
 |---------|----------|-------------|-------|
-| Douxo S3 PYO <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/61MjxCuo+JL._AC_SL1500_.jpg" alt="Douxo S3 PYO Antimicrobial Shampoo" loading="lazy" /><a href="https://www.amazon.com/dp/B0947674MT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 PYO Antimicrobial Shampoo</a> | Bacterial/fungal infections | 3% chlorhexidine, clinically studied | Works on dogs and cats; strong antimicrobial profile |
-| Douxo S3 Calm <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/61fIkdZDoiL._AC_SL1500_.jpg" alt="Douxo S3 Calm Shampoo" loading="lazy" /><a href="https://www.amazon.com/dp/B09478KGJZ?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 Calm Shampoo</a> | Itchy, allergic skin | Soothing formula | Targets irritation and allergy-related scratching |
-| Veterinary Formula Clinical Care <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/61xBvr1mMGL._AC_SL1500_.jpg" alt="Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo" loading="lazy" /><a href="https://www.amazon.com/dp/B0037Z6VLC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo</a> | Hot spots and excessive scratching | Medicated relief for sensitive skin | Budget-friendly clinical option |
-| TropiClean Oatmeal & Tea Tree <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/81JItQEcOPL._AC_SL1500_.jpg" alt="TropiClean Oatmeal & Tea Tree Pet Shampoo" loading="lazy" /><a href="https://www.amazon.com/dp/B000WT8REK?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">TropiClean Oatmeal & Tea Tree Pet Shampoo</a> | Mild itching and natural care | Oatmeal-based soothing | Natural approach; less potent than prescription alternatives |
-| Nizoral Ketoconazole + Chlorhexidine <img class="product-inline-thumb" src="https://m.media-amazon.com/images/I/71RDgNBnOaL._AC_SL1500_.jpg" alt="Nizoral Ketoconazole + Chlorhexidine Pet Shampoo" loading="lazy" /><a href="https://www.amazon.com/dp/B0GV1MB64N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Nizoral Ketoconazole + Chlorhexidine Pet Shampoo</a> | Fungal and bacterial issues with odor | Dual-action 1% ketoconazole + 2% chlorhexidine | Targets multiple skin conditions simultaneously |
+| Douxo S3 PYO <a href="https://www.amazon.com/dp/B0947674MT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 PYO Antimicrobial Shampoo</a> | Bacterial/fungal infections | 3% chlorhexidine, clinically studied | Works on dogs and cats; strong antimicrobial profile |
+| Douxo S3 Calm <a href="https://www.amazon.com/dp/B09478KGJZ?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 Calm Shampoo</a> | Itchy, allergic skin | Soothing formula | Targets irritation and allergy-related scratching |
+| Veterinary Formula Clinical Care <a href="https://www.amazon.com/dp/B0037Z6VLC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo</a> | Hot spots and excessive scratching | Medicated relief for sensitive skin | Budget-friendly clinical option |
+| TropiClean Oatmeal & Tea Tree <a href="https://www.amazon.com/dp/B000WT8REK?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">TropiClean Oatmeal & Tea Tree Pet Shampoo</a> | Mild itching and natural care | Oatmeal-based soothing | Natural approach; less potent than prescription alternatives |
+| Nizoral Ketoconazole + Chlorhexidine <a href="https://www.amazon.com/dp/B0GV1MB64N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Nizoral Ketoconazole + Chlorhexidine Pet Shampoo</a> | Fungal and bacterial issues with odor | Dual-action 1% ketoconazole + 2% chlorhexidine | Targets multiple skin conditions simultaneously |
 
 ## Product Reviews
 
 ### Douxo S3 PYO Antimicrobial Shampoo <a href="https://www.amazon.com/dp/B0947674MT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 PYO Antimicrobial Shampoo</a>
 
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/61MjxCuo+JL._AC_SL1500_.jpg" alt="Douxo S3 PYO Antimicrobial Shampoo" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Douxo S3 PYO Antimicrobial Shampoo</div>
+    <p class="product-card-notes">Contains chlorhexidine 3%, antimicrobial/antifungal, clinically studied, for dogs and cats</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0947674MT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
+
 This formula combines 3% chlorhexidine with antimicrobial and antifungal properties, backed by clinical study data to demonstrate efficacy on both dogs and cats. It is well-suited for owners whose dogs show signs of secondary bacterial or fungal skin infections, particularly those with compromised skin barriers or chronic conditions. The trade-off: this is a clinical-strength product (no prescription required, but formulated at a higher potency than typical pet-store shampoos) often priced higher than gentler alternatives, and some owners report that frequent use may require veterinary monitoring to avoid disrupting healthy skin flora.
 
 ### Douxo S3 Calm Shampoo <a href="https://www.amazon.com/dp/B09478KGJZ?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Douxo S3 Calm Shampoo</a>
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/61fIkdZDoiL._AC_SL1500_.jpg" alt="Douxo S3 Calm Shampoo" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Douxo S3 Calm Shampoo</div>
+    <p class="product-card-notes">Formulated to soothe itchy/irritated/allergic skin in dogs and cats</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B09478KGJZ?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
 Formulated to address itchy, irritated, and allergy-prone skin in dogs and cats, this option targets the soothing rather than antimicrobial side of the medicated spectrum. It is ideal for dogs whose primary issue is allergic dermatitis or environmental sensitivity rather than active infection. However, if the underlying cause is bacterial or fungal overgrowth, this shampoo alone may not resolve the problem—it works best alongside veterinary treatment or as a maintenance product after infection is cleared.
 
 ### Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo <a href="https://www.amazon.com/dp/B0037Z6VLC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Veterinary Formula Clinical Care Hot Spot & Itch Relief Shampoo</a>
 
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/61xBvr1mMGL._AC_SL1500_.jpg" alt="Veterinary Formula Clinical Care Hot Spot &amp; Itch Relief Shampoo" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Veterinary Formula Clinical Care Hot Spot &amp; Itch Relief Shampoo</div>
+    <p class="product-card-notes">Medicated formula for sensitive skin, scratching, and excessive licking</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0037Z6VLC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
+
 This medicated formula addresses hot spots, scratching, and licking behaviors on sensitive skin and represents a middle ground between natural and clinical-strength options in terms of cost. It appeals to budget-conscious owners seeking veterinary-grade care without the premium price tag. The limitation is that it lacks the specific antimicrobial agents (like ketoconazole or high-dose chlorhexidine) of stronger formulas, making it better suited for mild to moderate irritation rather than confirmed infections.
 
 ### TropiClean Oatmeal & Tea Tree Pet Shampoo <a href="https://www.amazon.com/dp/B000WT8REK?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">TropiClean Oatmeal & Tea Tree Pet Shampoo</a>
 
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/81JItQEcOPL._AC_SL1500_.jpg" alt="TropiClean Oatmeal &amp; Tea Tree Pet Shampoo" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">TropiClean Oatmeal &amp; Tea Tree Pet Shampoo</div>
+    <p class="product-card-notes">Oatmeal-based, marketed for itchy skin relief</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B000WT8REK?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
+
 Built around oatmeal's natural soothing properties and marketed for itchy skin relief, this shampoo appeals to owners seeking a gentler, less pharmaceutical approach. It works well for dogs with mild itching or those transitioning to maintenance care after medicated treatment. The caveat is that oatmeal-based formulas lack the clinical antimicrobial or antifungal agents in other options on this list, so they are not suitable as a primary treatment for diagnosed infections or severe dermatitis.
 
 ### Nizoral Ketoconazole + Chlorhexidine Pet Shampoo <a href="https://www.amazon.com/dp/B0GV1MB64N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Nizoral Ketoconazole + Chlorhexidine Pet Shampoo</a>
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/71RDgNBnOaL._AC_SL1500_.jpg" alt="Nizoral Ketoconazole + Chlorhexidine Pet Shampoo" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Nizoral Ketoconazole + Chlorhexidine Pet Shampoo</div>
+    <p class="product-card-notes">1% ketoconazole + 2% chlorhexidine gluconate, antifungal/antibacterial, for skin health and odor control</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0GV1MB64N?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
 This dual-action formula combines 1% ketoconazole with 2% chlorhexidine gluconate to address both fungal and bacterial skin issues while controlling odor—a useful feature for older dogs or those prone to secondary yeast overgrowth. It is particularly effective for owners dealing with mixed-cause skin problems or stubborn odor alongside itching. The practical consideration: dual-agent formulas are powerful tools but may be overly strong for purely allergic (non-infectious) dermatitis, and should typically be used under veterinary guidance to avoid overtreatment.
 

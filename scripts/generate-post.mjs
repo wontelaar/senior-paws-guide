@@ -70,6 +70,52 @@ function injectInlineThumbnails(markdown, products) {
 	return result;
 }
 
+function escapeHtml(str) {
+	return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// Boxed "pick card" (image + name + short blurb + CTA button), the
+// review-roundup pattern sites like Wirecutter use — image on the left,
+// a clear buy button on the right, instead of a bare text link. Used for
+// 'comparison'-structured articles, where every product already gets its
+// own "### Product Name" heading to anchor the card to.
+function buildProductCard(product, amazonTag) {
+	const href = `https://www.amazon.com/dp/${product.asin}?tag=${amazonTag}`;
+	const notes = product.notes ? `<p class="product-card-notes">${escapeHtml(product.notes)}</p>` : '';
+	return `<div class="product-card">
+  <img src="${product.imageUrl}" alt="${escapeHtml(product.name)}" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">${escapeHtml(product.name)}</div>
+    ${notes}
+    <a class="product-card-cta" href="${href}" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>`;
+}
+
+function injectProductCardsAfterHeadings(markdown, products, amazonTag) {
+	let result = markdown;
+	for (const p of products) {
+		if (!p.imageUrl) continue;
+		const card = buildProductCard(p, amazonTag);
+		const linkPattern = new RegExp(`<a href="https://www\\.amazon\\.com/dp/${p.asin}\\?[^"]*"[^>]*>`);
+		const headingPattern = new RegExp(`(^###[^\\n]*${linkPattern.source}[^\\n]*)$`, 'm');
+		const headingMatch = result.match(headingPattern);
+		if (headingMatch) {
+			result = result.replace(headingPattern, `${headingMatch[1]}\n\n${card}`);
+			continue;
+		}
+		// Fallback: the "### heading" is plain text and the link only shows
+		// up in the paragraph below it (as written by hand rather than
+		// generated) — insert the card right before that paragraph instead.
+		const parts = result.split(/\r?\n\r?\n/);
+		const idx = parts.findIndex((part) => linkPattern.test(part));
+		if (idx === -1) continue;
+		parts.splice(idx, 0, card);
+		result = parts.join('\n\n');
+	}
+	return result;
+}
+
 // The model is told not to add a leading heading (e.g. "# Article Body")
 // before the intro paragraph, but this strips one defensively in case it
 // does anyway — the layout renders its own H1, so a stray heading would
@@ -153,7 +199,10 @@ async function main() {
 	);
 
 	let body = resolveLinkTokens(rawBody, next.products, siteConfig.amazonAssociateTag);
-	body = injectInlineThumbnails(body, next.products);
+	body =
+		next.structureType === 'comparison'
+			? injectProductCardsAfterHeadings(body, next.products, siteConfig.amazonAssociateTag)
+			: injectInlineThumbnails(body, next.products);
 	const wordCount = countWords(rawBody);
 
 	const frontmatter = {
