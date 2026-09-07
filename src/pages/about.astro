@@ -6,20 +6,25 @@ import siteConfig from '../../site.config.json' with { type: 'json' };
 <BaseLayout title="About" description={`About ${siteConfig.siteName}.`}>
 	<h1>About {siteConfig.siteName}</h1>
 
-	<!--
-		TODO (required before submitting to AdSense): replace this placeholder
-		with real, specific information about who runs the site and why.
-		Generic "we love pets" filler reads as thin content to reviewers —
-		be concrete about the site's actual focus and origin.
-	-->
 	<p>
 		{siteConfig.siteName} publishes independent buying guides and product
-		comparisons focused on senior dog care — mobility, comfort, and
-		everyday products for aging dogs.
+		comparisons focused specifically on senior dog care — mobility aids,
+		orthopedic support, feeding accessories, grooming, and other everyday
+		products for aging dogs. We don't cover general pet products; the
+		focus stays narrow on what changes as a dog gets older.
 	</p>
 	<p>
-		We research products, compare specs, and link out to retailers like
-		Amazon. Some of those links are affiliate links — see our
+		Each guide is built around a specific, common problem (a dog
+		struggling to get on the bed, slipping on hardwood floors, needing a
+		gentler recovery collar) and compares real products by their actual
+		specs — size, materials, weight capacity, adjustability — rather than
+		just listing options. We link out to retailers like Amazon so you can
+		buy what fits; some of those links are affiliate links, which is how
+		the site is funded. See our
 		<a href="/affiliate-disclosure">affiliate disclosure</a> for details.
+	</p>
+	<p>
+		This site is independently run and not affiliated with any of the
+		brands or products it reviews.
 	</p>
 </BaseLayout>
