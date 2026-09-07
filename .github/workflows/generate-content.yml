@@ -1,12 +1,15 @@
 name: Generate content
 
-# Manual trigger for testing, plus a throttled schedule (3x/week) so the
-# site doesn't publish at a velocity that reads as spam. Adjust the cron
-# once the pipeline has proven itself.
+# Manual trigger for testing, plus a daily schedule. This only generates a
+# draft (draft: true, invisible on the site) — the separate publish-queue
+# workflow is what throttles actual publishing to one per day, so
+# generating daily here does not translate into a burst-y live posting
+# velocity. It does mean the topic backlog (data/topics.json) empties
+# faster — plan on refilling "ready" topics roughly every 1-2 weeks.
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 14 * * 1,3,5' # Mon/Wed/Fri 14:00 UTC
+    - cron: '0 14 * * *' # daily, 14:00 UTC
 
 permissions:
   contents: write
@@ -19,7 +22,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
 
       - run: npm ci
 
