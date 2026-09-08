@@ -8,6 +8,7 @@ structureType: narrative-guide
 topicId: pill-hiding-treats-picky-dogs-guide
 tags: []
 draft: true
+approved: true
 ---
 Getting a senior dog to swallow a pill or supplement shouldn't turn into a daily standoff, yet for owners of picky eaters, it often does. The challenge becomes especially pressing when medications are essential—whether it's a joint supplement for arthritis, a monthly parasite preventative, or a prescription medication that can't be skipped. Senior dogs, in particular, may have developed stronger food preferences over years, or their sense of smell and taste may have shifted in ways that make them suspicious of anything unfamiliar. What works for one dog might be rejected outright by another, and what worked last month might suddenly be refused this month. The frustration is compounded by the fact that consistency matters: missing doses of joint support or preventative medication can have real consequences for an aging dog's quality of life and health.
 
