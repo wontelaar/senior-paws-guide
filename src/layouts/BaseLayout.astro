@@ -9,6 +9,8 @@ interface Props {
 const { title, description } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const siteName = siteConfig.siteName;
+const [siteNameFirstWord, ...siteNameRest] = siteName.split(' ');
+const siteNameSecondLine = siteNameRest.join(' ');
 ---
 
 <!doctype html>
@@ -42,7 +44,10 @@ const siteName = siteConfig.siteName;
 		<header class="site-header">
 			<a class="brand" href="/">
 				<img class="brand-mark" src="/dog-mark.svg" alt="" width="1080" height="1080" />
-				{siteName}
+				<span class="brand-text">
+					<span class="brand-line1">{siteNameFirstWord}</span>
+					<span class="brand-line2">{siteNameSecondLine}</span>
+				</span>
 			</a>
 			<nav>
 				<a href="/">Home</a>
@@ -114,15 +119,21 @@ const siteName = siteConfig.siteName;
 			}
 			.brand {
 				display: flex;
-				align-items: flex-end;
-				gap: 0.5rem;
-				font-weight: 700;
+				align-items: center;
+				gap: 0.65rem;
 				text-decoration: none;
 				color: var(--fg);
-				font-size: 1.6rem;
-				line-height: 1;
 			}
-			.brand-mark { width: auto; height: 4.84rem; flex-shrink: 0; }
+			.brand-mark { width: auto; height: 3.6rem; flex-shrink: 0; }
+			.brand-text {
+				display: flex;
+				flex-direction: column;
+				font-family: Georgia, 'Times New Roman', serif;
+				font-weight: 700;
+				line-height: 1.05;
+			}
+			.brand-line1 { font-size: 1.9rem; letter-spacing: 0.5px; }
+			.brand-line2 { font-size: 1.5rem; letter-spacing: 0.5px; }
 			nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; }
 			nav a:hover { color: var(--accent); }
 			img { max-width: 100%; }
