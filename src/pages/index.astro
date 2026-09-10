@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import siteConfig from '../../site.config.json' with { type: 'json' };
+import { categorySlug } from '../lib/category-slug';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -36,7 +37,7 @@ const postsByCategory = categories.map((category) => ({
 
 	{postsByCategory.map(({ category, posts: categoryPosts }) => (
 		<section class="category-section">
-			<h2>{category}</h2>
+			<h2><a href={`/category/${categorySlug(category)}/`}>{category}</a></h2>
 			<div class="post-grid">
 				{categoryPosts.map((post) => (
 					<a class="post-card" href={`/posts/${post.id}/`}>
@@ -60,6 +61,14 @@ const postsByCategory = categories.map((category) => ({
 		font-size: 1.15rem;
 		border-bottom: 1px solid var(--border);
 		padding-bottom: 0.5rem;
+	}
+	.category-section h2 a {
+		color: var(--fg);
+		text-decoration: none;
+	}
+	.category-section h2 a:hover {
+		color: var(--accent);
+		text-decoration: underline;
 	}
 	/* Widen the page just for the homepage's card grid, so desktop can fit 5
 	   columns; article pages keep the narrower 760px reading width. */

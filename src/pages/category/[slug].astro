@@ -1,0 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import siteConfig from '../../../site.config.json' with { type: 'json' };
+import { categorySlug } from '../../lib/category-slug';
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+	const categories = [...new Set(allPosts.map((p) => p.data.category))];
+	return categories.map((category) => ({
+		params: { slug: categorySlug(category) },
+		props: { category },
+	}));
+}
+
+const { category } = Astro.props;
+
+const allPosts = await getCollection(
+	'posts',
+	({ data }) => !data.draft && data.category === category,
+);
+const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+	title={category}
+	description={`${siteConfig.siteName} guides in the ${category} category.`}
+>
+	<p><a href="/">&larr; All categories</a></p>
+	<h1>{category}</h1>
+
+	<div class="post-grid">
+		{posts.map((post) => (
+			<a class="post-card" href={`/posts/${post.id}/`}>
+				{post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+				<div class="post-card-body">
+					<h3>{post.data.title}</h3>
+					<p>{post.data.description}</p>
+				</div>
+			</a>
+		))}
+	</div>
+</BaseLayout>
+
+<style>
+	:global(main) { max-width: 1180px; }
+	h1 { margin-top: 0.5rem; }
+	.post-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 1.25rem;
+		margin-top: 1.5rem;
+	}
+	.post-card {
+		display: flex;
+		flex-direction: column;
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		overflow: hidden;
+		text-decoration: none;
+		color: var(--fg);
+		transition: border-color 0.15s;
+	}
+	.post-card:hover { border-color: var(--accent); }
+	.post-card img {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		background: var(--border);
+		border-bottom: 1px solid var(--border);
+	}
+	.post-card-body { padding: 0.9rem; }
+	.post-card-body h3 { margin: 0 0 0.4rem; font-size: 1rem; line-height: 1.35; }
+	.post-card-body p {
+		margin: 0;
+		font-size: 0.85rem;
+		color: var(--muted);
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+</style>
