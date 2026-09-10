@@ -16,7 +16,7 @@ const siteName = siteConfig.siteName;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/png" href="/dog-mark.png" />
 		<link rel="canonical" href={canonicalURL} />
 		<title>{title} | {siteName}</title>
 		<meta name="description" content={description} />
@@ -40,7 +40,10 @@ const siteName = siteConfig.siteName;
 	</head>
 	<body>
 		<header class="site-header">
-			<a class="brand" href="/">{siteName}</a>
+			<a class="brand" href="/">
+				<img class="brand-mark" src="/dog-mark.png" alt="" width="400" height="400" />
+				{siteName}
+			</a>
 			<nav>
 				<a href="/">Home</a>
 				<a href="/about">About</a>
@@ -109,7 +112,16 @@ const siteName = siteConfig.siteName;
 				color: var(--muted);
 				font-size: 0.85rem;
 			}
-			.brand { font-weight: 700; text-decoration: none; color: var(--fg); font-size: 1.1rem; }
+			.brand {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+				font-weight: 700;
+				text-decoration: none;
+				color: var(--fg);
+				font-size: 1.1rem;
+			}
+			.brand-mark { width: 32px; height: 32px; flex-shrink: 0; }
 			nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; }
 			nav a:hover { color: var(--accent); }
 			img { max-width: 100%; }
