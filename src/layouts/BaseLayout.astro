@@ -53,6 +53,7 @@ const siteNameSecondLine = siteNameRest.join(' ');
 				<a href="/">Home</a>
 				<a href="/about">About</a>
 				<a href="/search">Search</a>
+				<div id="header-search" class="header-search"></div>
 			</nav>
 		</header>
 
@@ -69,6 +70,20 @@ const siteNameSecondLine = siteNameRest.join(' ');
 			</nav>
 			<p>&copy; {new Date().getFullYear()} {siteName}. As an Amazon Associate we earn from qualifying purchases.</p>
 		</footer>
+
+		<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+		<script is:inline src="/pagefind/pagefind-ui.js"></script>
+		<script is:inline>
+			window.addEventListener('DOMContentLoaded', () => {
+				if (typeof PagefindUI === 'function') {
+					new PagefindUI({
+						element: '#header-search',
+						showSubResults: true,
+						showEmptyFilters: false,
+					});
+				}
+			});
+		</script>
 
 		<style is:global>
 			:root {
@@ -134,8 +149,44 @@ const siteNameSecondLine = siteNameRest.join(' ');
 			}
 			.brand-line1 { font-size: 1.9rem; letter-spacing: 0.5px; }
 			.brand-line2 { font-size: 1.5rem; letter-spacing: 0.5px; }
+			nav { display: flex; align-items: center; }
 			nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; }
 			nav a:hover { color: var(--accent); }
+
+			/* Compact inline Pagefind box in the nav — fixed-width input, with
+			   the results dropdown positioned absolutely so it overlays the
+			   page instead of pushing the header taller. */
+			.header-search { position: relative; width: 160px; }
+			.header-search .pagefind-ui__form { margin: 0; }
+			.header-search .pagefind-ui__search-input {
+				width: 100%;
+				padding: 0.4rem 0.6rem;
+				font-size: 0.85rem;
+				border: 1px solid var(--border);
+				border-radius: 6px;
+				background: var(--bg);
+				color: var(--fg);
+			}
+			.header-search .pagefind-ui__search-clear { right: 0.4rem; }
+			.header-search .pagefind-ui__drawer {
+				position: absolute;
+				top: calc(100% + 0.5rem);
+				right: 0;
+				width: 340px;
+				max-width: calc(100vw - 2.5rem);
+				max-height: 70vh;
+				overflow-y: auto;
+				background: var(--bg);
+				border: 1px solid var(--border);
+				border-radius: 10px;
+				padding: 0.75rem;
+				box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+				z-index: 50;
+			}
+			.header-search .pagefind-ui__message { font-size: 0.85rem; }
+			@media (max-width: 640px) {
+				.header-search { width: 120px; }
+			}
 			img { max-width: 100%; }
 			table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
 			th, td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; }
