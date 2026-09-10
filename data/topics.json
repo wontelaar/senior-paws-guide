@@ -307,6 +307,7 @@
       "status": "ready",
       "structureType": "qna",
       "title": "How to Stop a Senior Dog from Slipping on Hardwood Floors",
+      "category": "Mobility & Comfort",
       "targetKeyword": "non slip floor solution for senior dogs",
       "heroImage": "https://images.pexels.com/photos/30729230/pexels-photo-30729230/free-photo-of-adorable-english-setter-dog-on-wooden-floor.jpeg?cs=tinysrgb&w=1200",
       "products": [
@@ -341,6 +342,7 @@
       "status": "ready",
       "structureType": "comparison",
       "title": "Best Heated Dog Beds for Senior Dogs with Arthritis",
+      "category": "Mobility & Comfort",
       "targetKeyword": "heated dog bed for senior dogs",
       "heroImage": "https://images.pexels.com/photos/31035364/pexels-photo-31035364/free-photo-of-adorable-dog-snuggled-under-soft-blanket.jpeg?cs=tinysrgb&w=1200",
       "products": [
@@ -369,6 +371,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/51bTqhApG1L._AC_SL1200_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-wheelchairs-mobility-carts-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Dog Wheelchairs and Mobility Carts: A Guide for Senior Dogs with Limited Leg Function",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog wheelchair for senior dogs back legs",
+      "caution": "This covers hind-leg weakness/paralysis serious enough to need a wheelchair (e.g. advanced arthritis, degenerative myelopathy, IVDD recovery) — stress that a vet should diagnose the underlying cause and confirm a wheelchair is appropriate before buying one, don't imply self-diagnosis is fine.",
+      "products": [
+        {
+          "asin": "B003VL5BZ4",
+          "name": "Best Friend Mobility PRO Rear-Leg Dog Wheelchair (Large)",
+          "notes": "K9 orthopedic-vet-designed and tested, adjustable harness cart with all-terrain wheels for hind-leg support, established specialty brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/81qYcuwSN1L._SL1500_.jpg"
+        },
+        {
+          "asin": "B0DSVKB8CB",
+          "name": "LetPetRun Adjustable Rear-Leg Dog Wheelchair",
+          "notes": "Lightweight adjustable mobility cart for disabled hind legs, best-seller, supports walking and exercise",
+          "imageUrl": "https://m.media-amazon.com/images/I/8165vilKGKL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0GR8P6L4W",
+          "name": "LetPetRun Full-Body Support Wheelchair for Small Dogs",
+          "notes": "Full-body support frame (not just rear legs) for small dogs 6-33.5 lb, adjustable, front and rear leg support, 360-degree front swivel wheels",
+          "imageUrl": "https://m.media-amazon.com/images/I/815KXrkgNAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FH9MY5MC",
+          "name": "Nasjac Lightweight Portable Rear-Leg Dog Wheelchair",
+          "notes": "Lightweight portable design with reflective stripes, marketed for senior/arthritic/paralyzed/injured dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/716X-30uU1L._AC_SL1500_.jpg"
+        }
+      ],
+      "heroImage": "https://images.pexels.com/photos/36074841/pexels-photo-36074841/free-photo-of-dog-with-wheelchair-on-sunny-lawn.jpeg?cs=tinysrgb&w=1200"
+    },
+    {
+      "id": "slow-feeder-bowls-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Slow Feeder Bowls for Senior Dogs Who Eat Too Fast",
+      "category": "Feeding & Medication",
+      "targetKeyword": "slow feeder bowl for senior dogs",
+      "ownerInsight": "A senior dog that gulps food quickly is at higher risk of vomiting, bloat-like discomfort, and choking than a younger dog, partly because aging digestion is already more sensitive. A slow feeder addresses the eating speed itself rather than the food, so it works alongside any diet a dog is already on rather than requiring a diet change.",
+      "products": [
+        {
+          "asin": "B0787KPCPX",
+          "name": "Outward Hound Fun Feeder Slo Bowl (Large/Regular)",
+          "notes": "Maze-pattern slow feeder, holds up to 4 cups dry or wet food, non-slip base, dishwasher safe, BPA-free, established brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/91ARO4RxwcL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B093K7D53V",
+          "name": "Outward Hound Fun Feeder Slo Bowl (Drop, Small/Medium)",
+          "notes": "Smaller maze-pattern slow feeder for small-to-medium dogs and cats, same brand/design as the large size",
+          "imageUrl": "https://m.media-amazon.com/images/I/814zhF+c-lL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D1FMP3S5",
+          "name": "Feedoo Stainless Steel Slow Feeder Bowl",
+          "notes": "Double-wall food-grade stainless steel maze bowl, non-slip rubber base, set of 2 cups for medium dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71xJogtBfRL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FMJWQMMR",
+          "name": "MOPANG Ceramic Slow Feeder Bowl",
+          "notes": "Ceramic maze-pattern slow feeder, 2-cup capacity, for medium-to-large dogs, white",
+          "imageUrl": "https://m.media-amazon.com/images/I/7108alS+ADL._AC_SL1500_.jpg"
+        }
+      ],
+      "heroImage": "https://images.pexels.com/photos/8057552/pexels-photo-8057552.jpeg?cs=tinysrgb&w=1200"
     }
   ]
 }
