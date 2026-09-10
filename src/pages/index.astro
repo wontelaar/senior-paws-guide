@@ -61,9 +61,13 @@ const postsByCategory = categories.map((category) => ({
 		border-bottom: 1px solid var(--border);
 		padding-bottom: 0.5rem;
 	}
+	/* Widen the page just for the homepage's card grid, so desktop can fit 5
+	   columns; article pages keep the narrower 760px reading width. */
+	:global(main) { max-width: 1180px; }
+
 	.post-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 		gap: 1.25rem;
 		margin-top: 1.25rem;
 	}
