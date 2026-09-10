@@ -443,6 +443,78 @@
         }
       ],
       "heroImage": "https://images.pexels.com/photos/8057552/pexels-photo-8057552.jpeg?cs=tinysrgb&w=1200"
+    },
+    {
+      "id": "dental-chews-by-dog-weight-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dental Chews for Dogs by Weight: Picking the Right Size for Your Senior Dog",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dental chews for senior dogs by size",
+      "caution": "Dental disease is very common in senior dogs and chews help manage plaque/tartar between cleanings, but don't claim a chew replaces veterinary dental cleaning or treats existing dental disease — frame as supportive/preventive, and note that a senior dog with loose teeth, broken teeth, or severe dental pain needs a vet exam before any hard chewing.",
+      "products": [
+        {
+          "asin": "B0C2JMSJ6T",
+          "name": "Ark Naturals Brushless Toothpaste Dental Chews (Small Breed, 70ct)",
+          "notes": "Soft baked chew with a toothpaste center, vet-formulated, for small breeds/senior dogs with gentler chewing needs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ed2lFaOPL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B084KL16VH",
+          "name": "Playology Senior Dog Dental Chew Stick (Medium, Pork)",
+          "notes": "Marketed specifically for senior dogs — soft rubber, gentle on older teeth, deep-cleaning grooves",
+          "imageUrl": "https://m.media-amazon.com/images/I/81uCdd62w6L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07FMDLL4T",
+          "name": "Virbac CET Veggiedent FR3SH Tartar Control Chews (Large, 66+ lb)",
+          "notes": "Plant-based formula, vet-recommended, VOHC-accepted for plaque and tartar control, established brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HQa4-MNEL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BJP6TG2F",
+          "name": "ProDen PlaqueOff Dental Soft Chews (Large/Giant Breed, 90ct)",
+          "notes": "Soft chew with natural seaweed (kelp) formula, for large and giant breed dogs, supports healthy teeth/gums/breath",
+          "imageUrl": "https://m.media-amazon.com/images/I/61N1ONv28ML._AC_SL1500_.jpg"
+        }
+      ],
+      "heroImage": "https://images.pexels.com/photos/9280414/pexels-photo-9280414.jpeg?cs=tinysrgb&w=1200"
+    },
+    {
+      "id": "senior-dog-strollers-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Dog Strollers for Senior Dogs Who Can't Walk as Far as They Used To",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog stroller for senior dogs",
+      "ownerInsight": "A senior dog often still wants to be outside and see the neighborhood even after long walks become too tiring or painful — a stroller isn't about replacing exercise, it's about letting a dog keep coming along without overdoing it, and giving an owner a way to extend a walk past the point the dog's legs alone would allow.",
+      "products": [
+        {
+          "asin": "B0GL9DTJZR",
+          "name": "Pet Gear No-Zip AT3 Pet Stroller",
+          "notes": "Zipperless entry (easier for a stiff senior dog to get in/out than a zippered mesh door), one-hand fold, jogging tires, established brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/81c90i30uWL._SL1500_.jpg"
+        },
+        {
+          "asin": "B0CGLYYL1M",
+          "name": "Petbobi Large Dog Stroller (up to 80 lb)",
+          "notes": "Dual entry, low step-in height marketed specifically for senior pets, one-foot brake, all-terrain wheels",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cFgjUZRLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07KW5CPFK",
+          "name": "ROODO Escort 3-Wheel Pet Stroller",
+          "notes": "Lightweight 3-wheel jogger-style design for small/medium dogs, compact fold, all-terrain",
+          "imageUrl": "https://m.media-amazon.com/images/I/81iNPcuWx4L._SL1500_.jpg"
+        },
+        {
+          "asin": "B0H5K561GZ",
+          "name": "Dog Stroller Wagon with Ramp (up to 88 lb)",
+          "notes": "Includes a walk-in ramp so a dog can board without being lifted, marketed for dogs with mobility issues, air-mesh comfort",
+          "imageUrl": "https://m.media-amazon.com/images/I/71u4FXApFiL._SL1500_.jpg"
+        }
+      ],
+      "heroImage": "https://images.pexels.com/photos/30655024/pexels-photo-30655024/free-photo-of-cute-dog-in-stroller-on-urban-pathway.jpeg?cs=tinysrgb&w=1200"
     }
   ]
 }
