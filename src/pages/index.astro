@@ -5,6 +5,24 @@ import siteConfig from '../../site.config.json' with { type: 'json' };
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Fixed display order for known categories; anything else (a category typo,
+// or a brand-new one not added here yet) still shows up, just after these.
+const CATEGORY_ORDER = ['Mobility & Comfort', 'Feeding & Medication', 'Grooming & Recovery'];
+
+const categories = [...new Set(posts.map((p) => p.data.category))].sort((a, b) => {
+	const ai = CATEGORY_ORDER.indexOf(a);
+	const bi = CATEGORY_ORDER.indexOf(b);
+	if (ai === -1 && bi === -1) return a.localeCompare(b);
+	if (ai === -1) return 1;
+	if (bi === -1) return -1;
+	return ai - bi;
+});
+
+const postsByCategory = categories.map((category) => ({
+	category,
+	posts: posts.filter((p) => p.data.category === category),
+}));
 ---
 
 <BaseLayout
@@ -14,23 +32,68 @@ const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.
 	<h1>{siteConfig.siteName}</h1>
 	<p>Practical, no-nonsense buying guides for senior dog care.</p>
 
-	{posts.length === 0 && (
-		<p><em>No posts yet — the first batch is on its way.</em></p>
-	)}
+	{posts.length === 0 && <p><em>No posts yet — the first batch is on its way.</em></p>}
 
-	<ul class="post-list">
-		{posts.map((post) => (
-			<li>
-				<a href={`/posts/${post.id}/`}>{post.data.title}</a>
-				<p>{post.data.description}</p>
-			</li>
-		))}
-	</ul>
+	{postsByCategory.map(({ category, posts: categoryPosts }) => (
+		<section class="category-section">
+			<h2>{category}</h2>
+			<div class="post-grid">
+				{categoryPosts.map((post) => (
+					<a class="post-card" href={`/posts/${post.id}/`}>
+						{post.data.heroImage && (
+							<img src={post.data.heroImage} alt="" loading="lazy" />
+						)}
+						<div class="post-card-body">
+							<h3>{post.data.title}</h3>
+							<p>{post.data.description}</p>
+						</div>
+					</a>
+				))}
+			</div>
+		</section>
+	))}
 </BaseLayout>
 
 <style>
-	.post-list { list-style: none; padding: 0; }
-	.post-list li { margin-bottom: 1.5rem; }
-	.post-list a { font-size: 1.1rem; font-weight: 600; color: var(--fg); }
-	.post-list p { color: var(--muted); margin: 0.25rem 0 0; }
+	.category-section { margin-top: 2.5rem; }
+	.category-section h2 {
+		font-size: 1.15rem;
+		border-bottom: 1px solid var(--border);
+		padding-bottom: 0.5rem;
+	}
+	.post-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		gap: 1.25rem;
+		margin-top: 1.25rem;
+	}
+	.post-card {
+		display: flex;
+		flex-direction: column;
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		overflow: hidden;
+		text-decoration: none;
+		color: var(--fg);
+		transition: border-color 0.15s;
+	}
+	.post-card:hover { border-color: var(--accent); }
+	.post-card img {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		background: var(--border);
+		border-bottom: 1px solid var(--border);
+	}
+	.post-card-body { padding: 0.9rem; }
+	.post-card-body h3 { margin: 0 0 0.4rem; font-size: 1rem; line-height: 1.35; }
+	.post-card-body p {
+		margin: 0;
+		font-size: 0.85rem;
+		color: var(--muted);
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
 </style>

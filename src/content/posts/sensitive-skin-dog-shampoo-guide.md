@@ -10,6 +10,8 @@ topicId: sensitive-skin-dog-shampoo-guide
 tags: []
 draft: false
 approved: true
+category: Grooming & Recovery
+heroImage: 'https://images.pexels.com/photos/19145888/pexels-photo-19145888/free-photo-of-dog-in-bath.jpeg?cs=tinysrgb&w=1200'
 ---
 Dogs with sensitive skin—especially aging or arthritic companions that struggle to groom themselves effectively—often suffer from persistent itching, bacterial or fungal infections, and inflamed patches that worsen without proper care. A medicated dog shampoo formulated for sensitive skin can break this cycle by treating the underlying cause while soothing discomfort, but the wrong choice may irritate further or fail to address the root problem. This guide compares five clinically formulated options to help you identify the best medicated shampoo for your dog's specific skin needs.
 

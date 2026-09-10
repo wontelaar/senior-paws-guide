@@ -211,12 +211,19 @@ async function main() {
 			: injectProductCardsAfterParagraphs(body, next.products, siteConfig.amazonAssociateTag);
 	const wordCount = countWords(rawBody);
 
+	// Prefer a real lifestyle/action photo (topic.heroImage) over a bare product
+	// shot, since a product photo as the homepage card image reads as an ad
+	// rather than an article thumbnail.
+	const heroImage = next.heroImage || next.products.find((p) => p.imageUrl)?.imageUrl;
+
 	const frontmatter = {
 		title: next.title,
 		description: deriveDescription(rawBody),
 		pubDate: new Date().toISOString().slice(0, 10),
 		structureType: next.structureType,
 		topicId: next.id,
+		category: next.category,
+		...(heroImage ? { heroImage } : {}),
 		tags: [],
 		// Stays a draft until the QA gate (scripts/qa-gate.mjs) and a
 		// human spot-check both pass — see the GitHub Actions workflow.

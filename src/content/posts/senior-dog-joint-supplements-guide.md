@@ -9,6 +9,8 @@ topicId: senior-dog-joint-supplements-guide
 tags: []
 draft: true
 approved: true
+category: Feeding & Medication
+heroImage: 'https://images.pexels.com/photos/36314924/pexels-photo-36314924/free-photo-of-elderly-dog-strolling-in-sunny-park.jpeg?cs=tinysrgb&w=1200'
 ---
 As dogs enter their senior years, the wear and tear on their joints becomes increasingly visible. What once was a sprightly bound up the stairs might become a careful, deliberate climb. A reluctance to jump into the car, stiffness after rest, or visible limping—these are signs that joint cartilage has thinned and inflammation has set in. For many older dogs, arthritis or general joint deterioration is not a matter of if, but when. This is where joint supplements for senior dogs enter the picture as a potential tool to support mobility and comfort during the golden years.
 

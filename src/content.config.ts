@@ -12,6 +12,11 @@ const posts = defineCollection({
 		// these keeps the site from reading as templated/mass-produced.
 		structureType: z.enum(['comparison', 'narrative-guide', 'qna']),
 		topicId: z.string(),
+		// Groups posts into homepage sections (e.g. "Mobility & Comfort").
+		// Set from the topic's `category` field in data/topics.json.
+		category: z.string(),
+		// First product's real photo, used as the homepage card thumbnail.
+		heroImage: z.string().optional(),
 		tags: z.array(z.string()).default([]),
 		draft: z.boolean().default(false),
 		// Set by a human (or Claude, after reading the post) once it has

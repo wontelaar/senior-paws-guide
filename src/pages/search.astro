@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../../site.config.json' with { type: 'json' };
+---
+
+<BaseLayout title="Search" description={`Search ${siteConfig.siteName}.`}>
+	<h1>Search</h1>
+	<p class="search-note">
+		Search only works on the deployed site (it needs a production build), not
+		in the local dev server.
+	</p>
+	<div id="search"></div>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+	window.addEventListener('DOMContentLoaded', () => {
+		if (typeof PagefindUI === 'function') {
+			new PagefindUI({ element: '#search', showSubResults: true });
+		}
+	});
+</script>
+
+<style>
+	.search-note {
+		color: var(--muted);
+		font-size: 0.85rem;
+	}
+	/* Re-theme Pagefind's default UI to match the site's light/dark tokens
+	   instead of its own built-in light-only palette. */
+	:global(:root) {
+		--pagefind-ui-primary: var(--fg);
+		--pagefind-ui-text: var(--fg);
+		--pagefind-ui-background: var(--bg);
+		--pagefind-ui-border: var(--border);
+		--pagefind-ui-tag: var(--border);
+	}
+</style>

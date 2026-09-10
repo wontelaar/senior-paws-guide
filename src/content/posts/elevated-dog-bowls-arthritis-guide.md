@@ -8,6 +8,8 @@ structureType: qna
 topicId: elevated-dog-bowls-arthritis-guide
 tags: []
 draft: false
+category: Feeding & Medication
+heroImage: 'https://images.pexels.com/photos/9429165/pexels-photo-9429165.jpeg?cs=tinysrgb&w=1200'
 ---
 Dogs with arthritis benefit significantly from reduced strain on their joints, and elevated dog bowls can play a meaningful role in their daily comfort. By bringing food and water to a more natural eating height, these feeders help minimize neck flexion and spinal stress—particularly important for senior dogs or breeds predisposed to joint issues.
 

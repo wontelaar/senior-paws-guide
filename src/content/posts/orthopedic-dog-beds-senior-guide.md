@@ -12,6 +12,8 @@ tags:
   - senior dog care
   - arthritis
 draft: false
+category: Mobility & Comfort
+heroImage: 'https://images.pexels.com/photos/36198590/pexels-photo-36198590/free-photo-of-sleeping-dog-on-bed-with-relaxing-atmosphere.jpeg?cs=tinysrgb&w=1200'
 ---
 
 As dogs get older, a lot of them start avoiding the same spots on the floor they used to sleep on for hours. That's often not pickiness — it's joint pain. A firm, supportive orthopedic bed made from real structured foam (not just a fluffy cushion) can noticeably reduce the pressure on hips, elbows, and shoulders, especially for dogs recovering from surgery or living with arthritis. Below is a comparison of five widely-used orthopedic beds, what actually differs between them, and what to look for before buying one.

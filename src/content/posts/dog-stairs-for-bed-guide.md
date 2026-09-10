@@ -8,6 +8,8 @@ structureType: narrative-guide
 topicId: dog-stairs-for-bed-guide
 tags: []
 draft: false
+category: Mobility & Comfort
+heroImage: 'https://images.pexels.com/photos/5482781/pexels-photo-5482781.jpeg?cs=tinysrgb&w=1200'
 ---
 
 ## Understanding the Challenge: Why Bed Access Matters for Senior Dogs
