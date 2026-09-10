@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-// Releases at most one approved draft per run. Intended to run on a daily
-// schedule (see .github/workflows/publish-queue.yml) so that reviewing
-// several drafts in one sitting doesn't turn into a same-day burst of new
-// posts on the live site — approval and publish timing are deliberately
-// decoupled.
+// Releases at most one approved draft per run. Intended to run on a
+// twice-daily schedule (see .github/workflows/publish-queue.yml) so that
+// reviewing several drafts in one sitting doesn't turn into a same-day
+// burst of new posts on the live site — approval and publish timing are
+// deliberately decoupled.
 
 import fs from 'node:fs/promises';
 import path from 'node:path';

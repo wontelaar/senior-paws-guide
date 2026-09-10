@@ -1,14 +1,16 @@
 name: Generate content
 
-# Manual trigger for testing, plus a daily schedule. This only generates a
-# draft (draft: true, invisible on the site) — the separate publish-queue
-# workflow is what throttles actual publishing to one per day, so
-# generating daily here does not translate into a burst-y live posting
-# velocity. It does mean the topic backlog (data/topics.json) empties
-# faster — plan on refilling "ready" topics roughly every 1-2 weeks.
+# Manual trigger for testing, plus a twice-daily schedule (12h apart, one
+# per run). This only generates a draft (draft: true, invisible on the
+# site) — the separate publish-queue workflow is what throttles actual
+# publishing, so generating twice a day here does not translate into a
+# burst-y live posting velocity. It does mean the topic backlog
+# (data/topics.json) empties roughly twice as fast — plan on refilling
+# "ready" topics more often (every few days, not every 1-2 weeks).
 on:
   workflow_dispatch: {}
   schedule:
+    - cron: '0 2 * * *' # daily, 02:00 UTC
     - cron: '0 14 * * *' # daily, 14:00 UTC
 
 permissions:
