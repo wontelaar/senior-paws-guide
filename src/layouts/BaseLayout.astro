@@ -193,7 +193,7 @@ const categories = await getOrderedCategories();
 			nav a:hover { color: var(--accent); }
 
 			.menu-toggle {
-				display: none;
+				display: flex;
 				align-items: center;
 				justify-content: center;
 				background: none;
@@ -269,7 +269,6 @@ const categories = await getOrderedCategories();
 			}
 
 			@media (max-width: 640px) {
-				.menu-toggle { display: flex; }
 				.site-nav a { display: none; }
 				.site-nav .header-search { margin-left: auto; }
 			}
