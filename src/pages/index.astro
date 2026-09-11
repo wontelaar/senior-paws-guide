@@ -10,10 +10,16 @@ const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.
 
 const categories = await getOrderedCategories();
 
-const postsByCategory = categories.map((category) => ({
-	category,
-	posts: posts.filter((p) => p.data.category === category),
-}));
+const HOMEPAGE_POSTS_PER_CATEGORY = 5;
+
+const postsByCategory = categories.map((category) => {
+	const categoryPosts = posts.filter((p) => p.data.category === category);
+	return {
+		category,
+		posts: categoryPosts.slice(0, HOMEPAGE_POSTS_PER_CATEGORY),
+		total: categoryPosts.length,
+	};
+});
 ---
 
 <BaseLayout
@@ -25,7 +31,7 @@ const postsByCategory = categories.map((category) => ({
 
 	{posts.length === 0 && <p><em>No posts yet — the first batch is on its way.</em></p>}
 
-	{postsByCategory.map(({ category, posts: categoryPosts }) => (
+	{postsByCategory.map(({ category, posts: categoryPosts, total }) => (
 		<section class="category-section">
 			<h2><a href={`/category/${categorySlug(category)}/`}>{category}</a></h2>
 			<div class="post-grid">
@@ -41,6 +47,11 @@ const postsByCategory = categories.map((category) => ({
 					</a>
 				))}
 			</div>
+			{total > HOMEPAGE_POSTS_PER_CATEGORY && (
+				<a class="category-view-all" href={`/category/${categorySlug(category)}/`}>
+					View all {total} in {category} &rarr;
+				</a>
+			)}
 		</section>
 	))}
 </BaseLayout>
@@ -63,6 +74,16 @@ const postsByCategory = categories.map((category) => ({
 	/* Widen the page just for the homepage's card grid, so desktop can fit 5
 	   columns; article pages keep the narrower 760px reading width. */
 	:global(main) { max-width: 1180px; }
+
+	.category-view-all {
+		display: inline-block;
+		margin-top: 1rem;
+		font-size: 0.9rem;
+		font-weight: 600;
+		color: var(--accent);
+		text-decoration: none;
+	}
+	.category-view-all:hover { text-decoration: underline; }
 
 	.post-grid {
 		display: grid;
