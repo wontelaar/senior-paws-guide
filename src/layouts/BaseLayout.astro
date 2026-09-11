@@ -57,10 +57,10 @@ const categories = await getOrderedCategories();
 				<a href="/about">About</a>
 				<a href="/search">Search</a>
 				<div id="header-search" class="header-search"></div>
+				<button id="menu-toggle" class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+					<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+				</button>
 			</nav>
-			<button id="menu-toggle" class="menu-toggle" aria-label="Open menu" aria-expanded="false">
-				<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-			</button>
 		</header>
 
 		<div id="menu-overlay" class="menu-overlay"></div>
@@ -201,6 +201,7 @@ const categories = await getOrderedCategories();
 				color: var(--fg);
 				cursor: pointer;
 				padding: 0.4rem;
+				margin-left: 1rem;
 			}
 
 			.menu-overlay {
@@ -217,13 +218,13 @@ const categories = await getOrderedCategories();
 			.menu-drawer {
 				position: fixed;
 				top: 0;
-				left: 0;
+				right: 0;
 				bottom: 0;
 				width: 280px;
 				max-width: 80vw;
 				background: var(--bg);
-				border-right: 1px solid var(--border);
-				transform: translateX(-100%);
+				border-left: 1px solid var(--border);
+				transform: translateX(100%);
 				transition: transform 0.2s;
 				z-index: 91;
 				display: flex;
