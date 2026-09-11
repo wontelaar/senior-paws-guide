@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/30729230/pexels-photo-30729230/free-photo-of-adorable-english-setter-dog-on-wooden-floor.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Senior dogs often struggle with slipping and sliding on hardwood floors, which can lead to falls, injuries, and anxiety about movement. Finding an effective non-slip floor solution for senior dogs is essential to keeping them safe, comfortable, and confident in their own homes.
