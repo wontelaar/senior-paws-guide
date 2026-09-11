@@ -3,22 +3,12 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import siteConfig from '../../site.config.json' with { type: 'json' };
 import { categorySlug } from '../lib/category-slug';
+import { getOrderedCategories } from '../lib/categories';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-// Fixed display order for known categories; anything else (a category typo,
-// or a brand-new one not added here yet) still shows up, just after these.
-const CATEGORY_ORDER = ['Mobility & Comfort', 'Feeding & Medication', 'Grooming & Recovery'];
-
-const categories = [...new Set(posts.map((p) => p.data.category))].sort((a, b) => {
-	const ai = CATEGORY_ORDER.indexOf(a);
-	const bi = CATEGORY_ORDER.indexOf(b);
-	if (ai === -1 && bi === -1) return a.localeCompare(b);
-	if (ai === -1) return 1;
-	if (bi === -1) return -1;
-	return ai - bi;
-});
+const categories = await getOrderedCategories();
 
 const postsByCategory = categories.map((category) => ({
 	category,

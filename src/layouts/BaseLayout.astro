@@ -1,5 +1,7 @@
 ---
 import siteConfig from '../../site.config.json' with { type: 'json' };
+import { getOrderedCategories } from '../lib/categories';
+import { categorySlug } from '../lib/category-slug';
 
 interface Props {
 	title: string;
@@ -11,6 +13,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const siteName = siteConfig.siteName;
 const [siteNameFirstWord, ...siteNameRest] = siteName.split(' ');
 const siteNameSecondLine = siteNameRest.join(' ');
+const categories = await getOrderedCategories();
 ---
 
 <!doctype html>
@@ -49,13 +52,31 @@ const siteNameSecondLine = siteNameRest.join(' ');
 					<span class="brand-line2">{siteNameSecondLine}</span>
 				</span>
 			</a>
-			<nav>
+			<nav class="site-nav">
 				<a href="/">Home</a>
 				<a href="/about">About</a>
 				<a href="/search">Search</a>
 				<div id="header-search" class="header-search"></div>
 			</nav>
+			<button id="menu-toggle" class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+				<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+			</button>
 		</header>
+
+		<div id="menu-overlay" class="menu-overlay"></div>
+		<aside id="menu-drawer" class="menu-drawer" aria-hidden="true">
+			<div class="menu-drawer-header">
+				<span class="menu-drawer-title">Menu</span>
+				<button id="menu-close" class="menu-close" aria-label="Close menu">&times;</button>
+			</div>
+			<a href="/">Home</a>
+			<a href="/about">About</a>
+			<a href="/search">Search</a>
+			<div class="menu-drawer-label">Categories</div>
+			{categories.map((category) => (
+				<a href={`/category/${categorySlug(category)}/`}>{category}</a>
+			))}
+		</aside>
 
 		<main>
 			<slot />
@@ -70,6 +91,24 @@ const siteNameSecondLine = siteNameRest.join(' ');
 			</nav>
 			<p>&copy; {new Date().getFullYear()} {siteName}. As an Amazon Associate we earn from qualifying purchases.</p>
 		</footer>
+
+		<script is:inline>
+			window.addEventListener('DOMContentLoaded', () => {
+				const toggle = document.getElementById('menu-toggle');
+				const close = document.getElementById('menu-close');
+				const drawer = document.getElementById('menu-drawer');
+				const overlay = document.getElementById('menu-overlay');
+				const setOpen = (open) => {
+					drawer.classList.toggle('open', open);
+					overlay.classList.toggle('open', open);
+					drawer.setAttribute('aria-hidden', String(!open));
+					toggle.setAttribute('aria-expanded', String(open));
+				};
+				toggle?.addEventListener('click', () => setOpen(true));
+				close?.addEventListener('click', () => setOpen(false));
+				overlay?.addEventListener('click', () => setOpen(false));
+			});
+		</script>
 
 		<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
 		<script is:inline src="/pagefind/pagefind-ui.js"></script>
@@ -152,6 +191,88 @@ const siteNameSecondLine = siteNameRest.join(' ');
 			nav { display: flex; align-items: center; }
 			nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; }
 			nav a:hover { color: var(--accent); }
+
+			.menu-toggle {
+				display: none;
+				align-items: center;
+				justify-content: center;
+				background: none;
+				border: none;
+				color: var(--fg);
+				cursor: pointer;
+				padding: 0.4rem;
+			}
+
+			.menu-overlay {
+				position: fixed;
+				inset: 0;
+				background: rgba(0, 0, 0, 0.5);
+				opacity: 0;
+				pointer-events: none;
+				transition: opacity 0.2s;
+				z-index: 90;
+			}
+			.menu-overlay.open { opacity: 1; pointer-events: auto; }
+
+			.menu-drawer {
+				position: fixed;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				width: 280px;
+				max-width: 80vw;
+				background: var(--bg);
+				border-right: 1px solid var(--border);
+				transform: translateX(-100%);
+				transition: transform 0.2s;
+				z-index: 91;
+				display: flex;
+				flex-direction: column;
+				padding: 1rem 0;
+				overflow-y: auto;
+			}
+			.menu-drawer.open { transform: translateX(0); }
+			.menu-drawer-header {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				padding: 0 1.25rem 1rem;
+				border-bottom: 1px solid var(--border);
+				margin-bottom: 0.5rem;
+			}
+			.menu-drawer-title { font-weight: 700; font-size: 1.1rem; }
+			.menu-close {
+				background: none;
+				border: none;
+				font-size: 1.5rem;
+				line-height: 1;
+				color: var(--muted);
+				cursor: pointer;
+				padding: 0.25rem;
+			}
+			.menu-drawer a {
+				display: block;
+				padding: 0.65rem 1.25rem;
+				color: var(--fg);
+				text-decoration: none;
+				margin-right: 0;
+			}
+			.menu-drawer a:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+			.menu-drawer-label {
+				padding: 1rem 1.25rem 0.35rem;
+				font-size: 0.75rem;
+				text-transform: uppercase;
+				letter-spacing: 0.5px;
+				color: var(--muted);
+				border-top: 1px solid var(--border);
+				margin-top: 0.5rem;
+			}
+
+			@media (max-width: 640px) {
+				.menu-toggle { display: flex; }
+				.site-nav a { display: none; }
+				.site-nav .header-search { margin-left: auto; }
+			}
 
 			/* Compact inline Pagefind box in the nav — fixed-width input, with
 			   the results dropdown positioned absolutely so it overlays the
