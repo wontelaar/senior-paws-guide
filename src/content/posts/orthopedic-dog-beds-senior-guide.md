@@ -4,7 +4,7 @@ description: >-
   A comparison of orthopedic dog beds built for senior dogs with arthritis or
   joint pain, covering foam type, sizing, and what actually matters when buying
   one.
-pubDate: '2026-09-07'
+pubDate: '2026-09-07T09:00:00Z'
 structureType: comparison
 topicId: orthopedic-dog-beds-senior-guide
 tags:

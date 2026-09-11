@@ -3,7 +3,7 @@ title: How to Stop a Senior Dog from Slipping on Hardwood Floors
 description: >-
   Senior dogs often struggle with slipping and sliding on hardwood floors, which
   can lead to falls, injuries, and anxiety about movement.
-pubDate: '2026-09-10'
+pubDate: '2026-09-10T17:00:00Z'
 structureType: qna
 topicId: non-slip-flooring-senior-dogs-guide
 category: Mobility & Comfort

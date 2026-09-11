@@ -3,7 +3,7 @@ title: How to Give a Picky Senior Dog Pills or Supplements (Without a Fight)
 description: >-
   Getting a senior dog to swallow a pill or supplement shouldn't turn into a
   daily standoff, yet for owners of picky eaters, it often does.
-pubDate: '2026-09-07'
+pubDate: '2026-09-07T13:00:00Z'
 structureType: narrative-guide
 topicId: pill-hiding-treats-picky-dogs-guide
 tags: []

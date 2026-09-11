@@ -219,7 +219,11 @@ async function main() {
 	const frontmatter = {
 		title: next.title,
 		description: deriveDescription(rawBody),
-		pubDate: new Date().toISOString().slice(0, 10),
+		// Full timestamp (not just the date) so posts generated on the same
+		// calendar day still sort correctly newest-first on the homepage —
+		// a date-only string makes same-day posts tie and fall back to
+		// filename order instead.
+		pubDate: new Date().toISOString(),
 		structureType: next.structureType,
 		topicId: next.id,
 		category: next.category,

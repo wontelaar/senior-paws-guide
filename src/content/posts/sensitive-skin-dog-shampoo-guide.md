@@ -4,7 +4,7 @@ description: >-
   Dogs with sensitive skin—especially aging or arthritic companions that
   struggle to groom themselves effectively—often suffer from persistent
   itching,…
-pubDate: '2026-09-07'
+pubDate: '2026-09-07T12:00:00Z'
 structureType: comparison
 topicId: sensitive-skin-dog-shampoo-guide
 tags: []

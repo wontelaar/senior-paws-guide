@@ -4,7 +4,7 @@ description: >-
   The rigid plastic cone has long been the standard tool for preventing dogs
   from licking or scratching post-surgery wounds and eye irritation, but it
   comes…
-pubDate: '2026-09-07'
+pubDate: '2026-09-07T11:00:00Z'
 structureType: comparison
 topicId: soft-recovery-collar-guide
 tags: []

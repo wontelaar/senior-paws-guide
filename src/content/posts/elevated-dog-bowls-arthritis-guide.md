@@ -3,7 +3,7 @@ title: 'Best Elevated Dog Bowls for Dogs with Arthritis: FAQ + Picks'
 description: >-
   Dogs with arthritis benefit significantly from reduced strain on their joints,
   and elevated dog bowls can play a meaningful role in their daily comfort.
-pubDate: '2026-09-07'
+pubDate: '2026-09-07T10:00:00Z'
 structureType: qna
 topicId: elevated-dog-bowls-arthritis-guide
 tags: []

@@ -4,7 +4,7 @@ description: >-
   Climbing in and out of a car is one of the first activities that becomes
   painful for senior dogs and large breeds dealing with arthritis, joint strain,
   or…
-pubDate: '2026-09-08'
+pubDate: '2026-09-08T17:00:00Z'
 structureType: comparison
 topicId: dog-ramps-for-car-guide
 tags: []

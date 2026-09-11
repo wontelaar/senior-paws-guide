@@ -3,7 +3,7 @@ title: 'Joint Supplements for Senior Dogs: What to Look for Before You Buy'
 description: >-
   As dogs enter their senior years, the wear and tear on their joints becomes
   increasingly visible.
-pubDate: '2026-09-09'
+pubDate: '2026-09-09T17:00:00Z'
 structureType: narrative-guide
 topicId: senior-dog-joint-supplements-guide
 tags: []
