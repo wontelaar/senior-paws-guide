@@ -13,6 +13,7 @@ heroImage: >-
   https://images.pexels.com/photos/36074841/pexels-photo-36074841/free-photo-of-dog-with-wheelchair-on-sunny-lawn.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 Watching a senior dog struggle to stand up or drag their hind legs across the floor is heartbreaking for any pet owner—and it signals that something significant has changed in their mobility and quality of life. Advanced arthritis, degenerative myelopathy (DM), intervertebral disc disease (IVDD), or stroke recovery can all rob a dog of the use of their back legs, leaving them unable to walk, play, or move independently. For many owners, the instinct is to manage pain through medication or rest, but there's another option that can restore dignity and activity: a dog wheelchair or mobility cart designed to support the hind legs or full body. Before you search for the perfect device, it's essential to understand what these tools do, how they differ, and what your individual dog actually needs.
 

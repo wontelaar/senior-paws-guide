@@ -12,6 +12,7 @@ heroImage: >-
   https://images.pexels.com/photos/31035364/pexels-photo-31035364/free-photo-of-adorable-dog-snuggled-under-soft-blanket.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 Aging dogs with arthritis often struggle to find comfortable resting positions, especially during cold months or in poorly insulated spaces—leaving owners feeling helpless as their pets limp and struggle to settle. A heated dog bed designed for senior dogs can ease joint stiffness, reduce pain, and help arthritic pets sleep more soundly throughout the night. This guide compares the best heated options currently available, helping you find the right fit for your dog's size, mobility needs, and your budget.
 
