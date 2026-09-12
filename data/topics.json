@@ -481,6 +481,76 @@
       "heroImage": "https://images.pexels.com/photos/9280414/pexels-photo-9280414.jpeg?cs=tinysrgb&w=1200"
     },
     {
+      "id": "dog-water-fountains-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Best Dog Water Fountains to Keep Senior Dogs Hydrated",
+      "category": "Feeding & Medication",
+      "targetKeyword": "dog water fountain for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8132361/pexels-photo-8132361.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B0DS2N3T3X",
+          "name": "oneisall 10L/2.6Gal Dog Water Fountain for Large Dogs",
+          "notes": "Deeper/wider drinking area, visualization window, triple filtration, 304 stainless steel, for large dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71AKlSxc3dL._AC_SX679_.jpg"
+        },
+        {
+          "asin": "B0H6Q8K39Z",
+          "name": "PETLIBRO Small Dog Water Fountain (Cordless)",
+          "notes": "Battery-operated, cordless (no cord near water), stainless steel tray, quiet, for small/medium dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81PWbPH1p7L._AC_SX679_.jpg"
+        },
+        {
+          "asin": "B0FGCLGS52",
+          "name": "Heouvo 2.5 Gal Gravity Dog Water Dispenser",
+          "notes": "No electricity/motor required, wide-mouth tank reachable for cleaning, removable stainless steel bowl, automatic refill",
+          "imageUrl": "https://m.media-amazon.com/images/I/71BVNWgyaNL._AC_SY879_.jpg"
+        },
+        {
+          "asin": "B002SB91QS",
+          "name": "PetSafe Drinkwell Stainless Multi-Pet Fountain",
+          "notes": "Customizable 1-5 water streams, rust/scratch-resistant stainless steel, carbon and foam filters included, established brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/61U6HBdn2+L._AC_SX679_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-ear-cleaning-solutions-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Ear Cleaning Solutions for Senior Dogs Prone to Infections",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "ear cleaner for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/15983107/pexels-photo-15983107/free-photo-of-basset-hound-close-up.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B0064HTOVY",
+          "name": "Zymox Ear Cleanser Solution for Dogs and Cats",
+          "notes": "Enzymatic formula, established vet brand, no rinsing required, gentle routine cleaning",
+          "imageUrl": "https://m.media-amazon.com/images/I/61U6HBdn2+L._AC_SX679_.jpg"
+        },
+        {
+          "asin": "B07657TQ5X",
+          "name": "VetWELL Ear Cleaner for Dogs and Cats (Cucumber Melon)",
+          "notes": "Otic solution to help manage odor and reduce wax build-up, pleasant scent",
+          "imageUrl": "https://m.media-amazon.com/images/I/618UkVGE28L._AC_SX679_.jpg"
+        },
+        {
+          "asin": "B01IRO7WR4",
+          "name": "Pet MD Dog Ear Cleaning Wipes",
+          "notes": "Wipe format (no liquid application needed), aloe vera and eucalyptus, 100 count, soothing for sensitive senior ears",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IzoOFjvAL._AC_SX679_.jpg"
+        },
+        {
+          "asin": "B0056EAKUA",
+          "name": "Epiotic Advanced Ear Cleanser",
+          "notes": "Neutral pH routine ear wash, dries wet ears, vet-recommended for infection-prone ears",
+          "imageUrl": "https://m.media-amazon.com/images/I/51MOfjgj4XL._AC_SX679_.jpg"
+        }
+      ]
+    },
+    {
       "id": "senior-dog-strollers-guide",
       "status": "ready",
       "structureType": "narrative-guide",
