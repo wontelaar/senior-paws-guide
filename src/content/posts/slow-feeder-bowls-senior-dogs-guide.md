@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/8057552/pexels-photo-8057552.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Senior dogs who eat too fast face real health risks—from vomiting and choking to uncomfortable bloat-like sensations—especially as their digestive systems become more sensitive with age. A slow feeder bowl addresses the root cause of rapid eating by using maze-like patterns or barriers to physically slow down food consumption, making it a practical solution that works alongside any diet a dog is already eating.
