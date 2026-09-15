@@ -585,6 +585,181 @@
         }
       ],
       "heroImage": "https://images.pexels.com/photos/30655024/pexels-photo-30655024/free-photo-of-cute-dog-in-stroller-on-urban-pathway.jpeg?cs=tinysrgb&w=1200"
+    },
+    {
+      "id": "automatic-feeders-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Automatic Pet Feeders for Senior Dogs on Feeding Schedules",
+      "category": "Feeding & Medication",
+      "targetKeyword": "automatic feeder for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8473447/pexels-photo-8473447.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B0953SDCRG",
+          "name": "PETLIBRO Automatic Cat Feeder (3L, Small Dogs)",
+          "notes": "Programmable timed portions, airtight storage, voice meal call, dual power backup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71o4Rw9o-+L._AC_SY679_.jpg"
+        },
+        {
+          "asin": "B09S8WMJY9",
+          "name": "PETLIBRO 5G WiFi Automatic Feeder (5L)",
+          "notes": "App-controlled remote feeding, freshness preservation, low food sensor, up to 10 meals per day",
+          "imageUrl": "https://m.media-amazon.com/images/I/71g1HcpaAzL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B0GR69G44J",
+          "name": "Automatic Dog Feeder with Elevated Stand (7L)",
+          "notes": "Elevated stand for easier joint-friendly access, large tray, 6 meals per day, detachable for cleaning",
+          "imageUrl": "https://m.media-amazon.com/images/I/614VmoZxCWL._AC_SX466_.jpg"
+        },
+        {
+          "asin": "B06ZYRTYRM",
+          "name": "Amazon Basics Gravity Pet Food Feeder (Small)",
+          "notes": "No electricity or programming required, simple gravity-fed budget option, easy to clean and fill",
+          "imageUrl": "https://m.media-amazon.com/images/I/71OSJCa84RL._AC_SY450_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pill-dispensers-medicine-syringes-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Pill Dispensers and Medicine Syringes for Senior Dogs on Daily Medication",
+      "category": "Feeding & Medication",
+      "targetKeyword": "pill dispenser for dogs on medication",
+      "heroImage": "https://images.pexels.com/photos/30556345/pexels-photo-30556345/free-photo-of-rescue-dog-being-comforted-by-caregiver.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B084GFZZNW",
+          "name": "Ezy Dose Pets Weekly 7-Day Pill Organizer for Dogs",
+          "notes": "Pet-specific 7-day organizer, large compartments, transparent lids, helps track multi-med schedules",
+          "imageUrl": "https://m.media-amazon.com/images/I/51u16RYKxqL._AC_SX425_.jpg"
+        },
+        {
+          "asin": "B0FJ53ZSLR",
+          "name": "Pill Shooter for Dogs and Cats (Soft Tip)",
+          "notes": "H-bar design reusable syringe, soft tip pill gun for dogs who resist swallowing pills directly",
+          "imageUrl": "https://m.media-amazon.com/images/I/41m6kcZF6oL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B0F3DQ41L1",
+          "name": "Clear Pet Feeding Syringe (Oral Medication Dispenser)",
+          "notes": "BPA-free with measurement marks, for liquid medicine, food paste, and hydration support",
+          "imageUrl": "https://m.media-amazon.com/images/I/41PUyaZuYdL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B07SS9C1Y2",
+          "name": "Dog Pill Shooter for Large Dogs (2-Pack)",
+          "notes": "Sized for medium-to-large breeds up to 45 lb, handy pill gun format",
+          "imageUrl": "https://m.media-amazon.com/images/I/61SZ8D75TeL._AC_SX450_PIbundle-2,TopRight,0,0_SH20_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "deshedding-brushes-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Deshedding Brushes for Senior Dogs with Thinning or Sensitive Coats",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "deshedding brush for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/4148864/pexels-photo-4148864.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B0C7SBCW4Y",
+          "name": "AKC Deshedding Slicker Brush",
+          "notes": "Coated tips, skin-friendly, removes loose hair and detangles fur, established brand",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HYbHdpE0L._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B00VC8DQX2",
+          "name": "SleekEZ Dog Brush for Shedding",
+          "notes": "Patented deshedding design, made in USA, works on short, medium, and long coats",
+          "imageUrl": "https://m.media-amazon.com/images/I/51EZk3LTzfL._SY355_.jpg"
+        },
+        {
+          "asin": "B0CLLR73KJ",
+          "name": "Swihauk Self-Cleaning Slicker Brush",
+          "notes": "Retractable bristles for one-button hair removal, skin-friendly, less bending or pulling for owners",
+          "imageUrl": "https://m.media-amazon.com/images/I/61G9ZjT3EOL._SY355_.jpg"
+        },
+        {
+          "asin": "B0DGKQ4SM2",
+          "name": "Soft Boar Bristle Pet Palm Brush",
+          "notes": "Ergonomic palm design reduces wrist strain, gentle bristles for short-haired dogs, daily grooming",
+          "imageUrl": "https://m.media-amazon.com/images/I/71mg8q4QpPL._SY355_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "nail-clippers-grinders-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Nail Clippers and Grinders for Senior Dogs with Thick or Brittle Nails",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "nail grinder for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/10945113/pexels-photo-10945113.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B0BBLJFS55",
+          "name": "Casfuy 6-Speed Dog Nail Grinder",
+          "notes": "Rechargeable, super quiet, 6 speeds for gradual and gentle grinding, for large, medium, and small dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/61hpFXt6W7L._AC_SX466_.jpg"
+        },
+        {
+          "asin": "B0G7YF7J32",
+          "name": "Fanttik F2 Master Pet Nail Grinder",
+          "notes": "LED light, 5-speed variable, quiet motor, rechargeable, precision grooming kit",
+          "imageUrl": "https://m.media-amazon.com/images/I/61bmyQcLRPL._SY355_.jpg"
+        },
+        {
+          "asin": "B09V5PDTSD",
+          "name": "iToleeve LED Dog Nail Clipper",
+          "notes": "Built-in LED light illuminates the nail to help see the quick, safety guard, extra-sharp blade",
+          "imageUrl": "https://m.media-amazon.com/images/I/71clUEtMQCL._AC_SX425_.jpg"
+        },
+        {
+          "asin": "B00UJ2WLB0",
+          "name": "Boshel Large Dog Nail Clippers",
+          "notes": "Manual guillotine-style with safety guard to avoid over-cutting, razor-sharp blades, budget-friendly",
+          "imageUrl": "https://m.media-amazon.com/images/I/61I3O9vGIIL._AC_SY606_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cleansing-wipes-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Cleansing Wipes for Senior Dogs with Incontinence or Sensitive Skin",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog wipes for senior dogs incontinence",
+      "heroImage": "https://images.pexels.com/photos/31512023/pexels-photo-31512023/free-photo-of-resting-dog-on-cozy-blanket-in-sunlight.jpeg?cs=tinysrgb&w=1200",
+      "products": [
+        {
+          "asin": "B0CQ3K73R9",
+          "name": "Pet Life Unlimited Cleansing Dog Wipes (Fragrance Free)",
+          "notes": "Fragrance-free formula, gentle for sensitive senior skin, 72-count",
+          "imageUrl": "https://m.media-amazon.com/images/I/81nM8GrM0ML._AC_SY450_PIbundle-72,TopRight,0,0_SH20_.jpg"
+        },
+        {
+          "asin": "B0DP7ZCLLK",
+          "name": "3-in-1 Dog Wipes for Paws and Butt",
+          "notes": "Deodorizing, hypoallergenic, purpose-built for paw and rear-end cleanup, 100-count",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eHDFT9aBL._AC_SX466_PIbundle-100,TopRight,0,0_SH20_.jpg"
+        },
+        {
+          "asin": "B07T91VNSQ",
+          "name": "Nootie Medicated Dog Wipes (Chlorhexidine + Miconazole)",
+          "notes": "Medicated formula for infection-prone or irritated skin, used in vet clinics, 70-count XL wipes",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ur71+6NgL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B07RY3K9YR",
+          "name": "Arm & Hammer Heavy Duty Multipurpose Dog Wipes",
+          "notes": "Established brand, deodorizes and freshens coat and skin between baths, 100-count",
+          "imageUrl": "https://m.media-amazon.com/images/I/61FFJ7Lt0pL._AC_SY450_.jpg"
+        }
+      ]
     }
   ]
 }
