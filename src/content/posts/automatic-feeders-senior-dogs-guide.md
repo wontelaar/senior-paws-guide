@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/8473447/pexels-photo-8473447.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Keeping a senior dog on a consistent feeding schedule can be challenging when arthritis, mobility issues, or your own unpredictable schedule gets in the way. An automatic pet feeder removes the guesswork and physical strain—both for you and your aging companion—by dispensing measured portions at set times throughout the day. This guide compares four feeders designed to meet the needs of older dogs, from budget-conscious gravity models to app-controlled smart devices.
