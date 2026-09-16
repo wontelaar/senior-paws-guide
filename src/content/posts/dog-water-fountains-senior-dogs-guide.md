@@ -70,7 +70,7 @@ This gravity-fed system requires no electricity or motor, making it the simplest
 ### PetSafe Drinkwell Stainless Multi-Pet Fountain <a href="https://www.amazon.com/dp/B002SB91QS?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PetSafe Drinkwell Stainless Multi-Pet Fountain</a>
 
 <div class="product-card">
-  <img src="https://m.media-amazon.com/images/I/61U6HBdn2+L._AC_SX679_.jpg" alt="PetSafe Drinkwell Stainless Multi-Pet Fountain" loading="lazy" />
+  <img src="https://m.media-amazon.com/images/I/71lzKycY7XL._AC_SY450_.jpg" alt="PetSafe Drinkwell Stainless Multi-Pet Fountain" loading="lazy" />
   <div class="product-card-body">
     <div class="product-card-name">PetSafe Drinkwell Stainless Multi-Pet Fountain</div>
     <p class="product-card-notes">Customizable 1-5 water streams, rust/scratch-resistant stainless steel, carbon and foam filters included, established brand</p>
