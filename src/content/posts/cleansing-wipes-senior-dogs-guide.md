@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/31512023/pexels-photo-31512023/free-photo-of-resting-dog-on-cozy-blanket-in-sunlight.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 Senior dogs face a unique combination of physical and physiological challenges that make routine hygiene more complicated than it is for younger animals. As dogs age, their muscles weaken—including those that control bladder and bowel function—leading to incontinence that can occur during sleep, rest, or even while moving around the house. At the same time, the skin of an aging dog becomes thinner, more fragile, and more prone to irritation, fungal infections, and bacterial overgrowth, especially in areas that stay warm and moist. When a senior dog deals with both incontinence and sensitive skin, the problem compounds: frequent contact with urine or feces irritates already vulnerable skin, and conventional bathing becomes impractical as a daily solution due to the physical toll on arthritic joints and the stress of repeated water exposure.
 
