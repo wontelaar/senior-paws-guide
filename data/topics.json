@@ -760,6 +760,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61FFJ7Lt0pL._AC_SY450_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-knee-leg-braces-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Knee Braces and Leg Braces for Senior Dogs with Arthritis or Joint Injuries",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog knee brace for arthritis",
+      "heroImage": "https://images.pexels.com/photos/35127942/pexels-photo-35127942/free-photo-of-close-up-of-a-senior-mixed-breed-dog-outdoors.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Braces support different problems (ACL/CCL tears, patellar luxation, hock instability, generalized arthritis), and the right type depends on which joint and condition a vet has actually diagnosed. Frame this as informational and recommend a vet or canine rehab professional confirm the diagnosis and correct sizing/fit before buying, rather than choosing a brace based on limping alone.",
+      "products": [
+        {
+          "asin": "B0B6GK43VZ",
+          "name": "Ortocanis Dog Knee Brace for Hind Leg Support (Large, Right Leg)",
+          "notes": "Neoprene knee brace for hind-leg joint instability, torn ACL, or osteoarthritis; established Spanish orthopedic pet brand; sold by side and size, 2,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/711Tj69zBFL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B0H27FVJD5",
+          "name": "MerryMilo Dog Knee Brace for Torn ACL Hind Leg (Medium)",
+          "notes": "Adjustable hind-leg brace with metal stabilizers for ACL/CCL tears, luxating patella, hip dysplasia, and arthritis; budget-friendly alternative to specialty orthopedic brands",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qtePtgujL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B01N7OLQ8Q",
+          "name": "Labra Dog Rear Leg Hock Joint Compression Wrap (Large)",
+          "notes": "Compression wrap specifically for hock (ankle) joint support in weak back legs; explicitly marketed for senior dogs; 1,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71sCZlPpseL._SY445_.jpg"
+        },
+        {
+          "asin": "B07HG94VGD",
+          "name": "Walkin' Wrist Hugger Dog Brace for Front Legs",
+          "notes": "Carpal/wrist joint brace for front-leg arthritis, from Walkin' Pets, an established canine mobility brand better known for wheelchairs and rear-leg braces",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ofl5T3BsL._AC_SY450_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-diapers-belly-bands-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Dog Diapers and Belly Bands for Senior Dogs with Incontinence",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog diapers for incontinence",
+      "heroImage": "https://images.pexels.com/photos/36799897/pexels-photo-36799897/free-photo-of-cozy-beagle-relaxing-on-a-soft-blanket.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Diapers and belly bands manage the mess of incontinence but don't address why a dog developed it — recommend a vet visit to rule out treatable causes (UTI, hormone-responsive incontinence, etc.) rather than presenting diapers as a first-line fix. Also note that any diaper or wrap should be checked and changed frequently to avoid skin irritation, moisture buildup, or infection, especially on senior skin that is already more fragile.",
+      "products": [
+        {
+          "asin": "B07283JXS4",
+          "name": "Amazon Basics Male Dog Diapers, Ultra Absorbent Disposable Wrap (Large, 30ct)",
+          "notes": "Disposable male wrap with wetness indicator, leakproof and breathable design, budget-friendly bulk pack, 37,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Kg-zWhxVL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B08RHWWCDP",
+          "name": "Paw Inspired Disposable Female Dog Diapers (Large, 20ct)",
+          "notes": "Disposable female diaper with adjustable fasteners and leakproof core, purpose-built incontinence brand, 21,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cqiSUeCjL._AC_SX466_PIbundle-20,TopRight,0,0_SH20_.jpg"
+        },
+        {
+          "asin": "B06ZY3NWG4",
+          "name": "Pet Parents Washable Dog Diapers, Female (3-pack, X-Large)",
+          "notes": "Reusable washable female diaper set with extender straps for a secure fit, lower long-term cost than disposables, 44,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/512BrKD8OLL._AC_SY450_PIbundle-3,TopRight,0,0_SH20_.jpg"
+        },
+        {
+          "asin": "B01ENRLFG8",
+          "name": "Pet Parents Washable Belly Bands for Male Dogs (3-pack, Large)",
+          "notes": "Reusable washable male belly band set from the same established brand, extender straps included, 21,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51WAO6MRvUL._AC_SY450_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "senior-dog-probiotics-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Probiotics and Digestive Supplements for Senior Dogs with Sensitive Stomachs",
+      "category": "Feeding & Medication",
+      "targetKeyword": "probiotics for senior dogs digestion",
+      "heroImage": "https://images.pexels.com/photos/6568950/pexels-photo-6568950.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Health/supplement content — stick to describing ingredients and manufacturer claims, avoid making medical claims ourselves, and suggest checking with a vet, especially since new or worsening digestive symptoms in a senior dog can also signal something needing an actual diagnosis rather than just a supplement. Do not claim any supplement treats, cures, or replaces veterinary care.",
+      "products": [
+        {
+          "asin": "B001650NNW",
+          "name": "Purina Pro Plan FortiFlora Dog Probiotic Supplement",
+          "notes": "Vet-line powder probiotic sachets (Enterococcus faecium strain), widely recommended by veterinarians, sprinkles onto food, 49,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ppwe2THcL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B001O3UE9E",
+          "name": "Nutramax Proviable Probiotics + Prebiotics Capsules (80ct)",
+          "notes": "Multi-strain probiotic and prebiotic capsules that can be opened and sprinkled on food; from Nutramax, the same established brand behind Cosequin",
+          "imageUrl": "https://m.media-amazon.com/images/I/71h2ELnwhFL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B0169FBLPC",
+          "name": "NaturVet Advanced Probiotics & Enzymes Soft Chews (120ct)",
+          "notes": "Chewable soft-chew format combining probiotics with digestive enzymes, useful for dogs that won't eat powder mixed into food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61X1dmls5-L._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B0BS4SVVCK",
+          "name": "Native Pet Probiotics for Dogs Powder (30 scoops)",
+          "notes": "Vet-formulated powder with dog-specific probiotic strains, marketed for stool quality and supporting diet transitions",
+          "imageUrl": "https://m.media-amazon.com/images/I/81PFnC0IpAL._AC_SX466_PIbundle-30,TopRight,0,0_SH20_.jpg"
+        }
+      ]
     }
   ]
 }
