@@ -29,6 +29,15 @@ Hard rules — do not break these:
 - Target length: 1100-1600 words in the body.
 - No keyword stuffing: use the target keyword and close variants naturally,
   not repeated mechanically.
+- Vary your sentence patterns, especially when introducing a caveat or
+  downside for each product. Do NOT default to the same stock phrase every
+  time (e.g. "The trade-off is...", "The downside is...", "The limitation
+  is..." repeated across products/articles reads as formulaic and AI-
+  generated). Work each caveat into the sentence naturally and differently —
+  through contrast ("but", "though", "that said"), through a question the
+  reader would ask, through a conditional ("if you need X, this falls
+  short"), etc. No two product write-ups in this article should lean on the
+  same caveat-introduction phrase.
 `;
 
 function productList(products) {
@@ -57,7 +66,7 @@ export function buildPrompt(topic) {
 Structure this one as a comparison/roundup:
 1. A short intro (2-3 sentences) framing the real problem this solves for someone with an aging or arthritic dog.
 2. A markdown comparison table summarizing the products below (columns: Product, Best For, Key Feature, Notes).
-3. One subsection per product (### heading with the product name) with a 2-4 sentence mini-review covering what it is, who it's best suited for, and one realistic caveat or trade-off — do not only list positives.
+3. One subsection per product (### heading with the product name) with a 2-4 sentence mini-review covering what it is, who it's best suited for, and one realistic caveat or limitation — do not only list positives.
 4. A "How to Choose" section (bulleted) covering the real factors a buyer should weigh (size/weight of dog, thickness, washability, budget).
 5. A short FAQ section (2-3 Q&As) addressing common follow-up questions about this product category.
 
@@ -71,7 +80,7 @@ ${context}${SHARED_RULES}`;
 
 Structure this one as a narrative/explainer guide, NOT a table-driven roundup:
 1. Open by explaining the underlying problem in plain terms (why this matters for senior/arthritic dogs specifically).
-2. Walk through the 2-3 main approaches or categories a reader should understand before buying anything (explain the trade-offs in prose, not a table).
+2. Walk through the 2-3 main approaches or categories a reader should understand before buying anything (explain what each gains and gives up in prose, not a table).
 3. Weave in the specific products below as concrete examples within the relevant section of prose — introduce each by name with a sentence or two on what makes it fit that approach, using the placeholder token described below.
 4. Close with a short practical checklist (bulleted) of what to measure or check before buying.
 
