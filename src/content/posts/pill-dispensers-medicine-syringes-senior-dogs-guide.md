@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/30556345/pexels-photo-30556345/free-photo-of-rescue-dog-being-comforted-by-caregiver.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Getting a senior dog to take their daily medications can feel like a small battle every single day. As dogs age, especially those dealing with arthritis, joint pain, or chronic conditions, veterinarians often prescribe ongoing medications—sometimes multiple pills or doses per day. The challenge isn't just remembering *when* to give them; it's actually getting the pill into your dog's mouth and ensuring they swallow it, without turning medication time into a stressful standoff. For arthritic or mobility-limited senior dogs, wrestling them into position or hand-feeding pills can be uncomfortable for both pet and owner. Beyond the immediate logistics, managing a multi-medication routine also increases the risk of missed or doubled doses, which is especially risky when medications need precise timing or have specific interactions.
