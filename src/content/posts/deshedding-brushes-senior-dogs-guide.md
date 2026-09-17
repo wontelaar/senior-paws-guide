@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/4148864/pexels-photo-4148864.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 As your dog enters their senior years, grooming becomes less about aesthetics and more about comfort—matted fur can trap heat, irritate sensitive skin, and cause real pain during removal. A quality deshedding brush designed for aging dogs can reduce loose hair buildup, prevent painful tangles, and make grooming sessions gentler on both your pet and your own wrists and hands. This guide compares four thoughtfully designed options to help you find the right tool for your older companion's changing coat and needs.
