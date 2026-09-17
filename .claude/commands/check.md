@@ -1,6 +1,5 @@
 ---
-name: check
-description: 링크검사랑 초안 점검해줘 — pull latest, review new drafts, verify Amazon links, approve and push. Use when the user asks to check/review drafts and links for the Senior Paws Guide project.
+description: 링크검사랑 초안 점검해줘 — pull latest, review new drafts, verify Amazon links, approve and push
 ---
 
 Do the recurring Senior Paws Guide review routine:
