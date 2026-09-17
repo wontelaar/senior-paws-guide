@@ -39,12 +39,30 @@ async function alreadyGeneratedTopicIds() {
 }
 
 function resolveLinkTokens(markdown, products, amazonTag) {
-	return markdown.replace(/\{\{LINK:([A-Z0-9]{10}):([^}]+)\}\}/g, (_match, asin, name) => {
-		const known = products.find((p) => p.asin === asin);
-		const label = (known?.name || name).trim();
-		const href = `https://www.amazon.com/dp/${asin}?tag=${amazonTag}`;
+	// The model occasionally mistypes an ASIN by a character (e.g. dropping a
+	// digit), which used to leave the raw {{LINK:...}} token in the published
+	// draft since it wouldn't match a known product. Match loosely on length
+	// first, then fall back to the placeholder's own product name if the ASIN
+	// itself doesn't line up with anything in this topic's product list.
+	const body = markdown.replace(/\{\{LINK:([A-Z0-9]{8,12}):([^}]+)\}\}/g, (_match, asin, name) => {
+		const known =
+			products.find((p) => p.asin === asin) ||
+			products.find((p) => p.name.trim().toLowerCase() === name.trim().toLowerCase());
+		if (!known) {
+			console.warn(`[generate-post] no product match for {{LINK:${asin}:${name}}} -- emitting plain text`);
+			return name.trim();
+		}
+		const label = known.name.trim();
+		const href = `https://www.amazon.com/dp/${known.asin}?tag=${amazonTag}`;
 		return `<a href="${href}" target="_blank" rel="nofollow sponsored noopener">${label}</a>`;
 	});
+	// Belt-and-suspenders: never let a malformed/unresolved token reach the
+	// draft file silently -- fail the generation run instead so it's caught
+	// at generation time, not discovered later during human review.
+	if (body.includes('{{LINK:')) {
+		throw new Error(`Unresolved {{LINK:...}} token(s) remain after substitution:\n${body.match(/\{\{LINK:[^}]*\}\}/g)?.join('\n')}`);
+	}
+	return body;
 }
 
 function escapeHtml(str) {
