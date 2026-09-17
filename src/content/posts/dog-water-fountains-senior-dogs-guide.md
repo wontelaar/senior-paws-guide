@@ -39,7 +39,7 @@ Senior dogs often struggle to stay hydrated due to arthritis, mobility issues, o
   </div>
 </div>
 
-This large-capacity fountain features a deeper and wider drinking area designed to accommodate bigger dogs without forcing them to bend their joints uncomfortably. The 304 stainless steel construction resists corrosion, and the triple-filtration system keeps water cleaner between refills. A visualization window lets you monitor water levels without lifting the lid. The trade-off is that this model requires a power outlet and has a larger footprint, making it less portable if you need to move it between rooms or take it traveling.
+This large-capacity fountain features a deeper and wider drinking area designed to accommodate bigger dogs without forcing them to bend their joints uncomfortably. The 304 stainless steel construction resists corrosion, and the triple-filtration system keeps water cleaner between refills. A visualization window lets you monitor water levels without lifting the lid. It does require a power outlet and has a larger footprint, though, making it less portable if you need to move it between rooms or take it traveling.
 
 ### PETLIBRO Small Dog Water Fountain (Cordless) <a href="https://www.amazon.com/dp/B0H6Q8K39Z?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PETLIBRO Small Dog Water Fountain (Cordless)</a>
 
@@ -65,7 +65,7 @@ Designed for small to medium-sized senior dogs, this fountain runs on batteries,
   </div>
 </div>
 
-This gravity-fed system requires no electricity or motor, making it the simplest and most reliable option for power outages or homes where you prefer to avoid electronics. The wide-mouth tank is easy to access for cleaning, and the removable stainless steel bowl provides automatic refill as your dog drinks. The main limitation is the absence of a filtration system—water quality depends entirely on how often you refill and clean the tank, making it more work for owners who want passive water purification.
+This gravity-fed system requires no electricity or motor, making it the simplest and most reliable option for power outages or homes where you prefer to avoid electronics. The wide-mouth tank is easy to access for cleaning, and the removable stainless steel bowl provides automatic refill as your dog drinks. What it lacks is a filtration system — water quality depends entirely on how often you refill and clean the tank, making it more work for owners who want passive water purification.
 
 ### PetSafe Drinkwell Stainless Multi-Pet Fountain <a href="https://www.amazon.com/dp/B002SB91QS?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PetSafe Drinkwell Stainless Multi-Pet Fountain</a>
 

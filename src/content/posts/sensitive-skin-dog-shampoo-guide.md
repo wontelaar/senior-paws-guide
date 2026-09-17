@@ -64,7 +64,7 @@ Formulated to address itchy, irritated, and allergy-prone skin in dogs and cats,
   </div>
 </div>
 
-This medicated formula addresses hot spots, scratching, and licking behaviors on sensitive skin and represents a middle ground between natural and clinical-strength options in terms of cost. It appeals to budget-conscious owners seeking veterinary-grade care without the premium price tag. The limitation is that it lacks the specific antimicrobial agents (like ketoconazole or high-dose chlorhexidine) of stronger formulas, making it better suited for mild to moderate irritation rather than confirmed infections.
+This medicated formula addresses hot spots, scratching, and licking behaviors on sensitive skin and represents a middle ground between natural and clinical-strength options in terms of cost. It appeals to budget-conscious owners seeking veterinary-grade care without the premium price tag. It lacks the specific antimicrobial agents (like ketoconazole or high-dose chlorhexidine) of stronger formulas, though, making it better suited for mild to moderate irritation rather than confirmed infections.
 
 ### TropiClean Oatmeal & Tea Tree Pet Shampoo <a href="https://www.amazon.com/dp/B000WT8REK?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">TropiClean Oatmeal & Tea Tree Pet Shampoo</a>
 

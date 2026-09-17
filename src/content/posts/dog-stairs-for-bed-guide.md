@@ -61,7 +61,7 @@ A middle-ground option is the **Love's Cabin Foldable Pet Stairs** <a href="http
 
 A ramp offers a gentler alternative to stairs by presenting a continuous, sloped surface rather than discrete steps. Instead of climbing, a dog walks or shuffles upward at an angle. This can feel less jarring for dogs with severe arthritis because there's no impact from stepping up—just forward motion along an incline.
 
-The tradeoff is that ramps require your dog to use their hind legs continuously to propel forward, which can be difficult for dogs with hip dysplasia or lower-back pain. Additionally, ramps take up more linear floor space than stairs (they need to extend further to keep the incline gentle). For a 24-inch bed height with a shallow, safer incline angle, a ramp might stretch 4 to 6 feet from floor to bed surface.
+Ramps do require your dog to use their hind legs continuously to propel forward, which can be difficult for dogs with hip dysplasia or lower-back pain. Additionally, ramps take up more linear floor space than stairs (they need to extend further to keep the incline gentle). For a 24-inch bed height with a shallow, safer incline angle, a ramp might stretch 4 to 6 feet from floor to bed surface.
 
 Ramps often feature textured or cushioned surfaces to prevent slipping—critical since a senior dog can't afford a fall. Some ramps are curved or have a transition section where the ramp meets the bed, easing the final step up.
 

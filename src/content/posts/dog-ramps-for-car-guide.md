@@ -40,7 +40,7 @@ Climbing in and out of a car is one of the first activities that becomes painful
   </div>
 </div>
 
-The PetSafe Happy Ride is a 62-inch folding ramp with side rails and a high-traction surface, built by a trusted pet safety brand. It's a dependable choice for pet owners who want a lightweight option that's easy to store in a closet or trunk. The trade-off is that its length and width are moderate compared to wider or longer alternatives, which may feel steep for very large dogs or create hesitation on steeper vehicle heights.
+The PetSafe Happy Ride is a 62-inch folding ramp with side rails and a high-traction surface, built by a trusted pet safety brand. It's a dependable choice for pet owners who want a lightweight option that's easy to store in a closet or trunk. Its length and width are moderate compared to wider or longer alternatives, though, which may feel steep for very large dogs or create hesitation on steeper vehicle heights.
 
 ### HerCcreta wigge Car Dog Ramp <a href="https://www.amazon.com/dp/B0CG2VNXWG?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">HerCcreta wigge Car Dog Ramp (160cm)</a>
 
@@ -79,7 +79,7 @@ The Extra-Wide Car Dog Ramp <a href="https://www.amazon.com/dp/B0HD6CZ2C2?tag=se
   </div>
 </div>
 
-The PetThem Car Dog Ramp <a href="https://www.amazon.com/dp/B0D2NMKNWH?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PetThem Car Dog Ramp (180.3cm)</a> is a 180.3-centimeter extra-long ramp with a non-slip rug surface and a robust 250-pound weight capacity, making it suitable for large and senior dogs. The extended length creates a gentler incline, which is easier on joints and more appealing to hesitant or older pets. The drawback is that its length can be impractical for compact vehicles or smaller SUVs, and like other longer ramps, it requires more storage space.
+The PetThem Car Dog Ramp <a href="https://www.amazon.com/dp/B0D2NMKNWH?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PetThem Car Dog Ramp (180.3cm)</a> is a 180.3-centimeter extra-long ramp with a non-slip rug surface and a robust 250-pound weight capacity, making it suitable for large and senior dogs. The extended length creates a gentler incline, which is easier on joints and more appealing to hesitant or older pets. That length can be impractical for compact vehicles or smaller SUVs, and like other longer ramps, it requires more storage space.
 
 ---
 

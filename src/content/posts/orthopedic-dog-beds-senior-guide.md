@@ -91,7 +91,7 @@ As dogs get older, a lot of them start avoiding the same spots on the floor they
   </div>
 </div>
 
-<a href="https://www.amazon.com/dp/B0D6DSQ78J?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">CWAWZ Cooling-Gel Orthopedic Dog Bed</a> uses cooling gel memory foam, which matters for dogs that run hot or live somewhere warm — plain memory foam can trap body heat, which some older, less mobile dogs notice more since they spend more hours lying in one place. Waterproof and washable like the others; the main trade-off is that gel-infused foam tends to cost a bit more than standard foam of the same thickness.
+<a href="https://www.amazon.com/dp/B0D6DSQ78J?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">CWAWZ Cooling-Gel Orthopedic Dog Bed</a> uses cooling gel memory foam, which matters for dogs that run hot or live somewhere warm — plain memory foam can trap body heat, which some older, less mobile dogs notice more since they spend more hours lying in one place. Waterproof and washable like the others; the catch is that gel-infused foam tends to cost a bit more than standard foam of the same thickness.
 
 ## How to Choose
 

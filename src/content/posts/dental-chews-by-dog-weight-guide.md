@@ -37,7 +37,7 @@ Senior dogs often struggle with dental health due to weakened teeth and gums, ma
   </div>
 </div>
 
-This soft-baked chew pairs a gentle texture with an embedded toothpaste center, designed for small breed dogs and seniors whose teeth need a lighter touch. The vet-formulated approach appeals to owners seeking a clinically backed option without an extreme price tag. The trade-off is that the soft-baked structure may not provide as much mechanical cleaning action as firmer chews, and some dogs finish them very quickly—so ongoing cost per use can add up despite the 70-count package size.
+This soft-baked chew pairs a gentle texture with an embedded toothpaste center, designed for small breed dogs and seniors whose teeth need a lighter touch. The vet-formulated approach appeals to owners seeking a clinically backed option without an extreme price tag. Its soft-baked structure may not provide as much mechanical cleaning action as firmer chews, though, and some dogs finish them very quickly—so ongoing cost per use can add up despite the 70-count package size.
 
 ### Playology Senior Dog Dental Chew Stick <a href="https://www.amazon.com/dp/B084KL16VH?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Playology Senior Dog Dental Chew Stick (Medium, Pork)</a>
 
@@ -63,7 +63,7 @@ Playology explicitly markets this product to senior dogs, using soft rubber with
   </div>
 </div>
 
-A plant-based formula backed by veterinary recommendation and VOHC (Veterinary Oral Health Council) acceptance, this chew is formulated specifically for large dogs over 66 pounds and addresses plaque and tartar control at a clinical level. Virbac is an established veterinary dentistry brand, lending credibility that newer brands may lack. The downside is that VOHC-accepted chews often command premium pricing, making them a higher upfront investment than softer, non-certified alternatives.
+A plant-based formula backed by veterinary recommendation and VOHC (Veterinary Oral Health Council) acceptance, this chew is formulated specifically for large dogs over 66 pounds and addresses plaque and tartar control at a clinical level. Virbac is an established veterinary dentistry brand, lending credibility that newer brands may lack. That clinical backing comes at a price, too — VOHC-accepted chews often command a premium, making them a higher upfront investment than softer, non-certified alternatives.
 
 ### ProDen PlaqueOff Dental Soft Chews <a href="https://www.amazon.com/dp/B0BJP6TG2F?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">ProDen PlaqueOff Dental Soft Chews (Large/Giant Breed, 90ct)</a>
 
