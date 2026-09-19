@@ -13,6 +13,7 @@ heroImage: >-
   https://images.pexels.com/photos/35127942/pexels-photo-35127942/free-photo-of-close-up-of-a-senior-mixed-breed-dog-outdoors.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 Watching your senior dog struggle to climb stairs or hesitate before jumping on the couch is heartbreaking—and often a sign that joint pain, arthritis, or a past injury is catching up with them. A dog knee brace or leg brace can provide immediate support, reduce limping, and help your aging companion stay mobile and comfortable for longer. The catch is that not all braces solve the same problem: some target torn ACL injuries, others support arthritic hocks (ankles), and still others stabilize the wrist or knee. Choosing the right one means understanding your dog's specific diagnosis and what type of support their injured or arthritic joint actually needs.
 
@@ -40,7 +41,7 @@ Watching your senior dog struggle to climb stairs or hesitate before jumping on 
   </div>
 </div>
 
-The Ortocanis brace is a neoprene-based support designed for hind-leg joint instability, torn ACL, and osteoarthritis—exactly the kind of wear-and-tear condition many senior dogs face. Ortocanis is a Spanish orthopedic pet brand with a track record in the space, and the sheer volume of reviews (2,100+) suggests many owners have found it useful for maintaining mobility in aging dogs. One thing to keep in mind: these braces are sold by specific side (left or right leg), so you'll need to measure carefully and order the correct leg to avoid the hassle of a return.
+The Ortocanis brace is a neoprene-based support designed for hind-leg joint instability, torn ACL, and osteoarthritis—exactly the kind of wear-and-tear condition many senior dogs face. Ortocanis is an established Spanish orthopedic pet brand, and it has 2,100+ reviews on Amazon, though its average rating is only middling (around 3.4 out of 5), so it's worth reading recent buyer feedback on fit before ordering. One thing to keep in mind: these braces are sold by specific side (left or right leg), so you'll need to measure carefully and order the correct leg to avoid the hassle of a return.
 
 ### MerryMilo Dog Knee Brace for Torn ACL Hind Leg <a href="https://www.amazon.com/dp/B0H27FVJD5?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">MerryMilo Dog Knee Brace for Torn ACL Hind Leg (Medium)</a>
 
@@ -111,4 +112,4 @@ A: Most dogs can wear a properly fitted brace throughout the day, but it's wise 
 
 **Q: Will my dog adjust to wearing a brace?**
 
-A: Most dogs adapt within a few days to a week, especially if the brace relieves pain and they regain mobility. That said, some dogs are more sensitive to the feeling of support. A properly fitted brace that's comfortable and doesn't restrict movement will be easier for your dog to accept than one that's too tight or poorly positioned. Your vet can help ensure a good fit from the start.
+A: Adjustment time varies from dog to dog, and a brace that relieves pain and restores mobility tends to be accepted more easily. Some dogs are more sensitive to the feeling of support. A properly fitted brace that's comfortable and doesn't restrict movement will be easier for your dog to accept than one that's too tight or poorly positioned. Your vet can help ensure a good fit from the start.
