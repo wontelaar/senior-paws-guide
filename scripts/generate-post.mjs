@@ -15,7 +15,7 @@ const ROOT = path.resolve(import.meta.dirname, '..');
 const TOPICS_PATH = path.join(ROOT, 'data', 'topics.json');
 const POSTS_DIR = path.join(ROOT, 'src', 'content', 'posts');
 const SITE_CONFIG_PATH = path.join(ROOT, 'site.config.json');
-const MODEL = process.env.CONTENT_MODEL || 'claude-haiku-4-5-20251001';
+const MODEL = process.env.CONTENT_MODEL || 'claude-sonnet-5';
 
 async function loadJson(p) {
 	return JSON.parse(await fs.readFile(p, 'utf-8'));
@@ -210,9 +210,14 @@ async function main() {
 
 	const response = await client.messages.create({
 		model: MODEL,
-		max_tokens: 4096,
+		max_tokens: 8000,
+		thinking: { type: 'disabled' },
 		messages: [{ role: 'user', content: prompt }],
 	});
+
+	if (response.stop_reason === 'max_tokens') {
+		throw new Error('Generation hit max_tokens and the article is truncated; not writing a draft.');
+	}
 
 	const rawBody = stripLeadingHeading(
 		response.content
