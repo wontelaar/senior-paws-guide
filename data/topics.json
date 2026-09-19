@@ -868,6 +868,150 @@
           "imageUrl": "https://m.media-amazon.com/images/I/81PFnC0IpAL._AC_SX466_PIbundle-30,TopRight,0,0_SH20_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-cooling-mats-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Best Cooling Mats for Senior Dogs Who Overheat Easily",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "cooling mat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/12503321/pexels-photo-12503321.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A cooling mat is a comfort aid, not a treatment for overheating. Excessive panting, weakness, or collapse in hot weather can be heatstroke and needs immediate veterinary attention; don't imply a mat prevents or treats heat illness.",
+      "products": [
+        {
+          "asin": "B01CHMGU52",
+          "name": "K&H Coolin' Pet Pad (X-Large, 38x27in)",
+          "notes": "No electricity and no gel; wicks heat away and works with added water; marketed for pets with arthritis and hip dysplasia; established pet brand, 700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71MOtSuplTL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CR6G4DH2",
+          "name": "Rywell Dog Cooling Mat 2.0 (44x32in)",
+          "notes": "Thick cooling mat for extra-large dogs, color-changing surface, waterproof interior, chew-resistant stitching, 2,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81IHS9UV-pL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09RGKNW38",
+          "name": "INSPECTOR TAIL Dog Cooling Mat (Large)",
+          "notes": "No-gel self-cooling mat, ice silk fabric, needs no water, freezing or electricity, fits crates and beds, 2,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81X2R8XLsAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DYTPX7JR",
+          "name": "Memory Foam Dog Cooling Mat for Large Dogs (35x23in)",
+          "notes": "Mattress-style high-density memory foam with cool fabric for joint support, fully machine washable, non-slip base",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dmcesuddL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "washable-pee-pads-waterproof-blankets-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Washable Pee Pads and Waterproof Blankets for Senior Dogs with Accidents",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "washable pee pads for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/32743044/pexels-photo-32743044.jpeg?cs=tinysrgb&w=1200",
+      "caution": "New or worsening accidents in a senior dog can signal a treatable medical problem (such as a urinary infection), so recommend a vet check rather than presenting pads as the only answer. Pads and covers protect surfaces but should not stay wet against the dog's skin.",
+      "products": [
+        {
+          "asin": "B07G5FP94F",
+          "name": "Washable Dog Pee Pads (Large, 36x41in)",
+          "notes": "4-layer reusable pad with absorbent middle layer and anti-slip silicone bottom, 23,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51awri6LdzL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0881XD6J9",
+          "name": "GREEN LIFESTYLE Washable Underpads (34x36in)",
+          "notes": "Thick quilted reusable underpads sold for incontinence and pets, fit on beds, 40,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dfCAk2cdL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B087BCGVS9",
+          "name": "Ameritex Waterproof Dog Bed Cover Pet Blanket",
+          "notes": "Reversible waterproof blanket for beds and sofas, machine washable, 36,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/7146J4uayuL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09N6NGX3C",
+          "name": "gogobunny Waterproof Pet Blanket",
+          "notes": "3-layer TPU waterproof barrier, reversible, folds up for travel and vet visits, 18,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91plC2rZf6L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-toothbrush-dental-kits-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Dog Toothbrush and Toothpaste Kits for Senior Dogs: What to Buy and How to Start",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog toothpaste and toothbrush for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/4588018/pexels-photo-4588018.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Brushing supports oral hygiene but does not replace veterinary dental cleaning or treat existing dental disease. A senior dog with loose or broken teeth, bleeding gums, or pain when eating needs a vet exam before brushing. Use dog-specific toothpaste only, never human toothpaste.",
+      "products": [
+        {
+          "asin": "B06XKJNFXX",
+          "name": "Vet's Best Dog Toothpaste & Toothbrush Dental Care Kit",
+          "notes": "Toothpaste with a triple-head toothbrush, natural flavors, 50,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61NAunUAVtL._SL1500_.jpg"
+        },
+        {
+          "asin": "B00FDUU3Z4",
+          "name": "Arm & Hammer Enzymatic Dog Dental Care Kit (Chicken)",
+          "notes": "Fluoride-free enzymatic gel with a dual-ended toothbrush, baking soda formula, 7,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Hn7yDKwAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B004ULZ2PI",
+          "name": "C.E.T. Oral Hygiene Kit for Dogs (Poultry)",
+          "notes": "Veterinary-brand toothpaste with a dual-sided brush and finger brush, 6,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/716c2IekaLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00AMEB50I",
+          "name": "Vetoquinol Enzadent Enzymatic Toothpaste Kit with Fingerbrush",
+          "notes": "Non-foaming poultry-flavor enzymatic toothpaste that can be swallowed without rinsing, includes a finger brush",
+          "imageUrl": "https://m.media-amazon.com/images/I/619IxYC97oL._AC_SL1200_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pet-gates-stairs-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Pet Gates for Blocking Stairs and Keeping Senior Dogs Safe at Home",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "pet gate for stairs senior dog",
+      "heroImage": "https://images.pexels.com/photos/37530316/pexels-photo-37530316/free-photo-of-brown-and-white-dogs-behind-a-gate-outdoors.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Pressure-mounted gates are generally not meant for the top of a staircase; follow each manufacturer's installation instructions and use hardware-mounted gates where required. Don't claim any gate is tested or certified for pets unless stated in the product facts.",
+      "products": [
+        {
+          "asin": "B01EMK5JQI",
+          "name": "Regalo 29-49 Inch Extra Wide Baby Gate",
+          "notes": "Pressure-mount gate for doorways and the bottom of stairs, 30 inches tall, family-owned US brand, 170,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ljzp6menL._AC_SL1140_.jpg"
+        },
+        {
+          "asin": "B07WFZSW72",
+          "name": "Cumbor 30-46 Inch Auto Close Baby Gate",
+          "notes": "Steel auto-close gate with double-lock release, pressure or hardware mounting, 21,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LFMYo7GtL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CWQLTKW8",
+          "name": "keny 29.7-46 Inch Auto Close Baby Gate",
+          "notes": "Metal auto-close gate, 30 inches tall, closes itself when the opening angle is under 90 degrees, double lock",
+          "imageUrl": "https://m.media-amazon.com/images/I/711L3rbn4vL._SL1500_.jpg"
+        },
+        {
+          "asin": "B001OE1PC8",
+          "name": "Regalo 36 Inch Extra Tall Baby Gate",
+          "notes": "36-inch-tall pressure-mount gate fitting openings 29-36.5 inches wide, for doorways and bottom of stairs",
+          "imageUrl": "https://m.media-amazon.com/images/I/91uqG5KTeuL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
