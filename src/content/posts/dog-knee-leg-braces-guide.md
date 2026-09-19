@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/35127942/pexels-photo-35127942/free-photo-of-close-up-of-a-senior-mixed-breed-dog-outdoors.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Watching your senior dog struggle to climb stairs or hesitate before jumping on the couch is heartbreaking—and often a sign that joint pain, arthritis, or a past injury is catching up with them. A dog knee brace or leg brace can provide immediate support, reduce limping, and help your aging companion stay mobile and comfortable for longer. The catch is that not all braces solve the same problem: some target torn ACL injuries, others support arthritic hocks (ankles), and still others stabilize the wrist or knee. Choosing the right one means understanding your dog's specific diagnosis and what type of support their injured or arthritic joint actually needs.
