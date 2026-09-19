@@ -1012,6 +1012,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/91uqG5KTeuL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-lift-harness-slings-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Lift Harnesses and Support Slings for Senior Dogs Who Need Help Standing and Climbing",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog lift harness for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/36192733/pexels-photo-36192733.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Lift aids assist an owner in helping a dog stand or climb; they don't treat the cause of weakness. Sudden or worsening weakness in the back legs needs a vet exam, and owners should lift with proper technique and follow each product's sizing and weight guidance. Don't claim any product prevents injury or treats a condition.",
+      "products": [
+        {
+          "asin": "B07L3VLH5S",
+          "name": "LOOBANI Adjustable Dog Sling for Large Dogs (Hind Leg Support)",
+          "notes": "Rear-end lift sling for elderly dogs and weak hind legs, soft sheepskin-style lining, reflective nylon handle strap, used for stairs, vehicles and furniture, 13,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/611zvRxVbbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07KXGWRYP",
+          "name": "Adjustable Dog Sling for Large Dogs, Hind Leg Support",
+          "notes": "Rear-leg support harness with synthetic fleece lining, marketed for elderly, disabled or post-op dogs, 5,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61eXBek0kOL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CHRVSCTY",
+          "name": "OneTigris Dog Lift Harness for Large Dogs (Full Body)",
+          "notes": "Full-body lifter with handles, separate front chest piece, stainless steel D-rings, sold in sizes S upward, marketed for senior dogs with joint pain or arthritis and post-surgery recovery",
+          "imageUrl": "https://m.media-amazon.com/images/I/71D-MgFeFGL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DN5NX3VQ",
+          "name": "Lafoty 2-in-1 Dog Lift Harness for Large Male Dogs",
+          "notes": "Designed for male dogs, 4 handles front and rear, detachable rear-leg support and lift strap, marketed for senior dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71OwXpSn5aL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-eye-wipes-tear-stain-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Eye Wipes for Senior Dogs with Tear Stains and Discharge",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog eye wipes for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/144608/pexels-photo-144608.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Eye wipes clean the skin and fur around the eyes; they don't treat eye problems. Cloudiness, redness, squinting, or thick or colored discharge in a senior dog needs a vet exam (cataracts, dry eye, and infections are common), so don't imply wipes solve those. Do not claim any wipe treats or prevents disease.",
+      "products": [
+        {
+          "asin": "B0CCBK2QY1",
+          "name": "Earth Rated Dog Eye Wipes (70ct)",
+          "notes": "Vet-developed, unscented, extra-large 5x5 inch wipes, alcohol-free and hypoallergenic formula, 69,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61L3yonhTOL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00R03WJ1I",
+          "name": "Angels' Eyes Dog & Cat Tear Stain Wipes (100ct)",
+          "notes": "Presoaked textured pads for tear stains and dried discharge, no rinsing needed, 24,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fBHB9U-kL._SL1500_.jpg"
+        },
+        {
+          "asin": "B00PV2JKBM",
+          "name": "I-LID 'N LASH Vet Dog Eye Wipes (60ct)",
+          "notes": "Daily no-rinse eyelid and lash wipes made by I-MED Animal Health, an animal eye care company, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/7147vvdlV-L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B073HFC82B",
+          "name": "Squishface Wrinkle Wipes (80ct)",
+          "notes": "Large 5x7 inch alcohol-free, non-stinging wipes for tear stains and facial wrinkles, made for wrinkly-faced breeds, with phytosphingosine, 4,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51U7yT3QoWL._AC_SL1200_.jpg"
+        }
+      ]
     }
   ]
 }
