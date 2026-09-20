@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/6568950/pexels-photo-6568950.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 As dogs age, their digestive systems become more sensitive and less efficient at breaking down food and absorbing nutrients. For senior dogs—typically those over seven years old—this natural decline in digestive resilience often shows up as loose stools, gas, inconsistent appetite, or visible discomfort after meals. The problem compounds when arthritis or other age-related conditions limit a dog's mobility, because reduced activity can slow the entire digestive tract. What makes senior digestive issues particularly frustrating for owners is that the underlying cause isn't always obvious. A sensitive stomach in an older dog might stem from changes in gut bacteria, reduced enzyme production, food sensitivities that develop over time, or even the early stages of a condition requiring veterinary attention. This is why reaching for a supplement without a baseline conversation with your veterinarian can sometimes miss a genuine health problem that needs diagnosis and treatment rather than just support.
