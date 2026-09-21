@@ -1084,6 +1084,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/51U7yT3QoWL._AC_SL1200_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-coats-sweaters-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Warm Coats and Sweaters for Senior Dogs in Cold Weather",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "warm coat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/4062205/pexels-photo-4062205.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Sizing is by chest girth and neck/back length, so tell readers to measure their dog and check each listing's size chart. Don't claim any garment treats arthritis or joint pain; warmth is a comfort measure. Advise checking that a garment doesn't restrict movement or rub, and taking it off indoors.",
+      "products": [
+        {
+          "asin": "B07HC6V3B6",
+          "name": "Vecomfy Warm Dog Coat with Hoodie",
+          "notes": "Fleece-lined jacket with polyester filling, windproof hood for ears, leash hole on the back, sold by chest measurement (XL listed for chest 20-23.5 in), 7,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+VyRVvXrL._AC_SL1106_.jpg"
+        },
+        {
+          "asin": "B076YWFCYY",
+          "name": "JoyDaog Fleece Lined Dog Jacket for Small Dogs",
+          "notes": "Fleece-lined windproof jacket with elastic edges around the legs and waist, built-in leash hole, size S fits chest 12-14 in, 13,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61B4jUyDmCL._AC_SL1100_.jpg"
+        },
+        {
+          "asin": "B0C3LDGGR8",
+          "name": "IECOii XXL Thermal Knit Dog Sweater (Turtleneck)",
+          "notes": "Stretchy acrylic knit turtleneck sweater with sleeves for big dogs, XXL fits chest girth up to 28 in, 3,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71DQj3XZnXL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08F75ZCLY",
+          "name": "KOOLTAIL Dog Hoodie with Leash Hole",
+          "notes": "Pullover hoodie sweater in sizes from XS up to large dogs, leash hole, machine-care fabric, 6,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vrj0djiJL._AC_SL1010_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-paw-balms-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Paw Balms for Senior Dogs with Dry or Cracked Paw Pads",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "paw balm for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/25078644/pexels-photo-25078644.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Balms moisturize and protect paw pads; they don't treat infections, wounds, or skin disease. Bleeding, deep cracks, swelling, limping, or constant licking of the paws needs a vet exam. Don't claim any balm heals, cures, or treats a condition, and stick to what each label says.",
+      "products": [
+        {
+          "asin": "B00TP0SZ6M",
+          "name": "Natural Dog Company Paw Soother (2 oz Stick)",
+          "notes": "Shea butter, hemp seed oil, coconut oil and calendula formula in a stick applicator for dry, cracked paw pads, 10,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71D6I06P+WL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07MC8ZR9R",
+          "name": "Bag Balm Vermont's Original Pet Paw & Skin Balm",
+          "notes": "Lanolin-enriched salve made from a few time-tested ingredients, free of added fragrance, for dry cracked paws, 37,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71E0ZfHNe3L._SL1500_.jpg"
+        },
+        {
+          "asin": "B08PDM2BFG",
+          "name": "Palmer's for Pets Cocoa Butter Paw Pad and Nose Balm (3.5 oz)",
+          "notes": "Cocoa butter and vitamin E formula for dry paw pads and noses, fragrance free, plant-based, made without parabens, phthalates or gluten, 5,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71BJNGQDMcL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DRV68HV7",
+          "name": "PawSono Lick-Safe Dog Paw & Nose Balm with Coconut Oil",
+          "notes": "Food-grade natural blend marketed as lick-safe, for paws and nose, 2,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71T3DS5yv0L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-car-seat-covers-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Waterproof Car Seat Covers and Hammocks for Senior Dogs Who Ride Along",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog car seat cover for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/16167945/pexels-photo-16167945.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A seat cover protects the vehicle; it is not a restraint or crash-protection device. Don't claim any cover or hammock makes a dog safe in a collision, and remind readers to check the listing for vehicle fit and to use an appropriate harness or crate for safety. Senior dogs that struggle to get into the car may need a ramp or lift instead.",
+      "products": [
+        {
+          "asin": "B0727Y5ZD7",
+          "name": "URPOWER Dog Car Seat Cover Hammock for Back Seat",
+          "notes": "Waterproof 6-layer fabric hammock with side flaps, non-slip backing, listed for sedans, SUVs and mid-size trucks, 46,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81op03hidzL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B075MCHYZV",
+          "name": "Luxury Dog Car Seat Cover with Mesh Window (4-Layer Hammock)",
+          "notes": "Breathable mesh window, 4-layer waterproof material, full side flaps for door protection, non-slip rubber backing, 9,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/719JlYQW8kL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B085VYPGMD",
+          "name": "Mancro Dog Car Seat Cover for Back Seat",
+          "notes": "Waterproof scratch-resistant 600D material, 54 x 55 in maximum open size covering the whole back seat, non-slip, quick to install and clean, 8,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/617FRGBNDOL._AC_SL1254_.jpg"
+        },
+        {
+          "asin": "B0FDPYPLCS",
+          "name": "URPOWER Hard Bottom Dog Car Seat Cover",
+          "notes": "Hard-bottom design that turns the back seat into a dog car bed, extra-large 55 x 29.5 in pad, zippered side flaps",
+          "imageUrl": "https://m.media-amazon.com/images/I/81U41L8psHL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
