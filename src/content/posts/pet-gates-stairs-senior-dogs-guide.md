@@ -11,46 +11,11 @@ heroImage: >-
   https://images.pexels.com/photos/37530316/pexels-photo-37530316/free-photo-of-brown-and-white-dogs-behind-a-gate-outdoors.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 For a senior or arthritic dog, stairs can turn from a minor obstacle into a real safety hazard — a slip near the top of a staircase or a stumble navigating steps alone can lead to serious injury. A well-placed pet gate helps block off dangerous stairways and gives owners peace of mind without requiring a full remodel of the home. This guide compares four widely available baby gates that are commonly used by pet owners for exactly this purpose.
 
 ## Comparison Table
-
-<div class="product-card">
-  <img src="https://m.media-amazon.com/images/I/71ljzp6menL._AC_SL1140_.jpg" alt="Regalo 29-49 Inch Extra Wide Baby Gate" loading="lazy" />
-  <div class="product-card-body">
-    <div class="product-card-name">Regalo 29-49 Inch Extra Wide Baby Gate</div>
-    <p class="product-card-notes">Pressure-mount gate for doorways and the bottom of stairs, 30 inches tall, family-owned US brand, 170,000+ reviews</p>
-    <a class="product-card-cta" href="https://www.amazon.com/dp/B01EMK5JQI?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
-  </div>
-</div>
-
-<div class="product-card">
-  <img src="https://m.media-amazon.com/images/I/81LFMYo7GtL._AC_SL1500_.jpg" alt="Cumbor 30-46 Inch Auto Close Baby Gate" loading="lazy" />
-  <div class="product-card-body">
-    <div class="product-card-name">Cumbor 30-46 Inch Auto Close Baby Gate</div>
-    <p class="product-card-notes">Steel auto-close gate with double-lock release, pressure or hardware mounting, 21,000+ reviews</p>
-    <a class="product-card-cta" href="https://www.amazon.com/dp/B07WFZSW72?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
-  </div>
-</div>
-
-<div class="product-card">
-  <img src="https://m.media-amazon.com/images/I/711L3rbn4vL._SL1500_.jpg" alt="keny 29.7-46 Inch Auto Close Baby Gate" loading="lazy" />
-  <div class="product-card-body">
-    <div class="product-card-name">keny 29.7-46 Inch Auto Close Baby Gate</div>
-    <p class="product-card-notes">Metal auto-close gate, 30 inches tall, closes itself when the opening angle is under 90 degrees, double lock</p>
-    <a class="product-card-cta" href="https://www.amazon.com/dp/B0CWQLTKW8?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
-  </div>
-</div>
-
-<div class="product-card">
-  <img src="https://m.media-amazon.com/images/I/91uqG5KTeuL._AC_SL1500_.jpg" alt="Regalo 36 Inch Extra Tall Baby Gate" loading="lazy" />
-  <div class="product-card-body">
-    <div class="product-card-name">Regalo 36 Inch Extra Tall Baby Gate</div>
-    <p class="product-card-notes">36-inch-tall pressure-mount gate fitting openings 29-36.5 inches wide, for doorways and bottom of stairs</p>
-    <a class="product-card-cta" href="https://www.amazon.com/dp/B001OE1PC8?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
-  </div>
-</div>
 
 | Product | Best For | Key Feature | Notes |
 |---|---|---|---|
@@ -61,17 +26,53 @@ For a senior or arthritic dog, stairs can turn from a minor obstacle into a real
 
 ### Regalo 29-49 Inch Extra Wide Baby Gate
 
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/71ljzp6menL._AC_SL1140_.jpg" alt="Regalo 29-49 Inch Extra Wide Baby Gate" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Regalo 29-49 Inch Extra Wide Baby Gate</div>
+    <p class="product-card-notes">Pressure-mount gate for doorways and the bottom of stairs, 30 inches tall, family-owned US brand, 170,000+ reviews</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B01EMK5JQI?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
+
 This is a pressure-mounted gate designed for doorways and the bottom of stairs, standing 30 inches tall and able to span openings up to 49 inches wide, which makes it a fit for wider hallways or open-concept living areas. It comes from a family-owned US brand and has accumulated more than 170,000 reviews on its listing. It's worth keeping in mind that pressure-mounted gates are generally not recommended for the top of a staircase, so this one is best reserved for the bottom of the stairs or a doorway rather than a spot where a fall down a full flight is possible.
 
 ### Cumbor 30-46 Inch Auto Close Baby Gate
 
-The Cumbor gate is built from steel and closes on its own, with a double-lock release mechanism that adds a layer of security against a nose-nudging dog or a curious toddler. It can be installed with pressure mounting or hardware mounting, which gives owners some flexibility depending on where it's placed. That flexibility comes with a bit of homework, though — hardware mounting is a different installation process than pressure mounting, and choosing the wrong one for a given location (like the top of a staircase) could compromise safety, so it's important to follow the manufacturer's instructions for the specific spot being gated.
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/81LFMYo7GtL._AC_SL1500_.jpg" alt="Cumbor 30-46 Inch Auto Close Baby Gate" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Cumbor 30-46 Inch Auto Close Baby Gate</div>
+    <p class="product-card-notes">Steel auto-close gate with double-lock release, pressure or hardware mounting, 21,000+ reviews</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B07WFZSW72?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
+
+The Cumbor gate is built from steel and closes on its own, with a double-lock release. It can be installed with pressure mounting or hardware mounting, which gives owners some flexibility depending on where it's placed. That flexibility comes with a bit of homework, though — hardware mounting is a different installation process than pressure mounting, and choosing the wrong one for a given location (like the top of a staircase) could compromise safety, so it's important to follow the manufacturer's instructions for the specific spot being gated.
 
 ### keny 29.7-46 Inch Auto Close Baby Gate
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/711L3rbn4vL._SL1500_.jpg" alt="keny 29.7-46 Inch Auto Close Baby Gate" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">keny 29.7-46 Inch Auto Close Baby Gate</div>
+    <p class="product-card-notes">Metal auto-close gate, 30 inches tall, closes itself when the opening angle is under 90 degrees, double lock</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B0CWQLTKW8?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
 This metal gate also closes itself automatically, but with a specific mechanism: it swings shut on its own whenever the opening angle drops below 90 degrees, and it includes a double lock. Standing 30 inches tall, it's a reasonable option for owners who like the idea of not having to manually close a gate behind them every time. One thing to consider is that self-closing gates that rely on an angle threshold may behave differently depending on how the gate is installed and how much force is used to open it, so it's a good idea to test the swing and closing behavior after setup, especially in a household with an older dog that may lean or bump into the gate.
 
 ### Regalo 36 Inch Extra Tall Baby Gate
+
+<div class="product-card">
+  <img src="https://m.media-amazon.com/images/I/91uqG5KTeuL._AC_SL1500_.jpg" alt="Regalo 36 Inch Extra Tall Baby Gate" loading="lazy" />
+  <div class="product-card-body">
+    <div class="product-card-name">Regalo 36 Inch Extra Tall Baby Gate</div>
+    <p class="product-card-notes">36-inch-tall pressure-mount gate fitting openings 29-36.5 inches wide, for doorways and bottom of stairs</p>
+    <a class="product-card-cta" href="https://www.amazon.com/dp/B001OE1PC8?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Check Price on Amazon</a>
+  </div>
+</div>
 
 For dogs tall enough to consider stepping over — or getting a paw up onto — a standard-height gate, this 36-inch pressure-mount option offers extra height while fitting openings between 29 and 36.5 inches wide. It's intended for doorways and the bottom of stairs, similar to its shorter Regalo counterpart. Because it's pressure-mounted, it isn't the right choice for the top of a staircase, and the narrower width range means it won't work for wider openings the way the Extra Wide version does — so measuring the space first is essential before buying.
 
@@ -83,7 +84,7 @@ For dogs tall enough to consider stepping over — or getting a paw up onto — 
 - **Width and height of the opening**: Measure the doorway or stairway opening before purchasing, since each of these gates has a specific fit range — buying outside that range can mean an insecure or unusable installation.
 - **Lock security**: A double-lock release, as found on the Cumbor and keny gates, may offer extra reassurance in homes with dogs that paw or nose at barriers, though it's still worth checking that the lock type suits the strength and persistence of the dog in question.
 - **Budget**: Prices and included hardware can vary by retailer and configuration, so check the current listing for exact pricing and what's included in the box.
-- **Washability and materials**: None of the products above list specific cleaning instructions in their available facts, so check the product listing or included manual for care and maintenance guidance.
+- **Care and maintenance**: Check each product listing or the included manual for cleaning and upkeep guidance.
 
 ## FAQ
 

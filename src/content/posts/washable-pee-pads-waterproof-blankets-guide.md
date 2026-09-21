@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/32743044/pexels-photo-32743044.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 A senior dog that starts having accidents in the house isn't being difficult, and it isn't "forgetting" its training. In most cases, the body is simply working against it. Arthritis and general joint stiffness make it harder to get up quickly, get down stairs, or hold a position long enough to signal that a trip outside is needed. Weakening bladder muscles, changes in kidney function, and cognitive decline can all shorten the window between "I need to go" and "I'm going." For a lot of older dogs, the gap between urge and accident simply isn't there anymore, no matter how well-trained they were at age three. Understanding this is the first step to responding with the right setup instead of frustration — the goal isn't to punish or retrain, it's to protect the floor, the furniture, and the dog's dignity while managing a physical reality.
 
@@ -31,7 +32,7 @@ The most familiar image of "pee pad" is the thin disposable square meant for pup
   </div>
 </div>
 
-GREEN LIFESTYLE Washable Underpads (34x36in) <a href="https://www.amazon.com/dp/B0881XD6J9?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">GREEN LIFESTYLE Washable Underpads (34x36in)</a> take a similar concept but come out of the human incontinence category, which is worth knowing because it means the quilted, thicker construction was designed with skin contact in mind, not just floor protection. They're sold for both incontinence and pet use and are sized to fit directly onto a bed, so they suit dogs who spend a lot of time resting rather than dogs who are only ever on the floor. Because they're marketed across both human and pet uses, exact absorbency isn't something to guess at — checking the listing for how the pad is meant to be used and cared for is worth doing before assuming it will handle a full overnight accident.
+GREEN LIFESTYLE Washable Underpads (34x36in) <a href="https://www.amazon.com/dp/B0881XD6J9?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">GREEN LIFESTYLE Washable Underpads (34x36in)</a> take a similar concept, but they are a thick, quilted reusable underpad sold for both incontinence and pet use. They're sized to fit directly onto a bed, so they suit dogs who spend a lot of time resting rather than dogs who are only ever on the floor. Because they're marketed across both human and pet uses, exact absorbency isn't something to guess at — checking the listing for how the pad is meant to be used and cared for is worth doing before assuming it will handle a full overnight accident.
 
 <div class="product-card">
   <img src="https://m.media-amazon.com/images/I/81dfCAk2cdL._AC_SL1500_.jpg" alt="GREEN LIFESTYLE Washable Underpads (34x36in)" loading="lazy" />
@@ -57,7 +58,7 @@ Ameritex Waterproof Dog Bed Cover Pet Blanket <a href="https://www.amazon.com/dp
   </div>
 </div>
 
-gogobunny Waterproof Pet Blanket <a href="https://www.amazon.com/dp/B09N6NGX3C?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">gogobunny Waterproof Pet Blanket</a> takes the same general idea in a more portable direction. It uses a 3-layer TPU waterproof barrier and is reversible, and — notably for owners managing an incontinent senior dog — it folds up, which makes it practical to bring along to the vet's office or to lay across a car seat for a ride. A dog with mobility or bladder issues often has more appointments, not fewer, so having something that packs down easily can matter as much as what it does at home. Because it's a blanket rather than a rigid pad, it wonds around a dog's body more naturally than a flat mat does, but it also means it can slide or bunch depending on how a dog settles onto it, so it's worth watching how it performs on a slippery surface like a leather sofa or a smooth bed.
+gogobunny Waterproof Pet Blanket <a href="https://www.amazon.com/dp/B09N6NGX3C?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">gogobunny Waterproof Pet Blanket</a> takes the same general idea in a more portable direction. It uses a 3-layer TPU waterproof barrier and is reversible, and — notably for owners managing an incontinent senior dog — it folds up, which makes it practical to bring along to the vet's office or to lay across a car seat for a ride. A dog with mobility or bladder issues often has more appointments, not fewer, so having something that packs down easily can matter as much as what it does at home. Because it's a blanket rather than a rigid pad, it drapes around a dog's body more naturally than a flat mat does, but it also means it can slide or bunch depending on how a dog settles onto it, so it's worth watching how it performs on a slippery surface like a leather sofa or a smooth bed.
 
 <div class="product-card">
   <img src="https://m.media-amazon.com/images/I/91plC2rZf6L._AC_SL1500_.jpg" alt="gogobunny Waterproof Pet Blanket" loading="lazy" />

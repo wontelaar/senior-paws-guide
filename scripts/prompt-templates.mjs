@@ -22,6 +22,10 @@ Hard rules — do not break these:
   or durability; and never invent materials, features, certifications, or
   brand history. If the facts don't say it, leave it out or tell the reader
   to check the listing or ask their vet.
+- Never refer to "the facts", "the information provided", "available
+  information", or "the manufacturer information available" in the article
+  itself. The reader has never seen these notes. When you lack a detail,
+  simply leave it out, or say "check the listing" or "ask your vet".
 - Do not include an affiliate disclosure sentence yourself — the page
   template already renders one above the article body.
 - Whenever you mention a specific product from the list below, insert the

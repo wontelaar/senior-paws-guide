@@ -101,6 +101,20 @@ function injectProductCardsAfterHeadings(markdown, products, amazonTag) {
 			result = result.replace(headingPattern, `${headingMatch[1]}\n\n${card}`);
 			continue;
 		}
+		// The heading names the product but carries no link (the model wrote the
+		// link only in the table or not at all): put the card right after it.
+		const baseName = p.name.replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim().toLowerCase();
+		const lines = result.split('\n');
+		const headingIdx = lines.findIndex((l) => {
+			if (!/^###\s/.test(l)) return false;
+			const text = l.replace(/^###\s+/, '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().toLowerCase();
+			return text.includes(baseName) || (text.length >= 12 && baseName.startsWith(text));
+		});
+		if (headingIdx !== -1) {
+			lines.splice(headingIdx + 1, 0, '', card);
+			result = lines.join('\n');
+			continue;
+		}
 		// Fallback: the "### heading" is plain text and the link only shows
 		// up in the paragraph below it (as written by hand rather than
 		// generated) — insert the card right before that paragraph instead.
