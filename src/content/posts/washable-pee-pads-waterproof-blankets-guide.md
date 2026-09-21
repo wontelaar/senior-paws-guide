@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/32743044/pexels-photo-32743044.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A senior dog that starts having accidents in the house isn't being difficult, and it isn't "forgetting" its training. In most cases, the body is simply working against it. Arthritis and general joint stiffness make it harder to get up quickly, get down stairs, or hold a position long enough to signal that a trip outside is needed. Weakening bladder muscles, changes in kidney function, and cognitive decline can all shorten the window between "I need to go" and "I'm going." For a lot of older dogs, the gap between urge and accident simply isn't there anymore, no matter how well-trained they were at age three. Understanding this is the first step to responding with the right setup instead of frustration — the goal isn't to punish or retrain, it's to protect the floor, the furniture, and the dog's dignity while managing a physical reality.
