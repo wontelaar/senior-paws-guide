@@ -13,7 +13,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/4588018/pexels-photo-4588018.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Older dogs often need a gentler, more deliberate approach to brushing than younger dogs, since senior mouths are more likely to carry sensitive gums, worn enamel, or existing dental issues. This FAQ walks through the practical questions people ask when shopping for dog toothpaste and toothbrush for senior dogs, from what to buy to how to actually get started.
