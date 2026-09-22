@@ -1192,6 +1192,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/81U41L8psHL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-nail-caps-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Soft Nail Caps for Senior Dogs Who Won't Tolerate Nail Trims",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "soft nail caps for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/5706430/pexels-photo-5706430.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Nail caps cover the nail; they don't replace trimming an overgrown nail or treating an ingrown or infected one. A vet or groomer should check that nails are a normal length and healthy before caps are applied, and caps need periodic replacement as nails grow. Don't claim caps improve traction or gait on their own beyond what each listing states.",
+      "products": [
+        {
+          "asin": "B001VP89Q0",
+          "name": "Soft Claws Nail Caps for Dogs (Made in USA)",
+          "notes": "The original vet-invented nail cap brand, marketed for senior dogs with arthritis or dogs struggling on slippery floors, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71tZUjVG1+L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07JJ8Y7FG",
+          "name": "VICTHY 100pcs Dog Nail Caps with Adhesive Glue and Applicators",
+          "notes": "100-count budget kit in 5 colors with glue and applicators included, 4,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NCbsmp8SL._AC_SL1001_.jpg"
+        },
+        {
+          "asin": "B017TB2EL0",
+          "name": "Purrdy Paws 40-Pack Soft Nail Caps (Clear, X-Large)",
+          "notes": "Official Purrdy Paws brand, available in 7 sizes, includes adhesive and applicator tips, 439 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71M+Dkls5PL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B091NKB2DS",
+          "name": "zetpo Dog Nail Caps & Claw Caps (100 pcs)",
+          "notes": "Anti-slip toe grip design for hard floors, made from natural vinyl resin, includes a recommended \"dry fit\" application method, 381 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Nvbd+NXnL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-night-safety-lights-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "LED Collars and Reflective Gear for Senior Dogs with Fading Vision or Hearing",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "led collar for senior dogs night walks",
+      "heroImage": "https://images.pexels.com/photos/9711622/pexels-photo-9711622.jpeg?cs=tinysrgb&w=1200",
+      "ownerInsight": "A senior dog losing vision or hearing is harder for an owner to keep track of in low light or off-leash in a yard at dusk, and it's also harder for cars and cyclists to see the dog. Visibility gear addresses both directions of the safety problem: helping the owner see and locate the dog, and helping others see the dog in time.",
+      "products": [
+        {
+          "asin": "B08MXRCCVQ",
+          "name": "MASBRILL Light Up Dog Collar (Rechargeable, Waterproof)",
+          "notes": "Flat optical fiber LED collar with 3 light modes (fast flash, steady flash, constant), rechargeable and waterproof, 10,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-7rbUa5IL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07G994PSS",
+          "name": "BSEEN USB Rechargeable LED Dog Collar",
+          "notes": "One-size collar that can be trimmed to fit, 3 light modes, 360-degree visibility, 17,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51W6FcpkeJS._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0CC2D2SMW",
+          "name": "ChalkLit Light Up No-Pull Dog Harness",
+          "notes": "USB-rechargeable LED harness with a wide light strip and no-pull D-buckle design, quick on/off without going over the head, 860 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NtgylpkuL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00SKAQN9O",
+          "name": "SafetyPUP Reflective Dog Vest",
+          "notes": "Non-electronic reflective hi-vis vest made of rip-resistant 300D Oxford fabric, includes a utility strap, 2,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/714m7SQMywL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
