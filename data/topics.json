@@ -1264,6 +1264,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/714m7SQMywL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-calming-aids-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Calming Aids for Anxious Senior Dogs: Chews, Wraps, and What to Try First",
+      "category": "Behavior & Enrichment",
+      "targetKeyword": "calming aid for anxious senior dogs",
+      "heroImage": "https://images.pexels.com/photos/32153043/pexels-photo-32153043.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Sudden or worsening anxiety in a senior dog can also reflect pain, hearing or vision loss, or cognitive decline, so a vet visit should come before assuming it's simple anxiety. Treat ingredient claims (melatonin, hemp, valerian, chamomile) as manufacturer claims, not medical fact, and don't claim any product cures or treats an anxiety disorder. A pressure garment or chew may help one dog and do nothing for another.",
+      "products": [
+        {
+          "asin": "B07CX4R6MJ",
+          "name": "ThunderBites Calming Chews for Dogs (60ct)",
+          "notes": "Soft chews from the ThunderShirt company, marketed as a vet-recommended retail brand for stress from common triggers, made in the USA, 5,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UHigqb50L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B008829WC4",
+          "name": "NaturVet Quiet Moments Calming Senior Wellness Supplement (65ct)",
+          "notes": "Soft chew supplement specifically formulated and marketed for senior dogs' calming needs, for separation, storms and other stressors, 1,180+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vOZRpoNFL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0029PYC3K",
+          "name": "ThunderShirt Calming Anxiety Vest",
+          "notes": "Patented pressure-wrap vest marketed as the #1 vet-recommended dog anxiety vest, for thunderstorms, fireworks, separation anxiety and vet visits, 42,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Xy00O3mKL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FZC2CLNS",
+          "name": "Advanced Calming Chews for Dogs (Hemp, Valerian, Chamomile, Melatonin)",
+          "notes": "Budget chew blending hemp oil, valerian root, chamomile and melatonin, described as veterinarian formulated and made in the USA, 3,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81KQrs284zL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-puzzle-enrichment-toys-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Puzzle Toys and Enrichment for Senior Dogs Slowing Down Mentally",
+      "category": "Behavior & Enrichment",
+      "targetKeyword": "puzzle toys for senior dogs cognitive",
+      "heroImage": "https://images.pexels.com/photos/16179833/pexels-photo-16179833/free-photo-of-close-up-of-white-dog-sniffing.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Enrichment toys support mental engagement; they don't diagnose or treat canine cognitive dysfunction. Signs like disorientation, pacing at night, house-soiling in a previously trained dog, or reduced recognition of family should prompt a vet visit rather than being addressed with toys alone. Always supervise a senior dog with a new toy and stop use if it struggles to grip pieces or shows frustration rather than engagement.",
+      "products": [
+        {
+          "asin": "B07239T47Y",
+          "name": "Outward Hound Nina Ottosson Dog Tornado Treat Puzzle",
+          "notes": "Level 2 intermediate puzzle with spinning layers hiding treats, from an established puzzle-toy brand, includes tips to adjust difficulty, 55,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qMYWAqPvL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07N1JYYCW",
+          "name": "AWOOF Pet Snuffle Mat for Dogs",
+          "notes": "Felt snuffle mat for hiding treats or kibble, encourages foraging by scent, non-slip bottom, folds into a bowl, 21,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Wmu0n5rtL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B09XXPCB4T",
+          "name": "PETSTA Dog Puzzle Toy with Squeak Button",
+          "notes": "Treat-dispensing puzzle offering spin-and-slide and seek-and-hide play styles, includes a squeak button, made of non-toxic materials, 9,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71THE2QseXL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0719Q85G8",
+          "name": "Outward Hound Nina Ottosson Treat Tumble Puzzle Ball",
+          "notes": "Level 1 beginner puzzle ball that releases treats when nudged and rolled, holds 1 cup of kibble, doubles as a slow feeder, 7,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pD41wTnzL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
