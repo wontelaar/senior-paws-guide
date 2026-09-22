@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/37530316/pexels-photo-37530316/free-photo-of-brown-and-white-dogs-behind-a-gate-outdoors.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For a senior or arthritic dog, stairs can turn from a minor obstacle into a real safety hazard — a slip near the top of a staircase or a stumble navigating steps alone can lead to serious injury. A well-placed pet gate helps block off dangerous stairways and gives owners peace of mind without requiring a full remodel of the home. This guide compares four widely available baby gates that are commonly used by pet owners for exactly this purpose.
