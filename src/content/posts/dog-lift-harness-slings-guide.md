@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/36192733/pexels-photo-36192733.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dog that once bounded up the porch steps without a second thought can, over months or years, turn a simple flight of stairs into a hesitant, wobbly ordeal. This shift is one of the more quietly heartbreaking parts of caring for an aging dog. Arthritis, hip dysplasia, degenerative myelopathy, and general muscle loss all chip away at a dog's ability to push itself up from lying down, balance on slick floors, or manage the jump into the car. The hind end is usually hit hardest, since rear legs do much of the work of propulsion and lack the front legs' natural role in bracing and steadying. For an owner, watching a dog struggle to stand is stressful in the moment and worrying for the future — but it's also a problem with a practical, physical solution. A lift harness or support sling doesn't fix the underlying joint or nerve issue, but it gives the owner something solid to hold onto so the dog isn't left to strain, slip, or fall while trying to get up, climb, or move to the yard.
