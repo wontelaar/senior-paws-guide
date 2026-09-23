@@ -11,7 +11,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/144608/pexels-photo-144608.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An older dog who spends more time napping and less time grooming often develops crusty buildup or reddish-brown tear stains around the eyes, and stiff joints or achy hips can make a senior dog less tolerant of a long face-cleaning session. A good eye wipe should be gentle, quick to use, and easy to hold for a dog that would rather not sit still. This guide compares four widely used options to help narrow down which one fits an aging dog's routine.
