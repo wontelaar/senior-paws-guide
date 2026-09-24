@@ -11,8 +11,9 @@ heroImage: >-
   https://images.pexels.com/photos/25078644/pexels-photo-25078644.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
-As dogs get older, their paw pads often lose the natural elasticity and moisture they once had, and arthritic dogs that spend more time lying on hard floors or walking stiffly can develop dry, flaky, or cracked pads more easily. A good paw balm won't fix an underlying joint or skin problem, but it can help keep the pads themselves supple and less prone to cracking with regular use. This guide compares four widely used paw balms to help you figure out which formula and format fits your senior dog's routine.
+Many senior dogs end up with dry or cracked paw pads, especially if they walk stiffly or spend a lot of time on hard floors. A paw balm won't fix an underlying joint or skin problem, but it is a simple way to moisturize and protect the pads themselves. This guide compares four widely used paw balms to help you figure out which formula and format fits your senior dog's routine.
 
 ## Comparison Table
 
@@ -34,7 +35,7 @@ As dogs get older, their paw pads often lose the natural elasticity and moisture
   </div>
 </div>
 
-Natural Dog Company Paw Soother <a href="https://www.amazon.com/dp/B00TP0SZ6M?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Natural Dog Company Paw Soother (2 oz Stick)</a> is a 2 oz stick balm built around shea butter, hemp seed oil, coconut oil, and calendula, designed for dry, cracked paw pads. Its twist-up stick format is a practical fit for owners of senior or arthritic dogs, since applying it doesn't require kneeling on the floor or working balm out of a tin with your fingers, which can matter if you're managing your own mobility limits too. It's worth noting the stick's small 2 oz size means it's meant for spot application rather than covering large areas, so if you have a bigger dog with several affected paws, check how far one stick realistically goes. As with any pad balm, it addresses dryness and cracking on the surface — it isn't a treatment for underlying skin conditions.
+Natural Dog Company Paw Soother <a href="https://www.amazon.com/dp/B00TP0SZ6M?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Natural Dog Company Paw Soother (2 oz Stick)</a> is a 2 oz stick balm built around shea butter, hemp seed oil, coconut oil, and calendula, designed for dry, cracked paw pads. Its stick applicator means you can apply it directly to the pad rather than scooping balm out of a container. It's worth noting the stick's small 2 oz size means it's meant for spot application rather than covering large areas, so if you have a bigger dog with several affected paws, check how far one stick realistically goes. As with any pad balm, it addresses dryness and cracking on the surface — it isn't a treatment for underlying skin conditions.
 
 ### Bag Balm Vermont's Original Pet Paw & Skin Balm
 
@@ -47,7 +48,7 @@ Natural Dog Company Paw Soother <a href="https://www.amazon.com/dp/B00TP0SZ6M?ta
   </div>
 </div>
 
-Bag Balm Vermont's Original Pet Paw & Skin Balm <a href="https://www.amazon.com/dp/B07MC8ZR9R?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bag Balm Vermont's Original Pet Paw & Skin Balm</a> is a lanolin-enriched salve made from a short list of time-tested ingredients, formulated for dry, cracked paws without added fragrance. It suits owners who prefer a straightforward, no-frills formula over something with a longer ingredient list, and the unscented profile can be a plus for dogs sensitive to strong smells. That said, it comes in a salve/tin format rather than a stick, so application means scooping out balm with your fingers — something to factor in if a senior dog's temperament makes still application difficult. The high review count reflects how widely used the product is, but it isn't a substitute for a vet's assessment if cracking is severe or bleeding.
+Bag Balm Vermont's Original Pet Paw & Skin Balm <a href="https://www.amazon.com/dp/B07MC8ZR9R?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bag Balm Vermont's Original Pet Paw & Skin Balm</a> is a lanolin-enriched salve made from a short list of time-tested ingredients, formulated for dry, cracked paws without added fragrance. It suits owners who prefer a straightforward, no-frills formula over something with a longer ingredient list, and the unscented profile can be a plus for dogs sensitive to strong smells. That said, it is a salve rather than a stick, so check the listing photos for how it's packaged and applied, which is worth factoring in if a senior dog doesn't like having its paws handled. The high review count reflects how widely used the product is, but it isn't a substitute for a vet's assessment if cracking is severe or bleeding.
 
 ### Palmer's for Pets Cocoa Butter Paw Pad and Nose Balm
 
@@ -78,7 +79,7 @@ PawSono Lick-Safe Dog Paw & Nose Balm <a href="https://www.amazon.com/dp/B0DRV68
 ## How to Choose
 
 - **Dog's size and weight**: Larger senior dogs may need product applied to more paw surface area, so consider how much balm is in the container relative to how often you'd realistically use it.
-- **Application format**: Stick applicators (like the Paw Soother) can be easier for dogs that won't tolerate you rubbing balm in with your fingers, while tins or jars (like Bag Balm or Palmer's) may give you more control over how much you use at once.
+- **Application format**: The Paw Soother is a stick applicator, while Bag Balm is a salve; check each listing for how the product is packaged and applied, and pick the format that suits how your dog tolerates paw handling.
 - **Lick tendency**: If your dog tends to lick paws immediately after application, a formula marketed as lick-safe, such as PawSono, may be worth prioritizing — though supervising application is still a good habit regardless of formula.
 - **Ingredient sensitivities**: If your dog has known allergies or sensitivities, compare ingredient lists closely — options like Palmer's highlight what they're made without (parabens, phthalates, gluten), which may matter to some owners.
 - **Fragrance preferences**: Both Bag Balm and Palmer's are fragrance-free, which may be preferable for dogs sensitive to scented products.
@@ -91,7 +92,7 @@ PawSono Lick-Safe Dog Paw & Nose Balm <a href="https://www.amazon.com/dp/B0DRV68
 No. Paw balms are designed to moisturize and protect paw pads from dryness and cracking, but they aren't formulated to treat infections, wounds, or underlying skin disease. If you notice bleeding, deep cracks, swelling, limping, or your dog constantly licking at their paws, it's best to have a vet examine them.
 
 **How do I know which balm is right for a senior dog with arthritis?**
-Since arthritic dogs may have limited mobility, consider how easy the product is to apply — a stick format may be quicker and require less handling of the paw than a jar or tin. Beyond that, check ingredient lists against any known sensitivities your dog has, and ask your vet if you're unsure whether a specific formula is appropriate.
+Balms only moisturize and protect the pads, so they don't address arthritis itself. Consider how easy the product is to apply to a dog that may not enjoy having its paws handled, check the ingredient lists against any known sensitivities your dog has, and ask your vet if you're unsure whether a specific formula is appropriate.
 
 **Are these balms safe if my dog licks them off?**
 Formulas vary, and only PawSono is specifically marketed as lick-safe among the options here. For the others, check the product listing for guidance on licking, and consider distracting your dog or supervising them for a bit after application regardless of which balm you choose.
