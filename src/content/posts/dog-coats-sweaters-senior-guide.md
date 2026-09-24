@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/4062205/pexels-photo-4062205.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Older dogs lose the ability to regulate their own body temperature nearly as efficiently as they did when they were young, and that shift matters more than most owners realize. Senior dogs typically carry less muscle mass and often less body fat in a stable, evenly distributed way, both of which act as natural insulation. Add in slower circulation and, frequently, some degree of arthritis or joint stiffness, and you get a dog who feels cold faster, stays cold longer, and may already be reluctant to move much even before the temperature drops. A warm coat won't do anything for the underlying joint pain — that's a conversation for your vet — but keeping a senior dog's core temperature up can make a real difference in comfort during walks, bathroom breaks, and time spent in a chilly yard or drafty room.
