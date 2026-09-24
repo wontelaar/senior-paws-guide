@@ -1336,6 +1336,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71pD41wTnzL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "enzyme-urine-cleaners-senior-dogs-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Enzyme Cleaners for Senior Dog Urine Accidents on Carpet, Floors, and Bedding",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "best enzyme cleaner for dog urine",
+      "heroImage": "https://images.pexels.com/photos/4107257/pexels-photo-4107257.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Cleaners are for surfaces, fabrics and floors, never for use on the dog or its skin; tell readers to keep the dog away until the area is dry and to follow each label, including a spot test on fabrics and finishes. A senior dog whose accidents are new or increasing should see a vet, since a cleaner only handles the mess. Don't claim any cleaner is safe for every surface or guaranteed to stop a dog re-marking beyond what the listing states.",
+      "products": [
+        {
+          "asin": "B00CKFL93K",
+          "name": "Rocco & Roxie Enzyme Stain & Odor Eliminator (32 oz)",
+          "notes": "Chlorine-free, color-safe formula listed for carpets, floors, furniture and clothing, for cat and dog urine, 128,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ssqqP6-iL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B071W6CQ7S",
+          "name": "Nature's Miracle Dog Stain & Odor Remover, Enzymatic Cleaner (32 oz)",
+          "notes": "Enzymatic formula with a light citrus scent that starts breaking down stains on contact and keeps working while bio-based mess remains, 23,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IjtTv+RhL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0GCC2P4H5",
+          "name": "ANGRY ORANGE Pet Urine Enzyme Cleaner (32 oz)",
+          "notes": "2-in-1 enzyme stain and odor formula with an Orange Rush scent, listed for carpet, tile, hardwood and couches, 27,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71lbR7wJuNL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D14W4KGD",
+          "name": "Resolve Ultra Pet Odor and Stain Remover Spray",
+          "notes": "Spray for cat and dog urine and poop, listed for stains including feces and vomit, with OXI+ Odor Stop technology, 18,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71sESyWg+VL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-food-toppers-picky-seniors-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Food Toppers to Tempt Picky Senior Dogs at Mealtime",
+      "category": "Feeding & Medication",
+      "targetKeyword": "food topper for picky senior dogs",
+      "heroImage": "https://images.pexels.com/photos/30070537/pexels-photo-30070537.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A sudden or ongoing drop in appetite in a senior dog can signal dental pain, nausea, or illness, so recommend a vet check before relying on toppers. Toppers add calories and flavor and are not a replacement for a complete diet or a prescribed diet; tell readers to check with their vet if their dog is on a special diet or has kidney, pancreatic, or weight issues. Treat joint, hydration, and probiotic wording as manufacturer claims and don't state any topper treats a condition.",
+      "products": [
+        {
+          "asin": "B08CRCFJVV",
+          "name": "Native Pet Bone Broth for Dogs (Beef, Powder Topper)",
+          "notes": "Two-ingredient organic beef bone broth powder marketed to enhance kibble flavor and hydration, with collagen marketed for hip and joint support, 3,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81f1jnwUtpL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07SN5W52J",
+          "name": "Stella & Chewy's Freeze-Dried Raw Marie's Magical Dinner Dust",
+          "notes": "Freeze-dried raw powder with 95% grass-fed beef, organs and bone plus organic fruits and vegetables, with added probiotics, made to coat kibble, 3,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81hV3PT4UjL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07XTKTPTH",
+          "name": "Blue Buffalo Delectables Wet Dog Food Topper Variety Pack (3 oz, 12 ct)",
+          "notes": "Grain-free wet topper with tender cuts of chicken or beef in gravy, made with no corn, wheat or soy, 5,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81R7iojWc6L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08BC7GFCS",
+          "name": "Portland Pet Food Company Fresh Human-Grade Topper & Meal (5 Pack)",
+          "notes": "Shelf-stable pouches needing no freezing or refrigeration, limited ingredients of 11 or fewer per pouch, sold as a topper or meal, 1,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ki29eHOjL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
