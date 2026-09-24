@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/25078644/pexels-photo-25078644.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Many senior dogs end up with dry or cracked paw pads, especially if they walk stiffly or spend a lot of time on hard floors. A paw balm won't fix an underlying joint or skin problem, but it is a simple way to moisturize and protect the pads themselves. This guide compares four widely used paw balms to help you figure out which formula and format fits your senior dog's routine.
