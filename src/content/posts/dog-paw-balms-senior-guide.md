@@ -1,8 +1,8 @@
 ---
 title: Paw Balms for Senior Dogs with Dry or Cracked Paw Pads
 description: >-
-  As dogs get older, their paw pads often lose the natural elasticity and
-  moisture they once had, and arthritic dogs that spend more time lying on hard…
+  Many senior dogs end up with dry or cracked paw pads, especially if they walk
+  stiffly or spend a lot of time on hard floors.
 pubDate: '2026-09-23T06:55:01.410Z'
 structureType: comparison
 topicId: dog-paw-balms-senior-guide
@@ -19,9 +19,9 @@ Many senior dogs end up with dry or cracked paw pads, especially if they walk st
 
 | Product | Best For | Key Feature | Notes |
 |---|---|---|---|
-| Natural Dog Company Paw Soother <a href="https://www.amazon.com/dp/B00TP0SZ6M?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Natural Dog Company Paw Soother (2 oz Stick)</a> | Owners who want an easy no-mess stick application | Shea butter, hemp seed oil, coconut oil, and calendula formula | Over 10,500 reviews; stick applicator |
+| Natural Dog Company Paw Soother <a href="https://www.amazon.com/dp/B00TP0SZ6M?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Natural Dog Company Paw Soother (2 oz Stick)</a> | Owners who prefer a stick applicator | Shea butter, hemp seed oil, coconut oil, and calendula formula | Over 10,500 reviews; stick applicator |
 | Bag Balm Vermont's Original Pet Paw & Skin Balm <a href="https://www.amazon.com/dp/B07MC8ZR9R?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bag Balm Vermont's Original Pet Paw & Skin Balm</a> | Owners who prefer a simple, fragrance-free salve | Lanolin-enriched, minimal ingredient list | Over 37,000 reviews; no added fragrance |
-| Palmer's for Pets Cocoa Butter Paw Pad and Nose Balm <a href="https://www.amazon.com/dp/B08PDM2BFG?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Palmer's for Pets Cocoa Butter Paw Pad and Nose Balm (3.5 oz)</a> | Owners wanting a plant-based, allergen-conscious option | Cocoa butter and vitamin E, free of parabens/phthalates/gluten | Over 5,200 reviews; fragrance free |
+| Palmer's for Pets Cocoa Butter Paw Pad and Nose Balm <a href="https://www.amazon.com/dp/B08PDM2BFG?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Palmer's for Pets Cocoa Butter Paw Pad and Nose Balm (3.5 oz)</a> | Owners wanting a plant-based, fragrance-free option | Cocoa butter and vitamin E, free of parabens/phthalates/gluten | Over 5,200 reviews; fragrance free |
 | PawSono Lick-Safe Dog Paw & Nose Balm <a href="https://www.amazon.com/dp/B0DRV68HV7?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PawSono Lick-Safe Dog Paw & Nose Balm with Coconut Oil</a> | Owners concerned about dogs licking balm off | Food-grade blend marketed as lick-safe | Over 2,300 reviews; coconut oil based |
 
 ### Natural Dog Company Paw Soother
