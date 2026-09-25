@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/5706430/pexels-photo-5706430.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Many senior dogs reach a point where the sound of nail clippers sends them into a panic, whether from past pain, arthritis that makes paw-handling uncomfortable, or simply a lifetime of disliking the process. Soft nail caps are one option owners research as a lower-stress alternative to trimming, and this FAQ walks through the practical questions that come up before buying a set.
