@@ -20,7 +20,6 @@ const BATCH = 24;
 >
 	<h1>All Guides</h1>
 	<CategoryChips categories={categories} active="all" />
-	<p class="all-count">{posts.length} guides, newest first</p>
 
 	<div class="post-grid" id="all-grid" data-batch={BATCH}>
 		{posts.map((post, i) => (
@@ -77,11 +76,6 @@ const BATCH = 24;
 <style>
 	:global(body main) { max-width: 1180px; }
 	h1 { margin-top: 0.5rem; }
-	.all-count {
-		margin: 0.75rem 0 0;
-		font-size: 0.9rem;
-		color: var(--muted);
-	}
 	.post-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
