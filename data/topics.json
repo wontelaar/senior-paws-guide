@@ -1408,6 +1408,42 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71Ki29eHOjL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-fish-oil-omega-3-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Fish Oil and Omega-3 Supplements for Senior Dogs: Liquids vs. Chews",
+      "category": "Feeding & Medication",
+      "targetKeyword": "fish oil for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/30810890/pexels-photo-30810890.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Health/supplement content: stick to describing ingredients and manufacturer claims, and never state that a fish oil treats arthritis, kidney or heart disease, or skin conditions. Dosing depends on the product and the dog, so don't give amounts and tell readers to follow the label and ask their vet, especially if the dog is on medication, has pancreatitis or a sensitive stomach, or is on a prescription diet. Treat joint, mobility, and skin-and-coat wording as manufacturer claims.",
+      "products": [
+        {
+          "asin": "B0CXKNLKMX",
+          "name": "Zesty Paws Salmon Oil for Dogs & Cats (8.5 oz)",
+          "notes": "Liquid wild Alaskan salmon oil with EPA and DHA marketed for skin, coat and overall health, mixes into food with a pump, 70,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pEM+r3SbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08R589VZ2",
+          "name": "Native Pet Omega 3 Fish Oil for Dogs & Cats (Wild Alaskan Salmon Oil)",
+          "notes": "Liquid oil combining two wild-caught fish sources with no fillers, pump bottle, marketed for skin, coat and joint comfort, 16,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81olZXcR9XL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B002CQU596",
+          "name": "Nordic Naturals Omega-3 Fish Oil for Dogs with EPA + DHA (180 Count)",
+          "notes": "180-count omega-3 fish oil with EPA and DHA from a brand that also makes human fish oil, triglyceride form, wild-caught fish, purity guaranteed by the maker, 4,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51pOFa-x5yL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B01H0PQSLC",
+          "name": "Zesty Paws Omega 3 Fish Oil Bites for Dogs (Chicken, 90 ct)",
+          "notes": "Chewable bites with AlaskOmega from wild Alaskan pollock plus biotin and vitamins C and E, marketed for mobility, skin and coat, and heart and immune support, 29,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+Q817UrzL._AC_SL1080_.jpg"
+        }
+      ]
     }
   ]
 }
