@@ -55,8 +55,8 @@ const categories = await getOrderedCategories();
 			<nav class="site-nav">
 				<a href="/">Home</a>
 				<a href="/all/">All Guides</a>
-				<a href="/about">About</a>
-				<a href="/search">Search</a>
+				<a href="/about/">About</a>
+				<a href="/search/">Search</a>
 				<div id="header-search" class="header-search"></div>
 				<button id="menu-toggle" class="menu-toggle" aria-label="Open menu" aria-expanded="false">
 					<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
@@ -71,8 +71,8 @@ const categories = await getOrderedCategories();
 				<button id="menu-close" class="menu-close" aria-label="Close menu">&times;</button>
 			</div>
 			<a href="/">Home</a>
-			<a href="/about">About</a>
-			<a href="/search">Search</a>
+			<a href="/about/">About</a>
+			<a href="/search/">Search</a>
 			<div class="menu-drawer-label">Categories</div>
 			<a href="/all/">All</a>
 			{categories.map((category) => (
@@ -86,10 +86,10 @@ const categories = await getOrderedCategories();
 
 		<footer class="site-footer">
 			<nav>
-				<a href="/about">About</a>
-				<a href="/contact">Contact</a>
-				<a href="/privacy-policy">Privacy Policy</a>
-				<a href="/affiliate-disclosure">Affiliate Disclosure</a>
+				<a href="/about/">About</a>
+				<a href="/contact/">Contact</a>
+				<a href="/privacy-policy/">Privacy Policy</a>
+				<a href="/affiliate-disclosure/">Affiliate Disclosure</a>
 			</nav>
 			<p>&copy; {new Date().getFullYear()} {siteName}. As an Amazon Associate we earn from qualifying purchases.</p>
 		</footer>
