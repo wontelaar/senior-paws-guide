@@ -2,7 +2,9 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import siteConfig from '../../../site.config.json' with { type: 'json' };
+import CategoryChips from '../../components/CategoryChips.astro';
 import { categorySlug } from '../../lib/category-slug';
+import { getOrderedCategories } from '../../lib/categories';
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('posts', ({ data }) => !data.draft);
@@ -20,14 +22,15 @@ const allPosts = await getCollection(
 	({ data }) => !data.draft && data.category === category,
 );
 const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const categories = await getOrderedCategories();
 ---
 
 <BaseLayout
 	title={category}
 	description={`${siteConfig.siteName} guides in the ${category} category.`}
 >
-	<p><a href="/">&larr; All categories</a></p>
 	<h1>{category}</h1>
+	<CategoryChips categories={categories} active={category} />
 
 	<div class="post-grid">
 		{posts.map((post) => (

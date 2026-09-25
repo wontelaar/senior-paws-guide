@@ -54,6 +54,7 @@ const categories = await getOrderedCategories();
 			</a>
 			<nav class="site-nav">
 				<a href="/">Home</a>
+				<a href="/all/">All Guides</a>
 				<a href="/about">About</a>
 				<a href="/search">Search</a>
 				<div id="header-search" class="header-search"></div>
@@ -73,6 +74,7 @@ const categories = await getOrderedCategories();
 			<a href="/about">About</a>
 			<a href="/search">Search</a>
 			<div class="menu-drawer-label">Categories</div>
+			<a href="/all/">All</a>
 			{categories.map((category) => (
 				<a href={`/category/${categorySlug(category)}/`}>{category}</a>
 			))}

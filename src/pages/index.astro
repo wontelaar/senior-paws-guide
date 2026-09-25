@@ -28,6 +28,9 @@ const postsByCategory = categories.map((category) => {
 >
 	<h1>{siteConfig.siteName}</h1>
 	<p>Practical, no-nonsense buying guides for senior dog care.</p>
+	{posts.length > 0 && (
+		<p><a class="browse-all" href="/all/">Browse all {posts.length} guides &rarr;</a></p>
+	)}
 
 	{posts.length === 0 && <p><em>No posts yet — the first batch is on its way.</em></p>}
 
@@ -74,6 +77,13 @@ const postsByCategory = categories.map((category) => {
 	/* Widen the page just for the homepage's card grid, so desktop can fit 5
 	   columns; article pages keep the narrower 760px reading width. */
 	:global(body main) { max-width: 1180px; }
+
+	.browse-all {
+		font-weight: 600;
+		color: var(--accent);
+		text-decoration: none;
+	}
+	.browse-all:hover { text-decoration: underline; }
 
 	.category-view-all {
 		display: inline-block;

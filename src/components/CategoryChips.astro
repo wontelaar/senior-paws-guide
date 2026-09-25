@@ -1,0 +1,51 @@
+---
+import { categorySlug } from '../lib/category-slug';
+
+interface Props {
+	categories: string[];
+	active: string;
+}
+
+const { categories, active } = Astro.props;
+---
+
+<nav class="chips" aria-label="Browse by category">
+	<a href="/all/" class:list={['chip', { active: active === 'all' }]} aria-current={active === 'all' ? 'page' : undefined}>All</a>
+	{categories.map((category) => (
+		<a
+			href={`/category/${categorySlug(category)}/`}
+			class:list={['chip', { active: active === category }]}
+			aria-current={active === category ? 'page' : undefined}
+		>
+			{category}
+		</a>
+	))}
+</nav>
+
+<style>
+	.chips {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+		margin: 1rem 0 0.25rem;
+	}
+	.chip {
+		display: inline-block;
+		padding: 0.35rem 0.85rem;
+		border: 1px solid var(--border);
+		border-radius: 999px;
+		font-size: 0.9rem;
+		color: var(--fg);
+		text-decoration: none;
+		transition: border-color 0.15s, color 0.15s;
+	}
+	.chip:hover {
+		border-color: var(--accent);
+		color: var(--accent);
+	}
+	.chip.active {
+		background: var(--accent);
+		border-color: var(--accent);
+		color: #fff;
+	}
+</style>

@@ -1,0 +1,122 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CategoryChips from '../components/CategoryChips.astro';
+import siteConfig from '../../site.config.json' with { type: 'json' };
+import { getOrderedCategories } from '../lib/categories';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const categories = await getOrderedCategories();
+
+// Every card is in the HTML (so search engines and no-JS visitors get the full
+// list); the script below just reveals them in batches as the reader scrolls.
+const BATCH = 24;
+---
+
+<BaseLayout
+	title="All Guides"
+	description={`Every ${siteConfig.siteName} buying guide for senior dog care, newest first.`}
+>
+	<h1>All Guides</h1>
+	<CategoryChips categories={categories} active="all" />
+	<p class="all-count">{posts.length} guides, newest first</p>
+
+	<div class="post-grid" id="all-grid" data-batch={BATCH}>
+		{posts.map((post, i) => (
+			<a class:list={['post-card', { 'is-pending': i >= BATCH }]} href={`/posts/${post.id}/`}>
+				{post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+				<div class="post-card-body">
+					<h3>{post.data.title}</h3>
+					<p>{post.data.description}</p>
+				</div>
+			</a>
+		))}
+	</div>
+	<div id="load-sentinel" aria-hidden="true"></div>
+
+	<noscript>
+		<style>
+			.post-card.is-pending { display: flex !important; }
+		</style>
+	</noscript>
+</BaseLayout>
+
+<script>
+	const grid = document.getElementById('all-grid');
+	const sentinel = document.getElementById('load-sentinel');
+	if (grid && sentinel) {
+		const batch = Number(grid.dataset.batch) || 24;
+		const revealMore = () => {
+			const pending = grid.querySelectorAll<HTMLElement>('.post-card.is-pending');
+			for (let i = 0; i < Math.min(batch, pending.length); i++) {
+				pending[i].classList.remove('is-pending');
+			}
+			return pending.length > batch;
+		};
+		if (grid.querySelector('.post-card.is-pending')) {
+			const observer = new IntersectionObserver(
+				(entries) => {
+					if (!entries[0].isIntersecting) return;
+					if (!revealMore()) {
+						observer.disconnect();
+						return;
+					}
+					// Re-observe so a very tall screen that still shows the sentinel
+					// after this batch gets another notification and keeps loading.
+					observer.unobserve(sentinel);
+					observer.observe(sentinel);
+				},
+				{ rootMargin: '600px 0px' },
+			);
+			observer.observe(sentinel);
+		}
+	}
+</script>
+
+<style>
+	:global(body main) { max-width: 1180px; }
+	h1 { margin-top: 0.5rem; }
+	.all-count {
+		margin: 0.75rem 0 0;
+		font-size: 0.9rem;
+		color: var(--muted);
+	}
+	.post-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 1.25rem;
+		margin-top: 1.25rem;
+	}
+	.post-card {
+		display: flex;
+		flex-direction: column;
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		overflow: hidden;
+		text-decoration: none;
+		color: var(--fg);
+		transition: border-color 0.15s;
+	}
+	.post-card.is-pending { display: none; }
+	.post-card:hover { border-color: var(--accent); }
+	.post-card img {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		background: var(--border);
+		border-bottom: 1px solid var(--border);
+	}
+	.post-card-body { padding: 0.9rem; }
+	.post-card-body h3 { margin: 0 0 0.4rem; font-size: 1rem; line-height: 1.35; }
+	.post-card-body p {
+		margin: 0;
+		font-size: 0.85rem;
+		color: var(--muted);
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	#load-sentinel { height: 1px; }
+</style>
