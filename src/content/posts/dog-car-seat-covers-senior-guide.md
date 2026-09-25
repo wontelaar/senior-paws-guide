@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/16167945/pexels-photo-16167945.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Older dogs come with older-dog realities: stiff joints, occasional accidents, muddy paws that don't lift as high as they used to, and shedding that seems to intensify with age. A good seat cover won't fix any of that, but it can save your upholstery from the fallout — and picking the right style makes loading and unloading easier on a senior dog's body.
