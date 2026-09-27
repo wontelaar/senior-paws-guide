@@ -1444,6 +1444,150 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61+Q817UrzL._AC_SL1080_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-pumpkin-fiber-supplements-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Pumpkin and Fiber Supplements for Senior Dog Digestive Regularity",
+      "category": "Feeding & Medication",
+      "targetKeyword": "pumpkin fiber supplement for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/3051528/pexels-photo-3051528.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Fiber supplements support regularity; they don't diagnose or treat the cause of chronic diarrhea, constipation, or vomiting. New, worsening, or persistent digestive symptoms in a senior dog need a vet visit, since they can signal something beyond diet. Treat all support claims (digestive, anal gland, stool firmness) as manufacturer marketing, not medical fact.",
+      "products": [
+        {
+          "asin": "B001E0L6Z8",
+          "name": "Fruitables Pumpkin Digestive Supplement (15 oz)",
+          "notes": "Canned pumpkin puree blended with fruit and vegetable fiber, budget-priced, for dogs and cats, 4,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UMDBji80L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B006CBD7UQ",
+          "name": "Diggin' Your Dog Firm Up! Pumpkin Fiber Supplement",
+          "notes": "Powdered supplement made from two ingredients (drum-dried pumpkin and apple fiber), resealable pouch, 4,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71v2f6bsGmL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07PMFF7FW",
+          "name": "Native Pet Organic Pumpkin Powder Topper for Dogs",
+          "notes": "Organic pumpkin powder with a soluble/insoluble fiber ratio, 3 ingredients with no fillers, mixes into food, 9,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/819R77LZyhL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00ZJ5BJ74",
+          "name": "Vetnique Glandex Anal Gland Chews with Pumpkin + Digestive Enzymes (60ct)",
+          "notes": "Soft chew combining pumpkin seed and apple pectin fiber with digestive enzymes, marketed for anal gland support and scooting, dosed by weight, 38,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71rQuARIlEL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-dental-water-additives-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Dental Water Additives for Senior Dogs Who Won't Tolerate Brushing",
+      "category": "Feeding & Medication",
+      "targetKeyword": "dental water additive for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/790616/pexels-photo-790616.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Water additives support daily breath and plaque maintenance; they are not a substitute for brushing, professional dental cleanings, or treatment of existing dental disease. A senior dog with bad breath alongside bleeding gums, loose teeth, or pain eating needs a vet dental exam, not just a water additive. Treat plaque/tartar-reduction claims as manufacturer marketing.",
+      "products": [
+        {
+          "asin": "B0054WTPBY",
+          "name": "TropiClean Fresh Breath Dental Water Additive (33.8 oz)",
+          "notes": "Tasteless additive marketed to freshen breath for up to 12 hours and reduce plaque/tartar buildup within 14 days of daily use, label suggests starting at half dose for sensitive stomachs, 24,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/719SwRleZ7L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08CWY3TLW",
+          "name": "Oxyfresh Premium Pet Dental Care Solution Water Additive",
+          "notes": "Unflavored (no mint or tea tree) water additive marketed as an alternative to brushing, described as veterinarian recommended, 40,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Ugh5bSNsL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FKTR2SQS",
+          "name": "Dental Fresh Advanced Plaque & Tartar Water Additive (17 oz)",
+          "notes": "Flavorless and scent-free water additive marketed for plaque and tartar control, shareable across a multi-pet household, 25,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61omLnRQvzL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DM3486LG",
+          "name": "Pet Honesty Vet Approved Dog Teeth Cleaning Powder (30 servings)",
+          "notes": "Powder format (not a liquid water additive) built around kelp and sodium hexametaphosphate, mint flavored, 5,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71U3RS-L4BL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-urinary-cranberry-supplements-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Cranberry and Urinary Tract Supplements for Senior Dogs",
+      "category": "Feeding & Medication",
+      "targetKeyword": "cranberry supplement for senior dogs urinary tract",
+      "heroImage": "https://images.pexels.com/photos/33861562/pexels-photo-33861562/free-photo-of-elderly-labrador-retriever-outdoors-in-a-yard.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Despite some product names using the word 'treatment,' none of these are antibiotics or a substitute for veterinary diagnosis. Straining to urinate, blood in the urine, frequent accidents, or a senior dog crying out while urinating needs a same-week vet visit — a suspected UTI is typically treated with prescription antibiotics, not a supplement alone. Frame these products strictly as general urinary-tract/bladder support, and attribute kidney, bladder, and pH claims to the manufacturer rather than stating them as fact.",
+      "products": [
+        {
+          "asin": "B0077CYK6E",
+          "name": "Nutramax Crananidin Urinary & Bladder Dog Supplement (75ct)",
+          "notes": "Chewable cranberry extract tablet from Nutramax, the same established brand behind Cosequin and Proviable, marketed to help prevent certain bacteria from attaching to the bladder wall, 2,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NS7xc6ovL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0792G86XC",
+          "name": "Cranberry Supplement for Dogs, Bladder Support (120ct)",
+          "notes": "Chewable cranberry supplement marketed for urinary tract and bladder maintenance, 9,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61nBQV447fL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B081B7KZBQ",
+          "name": "Pet Honesty Cranberry Supplement for Dogs (Bacon, 90ct)",
+          "notes": "Soft chew cranberry supplement marketed for bladder function and kidney support, bacon flavor, 19,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Deyeqac+L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07K4GMB4D",
+          "name": "Zesty Paws Cranberry Supplement for Dogs (Bacon, 90ct)",
+          "notes": "Soft chew with a cranberry concentrate plus astragalus root, marketed for kidney, bladder and immune support, 4,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61zsVqaSmtL._AC_SL1080_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-medicated-ear-drops-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Medicated Ear Drops for Senior Dogs with Recurring Ear Infections",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "medicated ear drops for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/17326731/pexels-photo-17326731/free-photo-of-back-view-of-dog-head.jpeg?cs=tinysrgb&w=1200",
+      "caution": "These are medicated products (most contain hydrocortisone, and some contain antifungal or antimicrobial ingredients) meant for a diagnosed, uncomplicated ear issue, not a substitute for a vet exam. A vet should confirm the eardrum is intact and identify whether an infection is bacterial, yeast, mite-related, or allergy-driven before treatment, since the wrong product or a perforated eardrum can make things worse. Recurring or worsening infections need a vet workup rather than repeated home treatment. Don't state effectiveness beyond what each listing claims.",
+      "products": [
+        {
+          "asin": "B0025YOJXS",
+          "name": "Zymox Otic Enzymatic Solution with 1% Hydrocortisone",
+          "notes": "No-sting enzymatic ear solution with 1% hydrocortisone for itch relief, label states no ear pre-cleaning required, 77,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/7120SPuPm5L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C799CC3K",
+          "name": "Vetnique Oticbliss Medicated Ear Drops (Infection Formula)",
+          "notes": "Vet-formulated drops with 1% hydrocortisone and MicroSilver BG, sold as part of a symptom-matched two-formula system (infection vs. allergy), 3,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61JLXInGwvL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FN8HYHZ4",
+          "name": "Vetality Medicated Otic Drops for Dog Ear Infections",
+          "notes": "Hydrocortisone-based drops with a soft comfort-tube applicator, marketed to cut through wax and coat the ear canal, 639 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/710bCPckNLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FJX3ST13",
+          "name": "TropiClean HomeVet Medicated Ear Drops",
+          "notes": "Alcohol-free, hypoallergenic drops with miconazole (antifungal), hydrocortisone, and acetic acid, marketed as vet recommended, 259 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/7114RbZy7KL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
