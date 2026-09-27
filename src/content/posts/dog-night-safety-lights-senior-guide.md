@@ -12,6 +12,7 @@ heroImage: >-
   https://images.pexels.com/photos/9711622/pexels-photo-9711622.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 A senior dog wandering into the yard at dusk presents a problem that most owners don't fully appreciate until it happens: an aging dog with cloudy eyes or dulled hearing doesn't respond to a called name the way it used to, and it doesn't always see the porch steps, the garden edge, or the family car pulling into the driveway. Add in the stiffness of arthritis, which tends to slow a dog's reaction time even when it does notice a hazard, and evening or nighttime outings turn into something that needs real planning rather than an open door. The issue cuts both ways. An owner needs to be able to spot their own dog in low light, especially if the dog has drifted toward the tree line or gone quiet instead of barking or coming when called. And drivers, cyclists, and other pedestrians need enough advance notice to see a slow-moving, possibly confused senior dog before it's close enough to be a genuine emergency. Visibility gear exists to solve exactly this two-way problem, and understanding the categories of gear available makes it much easier to pick the right one instead of grabbing whatever shows up first in a search.
 

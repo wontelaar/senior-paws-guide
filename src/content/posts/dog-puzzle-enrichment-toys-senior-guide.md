@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/16179833/pexels-photo-16179833/free-photo-of-close-up-of-white-dog-sniffing.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 When an older dog starts sleeping more, moving slower, and showing less interest in the world around it, it's easy to write that off as simple aging. But the brain, like the joints, benefits from continued use. Senior dogs, especially those with arthritis or reduced mobility, often get less physical exercise, and physical exercise has always done double duty as mental stimulation — sniffing new ground, chasing a scent, navigating a walk. When that activity drops off, the mind can lose a source of engagement right when it needs it most. Puzzle toys and enrichment activities are one of the few tools built specifically to fill that gap without asking sore joints to do any extra work.
 

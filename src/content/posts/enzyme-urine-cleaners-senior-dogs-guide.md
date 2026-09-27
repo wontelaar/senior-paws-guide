@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/4107257/pexels-photo-4107257.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 When an aging dog starts having accidents on the carpet or bedding, the mess is only half the problem — leftover odor can pull the dog back to the same spot again and again. An enzyme cleaner is meant to break down the uric acid and bacteria causing that smell rather than just masking it, which matters even more in a household managing a senior dog's changing bladder control. Picking the right one means matching the formula to your surfaces and understanding what it can and can't fix on its own.
 

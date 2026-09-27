@@ -28,7 +28,11 @@ const SIMILARITY_THRESHOLD = 0.5;
 const BANNED_PATTERNS = [
 	/\bin my experience\b/i,
 	/\bi(?:'ve| have) (?:owned|used|tried)\b/i,
-	/\bas a (?:veterinarian|vet|dog trainer)\b/i,
+	// Negative lookahead excludes marketing compounds like "vet-recommended"
+	// or "vet-approved" ("marketed as a vet-recommended brand" is a legitimate
+	// third-person description of the product, not a fabricated first-person
+	// credential claim like "As a veterinarian, I recommend...").
+	/\bas a (?:veterinarian|vet|dog trainer)\b(?!-)/i,
 	/\bmy own (?:dog|senior dog|puppy)\b/i,
 	/\bour own (?:dog|senior dog|puppy)\b/i,
 	/\bi personally\b/i,
