@@ -1588,6 +1588,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/7114RbZy7KL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-low-calorie-treats-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Low-Calorie Treats for Senior Dogs Managing Their Weight",
+      "category": "Feeding & Medication",
+      "targetKeyword": "low calorie treats for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/12866877/pexels-photo-12866877.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Unexplained weight gain in a senior dog can also reflect a slowing metabolism, thyroid disease, or reduced mobility rather than just treat intake, so a vet visit (and a vet-guided calorie target) should come before a treat swap alone is expected to fix it. Treats still count toward a dog's daily calories regardless of size, so 'low-calorie' is relative, not free. Don't state calorie figures beyond what each listing states.",
+      "products": [
+        {
+          "asin": "B005OTJWUQ",
+          "name": "Fruitables Skinny Mini Dog Treats (Bacon & Apple, 5oz)",
+          "notes": "Training-size treats listed at under 4 calories each, made with sweet potato, without wheat, corn or soy, 7,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VexbwWZgL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B002QWHJOU",
+          "name": "Greenies Weight Management Teenie Dental Treats (96ct)",
+          "notes": "Dental chew positioned for weight management, described as veterinarian recommended, clinically studied for dental benefit, 6,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-CpxVpM4L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07LB88XF7",
+          "name": "Pupford Freeze Dried Training Treats (Beef Liver, 4oz)",
+          "notes": "Single-protein freeze-dried treat with 3 ingredients, no fillers, mess-free for a training pouch, 8,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71rN5K+bG5L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08LLFGX7P",
+          "name": "Fruitables Baked Dog Treats, Low Calorie (Apple & Bacon, 12oz)",
+          "notes": "Baked biscuit listed at 8 calories per treat, made with pumpkin, without wheat, corn or soy, 5,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VEUzRY87L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-senior-multivitamin-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Senior Dog Multivitamins for Overall Wellness",
+      "category": "Feeding & Medication",
+      "targetKeyword": "senior dog multivitamin",
+      "heroImage": "https://images.pexels.com/photos/7728096/pexels-photo-7728096.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A multivitamin supports general nutrition; it doesn't diagnose or treat a deficiency or disease, and a complete commercial dog food already contains balanced vitamins for most dogs. If a dog is already on other supplements (joint, fish oil, probiotics), check for overlapping ingredients with a vet before adding a multivitamin to avoid doubling up on the same nutrient. Don't state that any product treats a specific condition beyond what its listing claims.",
+      "products": [
+        {
+          "asin": "B071R3FM21",
+          "name": "VetriScience Senior 27+ Multivitamin for Senior Dogs (60ct)",
+          "notes": "Senior-specific chewable formulated by vets with over 27 nutrients, marketed for dogs of all breeds and sizes, 5,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71kFgiHIPSL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07121B839",
+          "name": "Zesty Paws Dog Multivitamin Chews (Chicken, 90ct)",
+          "notes": "8-in-1 formula combining cod liver fish oil, OptiMSM for joint support, and a 6-strain probiotic blend, 27,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81aTgHtieXL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0GZPXPMV1",
+          "name": "25-in-1 Dog Vitamins and Supplements (250 Chews)",
+          "notes": "Large-count budget multivitamin marketed as an all-in-one daily nutrient blend for dogs of all ages and sizes, 1,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EsSbDzsML._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00P1M6ZIS",
+          "name": "Only Natural Pet Ultimate Daily Vitamins",
+          "notes": "Soft chew complete multivitamin marketed as formulated to meet the needs of both senior dogs and puppies, 209 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61sIHxvQOSL._AC_SL1000_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-hot-spot-itch-spray-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Hot Spot and Itch Relief Sprays for Senior Dogs with Irritated Skin",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "hot spot spray for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/5420744/pexels-photo-5420744.jpeg?cs=tinysrgb&w=1200",
+      "caution": "These sprays are for topical use on intact skin, not open wounds, eyes, or mouth, and hydrocortisone-based formulas aren't meant for continuous long-term use without a vet's input. A hot spot that is spreading, oozing, or not improving within a few days, or any skin issue paired with hair loss, odor, or a senior dog that seems painful, needs a vet exam rather than repeated home treatment. Don't state that any spray treats an underlying allergy or infection beyond what its listing claims.",
+      "products": [
+        {
+          "asin": "B0037Z6VJE",
+          "name": "Veterinary Formula Clinical Care Hot Spot & Itch Relief Spray",
+          "notes": "Paraben and dye-free spray with wheat germ oil, described as vet recommended, meant to be used alongside shampoo, for dogs and cats over 12 weeks old, 34,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61a6d4TClFL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0036YPVOC",
+          "name": "Vetericyn Plus Hot Spot Spray (8 oz)",
+          "notes": "Hypochlorous-based, pH-balanced formula described as safe if licked, marketed as vet recommended for wound healing and allergy-related itching, 3,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/719xEk8V-KL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CQMYVFH5",
+          "name": "Pet Honesty Hot Spot Spray with Aloe Vera (4oz)",
+          "notes": "Aloe vera and MicroSilver BG formula marketed for itching, redness and odor, safe for cats as well as dogs, 13,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61b9tsF8AQL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B083781BSY",
+          "name": "Pet MD Hydrocortisone Spray (4 oz)",
+          "notes": "1% hydrocortisone spray, fragrance and dye free, marketed for bites, hot spots and other skin irritation, 16,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61wJnPPS7eL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
