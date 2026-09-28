@@ -11,7 +11,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/32153043/pexels-photo-32153043.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An older dog who suddenly starts pacing at night, panting during storms, or whining when left alone isn't being difficult — aging bodies and brains change how dogs handle stress, and arthritic joints can make every thunderclap or slammed door feel worse. Finding the right calming aid for an anxious senior dog often means testing a chew, a wrap, or both, since no single product works for every dog. This guide compares four widely used options so you can narrow down what's worth trying first.
