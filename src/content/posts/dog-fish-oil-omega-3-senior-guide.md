@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/30810890/pexels-photo-30810890.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 As dogs get older, stiff mornings, duller coats, and slower walks become part of daily life, prompting many owners to look for supplements that support overall wellness alongside whatever their veterinarian has already recommended. Fish oil is one of the most common additions to a senior dog's routine, but the format matters just as much as the ingredient — a liquid pump works differently for a picky eater than a flavored chew does. This guide compares four popular omega-3 options so you can weigh the practical differences before choosing one for your dog.
 
