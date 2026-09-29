@@ -9,7 +9,7 @@ structureType: comparison
 topicId: dog-calming-aids-senior-guide
 category: Feeding & Medication
 heroImage: >-
-  https://images.pexels.com/photos/32153043/pexels-photo-32153043.jpeg?cs=tinysrgb&w=1200
+  https://images.pexels.com/photos/10117512/pexels-photo-10117512.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: false
 approved: true
