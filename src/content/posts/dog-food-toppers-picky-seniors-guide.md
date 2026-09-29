@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/30070537/pexels-photo-30070537.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 When an older dog starts turning up its nose at a food bowl that used to get emptied in seconds, it's a frustrating and sometimes worrying change for any owner. Food toppers are one of the most common fixes owners try first, but picking the right one — and understanding when a topper isn't actually the answer — takes a little more thought.
