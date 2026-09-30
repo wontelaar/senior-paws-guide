@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/3051528/pexels-photo-3051528.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 As dogs age, digestive regularity often gets less predictable — arthritis and reduced activity can slow things down, medications can upset stool consistency, and a senior gut simply doesn't process food the way it did at two years old. A pumpkin or fiber supplement can be a simple, low-effort way to support day-to-day regularity, but it's worth understanding what these products actually are (mostly fiber, sometimes with added enzymes) before picking one off a shelf. Below is a comparison of four widely used options to help narrow down what fits your dog's routine.
