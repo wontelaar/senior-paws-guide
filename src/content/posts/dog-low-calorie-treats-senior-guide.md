@@ -12,6 +12,7 @@ heroImage: >-
   https://images.pexels.com/photos/12866877/pexels-photo-12866877.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 As dogs get older, the treats they've always loved can quietly become a problem — arthritic joints have to carry extra weight, and slowing metabolisms mean fewer calories are needed just to maintain the status quo. Finding treats that still feel like a reward, without undoing the work of a careful diet, is one of the more frustrating parts of caring for a senior dog. This guide compares four widely available low-calorie options, looking at what each one actually offers and where it might fall short.
 
