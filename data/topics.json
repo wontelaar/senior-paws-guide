@@ -1696,6 +1696,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61wJnPPS7eL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-boots-paw-protection-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Outdoor Boots for Senior Dogs with Sensitive or Arthritic Paws",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "outdoor boots for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/14714241/pexels-photo-14714241.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Boots protect paw pads from hot pavement, ice, salt, and rough terrain; they don't correct gait problems or replace a vet exam for a dog that's limping or dragging a paw. A dog that has never worn boots may need a gradual introduction, and any boot should be checked regularly for rubbing, since older dogs can have thinner, more fragile skin on their legs. Sizing is by paw width/length, not overall dog weight alone, so tell readers to check each listing's size chart.",
+      "products": [
+        {
+          "asin": "B073F5GQWM",
+          "name": "QUMY Dog Shoes for Hot Pavement and Snow",
+          "notes": "Rugged slip-resistant sole with an adjustable strap closure, marketed for both hot pavement and winter conditions, 36,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71grLkFiesL._AC_SL1100_.jpg"
+        },
+        {
+          "asin": "B07V3J2M57",
+          "name": "Waterproof Dog Boots with Reflective Straps",
+          "notes": "Wear-resistant, hand-washable boots for medium to large dogs with two adjustable reflective fastening straps, 2,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61E6uLCrLfL._AC_SL1005_.jpg"
+        },
+        {
+          "asin": "B0D129FNMH",
+          "name": "CovertSafe Dog Boots & Paw Protectors",
+          "notes": "Non-slip waterproof boots with a rugged sole and wide split-seam opening for easy on/off, hand washable, 7,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81TOJbR5umL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B001W3HQJW",
+          "name": "Ultra Paws Rugged Dog Boots",
+          "notes": "High-density foam boot with a recycled-tire sole from Ultra Paws, a brand with over 30 years and over 1 million pairs sold, also used by service dog handlers, 1,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Sc-iUgggL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-car-booster-seats-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Car Booster Seats for Small Senior Dogs Who Can't Jump In",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog car booster seat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/2318967/pexels-photo-2318967.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A booster seat raises a dog to see out the window and cushions the ride; none of these are crash-tested restraint systems, so don't imply they protect a dog in a collision. Pair a booster seat with the leash/harness attachment it includes, and always lift a senior dog into the seat rather than expecting it to jump. Ask a vet about ramps or lifting technique if a dog has back, neck, or joint issues.",
+      "products": [
+        {
+          "asin": "B0DD7X8Y22",
+          "name": "Lealchum Dog Booster Car Seat (Up to 35 lbs)",
+          "notes": "6-inch memory foam cushion with adjustable safety leash and shoulder straps, fits front or back seats, 2,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WeNI6EIxL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CB2S7PVV",
+          "name": "EUHAMS Dog Car Seat with 6-Inch Memory Foam (Up to 25 lbs)",
+          "notes": "Memory foam booster raising a small dog to window height, velvet fabric cover, sized 19.2 x 17.7 x 11.7 inches, 1,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81b8hKeGmbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BWC9FJ39",
+          "name": "JOEJOY Deluxe Dog Booster Seat with Metal Frame (Up to 20 lbs)",
+          "notes": "Collapsible internal metal frame for sturdier support, water-resistant Oxford cloth, adjustable buckle installation, 2,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eH7XY3N4L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DNSLWCG1",
+          "name": "Memory Foam Dog Booster Seat for Small/Medium Dogs",
+          "notes": "6-inch elevation with a built-in leash clip, crystal velvet fabric, both bottom and top seat-fastening straps for stability, 2,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81AiDJdtY7L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-bathing-aids-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Bathing Aids for Senior Dogs Who Struggle to Stand or Climb Into a Tub",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "bathing aids for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/19145883/pexels-photo-19145883/free-photo-of-arms-of-a-person-bathing-a-dog.jpeg?cs=tinysrgb&w=1200",
+      "caution": "These products make bath time physically easier; they don't address why a dog struggles to stand (arthritis, weakness, dizziness), so a vet should be looped in if standing or balance has newly gotten worse. Always support a wobbly senior dog directly during bathing rather than relying on a mat or tub alone to prevent a fall, and check water temperature carefully since older dogs may be less able to signal discomfort.",
+      "products": [
+        {
+          "asin": "B00RENLJE2",
+          "name": "Epica Non-Slip Bathtub Mat (16 x 28 in)",
+          "notes": "Rubber mat with high-strength suction cups for a tub or shower floor, resists soap slickness, 7,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WHaV+Sw9L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0858ZL2P1",
+          "name": "Furesh Portable Foldable Dog Bathtub (Small & Medium Dogs)",
+          "notes": "Elevated basin (33 x 17.8 x 11.5 in) marketed to reduce bending and back strain during bathing, folds flat in seconds, 5,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91SwNCxfl8S._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0865SF5TQ",
+          "name": "G-Promise 2-Mode Dog Shower Attachment",
+          "notes": "Hands-free shower sprayer with an 8-foot hose and a no-drilling suction cup mount, dual-mode control lever, 2,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/6182SNKeAzL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DT11YMNJ",
+          "name": "VEVOR Elevated Foldable Dog Bathtub",
+          "notes": "Space-saving elevated tub marketed to reduce bending and back pain during bathing, expandable drain hose, holds up to 220 lbs, 542 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oMNqsrzlL._SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
