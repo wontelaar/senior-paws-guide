@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/33861562/pexels-photo-33861562/free-photo-of-elderly-labrador-retriever-outdoors-in-a-yard.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Older dogs run into urinary tract discomfort more often than younger ones, and there's a real, unglamorous reason for it. As dogs age, they tend to drink less consistently, move around less, and empty their bladder less frequently — especially if arthritis makes it painful to get up, squat, or hold an awkward position outside. Less frequent urination gives bacteria more time to linger in the bladder, and joint pain can make a dog reluctant to fully posture to relieve itself, which compounds the problem. Add in the fact that senior kidneys and bladders simply don't clear the system as efficiently as they used to, and you have a population of dogs who are genuinely more prone to urinary tract irritation than the average adult dog. That's the backdrop that makes "urinary support" a common search for owners of older dogs — not because cranberry is a magic fix, but because a dog who's already dealing with stiff hips or sore knees doesn't need a bladder problem stacked on top.
