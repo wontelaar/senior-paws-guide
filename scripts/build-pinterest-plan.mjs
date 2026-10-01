@@ -30,8 +30,23 @@ function csvEscape(s) {
 	return needsQuotes ? `"${escaped}"` : escaped;
 }
 
+// Pinterest rejects landscape images outright (requires portrait/square,
+// 2:3 to 1:1 aspect ratio) -- our site heroImages are 1200x800 landscape
+// banners, 3:2, the exact inverse. Pexels' CDN supports crop params, so
+// request a 2:3 portrait crop (1000x1500) instead of reusing the raw URL.
+function toPinImage(heroImage) {
+	if (!heroImage) return '';
+	const url = new URL(heroImage);
+	url.searchParams.set('w', '1000');
+	url.searchParams.set('h', '1500');
+	url.searchParams.set('fit', 'crop');
+	return url.toString();
+}
+
 const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.md'));
-const rows = [['board', 'pin_title', 'pin_description', 'image_url', 'destination_url', 'topic_id']];
+const rows = [
+	['board', 'pin_title', 'pin_description', 'pin_image_url', 'destination_url', 'topic_id'],
+];
 
 // Pinterest descriptions allow ~500 chars, far more than the 155-char SEO
 // meta description -- pull the real first paragraph from the post body
@@ -70,7 +85,7 @@ for (const f of files) {
 	const pinDescription = `${body} ${cta}`.trim();
 	const destUrl = `${SITE}/posts/${data.topicId}/`;
 
-	rows.push([board, pinTitle, pinDescription, data.heroImage || '', destUrl, data.topicId]);
+	rows.push([board, pinTitle, pinDescription, toPinImage(data.heroImage), destUrl, data.topicId]);
 	i++;
 }
 
