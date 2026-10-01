@@ -6,9 +6,10 @@ import { categorySlug } from '../lib/category-slug';
 interface Props {
 	title: string;
 	description: string;
+	image?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const siteName = siteConfig.siteName;
 const [siteNameFirstWord, ...siteNameRest] = siteName.split(' ');
@@ -31,10 +32,12 @@ const categories = await getOrderedCategories();
 		<meta property="og:url" content={canonicalURL} />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
+		{image && <meta property="og:image" content={image} />}
 
-		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
 		<meta name="twitter:title" content={title} />
 		<meta name="twitter:description" content={description} />
+		{image && <meta name="twitter:image" content={image} />}
 
 		<link rel="sitemap" href="/sitemap-index.xml" />
 		<link
