@@ -1804,6 +1804,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61oMNqsrzlL._SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-appetite-stimulant-supplements-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Appetite Stimulant Supplements for Senior Dogs Who Won't Eat",
+      "category": "Feeding & Medication",
+      "targetKeyword": "appetite stimulant for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8434676/pexels-photo-8434676.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A senior dog that stops eating or eats noticeably less can have an underlying medical cause (dental pain, nausea, organ disease, medication side effects), so a vet visit should come before relying on a supplement to fix reduced appetite, especially if it persists more than a day or two or comes with other symptoms. These products are nutritional support, not a treatment for an underlying illness, and claims about calories/vitamins are manufacturer claims, not medical fact.",
+      "products": [
+        {
+          "asin": "B00063KI8A",
+          "name": "Tomlyn Nutri-Cal High-Calorie Gel for Adult Dogs (4.25 oz)",
+          "notes": "Malt-flavored high-calorie nutritional gel with omega-3-6-9 fatty acids, can be fed from the tube or placed on nose/paws, 3,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ABW6ovM5L._AC_SY300_SX300_QL70_ML2_.jpg"
+        },
+        {
+          "asin": "B07MMP6JFT",
+          "name": "Under the Weather Ready Cal for Dogs (100cc)",
+          "notes": "Veterinary-formulated high-calorie gel with 10 vitamins, 7 minerals and omega fatty acids, dial-a-dose tube, marketed for dogs not eating properly due to illness or recovery, 3,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Fbrq1IdPL._AC_SY300_SX300_QL70_ML2_.jpg"
+        },
+        {
+          "asin": "B072BKVRPQ",
+          "name": "Miracle Vet High-Calorie Weight Gainer for Dogs & Cats",
+          "notes": "29-vitamin-and-mineral gel supplement with omega-3 fish oil, explicitly marketed as senior dog vitamins and an appetite stimulant for picky eaters, 6,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71k1u59WyJL._AC_SY300_SX300_QL70_ML2_.jpg"
+        },
+        {
+          "asin": "B004HSN1KW",
+          "name": "Health Extension Stress Relief Supplement for Dogs (8oz)",
+          "notes": "Liquid vitamin B supplement marketed to stimulate appetite and prevent hypoglycemia, added to drinking water, 300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51vwBiqLgpL._AC_SY300_SX300_QL70_ML2_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-heart-health-supplements-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Heart Health Supplements for Senior Dogs: Taurine, CoQ10, and More",
+      "category": "Feeding & Medication",
+      "targetKeyword": "heart supplement for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/30205968/pexels-photo-30205968.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Heart murmurs, DCM, and other cardiac conditions require veterinary diagnosis and, often, prescription treatment; a supplement is not a substitute for that care and should only be added alongside a vet-directed plan, not instead of one. Treat ingredient claims (taurine, CoQ10, hawthorn) as manufacturer claims, not medical fact, and don't imply any product treats or reverses diagnosed heart disease.",
+      "products": [
+        {
+          "asin": "B007VKN4F0",
+          "name": "VetriScience Extra Strength Healthy Heart Chews for Dogs (60ct)",
+          "notes": "Chicken-flavored chews with CoQ10, carnitine and taurine, marketed for breeds prone to heart issues as well as general cardio support, 1,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71GXcumjCcL._AC_SY300_SX300_QL70_ML2_.jpg"
+        },
+        {
+          "asin": "B08F8VMLZY",
+          "name": "Zesty Paws Dog Heart Supplement, Taurine, Salmon (90ct)",
+          "notes": "Salmon-flavored chews combining taurine, L-carnitine, CoQ10, hawthorn berry and omega-3 fish oil for cardiovascular support, 700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ykY3Y0vjL._AC_SY300_SX300_QL70_ML2_.jpg"
+        },
+        {
+          "asin": "B01CB7GGIE",
+          "name": "Pet Wellbeing Young at Heart for Senior Dogs (2 oz)",
+          "notes": "Liquid herbal blend marketed specifically for senior dogs' heart and circulation support, mixed into food, 2,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71aKnrQTl+L._AC_SY300_SX300_QL70_ML2_.jpg"
+        },
+        {
+          "asin": "B07GTZ6WV1",
+          "name": "CardioMAX Heart Support Supplement for Dogs (60 Soft Chews)",
+          "notes": "Vet-formulated chews combining taurine, L-carnitine, CoQ10, hawthorn and omega-3s, marketed for dogs with heart murmurs or breed-related heart risk, made in an NASC-certified US facility, 900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71uxHRividL._AC_SY300_SX300_QL70_ML2_.jpg"
+        }
+      ]
     }
   ]
 }

@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/7728096/pexels-photo-7728096.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 As dogs age, their nutritional needs shift, and many owners start wondering whether a daily multivitamin could help fill in nutritional gaps that come with slowing metabolisms, joint stiffness, or pickier eating. Below are answers to the questions pet owners most often ask before adding a senior dog multivitamin to their routine.
 
