@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/790616/pexels-photo-790616.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Many senior dogs who fought brushing their whole lives aren't suddenly going to accept a toothbrush now, especially if their mouths are sore or sensitive. A dental water additive won't replace brushing, but it's often the most realistic daily habit for an older dog's water bowl when a toothbrush simply isn't happening.
