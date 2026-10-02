@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/17326731/pexels-photo-17326731/free-photo-of-back-view-of-dog-head.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For a senior dog whose ears keep flaring up, ear infections aren't just a minor annoyance — they mean repeated head shaking, scratching, and discomfort layered on top of joints that may already be stiff and sore from age. Older dogs are also more likely to have chronic, low-grade ear issues that never fully resolve, which makes it tempting to reach for a medicated drop at the first sign of trouble. But because these products contain active ingredients like hydrocortisone or antifungals, picking the right one — and confirming with a vet what's actually causing the flare-up — matters more than it would with a simple ear-cleaning wipe.
