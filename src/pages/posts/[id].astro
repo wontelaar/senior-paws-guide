@@ -12,6 +12,14 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const categoryPosts = await getCollection(
+	'posts',
+	({ data, id }) => !data.draft && data.category === post.data.category && id !== post.id,
+);
+const related = categoryPosts
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
 ---
 
 <PostLayout
@@ -20,6 +28,7 @@ const { Content } = await render(post);
 	pubDate={post.data.pubDate}
 	updatedDate={post.data.updatedDate}
 	heroImage={post.data.heroImage}
+	related={related}
 >
 	<Content />
 </PostLayout>

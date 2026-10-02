@@ -1,0 +1,76 @@
+---
+interface RelatedPost {
+	id: string;
+	data: {
+		title: string;
+		description: string;
+		heroImage?: string;
+	};
+}
+
+interface Props {
+	posts: RelatedPost[];
+}
+
+const { posts } = Astro.props;
+---
+
+{posts.length > 0 && (
+	<section class="related-posts">
+		<h2>Related Guides</h2>
+		<div class="related-grid">
+			{posts.map((post) => (
+				<a class="related-card" href={`/posts/${post.id}/`}>
+					{post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+					<div class="related-card-body">
+						<h3>{post.data.title}</h3>
+						<p>{post.data.description}</p>
+					</div>
+				</a>
+			))}
+		</div>
+	</section>
+)}
+
+<style>
+	.related-posts {
+		margin-top: 2.5rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--border);
+	}
+	.related-posts h2 { font-size: 1.15rem; margin-bottom: 1rem; }
+	.related-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 1.25rem;
+	}
+	.related-card {
+		display: flex;
+		flex-direction: column;
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		overflow: hidden;
+		text-decoration: none;
+		color: var(--fg);
+		transition: border-color 0.15s;
+	}
+	.related-card:hover { border-color: var(--accent); }
+	.related-card img {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		background: var(--border);
+		border-bottom: 1px solid var(--border);
+	}
+	.related-card-body { padding: 0.9rem; }
+	.related-card-body h3 { margin: 0 0 0.4rem; font-size: 1rem; line-height: 1.35; }
+	.related-card-body p {
+		margin: 0;
+		font-size: 0.85rem;
+		color: var(--muted);
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+</style>

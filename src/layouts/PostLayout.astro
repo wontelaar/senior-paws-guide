@@ -1,6 +1,16 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+
+interface RelatedPost {
+	id: string;
+	data: {
+		title: string;
+		description: string;
+		heroImage?: string;
+	};
+}
 
 interface Props {
 	title: string;
@@ -8,9 +18,10 @@ interface Props {
 	pubDate: Date;
 	updatedDate?: Date;
 	heroImage?: string;
+	related?: RelatedPost[];
 }
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, related = [] } = Astro.props;
 
 const dateFmt = (d: Date) =>
 	d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -35,6 +46,8 @@ const dateFmt = (d: Date) =>
 		<div class="post-body">
 			<slot />
 		</div>
+
+		<RelatedPosts posts={related} />
 	</article>
 </BaseLayout>
 
