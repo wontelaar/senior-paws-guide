@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/5420744/pexels-photo-5420744.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Senior dogs often deal with thinning fur, drier skin, and slower healing, which makes hot spots and itchy patches more likely to crop up and more aggravating when they do. An older dog that's already stiff or arthritic may not tolerate a lot of handling, so a quick, soothing spray is often a more practical first step than a full bath or ointment that requires rubbing into tender skin. This guide compares four widely used hot spot and itch relief sprays to help narrow down which fits an aging dog's needs.
