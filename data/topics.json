@@ -1876,6 +1876,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71uxHRividL._AC_SY300_SX300_QL70_ML2_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-grip-socks-toe-grips-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Grip Socks and Toe Grips for Senior Dogs Who Slip on Hard Floors",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "non slip socks for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/11497271/pexels-photo-11497271.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Socks and grip pads add traction but don't explain why a senior dog is slipping; new or worsening unsteadiness can come from arthritis, muscle loss, or neurological changes and deserves a vet visit, not just a product. Don't claim any product prevents falls or injuries. Sizing is by paw width measured while the dog stands, a too-tight sock can rub or restrict, so tell readers to check paws and skin regularly, take socks off periodically, and stop use if the dog is distressed or the skin looks irritated. Treat traction and anti-licking claims as manufacturer claims.",
+      "products": [
+        {
+          "asin": "B0CN5WLZVL",
+          "name": "DOK TigerToes Premium Non-Slip Dog Socks",
+          "notes": "Elastic cotton-nylon socks with a patented buttonless strap, marketed as keeping traction even when the sock twists and as made with senior dogs in mind, sold as 4-sock sets by paw width, 13,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81jMgHqMTPL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B089SWQQNX",
+          "name": "EXPAWLORER Anti Slip Dog Socks",
+          "notes": "Budget breathable knit socks with a double-sided paw-grip pattern and wider elastic straps, also marketed to help discourage paw licking, 8,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71K+ro1-e4L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CW9RB4YR",
+          "name": "Double-Sided Grip Non-Slip Dog Socks for Senior Dogs",
+          "notes": "Silicone grip pattern on all sides so traction should hold if the sock twists, adjustable straps, marketed for senior dogs and for reducing paw licking, sized by paw width, 800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71w1+O-nphL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08FG6ZG37",
+          "name": "Dog Paw Protector Anti-Slip Toe Grip Pads (12 sets, 48 pcs)",
+          "notes": "Thin adhesive silicone grip pads applied to paw pads as a no-sock alternative, marketed as breathable and less bulky than socks, 48 pieces per pack, 3,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/711AEew+92L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-waterless-dry-shampoo-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Waterless No-Rinse Shampoos for Senior Dogs Who Struggle with Bath Time",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "waterless shampoo for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/4432261/pexels-photo-4432261.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Waterless foams freshen a coat between baths; they don't treat skin conditions, and persistent odor, itching, or flaking in a senior dog can signal infection, allergies, or dental or other disease worth a vet visit. Do a small patch test first, keep product away from eyes, mouth and open skin, and treat hypoallergenic, natural, calming and odor-control claims as manufacturer claims, not medical fact. Don't imply any product cures or treats a skin problem.",
+      "products": [
+        {
+          "asin": "B00GZQYK4K",
+          "name": "Wahl Waterless No Rinse Shampoo for Animals, Lavender Chamomile (7.1 oz)",
+          "notes": "Made in the USA, pH balanced, alcohol- and paraben-free, plant-derived lavender chamomile scent, no rinsing needed, the maker advises testing a small amount first, 17,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71rxt0ShYiL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08CL33BMJ",
+          "name": "Arm & Hammer Ultra Fresh Waterless Dog Shampoo Foam, Juniper Mist (8 fl oz)",
+          "notes": "Pump-bottle no-rinse foam with baking soda, marketed for freshening coats and neutralizing common odors between baths, 5,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TdXeCFhSL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07NXJN253",
+          "name": "TropiClean No Rinse Waterless Dog Shampoo, Papaya & Coconut (7.4 oz)",
+          "notes": "Foam-on, rub-in no-rinse formula with oatmeal and provitamin B5, marketed to eliminate odor with a long-lasting tropical scent, 8,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-ImDjuGaL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08GYH9GD4",
+          "name": "Mighty Mutt Hypoallergenic Waterless Dog Shampoo, Fresh Breeze (8 fl oz)",
+          "notes": "Short natural-leaning ingredient list, marketed as hypoallergenic and tearless, made in the USA, popular with groomers per the maker, 3,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ffj-excbL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-carrier-slings-small-seniors-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Carrier Slings and Front Packs for Small Senior Dogs Who Tire on Walks",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog carrier sling for small senior dogs",
+      "heroImage": "https://images.pexels.com/photos/2132710/pexels-photo-2132710.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Carriers only suit small dogs within each product's listed weight limit (several top out around 20 lbs), and a carrier doesn't explain why a senior dog is tiring or struggling to walk, so new fatigue or reluctance to walk deserves a vet visit. A dog with back, neck or hip problems may be uncomfortable in a carried position, so check with a vet first. Always clip the dog's harness to the interior safety clip or hook where provided, watch for overheating and breathing changes, and don't present a carrier as a crash-safe car restraint.",
+      "products": [
+        {
+          "asin": "B0BWN82TT5",
+          "name": "AnccoPlus Small Dog Sling Carrier, Hands-Free",
+          "notes": "Front-worn hands-free sling that slips on over the head, size-adjustable, marketed as spreading the dog's weight across the wearer's upper body, 1,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71XaZZ+3LxL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CTF8S82M",
+          "name": "ARZQUT Dog and Cat Carrier Sling with Storage Pocket",
+          "notes": "Budget soft cotton sling with an adjustable safety hook that clips to a collar or harness and a shoulder-strap pocket for phone and keys, 3,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61HpVldk4LL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09VNN9LZL",
+          "name": "Outward Hound PupPak Dog Front Carrier (Medium)",
+          "notes": "Padded cross-back strap front pack with a mesh body, interior harness safety clip and drawstring top, Small fits up to 10 lbs and Medium up to 20 lbs, 780+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91MOfdAIQAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DTHH9ZBZ",
+          "name": "Dog Carrier Sling for Small Dogs Up to 20 lbs",
+          "notes": "12.6 oz lightweight machine-washable sling with multiple storage pockets and a side zipper for comforting the dog, rated for dogs up to 20 lbs, 400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61nHhY1UK7L._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
