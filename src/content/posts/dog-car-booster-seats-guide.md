@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/2318967/pexels-photo-2318967.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 As senior dogs lose the hip strength, vision, or joint comfort needed to hop into the car, a booster seat can turn a stressful lift-and-wrestle routine into a simple, supported ride. The questions below cover what these seats actually do, how to size one for an older dog, and which options come up most often in searches for a dog car booster seat for senior dogs.
