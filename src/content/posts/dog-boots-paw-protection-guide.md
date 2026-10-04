@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/14714241/pexels-photo-14714241.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For an older dog, arthritic joints and thinning paw pads can turn an ordinary walk into something that hurts — hot asphalt, rock salt, and rough trails all become bigger obstacles than they used to be. Outdoor boots for senior dogs won't fix joint pain, but the right pair can protect sensitive or worn paw surfaces so daily walks stay part of the routine. This guide compares four options built around different closures, materials, and ease of use so you can match a boot to your dog's needs.
