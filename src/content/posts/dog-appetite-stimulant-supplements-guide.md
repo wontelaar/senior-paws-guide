@@ -12,6 +12,7 @@ heroImage: >-
   https://images.pexels.com/photos/8434676/pexels-photo-8434676.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 When an older dog starts turning its nose up at food, it's rarely just stubbornness — arthritis, dental discomfort, or simple age-related changes in smell and taste can all chip away at appetite over time. For caregivers watching a senior dog eat less and lose weight, appetite stimulant supplements can offer short-term nutritional support while the underlying cause gets sorted out, but they work best as a bridge, not a fix. Below is a comparison of four widely used options to help you understand what each one actually offers.
 
@@ -80,7 +81,7 @@ Rather than a gel, this is a liquid vitamin B supplement <a href="https://www.am
 
 - **Size and weight of your dog**: Dosing on calorie-dense gels is typically weight-based, so check the listing or ask your vet how a product's recommended amount lines up with your dog's size before starting.
 - **Format preference**: Some dogs take readily to a gel on a paw or nose, while others do better with something stirred into water or food — consider what your dog is actually likely to accept.
-- **Washability isn't really a factor here**, since these are consumable supplements rather than bedding or gear, but checking expiration dates and storage instructions on the tube or bottle is worth doing.
+- **Expiration and storage**: These are consumable supplements, so check the expiration date and storage instructions on the tube or bottle before buying.
 - **Budget and quantity**: Tube and bottle sizes vary (4.25 oz, 100cc, 8oz), so think about how long a container is likely to last based on how often you'll use it, and compare cost per use rather than price alone.
 - **Underlying cause first**: No appetite stimulant substitutes for identifying why a senior dog isn't eating. If reduced appetite persists beyond a day or two, or comes with vomiting, lethargy, or weight loss, a vet visit should come before (or alongside) trying a supplement.
 

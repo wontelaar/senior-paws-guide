@@ -1984,6 +1984,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61nHhY1UK7L._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-cognitive-support-supplements-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Cognitive Support Supplements for Senior Dogs: What to Know Before You Try One",
+      "category": "Feeding & Medication",
+      "targetKeyword": "cognitive supplement for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/33834952/pexels-photo-33834952.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Confusion, nighttime pacing, or changes in behavior in an older dog can reflect pain, vision or hearing loss, or other medical problems, and canine cognitive decline needs a vet's diagnosis; a supplement is not a treatment and should never replace that exam. Don't claim any product improves memory, slows or reverses dementia, or delivers results in a set time. Treat ingredient claims (phosphatidylserine, ginkgo, DHA, lion's mane) as manufacturer claims, not medical fact, and tell readers to ask a vet about fit with their dog's current medications and conditions.",
+      "products": [
+        {
+          "asin": "B01MUBAR5X",
+          "name": "Senilife Cognitive Support Capsules for Senior Dogs",
+          "notes": "Capsules with phosphatidylserine, ginkgo biloba, resveratrol, vitamin E and vitamin B6, marketed to support memory and mental alertness in senior dogs, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71knCQ-tz1L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B075HBJ16P",
+          "name": "Dr. Bill's Canine Cognitive Support Supplement",
+          "notes": "Veterinarian-formulated (Dr. Bill Barnett), made in the USA, with DHA, ginkgo biloba, B vitamins, antioxidants and lion's mane, marketed for memory and calm behavior in aging dogs, 240+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71awPxe6FLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DFTSWZZV",
+          "name": "Cognitive Support for Dogs Chewable Tablets (120 ct)",
+          "notes": "Chewable tablets with phosphatidylserine, ginkgo biloba and resveratrol, marketed for cognitive health in older dogs and backed by a 365-day guarantee from the seller, 330+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vo86IktCL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DTX46NG1",
+          "name": "Natural Dog Company Senior Dog Supplement Chews (90 ct)",
+          "notes": "Senior multi-support chew marketed for brain function, heart health and vision, with lion's mane and ginkgo for memory support, 140+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81IMmJJzM7L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-hair-clippers-quiet-trimmers-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Quiet Clippers and Trimmers for Senior Dogs: Sanitary Trims, Paws, and Face at Home",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "quiet dog clippers for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/19145894/pexels-photo-19145894.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Senior dogs often have thin or fragile skin, lumps, and sore joints, so home trimming should be short, gentle sessions with the dog well supported. Don't clip over lumps, skin tags, wounds, or irritated skin, and recommend a vet or groomer look at any new lump or skin change. Noise, vibration and skin-safe blade claims are manufacturer claims; don't promise any clipper is injury-proof or won't scare a nervous dog. For heavily matted or full-body work, a professional groomer is the safer choice.",
+      "products": [
+        {
+          "asin": "B01HRSZRXM",
+          "name": "oneisall Low Noise Dog Clippers Grooming Kit",
+          "notes": "Cordless kit marketed as below 50 dB with 6 guide combs (3 to 18 mm), usable while charging, detachable blade head that rinses clean, 86,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ntBUTlBLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09FS5ZVXK",
+          "name": "Veeconn 4 in 1 Dog Clippers Grooming Kit with Paw Trimmer",
+          "notes": "Rechargeable kit marketed as whisper-quiet, with 3 trimmer heads, a swappable nail grinder head and 4 guide combs, 7,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61UhaX2liOL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B092QN563N",
+          "name": "Waterproof Portable Pet Hair Clipper (USB Rechargeable)",
+          "notes": "Lightweight cordless clipper with a detachable ceramic blade, marketed as low-noise and IPX7 water resistant, USB rechargeable, 2,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61x5MF-j-SS._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DFM6F221",
+          "name": "Mcbazel Pet Micro Precision Trimmer",
+          "notes": "Small dual-blade (ceramic and stainless steel) trimmer with an LED light, marketed as under 50 dB, waterproof and cordless, aimed at paws, eyes, ears and face, 3,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Cs8agXLuL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }

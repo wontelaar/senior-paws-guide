@@ -79,7 +79,7 @@ Structure this one as a comparison/roundup:
 1. A short intro (2-3 sentences) framing the real problem this solves for someone with an aging or arthritic dog.
 2. A markdown comparison table summarizing the products below (columns: Product, Best For, Key Feature, Notes).
 3. One subsection per product (### heading with the product name) with a 2-4 sentence mini-review covering what it is, who it's best suited for, and one realistic caveat or limitation — do not only list positives.
-4. A "How to Choose" section (bulleted) covering the real factors a buyer should weigh (size/weight of dog, thickness, washability, budget).
+4. A "How to Choose" section (bulleted) covering the real factors a buyer should weigh for THIS product category (e.g. size/weight of dog, format, budget, plus category-specific ones such as thickness or washability only when they genuinely apply). Never include a bullet just to say a factor doesn't apply.
 5. A short FAQ section (2-3 Q&As) addressing common follow-up questions about this product category.
 
 Products to cover (use ONLY these facts, do not add specs not listed here):
