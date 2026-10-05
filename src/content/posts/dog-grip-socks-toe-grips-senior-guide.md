@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/11497271/pexels-photo-11497271.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 Watching an older dog's paws splay out on the kitchen tile is unsettling, and it's a common enough problem that a whole category of grip socks and toe pads has popped up to help with traction on hard floors. This FAQ walks through the common questions people have before buying, including sizing, fit, and how these products compare to going sock-free.
 
@@ -33,7 +34,7 @@ Rugs, runners, and yoga-mat strips in high-traffic areas are a reasonable low-co
 
 ### How do I know what size to order?
 
-Sizing for these products is based on paw width, not overall dog weight or breed, and it's measured while the dog is standing so the paw is naturally spread out rather than relaxed and compact. Measuring while standing matters because a paw measured while a dog is lying down can come out smaller than it actually is in use, leading to a sock that's too snug. Check the specific size chart on the listing for whichever product you're considering, since sock sets like DOK TigerToes Premium Non-Slip Dog Socks <a href="https://www.amazon.com/dp/B0CN5WLZVL?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">DOK TigerToes Premium Non-Slip Dog Socks</a>, EXPAWLORER Anti Slip Dog Socks <a href="https://www.amazon.com/dp/B089SWQQNX?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">EXPAWLORER Anti Slip Dog Socks</a>, and the Double-Sided Grip Non-Slip Dog Socks for Senior Dogs <a href="https://www.amazon.com/dp/B0CW9RB4YR?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Double-Sided Grip Non-Slip Dog Socks for Senior Dogs</a> are all sold by paw width rather than a generic small/medium/large based on dog weight.
+Sizing for these products is based on paw width, not overall dog weight or breed, and it's measured while the dog is standing so the paw is naturally spread out rather than relaxed and compact. Measuring while standing matters because a paw measured while a dog is lying down can come out smaller than it actually is in use, leading to a sock that's too snug. Check the specific size chart on the listing for whichever product you're considering. DOK TigerToes Premium Non-Slip Dog Socks <a href="https://www.amazon.com/dp/B0CN5WLZVL?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">DOK TigerToes Premium Non-Slip Dog Socks</a> and the Double-Sided Grip Non-Slip Dog Socks for Senior Dogs <a href="https://www.amazon.com/dp/B0CW9RB4YR?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Double-Sided Grip Non-Slip Dog Socks for Senior Dogs</a> are both sized by paw width, and it's worth confirming the same for EXPAWLORER Anti Slip Dog Socks <a href="https://www.amazon.com/dp/B089SWQQNX?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">EXPAWLORER Anti Slip Dog Socks</a> on its own size chart rather than assuming it follows a generic small/medium/large based on dog weight.
 
 <div class="product-card">
   <img src="https://m.media-amazon.com/images/I/71K+ro1-e4L._AC_SL1500_.jpg" alt="EXPAWLORER Anti Slip Dog Socks" loading="lazy" />

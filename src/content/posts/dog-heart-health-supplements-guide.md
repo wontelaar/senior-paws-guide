@@ -12,6 +12,7 @@ heroImage: >-
   https://images.pexels.com/photos/30205968/pexels-photo-30205968.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 As dogs age, their hearts don't always keep pace with the rest of them — murmurs, reduced stamina, and diagnosed cardiac conditions become more common in senior and breed-predisposed dogs. A heart health supplement won't replace veterinary cardiology care, but many owners add one alongside a vet-directed plan to help support overall cardiovascular wellness. This guide compares four widely used options so you can see how their ingredients and formats differ before you talk specifics with your vet.
 
@@ -21,7 +22,7 @@ As dogs age, their hearts don't always keep pace with the rest of them — murmu
 |---|---|---|---|
 | VetriScience Extra Strength Healthy Heart Chews <a href="https://www.amazon.com/dp/B007VKN4F0?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">VetriScience Extra Strength Healthy Heart Chews for Dogs (60ct)</a> | Dogs of breeds prone to heart issues, general cardio support | CoQ10, carnitine, and taurine in a chicken-flavored chew | Over 1,000 reviews; chew format may suit picky eaters |
 | Zesty Paws Dog Heart Supplement <a href="https://www.amazon.com/dp/B08F8VMLZY?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Zesty Paws Dog Heart Supplement, Taurine, Salmon (90ct)</a> | Owners wanting a broader ingredient blend | Taurine, L-carnitine, CoQ10, hawthorn berry, and omega-3 fish oil | Salmon flavor; over 700 reviews |
-| Pet Wellbeing Young at Heart <a href="https://www.amazon.com/dp/B01CB7GGIE?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Pet Wellbeing Young at Heart for Senior Dogs (2 oz)</a> | Senior dogs, owners who prefer liquid supplements | Herbal liquid blend mixed into food | Over 2,500 reviews; not a chew, so no flavor/palatability chew format |
+| Pet Wellbeing Young at Heart <a href="https://www.amazon.com/dp/B01CB7GGIE?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Pet Wellbeing Young at Heart for Senior Dogs (2 oz)</a> | Senior dogs, owners who prefer liquid supplements | Herbal liquid blend mixed into food | Over 2,500 reviews; a liquid rather than a chew |
 | CardioMAX Heart Support Supplement <a href="https://www.amazon.com/dp/B07GTZ6WV1?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">CardioMAX Heart Support Supplement for Dogs (60 Soft Chews)</a> | Dogs with heart murmurs or breed-related heart risk | Taurine, L-carnitine, CoQ10, hawthorn, and omega-3s; made in an NASC-certified US facility | Over 900 reviews; vet-formulated positioning |
 
 ### VetriScience Extra Strength Healthy Heart Chews
@@ -35,7 +36,7 @@ As dogs age, their hearts don't always keep pace with the rest of them — murmu
   </div>
 </div>
 
-VetriScience's chews <a href="https://www.amazon.com/dp/B007VKN4F0?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">VetriScience Extra Strength Healthy Heart Chews for Dogs (60ct)</a> combine CoQ10, carnitine, and taurine in a chicken-flavored soft chew, aimed at breeds known to be predisposed to heart issues as well as dogs whose owners simply want general cardiovascular support. It's a straightforward option for owners who want a single product covering three commonly discussed heart-support ingredients without extras like fish oil or herbal extracts. One thing to keep in mind: because the formula is more streamlined than some competitors, it doesn't include ingredients like hawthorn or omega-3s that other products on this list bundle in, so owners wanting a broader blend may need to look elsewhere.
+VetriScience's chews <a href="https://www.amazon.com/dp/B007VKN4F0?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">VetriScience Extra Strength Healthy Heart Chews for Dogs (60ct)</a> combine CoQ10, carnitine, and taurine in a chicken-flavored soft chew, aimed at breeds known to be predisposed to heart issues as well as dogs whose owners simply want general cardiovascular support. It's a straightforward option for owners who want a single product built around three commonly discussed heart-support ingredients. One thing to keep in mind: its listing highlights that core trio rather than ingredients like hawthorn or omega-3s that other products on this list bundle in, so owners wanting a broader blend may prefer another option — check the full ingredient panel on the listing to compare.
 
 ### Zesty Paws Dog Heart Supplement
 
@@ -61,7 +62,7 @@ This salmon-flavored chew <a href="https://www.amazon.com/dp/B08F8VMLZY?tag=seni
   </div>
 </div>
 
-Pet Wellbeing's Young at Heart <a href="https://www.amazon.com/dp/B01CB7GGIE?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Pet Wellbeing Young at Heart for Senior Dogs (2 oz)</a> is a liquid herbal blend formulated specifically with senior dogs in mind, designed to be mixed into food rather than given as a chew or pill. It's a reasonable pick for owners whose dogs are reluctant to eat chews or who already have a routine of adding liquids to meals, and its large review base suggests it's a familiar option among senior-dog owners. The tradeoff with a liquid herbal formula, though, is that it lacks the specific taurine, CoQ10, or carnitine dosing format that chew-based products advertise, so dogs with diagnosed taurine deficiency may need a different type of product entirely — something to raise directly with a vet.
+Pet Wellbeing's Young at Heart <a href="https://www.amazon.com/dp/B01CB7GGIE?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Pet Wellbeing Young at Heart for Senior Dogs (2 oz)</a> is a liquid herbal blend formulated specifically with senior dogs in mind, designed to be mixed into food rather than given as a chew or pill. It's a reasonable pick for owners whose dogs are reluctant to eat chews or who already have a routine of adding liquids to meals, and its large review base suggests it's a familiar option among senior-dog owners. The tradeoff is that it's positioned as an herbal blend rather than around specific nutrients like taurine, CoQ10, or carnitine the way the chews are, so it's a different kind of product from the others here — and a dog whose vet has flagged a specific nutrient concern, such as taurine, should get that vet's guidance on which type of product fits.
 
 ### CardioMAX Heart Support Supplement for Dogs
 
@@ -81,7 +82,7 @@ CardioMAX <a href="https://www.amazon.com/dp/B07GTZ6WV1?tag=seniorpawsgui-20" ta
 - **Format preference**: Chews (VetriScience, Zesty Paws, CardioMAX) work well for dogs that take treats readily, while a liquid like Pet Wellbeing's suits dogs that resist pills or chews and owners comfortable mixing supplements into food.
 - **Ingredient breadth**: Some products focus on a core trio (taurine, CoQ10, carnitine), while others add hawthorn berry and omega-3 fish oil. Consider whether a dog's vet has recommended specific ingredients versus a broader blend.
 - **Flavor**: Chicken and salmon flavors are both represented here; dog preference and any known food sensitivities may guide this choice.
-- **Manufacturing transparency**: If certification matters to you, check listings for details like NASC certification, which CardioMAX states on its packaging.
+- **Manufacturing transparency**: If certification matters to you, check listings for details like NASC certification, which CardioMAX's listing mentions for its US manufacturing facility.
 - **Current diagnosis status**: A dog with a diagnosed murmur or cardiac disease needs a vet-directed plan first; the supplement choice should follow that conversation rather than precede it.
 - **Review volume as context, not proof**: A high review count can indicate a product is well known among dog owners, but it doesn't verify effectiveness for a specific dog's condition.
 

@@ -2056,6 +2056,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61Cs8agXLuL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-step-in-harnesses-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Step-In Harnesses for Senior Dogs Who Dislike Things Pulled Over Their Head",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "step in harness for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/33793913/pexels-photo-33793913.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A step-in harness is an everyday walking harness, not a lift harness or mobility aid; it doesn't provide body support, so don't suggest using it to lift or hold up a dog. Sizing is by measuring the dog's chest, not weight alone, and fit should be checked regularly for rubbing, since older dogs can have thinner skin. A dog with new difficulty walking, stumbling, or reluctance to move should see a vet rather than rely on gear. Treat no-pull, no-choke and escape-proof claims as manufacturer claims, and note that one option is for small breeds only.",
+      "products": [
+        {
+          "asin": "B07T98ZG4B",
+          "name": "Downtown Pet Supply Step-In No Pull Dog Harness",
+          "notes": "Padded mesh fabric with reflective trim, hook-and-loop closure with a quick-release buckle strap and double D-rings, the maker advises measuring the dog rather than relying on weight, 16,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vaWTBQmbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DDZX868J",
+          "name": "Puppia Soft Vest Step-In Dog Harness",
+          "notes": "Step-in vest of soft padded mesh with an inner filler, marketed as no-choke, no-pull and comfortable, secured with a buckle, 6,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81V1LotsjLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08V5CR3GX",
+          "name": "Comfort Fit No Pull Step-In Dog Harness",
+          "notes": "Padded step-in vest with quick-release buckles, front and back leash clips, reflective straps and a top handle, adjustable at the neck and chest, 1,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81qWj4I7L5L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07HZMPD5G",
+          "name": "Gooby Escape Free Memory Foam Step-In Dog Harness",
+          "notes": "Memory-foam padded, fleece-lined step-in harness made for small breeds (largest size fits roughly up to 35 lbs), 4-point adjustability, 760+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ZRjrOuGXL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-feeding-mats-non-slip-bowl-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Non-Slip Feeding Mats for Senior Dogs Who Push Bowls Around and Spill",
+      "category": "Feeding & Medication",
+      "targetKeyword": "non slip dog food mat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/4432260/pexels-photo-4432260.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A feeding mat only contains spills and helps keep a bowl from sliding; it doesn't address why a senior dog is messy at mealtime. Sloppier eating, drinking much more than usual, or dropping food can reflect dental pain, nausea, vision or mobility changes, or illness worth a vet visit. Treat silicone safety, BPA-free and dishwasher claims as manufacturer claims, don't cite third-party certifications, and suggest removing the mat if a dog chews it.",
+      "products": [
+        {
+          "asin": "B09KWFY79H",
+          "name": "DogBuddy Dog Food Mat",
+          "notes": "Food-grade silicone mat with a 0.6 in raised edge and a smooth surface marketed as easier to wipe clean, rolls up for storage, dishwasher safe per the maker, 14,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+N41GotQL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B01MEHV8YR",
+          "name": "Hubulk Waterproof Silicone Dog Feeding Mat",
+          "notes": "BPA-free silicone with a 0.5 in raised edge, marketed as non-slip and dishwasher safe, can sit under elevated feeders and water fountains, 15,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71U7TuslBuL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CD7NWBZ7",
+          "name": "MateeyLife Silicone Pet Food Mat (18 x 12 in)",
+          "notes": "Compact 18 x 12 in food-grade silicone mat with a 0.5 in raised edge and a raised-dot surface meant to keep bowls in place, foldable and dishwasher safe, 9,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61iGlIhgDYL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FSJV82F2",
+          "name": "SMILOOL Waterproof Silicone Pet Food Mat",
+          "notes": "Silicone mat with a raised edge marketed at up to 1 inch high, anti-slip, smooth surface and rounded corners meant to be easier to clean, 2,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Q9Y5yMsxL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
