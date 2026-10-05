@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/19145883/pexels-photo-19145883/free-photo-of-arms-of-a-person-bathing-a-dog.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For a dog that once bounded in and out of the tub without a second thought, the sight of them hesitating at the edge, trembling, or needing to be lifted can be jarring for an owner to witness. Bath time becomes a wrestling match, and worse, a real fall risk. Senior dogs often lose strength in their hindquarters first, and conditions like arthritis make the simple act of stepping over a tub wall or standing still on a wet, slick surface genuinely painful. Add in the dizziness or reduced proprioception that can come with age, and what used to be a two-minute hose-down turns into a stressful ordeal for both dog and owner. Understanding why this happens is the first step toward choosing the right bathing setup, because the goal isn't just a clean dog — it's a bath that doesn't ask a weakened body to do things it no longer can.
