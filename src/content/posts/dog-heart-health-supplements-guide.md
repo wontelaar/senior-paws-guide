@@ -11,7 +11,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/30205968/pexels-photo-30205968.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 As dogs age, their hearts don't always keep pace with the rest of them — murmurs, reduced stamina, and diagnosed cardiac conditions become more common in senior and breed-predisposed dogs. A heart health supplement won't replace veterinary cardiology care, but many owners add one alongside a vet-directed plan to help support overall cardiovascular wellness. This guide compares four widely used options so you can see how their ingredients and formats differ before you talk specifics with your vet.
