@@ -19,7 +19,9 @@ Hard rules — do not break these:
   lasting, or better-engineered than another; never give timelines for
   results or how long anything lasts or stays cool; never give dosing,
   amounts, or usage schedules; never use review counts as proof of quality
-  or durability; and never invent materials, features, certifications, or
+  or durability (so never call a product "established", "long-standing",
+  "proven", or say it has a "track record" or "long review history" — just
+  state the review count if relevant); and never invent materials, features, certifications, or
   brand history. Do not claim a product lacks, excludes, or doesn't include
   an ingredient, feature, or size basis unless the facts say so; a detail
   missing from the facts is unknown, not absent, so say "check the listing"

@@ -2128,6 +2128,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61Q9Y5yMsxL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-detangling-sprays-senior-coats-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Detangling Sprays and Leave-In Conditioners for Senior Dogs with Tangle-Prone Coats",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "detangling spray for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8498547/pexels-photo-8498547.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Detanglers make brushing easier but don't fix mats that are tight against the skin; senior dogs can have thin, fragile skin and may be sore or stiff while being brushed, so tight mats, skin irritation, or new coat changes belong with a groomer or vet. Keep sessions short and gentle. Treat moisturizing, itch-relief, shine and pH claims as manufacturer claims, and note that the Warren London listing itself warns its strong fragrance can irritate dogs with sensitive skin. Don't imply any product treats a skin condition.",
+      "products": [
+        {
+          "asin": "B000634IUO",
+          "name": "TropiClean Dog Detangler Spray (16 oz)",
+          "notes": "Leave-in detangling spray with a botanical blend, marketed to soften tangles, matted fur and knots for easier brushing, made in the USA, sweet refreshing scent, 17,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61eGsCx3AKL._AC_SL1160_.jpg"
+        },
+        {
+          "asin": "B01330IKAA",
+          "name": "BioSilk for Dogs Silk Therapy Detangling and Shine Spray (8 fl oz)",
+          "notes": "Leave-in mist with silk proteins and vitamins, marketed to reduce pulling on knots and add shine, usable on a dry or damp coat, pH balanced for dogs, 15,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61LUqngCZNL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B004R56XBY",
+          "name": "Warren London Hydrating Butter Leave-In Conditioner for Dogs",
+          "notes": "Rub-in leave-in conditioning lotion with aloe, marketed to hydrate skin and coat and help detangle, the listing warns its strong fragrance can irritate dogs with sensitive skin, 16,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61SMBaeCfJL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B000YKBH30",
+          "name": "Vet's Best Moisture Mist Dog Conditioner & Detangler Spray (16 oz)",
+          "notes": "Leave-in spray with sage, aloe, cucumber and vitamin B-5, marketed as veterinarian formulated to moisturize and detangle, said not to affect topical flea and tick products, 3,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/619dWEDYvGL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-stair-treads-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Non-Slip Stair Treads for Senior Dogs Who Struggle on Wooden Stairs",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "non slip stair treads for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/5482786/pexels-photo-5482786.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Stair treads add grip underfoot but don't explain why a senior dog is unsteady, and none should be presented as preventing falls; a dog with severe mobility problems may need stairs blocked off or carried instead, so tell readers to ask a vet. These are general household stair treads, not dog-specific products. Adhesion, residue-free removal, washability and durability are manufacturer claims, so tell readers to check that treads stay flat and attached, that edges don't curl, and to replace them if they loosen.",
+      "products": [
+        {
+          "asin": "B07ZNXYCB6",
+          "name": "MBIGM Carpet Stair Treads for Wooden Steps (15 pack, 8 x 30 in)",
+          "notes": "Peel-and-stick treads with a three-layer build (polyester fiber, nonwoven buffer, TPU non-skid bottom), can be cut to fit with scissors, machine washable per the maker, 8,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81vuhdLwLqL._SL1500_.jpg"
+        },
+        {
+          "asin": "B09M7WQRL8",
+          "name": "COSY HOMEER Non-Slip Stair Treads (4 pc, 28 x 9 in)",
+          "notes": "Low-profile polyester treads with TPE non-skid backing that peel and stick without residue per the maker, said to stay effective through up to 30 washes, 8,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FWrKimGTL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CCNF224L",
+          "name": "KOOTETA Non-Slip Stair Treads for Wooden Steps (15 pack, 8 x 30 in)",
+          "notes": "TPR self-adhesive polyester treads installed without tape or glue, marketed as removable without residue and washable, 3,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81PtdnQTLsL._SL1500_.jpg"
+        },
+        {
+          "asin": "B0BP1P6MNR",
+          "name": "BEQHAUSE Non-Slip Stair Treads (4 pcs, 28 x 9 in)",
+          "notes": "Plush polyester treads with TPE non-slip backing and an embroidered dog-paw pattern, machine washable, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91hPawlSuTL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
