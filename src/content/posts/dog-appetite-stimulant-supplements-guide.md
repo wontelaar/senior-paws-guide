@@ -11,7 +11,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/8434676/pexels-photo-8434676.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 When an older dog starts turning its nose up at food, it's rarely just stubbornness — arthritis, dental discomfort, or simple age-related changes in smell and taste can all chip away at appetite over time. For caregivers watching a senior dog eat less and lose weight, appetite stimulant supplements can offer short-term nutritional support while the underlying cause gets sorted out, but they work best as a bridge, not a fix. Below is a comparison of four widely used options to help you understand what each one actually offers.
