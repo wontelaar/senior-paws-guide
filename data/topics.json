@@ -1776,7 +1776,7 @@
       "title": "Bathing Aids for Senior Dogs Who Struggle to Stand or Climb Into a Tub",
       "category": "Grooming & Recovery",
       "targetKeyword": "bathing aids for senior dogs",
-      "heroImage": "https://images.pexels.com/photos/19145883/pexels-photo-19145883/free-photo-of-arms-of-a-person-bathing-a-dog.jpeg?cs=tinysrgb&w=1200",
+      "heroImage": "https://images.pexels.com/photos/39166819/pexels-photo-39166819.jpeg?cs=tinysrgb&w=1200",
       "caution": "These products make bath time physically easier; they don't address why a dog struggles to stand (arthritis, weakness, dizziness), so a vet should be looped in if standing or balance has newly gotten worse. Always support a wobbly senior dog directly during bathing rather than relying on a mat or tub alone to prevent a fall, and check water temperature carefully since older dogs may be less able to signal discomfort.",
       "products": [
         {
@@ -2198,6 +2198,78 @@
           "name": "BEQHAUSE Non-Slip Stair Treads (4 pcs, 28 x 9 in)",
           "notes": "Plush polyester treads with TPE non-slip backing and an embroidered dog-paw pattern, machine washable, 1,200+ reviews",
           "imageUrl": "https://m.media-amazon.com/images/I/91hPawlSuTL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-allergy-itch-chews-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Allergy and Itch Support Chews for Senior Dogs: What They Can and Cannot Do",
+      "category": "Feeding & Medication",
+      "targetKeyword": "allergy chews for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/6125810/pexels-photo-6125810.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Scratching, paw licking, and ear problems in a senior dog can come from allergies, infection, parasites, dry skin, or pain, so a vet visit should come before relying on a chew, and persistent or worsening itching needs veterinary care. These are supplements, not medication, and shouldn't be described as treating allergies. Do not repeat marketing phrases like clinically proven, histamine defense, or results in a set number of weeks. Treat ingredient claims (EpiCor, colostrum, turmeric, omega-3) as manufacturer claims, and tell readers to ask a vet whether a chew fits alongside any medication their dog takes.",
+      "products": [
+        {
+          "asin": "B071WCV19B",
+          "name": "Zesty Paws Dog Allergy Chews, Lamb (90 ct)",
+          "notes": "Lamb-flavored soft chew with EpiCor Pets (a whole food yeast fermentate), colostrum, astragalus root and a probiotic (Lactobacillus acidophilus), marketed for immune and skin support, 101,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61mzUSiik+L._AC_SL1056_.jpg"
+        },
+        {
+          "asin": "B07KNFKHXH",
+          "name": "Pet Honesty Dog Allergy Chews, Salmon (90 ct)",
+          "notes": "Salmon-flavored chew with salmon oil, turmeric and prebiotics, marketed for itch and seasonal-allergy support, 44,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81R5Cn7PyXL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B084VT1CJ6",
+          "name": "Omega 3 Itch Relief Fish Oil Chews for Dogs (180 ct)",
+          "notes": "Chicken-flavored soft chews with omega-3-6-9 fish oil (EPA and DHA), vitamin C, B vitamins, biotin, zinc and prebiotics and probiotics, described as soft enough for seniors with sensitive teeth, 4,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81jz-gTrROL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0H2YYYM69",
+          "name": "Dog Allergy Relief Chews (240 ct)",
+          "notes": "Large 240-count immune-support chew marketed for skin, paw-licking and seasonal-allergy concerns in dogs of all ages including seniors, 2,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81S7lOxajWL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-drying-robes-towels-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Drying Robes and Absorbent Towels for Senior Dogs After Bath Time",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog drying robe for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/1457698/pexels-photo-1457698.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A towel robe helps soak up water without rubbing or long stretches of standing, but it doesn't replace drying the coat thoroughly or keeping an older dog warm; don't claim it dries any dog fully or quickly. Absorbency multiples and durability are manufacturer claims. Sizing is by measuring the dog's back, and fit should be checked so straps aren't tight; a stiff or arthritic dog may not enjoy being dressed, so keep it brief and gentle, remove it if the dog chews it or seems uncomfortable, and suggest a vet visit if the dog shivers or seems unwell after bathing.",
+      "products": [
+        {
+          "asin": "B0BY9CZMBJ",
+          "name": "Tuff Pupper Dog Bathrobe (800 GSM)",
+          "notes": "Hooded microfiber towel robe with an adjustable hood and belly strap, available in 7 sizes, marketed as holding over 5 times its weight in water, wring out and hang to dry, 689 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HEYBld9iL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08KHWKVZG",
+          "name": "DERPYCHAPPY Dog Bathrobe",
+          "notes": "Microfiber robe with an adjustable Velcro strap and elastic hooded headband, sold in 12 colors in sizes S to XL, the maker says a portion of sales supports pet rescues, 667 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51nA20yltdL._AC_SL1024_.jpg"
+        },
+        {
+          "asin": "B0CGX2H46G",
+          "name": "Microfiber Dog Bathrobe, Super Absorbent Drying Coat",
+          "notes": "Double-sided microfiber robe with hook-and-loop waist fasteners, marketed as absorbing up to 7 times its weight in water, machine washable, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vHcuWrYQL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BR4DKSW4",
+          "name": "Dog Bathrobe Towel Drying Coat (Microfiber)",
+          "notes": "Microfiber robe with hook-and-loop waist fastening and an adjustable neck and back drawstring, machine washable and dryable per the listing, 730+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61gxGMQWNML._AC_SL1500_.jpg"
         }
       ]
     }

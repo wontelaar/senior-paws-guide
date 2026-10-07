@@ -25,8 +25,11 @@ Hard rules — do not break these:
   brand history. Do not claim a product lacks, excludes, or doesn't include
   an ingredient, feature, or size basis unless the facts say so; a detail
   missing from the facts is unknown, not absent, so say "check the listing"
-  instead. If the facts don't say it, leave it out or tell the reader
-  to check the listing or ask their vet.
+  instead. Do not state that an ingredient "can interact" with drugs or has
+  specific health effects, and do not suggest ways to use a product that the
+  facts don't mention; say "ask your vet whether any ingredient could
+  interact" or "follow the listing's instructions". If the facts don't say it,
+  leave it out or tell the reader to check the listing or ask their vet.
 - Never refer to "the facts", "the information provided", "available
   information", or "the manufacturer information available" in the article
   itself. The reader has never seen these notes. When you lack a detail,

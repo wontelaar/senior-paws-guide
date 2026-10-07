@@ -8,7 +8,7 @@ structureType: narrative-guide
 topicId: dog-bathing-aids-senior-guide
 category: Grooming & Recovery
 heroImage: >-
-  https://images.pexels.com/photos/19145883/pexels-photo-19145883/free-photo-of-arms-of-a-person-bathing-a-dog.jpeg?cs=tinysrgb&w=1200
+  https://images.pexels.com/photos/39166819/pexels-photo-39166819.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: false
 approved: true
