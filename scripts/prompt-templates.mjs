@@ -28,7 +28,10 @@ Hard rules — do not break these:
   instead. Do not state that an ingredient "can interact" with drugs or has
   specific health effects, and do not suggest ways to use a product that the
   facts don't mention; say "ask your vet whether any ingredient could
-  interact" or "follow the listing's instructions". If the facts don't say it,
+  interact" or "follow the listing's instructions". Also don't say what a
+  feature is "meant for", and don't make performance comparisons between
+  designs (smooth vs textured, one closure vs another) unless the facts
+  state them. If the facts don't say it,
   leave it out or tell the reader to check the listing or ask their vet.
 - Never refer to "the facts", "the information provided", "available
   information", or "the manufacturer information available" in the article

@@ -2272,6 +2272,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61gxGMQWNML._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-crate-pads-orthopedic-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Orthopedic Crate Pads for Senior Dogs Who Sleep in a Crate or Kennel",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "orthopedic crate pad for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/16267964/pexels-photo-16267964.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A cushioned crate pad adds comfort but isn't a treatment for arthritis or joint pain, so a senior dog that struggles to lie down, get up, or settle, or that has accidents in the crate, should see a vet. Orthopedic and certification labels (including CertiPUR-US) are manufacturer claims. Tell readers to measure the crate so the pad lies flat, to check that edges don't ride up, and to remove the pad if the dog chews it since foam and filling can be a swallowing hazard. Don't call waterproof or tear-resistant covers chew-proof.",
+      "products": [
+        {
+          "asin": "B06XSGR7HG",
+          "name": "PETMAKER Orthopedic Memory Foam Crate Mat (20 x 15 in)",
+          "notes": "Dual-layer memory foam and high-density foam with a washable sherpa cover and wraparound zipper, non-slip base, sized for small dogs up to 20 lbs, 9,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71S9bcPLwxL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B086148895",
+          "name": "Bedsure Memory Foam Orthopedic Crate Pad (35 x 22 in)",
+          "notes": "Dual-layer memory foam with a removable zippered washable cover, foam listed as CertiPUR-US certified, non-skid bottom, available in 4 sizes, 9,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81IquxPefKL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09D7DF4DB",
+          "name": "KSIIA Washable Plush Dog Crate Bed (41 x 27 in)",
+          "notes": "Rose-velvet plush cover filled with 4 in of polypropylene fiber, anti-slip bottom, machine washable, 34,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cgXdW0WqL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BVZZCHP1",
+          "name": "Waterproof Orthopedic Dog Crate Bed (23 x 17 in)",
+          "notes": "Small-dog crate bed with 4 in of foam, a tear-resistant waterproof TPU cover, plush top and a non-slip bottom, 5,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/713HIW1HfbS._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-soft-chewy-treats-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Soft and Chewy Treats for Senior Dogs Who Struggle with Hard Biscuits",
+      "category": "Feeding & Medication",
+      "targetKeyword": "soft treats for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8434641/pexels-photo-8434641.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Soft texture can be easier to chew but doesn't address dental pain; a senior dog that drops food, chews on one side, or avoids hard treats deserves a dental exam. Treats count toward daily calories, so suggest keeping them a small share of the diet and asking a vet about portions for dogs managing weight; calorie figures are manufacturer claims. Don't claim dental or senior-health benefits, and tell readers to check ingredient lists against any known allergies or dietary restrictions.",
+      "products": [
+        {
+          "asin": "B08S6MQZVV",
+          "name": "Get Naked Biteables Daily Soft Dog Treats for Senior Health",
+          "notes": "Soft, chewy chicken and sweet potato bites with New Zealand green-lipped mussel, real chicken listed first, marketed for senior dogs and described as easy to portion, 920+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61GUUYa9BeL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0FFQV2K7C",
+          "name": "Pupford Soft & Chewy Training Treats, Beef (5 oz)",
+          "notes": "Beef-first soft treats made in the USA, marketed as under 2 kcal per treat and small enough for one-bite rewards, 400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/710qCO0XbBL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FMWKN8M7",
+          "name": "Shameless Pets Bacon Me Crazy Meaty Tenders (8 oz)",
+          "notes": "Soft, chewy grain-free treats with bacon listed first and upcycled sweet potato and flaxseed for fiber, marketed for training and gentle chewing and for small dogs, seniors and picky eaters, 1,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81IPwLCL3DL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08VYBZX3C",
+          "name": "Bocce's Bakery Brushy Bites Soft Chewy Treats, Apple Mint (6 oz)",
+          "notes": "Soft-baked treats with about 10 ingredients including oat flour, apples, molasses and mint, 9 calories per treat per the maker, baked in the USA, marketed for picky eaters and seniors with sensitive mouths, 826 reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71XkBscz25L._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
