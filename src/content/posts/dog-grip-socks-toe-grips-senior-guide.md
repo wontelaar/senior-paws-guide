@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/11497271/pexels-photo-11497271.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Watching an older dog's paws splay out on the kitchen tile is unsettling, and it's a common enough problem that a whole category of grip socks and toe pads has popped up to help with traction on hard floors. This FAQ walks through the common questions people have before buying, including sizing, fit, and how these products compare to going sock-free.
