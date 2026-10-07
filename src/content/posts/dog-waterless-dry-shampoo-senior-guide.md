@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/4432261/pexels-photo-4432261.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For a senior dog with arthritis, joint pain, or anxiety around standing in a tub, a full bath can turn into a stressful ordeal for everyone involved. Waterless no-rinse shampoos offer a way to freshen a coat and knock down odor between baths without asking an aging dog to balance on wet legs in a tub. They're not a replacement for proper bathing or veterinary skin care, but for maintenance between baths, they can make life easier on stiff joints.
