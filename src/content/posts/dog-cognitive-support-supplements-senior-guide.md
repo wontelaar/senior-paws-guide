@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/33834952/pexels-photo-33834952.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 When an older dog starts pacing at night, staring blankly at walls, or seeming a little lost in a familiar house, it's natural to want to help right away — and a cognitive supplement feels like an easy first step. But behavior changes like this can also point to pain, arthritis, vision or hearing loss, or other medical issues that need a veterinarian's eyes on them first, since a supplement works best as part of a broader plan rather than a stand-in for a diagnosis. This guide looks at four cognitive support products for senior dogs so you know what each one actually offers before you buy.
