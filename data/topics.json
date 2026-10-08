@@ -2344,6 +2344,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71XkBscz25L._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-dental-finger-wipes-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dental Finger Wipes for Senior Dogs Who Won't Tolerate a Toothbrush",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dental wipes for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/6235113/pexels-photo-6235113.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Finger wipes are a gentle at-home option, not a replacement for veterinary dental care; bad breath, drooling, bleeding gums, dropping food, or pawing at the mouth in a senior dog can signal dental disease or pain that needs a vet exam. Don't claim any product removes plaque or tartar or treats gum disease, and treat flavor, breath-freshening and 'vet recommended' wording as manufacturer marketing. Some older dogs with a sore mouth will resist, so advise short sessions, stopping if the dog is distressed, and keeping a finger safe from the dog's teeth.",
+      "products": [
+        {
+          "asin": "B0FQK8J627",
+          "name": "Pet Honesty Vet Recommended Dental Wipes with Zinc (30 ct)",
+          "notes": "Finger wipes with a textured beaded side and an herbal blend of mint, rosemary and decaffeinated green tea, marketed as a toothbrush alternative for dogs and cats, 5,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Q7ZZilIxL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0F2N3GVTK",
+          "name": "Pet MD Dental Finger Wipes for Dogs, Apple & Mint (50 ct)",
+          "notes": "Finger wipes with a textured surface meant to work like a toothbrush, apple and mint flavor, marketed for fresh breath, 3,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71SV8YzEvgL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CZN3PSTS",
+          "name": "MEDUWEDU Dental Care Finger Wipes (60 ct)",
+          "notes": "No-water fingertip wipes sold in fruit and coconut scents (coconut, grapefruit, mint, peach) for dogs and cats, marketed to support oral freshness, 2,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Nvy6Vzb1L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DHFMPTD8",
+          "name": "Paw Science Dental Finger Wipes for Dogs & Cats",
+          "notes": "No-rinse finger wipes described as hypoallergenic and pH balanced, marketed as a replacement for toothbrush and toothpaste, 2,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/717s9rUYwHL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-short-traffic-leashes-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Short Traffic Leashes for Senior Dogs: Close Control on Walks Without a Tug",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "short leash for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/32138086/pexels-photo-32138086.jpeg?cs=tinysrgb&w=1200",
+      "caution": "A short leash gives the owner closer control but is not a support or lifting aid, and should never be used to hold up, drag, or pull a wobbly dog; unsteadiness, stumbling or reluctance to walk deserves a vet visit. Suggest attaching to a harness rather than a neck collar for dogs with neck or throat sensitivity. Most of these listings are aimed at medium and large dogs, so small seniors need a check of the listing. Durability, heavy-duty and traction claims are manufacturer claims.",
+      "products": [
+        {
+          "asin": "B0CBTCMK72",
+          "name": "Joytale Short Dog Leash for Close Control (18 in)",
+          "notes": "Short heavy-duty nylon leash with a neoprene-padded handle and a D-ring for waste bags, sold in 3 length options, marketed for close control in crowded areas, 860+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61N3dZ8LCsL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07JFWS9GP",
+          "name": "VIVAGLORY Short Traffic Leash (12 in)",
+          "notes": "Short leash in double-layer nylon webbing with a neoprene-padded handle, swivel clasp and reflective threading, marketed for keeping a dog in a heel position, 2,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LRkSDJJ4L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07PGGJRZS",
+          "name": "Short Nylon Dog Leash, Heavy Duty (12 in)",
+          "notes": "12-inch double-layer nylon leash with a cushioned padded handle and reflective stitching, marketed for medium and large dogs, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61jtjktHoPL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09XJ2NHVB",
+          "name": "ZALER Short Rope Traffic Leash (18 in)",
+          "notes": "Nearly half-inch rope leash with a woven sheath, screw-lock carabiner and a reflective nylon traffic handle with an O-ring, marketed for medium and large dogs, 1,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TMZdB9bOL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }

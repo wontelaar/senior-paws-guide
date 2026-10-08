@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/5482786/pexels-photo-5482786.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 When a senior dog starts hesitating at the top of the stairs or slipping on the way down, it's natural to start searching for an easy fix. Non-slip stair treads are one of the most common solutions people try first, and this FAQ walks through what they can realistically do, what to look for, and where they fall short.
 
