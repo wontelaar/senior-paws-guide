@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/2132710/pexels-photo-2132710.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For an older dog, a walk around the block can stop being simple exercise and start being a genuine challenge. Arthritis, muscle loss, reduced stamina, and joint pain all chip away at how far and how comfortably a senior dog can go on its own four legs. The dog may still want to be outside, still perk up at the leash, but physically run out of steam halfway through the route. That mismatch — a willing spirit in a body that's struggling — is exactly where a carrier sling or front pack earns its place in a senior dog's routine. It lets the dog stay part of the outing, keep smelling the world and seeing the neighborhood, without forcing joints and muscles to do more than they comfortably can.
