@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/33793913/pexels-photo-33793913.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 For an older dog, a standard harness that has to be pulled over the head can turn a simple walk into a small ordeal. Senior dogs often have stiffer shoulders, sore necks, or arthritic joints, and the overhead motion required by a traditional harness asks them to flex a neck or raise a leg in ways that may genuinely hurt. Some dogs resist the process entirely, backing away or struggling, which only adds stress to both ends of the leash. A step-in harness sidesteps that problem by having the dog simply place its front paws through two leg openings while the harness lies flat on the ground, then clipping or fastening it closed along the back. There's no hood to wrestle over the ears, no neck-first contortion — just a calmer, more predictable routine for a dog who may already be wary of handling.
