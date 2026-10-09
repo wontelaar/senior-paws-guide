@@ -12,7 +12,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/19145894/pexels-photo-19145894.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Many older dogs get more easily upset by loud buzzing, sudden vibration, and being held in awkward positions for long stretches, which can make a quiet, gentle trimming setup a practical purchase rather than a gadget splurge. The questions below walk through what actually matters when choosing clippers or trimmers for a senior dog's sanitary area, paws, and face, and where a few specific tools fit in.
