@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/4432260/pexels-photo-4432260.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An older dog that nudges its bowl across the kitchen floor, drools onto the tile, or slops water over the rim at every meal isn't being careless — arthritis, reduced neck mobility, or just less precise motor control can all make mealtime messier than it used to be. A non-slip dog food mat for senior dogs contains what spills and keeps the bowl from skidding away while the dog is trying to eat from it. This guide compares four silicone feeding mats to help narrow down which one fits an aging dog's routine.
