@@ -21,7 +21,7 @@ const CTAS = [
 	"See all the options we'd actually recommend.",
 	'Full comparison and what to look for, in the guide.',
 	'Real picks for real senior dogs, in the guide.',
-	'Details, pros/cons, and our picks in the full guide.',
+	'Details and our top picks in the full guide.',
 ];
 
 function csvEscape(s) {
