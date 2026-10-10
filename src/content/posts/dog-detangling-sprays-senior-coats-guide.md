@@ -12,7 +12,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/8498547/pexels-photo-8498547.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 As dogs age, many develop stiff joints or sore muscles that make long brushing sessions genuinely uncomfortable, and an older dog's coat can be harder to keep tangle-free. A good detangling spray or leave-in conditioner can make routine brushing faster and gentler, which matters a great deal for a senior dog that can't tolerate being worked on for very long.
