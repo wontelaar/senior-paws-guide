@@ -1,5 +1,5 @@
 ---
-title: 'Allergy and Itch Support Chews for Senior Dogs: What They Can and Cannot Do'
+title: 'Allergy and Itch Support Chews for Senior Dogs: How to Choose the Right One'
 description: >-
   A senior dog that's constantly scratching, licking at its paws, or chewing at
   its flank can make daily life harder for both the dog and the owner,…
