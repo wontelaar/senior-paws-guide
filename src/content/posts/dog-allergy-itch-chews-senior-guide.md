@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/6125810/pexels-photo-6125810.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 A senior dog that's constantly scratching, licking at its paws, or chewing at its flank can make daily life harder for both the dog and the owner, especially when stiff joints already limit how easily that dog moves or settles. It's tempting to reach for a soft chew that promises skin and itch support, but it helps to know what these products are actually formulated to do before assuming they'll solve the problem on their own. This guide compares four allergy and itch support chews so you can see what each one offers and where its limits are.
 
@@ -18,9 +19,9 @@ A senior dog that's constantly scratching, licking at its paws, or chewing at it
 
 | Product | Best For | Key Feature | Notes |
 |---|---|---|---|
-| Zesty Paws Dog Allergy Chews, Lamb <a href="https://www.amazon.com/dp/B071WCV19B?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Zesty Paws Dog Allergy Chews, Lamb (90 ct)</a> | Owners wanting a widely-reviewed everyday option | EpiCor Pets, colostrum, astragalus root, probiotic | 101,000+ reviews; lamb flavor |
+| Zesty Paws Dog Allergy Chews, Lamb <a href="https://www.amazon.com/dp/B071WCV19B?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Zesty Paws Dog Allergy Chews, Lamb (90 ct)</a> | Owners wanting a lamb-flavored chew with a probiotic | EpiCor Pets, colostrum, astragalus root, probiotic | 101,000+ reviews; lamb flavor |
 | Pet Honesty Dog Allergy Chews, Salmon <a href="https://www.amazon.com/dp/B07KNFKHXH?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Pet Honesty Dog Allergy Chews, Salmon (90 ct)</a> | Dogs that do well with fish-based formulas | Salmon oil, turmeric, prebiotics | 44,000+ reviews; salmon flavor |
-| Omega 3 Itch Relief Fish Oil Chews <a href="https://www.amazon.com/dp/B084VT1CJ6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Omega 3 Itch Relief Fish Oil Chews for Dogs (180 ct)</a> | Seniors with sensitive teeth or gums | Omega-3-6-9 fish oil, vitamins, biotin, zinc, pre/probiotics | Described as soft texture; chicken flavor |
+| Omega 3 Itch Relief Fish Oil Chews <a href="https://www.amazon.com/dp/B084VT1CJ6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Omega 3 Itch Relief Fish Oil Chews for Dogs (180 ct)</a> | Seniors with sensitive teeth | Omega-3-6-9 fish oil, vitamins, biotin, zinc, pre/probiotics | Described as soft texture; chicken flavor |
 | Dog Allergy Relief Chews (240 ct) <a href="https://www.amazon.com/dp/B0H2YYYM69?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Dog Allergy Relief Chews (240 ct)</a> | Multi-dog households or long-term supply needs | Large 240-count bag, immune support | Marketed for all ages including seniors |
 
 ### Zesty Paws Dog Allergy Chews, Lamb
@@ -34,7 +35,7 @@ A senior dog that's constantly scratching, licking at its paws, or chewing at it
   </div>
 </div>
 
-This lamb-flavored chew combines EpiCor Pets, a whole food yeast fermentate, with colostrum, astragalus root, and the probiotic Lactobacillus acidophilus, and it's marketed by the manufacturer for immune and skin support. It's one of the more reviewed products in this category, with over 101,000 reviews, which may appeal to owners who want a widely-used option to start with. That said, a high review count reflects popularity, not proof that it will work for a particular dog's itching, so it's worth treating the ingredient list as a starting point for a conversation with your vet rather than a guarantee. Owners of dogs with existing health conditions or medications should ask a vet whether any of these ingredients make sense alongside what the dog already takes.
+This lamb-flavored chew combines EpiCor Pets, a whole food yeast fermentate, with colostrum, astragalus root, and the probiotic Lactobacillus acidophilus, and it's marketed by the manufacturer for immune and skin support. It has over 101,000 reviews, but a review count says nothing about whether it will work for a particular dog's itching, so it's worth treating the ingredient list as a starting point for a conversation with your vet rather than a guarantee. Owners of dogs with existing health conditions or medications should ask a vet whether any of these ingredients make sense alongside what the dog already takes.
 
 ### Pet Honesty Dog Allergy Chews, Salmon
 
@@ -47,7 +48,7 @@ This lamb-flavored chew combines EpiCor Pets, a whole food yeast fermentate, wit
   </div>
 </div>
 
-This salmon-flavored chew is built around salmon oil, turmeric, and prebiotics, and the manufacturer markets it for itch and seasonal-allergy support. With more than 44,000 reviews, it's a well-known alternative for owners whose dogs may do better with fish-based flavoring than lamb or chicken. One thing to keep in mind: a fish-based recipe may not suit every dog's palate or sensitivities, so if your senior dog has had trouble with fish-based treats before, check the listing closely before assuming this one will go down easily.
+This salmon-flavored chew is built around salmon oil, turmeric, and prebiotics, and the manufacturer markets it for itch and seasonal-allergy support. It has more than 44,000 reviews and may suit owners whose dogs prefer fish-based flavoring over lamb or chicken. One thing to keep in mind: a fish-based recipe may not suit every dog's palate or sensitivities, so if your senior dog has had trouble with fish-based treats before, check the listing closely before assuming this one will go down easily.
 
 ### Omega 3 Itch Relief Fish Oil Chews for Dogs
 
@@ -73,12 +74,12 @@ This chicken-flavored chew pairs omega-3-6-9 fish oil (including EPA and DHA) wi
   </div>
 </div>
 
-This is a large-format chew sold in a 240-count bag, marketed for skin issues, paw-licking, and seasonal-allergy concerns in dogs of any age, including seniors. The bigger bag size may suit multi-dog households or owners who'd rather not reorder frequently, and it carries over 2,800 reviews. However, the listing doesn't specify the same named ingredients as the other three products here, so if you want to know exactly what's in it and at what amount, you'll need to check the listing directly rather than assume it matches the others.
+This is a large-format chew sold in a 240-count bag, marketed for skin issues, paw-licking, and seasonal-allergy concerns in dogs of any age, including seniors. The bigger bag size may suit multi-dog households or owners who'd rather not reorder frequently, and it carries over 2,800 reviews. However, this write-up doesn't name its specific ingredients the way it does for the other three, so if you want to know exactly what's in it and at what amount, check the listing's full ingredient panel directly rather than assume it matches the others.
 
 ## How to Choose
 
 - **Flavor and format tolerance:** Senior dogs can be picky, and a chew your dog won't reliably eat isn't useful no matter what's in it. Consider whether your dog already has preferences around lamb, salmon, or chicken-flavored treats.
-- **Texture for dental comfort:** If your senior dog has sensitive teeth or gums, a chew described as soft, like the Omega 3 Itch Relief Fish Oil Chews, may be easier to manage than a firmer option.
+- **Texture for dental comfort:** If your senior dog has sensitive teeth, a chew described as soft, like the Omega 3 Itch Relief Fish Oil Chews, may be easier to manage than a firmer option.
 - **Bag size versus how often you'll use it:** A 240-count bag may make sense for a multi-dog household, while a 90-count bag may be a more manageable size to test with a single dog first.
 - **Ingredient transparency:** Some listings name specific ingredients like EpiCor, colostrum, turmeric, or omega-3 sources, while others describe the product more generally. If you want to know exactly what you're giving your dog, read the full ingredient list on the listing before buying.
 - **Current medications and health conditions:** Ask your vet whether any ingredient in a chew could be an issue alongside medications your senior dog already takes, especially if your dog has a diagnosed condition.
