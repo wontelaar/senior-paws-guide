@@ -2317,7 +2317,7 @@
       "category": "Feeding & Medication",
       "targetKeyword": "soft treats for senior dogs",
       "heroImage": "https://images.pexels.com/photos/8434641/pexels-photo-8434641.jpeg?cs=tinysrgb&w=1200",
-      "caution": "Soft texture can be easier to chew but doesn't address dental pain; a senior dog that drops food, chews on one side, or avoids hard treats deserves a dental exam. Treats count toward daily calories, so suggest keeping them a small share of the diet and asking a vet about portions for dogs managing weight; calorie figures are manufacturer claims. Don't claim dental or senior-health benefits, and tell readers to check ingredient lists against any known allergies or dietary restrictions.",
+      "caution": "Don't claim dental or senior-health benefits; calorie figures are manufacturer claims. One calm sentence about a vet exam if a dog avoids chewing is enough.",
       "products": [
         {
           "asin": "B08S6MQZVV",
@@ -2353,7 +2353,7 @@
       "category": "Grooming & Recovery",
       "targetKeyword": "dental wipes for senior dogs",
       "heroImage": "https://images.pexels.com/photos/6235113/pexels-photo-6235113.jpeg?cs=tinysrgb&w=1200",
-      "caution": "Finger wipes are a gentle at-home option, not a replacement for veterinary dental care; bad breath, drooling, bleeding gums, dropping food, or pawing at the mouth in a senior dog can signal dental disease or pain that needs a vet exam. Don't claim any product removes plaque or tartar or treats gum disease, and treat flavor, breath-freshening and 'vet recommended' wording as manufacturer marketing. Some older dogs with a sore mouth will resist, so advise short sessions, stopping if the dog is distressed, and keeping a finger safe from the dog's teeth.",
+      "caution": "Don't claim any wipe removes plaque or tartar or treats gum disease; flavor and breath-freshening wording is manufacturer marketing. One calm sentence about a vet dental check is enough.",
       "products": [
         {
           "asin": "B0FQK8J627",
@@ -2389,7 +2389,7 @@
       "category": "Mobility & Comfort",
       "targetKeyword": "short leash for senior dogs",
       "heroImage": "https://images.pexels.com/photos/32138086/pexels-photo-32138086.jpeg?cs=tinysrgb&w=1200",
-      "caution": "A short leash gives the owner closer control but is not a support or lifting aid, and should never be used to hold up, drag, or pull a wobbly dog; unsteadiness, stumbling or reluctance to walk deserves a vet visit. Suggest attaching to a harness rather than a neck collar for dogs with neck or throat sensitivity. Most of these listings are aimed at medium and large dogs, so small seniors need a check of the listing. Durability, heavy-duty and traction claims are manufacturer claims.",
+      "caution": "Don't present a leash as a support or lifting aid. One calm sentence suggesting a harness and a vet check for new unsteadiness is enough.",
       "products": [
         {
           "asin": "B0CBTCMK72",
@@ -2414,6 +2414,78 @@
           "name": "ZALER Short Rope Traffic Leash (18 in)",
           "notes": "Nearly half-inch rope leash with a woven sheath, screw-lock carabiner and a reflective nylon traffic handle with an O-ring, marketed for medium and large dogs, 1,000+ reviews",
           "imageUrl": "https://m.media-amazon.com/images/I/71TMZdB9bOL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-elevated-cot-beds-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Elevated Cot Beds for Senior Dogs: Cool, Raised Resting Spots Indoors and Out",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "elevated dog bed for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/5938111/pexels-photo-5938111.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a cot treats joint pain or arthritis. One calm sentence noting that a stiff dog may want a low step-up is enough.",
+      "products": [
+        {
+          "asin": "B0923DF468",
+          "name": "K&H Outdoor Elevated Dog Bed, Medium (32 x 25 in)",
+          "notes": "Elevated cot designed for 360-degree airflow, lightweight collapsible frame with tool-free assembly, removable machine-washable mesh cover, from a brand citing 25+ years in pet products, 20,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IkqZASu3S._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09H2NL6NT",
+          "name": "Elevated Pet Bed Dog Cot for Small Dogs",
+          "notes": "Paint-free stainless steel frame weighing 1.8 lbs, silicone non-slip feet, ventilated canvas fabric, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71OfIz2kgWL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D3H1P49N",
+          "name": "Elevated Dog Bed for Large Dogs (Tool-Free Assembly)",
+          "notes": "Raised cot with washable breathable Teslin mesh, anti-slip silicone feet and tool-free assembly, off-the-ground design for airflow, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81l40818g9L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C49PCGB2",
+          "name": "Kuntrust Elevated Dog Bed, Medium (fits up to 70 lbs)",
+          "notes": "Reversible double-layer cotton fabric, tool-free plug-in connectors and non-slip rubber feet, for indoor and outdoor use, 2,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71R3c7EGcaL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-deodorizing-sprays-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Deodorizing Sprays for Senior Dogs: Stay Fresh Between Baths",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "deodorizing spray for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/19145875/pexels-photo-19145875.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a spray treats skin problems or odor with a medical cause. One calm sentence about asking a vet if odor persists is enough.",
+      "products": [
+        {
+          "asin": "B07RWF8X9P",
+          "name": "Arm & Hammer Super Deodorizing Dog Spray, Kiwi Blossom (8 fl oz)",
+          "notes": "Baking soda deodorizing spray usable on wet or dry coats, pH balanced and paraben-free for dogs, marketed to neutralize odors between baths, 16,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71slM4iwJ6L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0009X49U0",
+          "name": "earthbath Lavender 3-in-1 Dog Deodorizing Spray (8 oz)",
+          "notes": "Lavender-scented spray with colloidal oatmeal, organic aloe vera and vitamin E, marketed to refresh, condition and detangle, listed for dogs and puppies over 6 weeks old, 2,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/419z50m9crL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0DF45M1DZ",
+          "name": "MRS. MEYER'S Clean Day Dog Deodorizing Spray, Sweet Chamomile (8 oz)",
+          "notes": "pH-balanced spray with glycerin, oat extract, aloe, chamomile and rosemary, marketed to deodorize, moisturize and add shine, described as veterinarian tested, 2,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61RvervnxRL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DDQM6R5R",
+          "name": "Poo-Pourri Furrest Fresh Dog Deodorizing Spray (8 fl oz)",
+          "notes": "Quick-drying spray with a fir, amber and cedarwood scent made with essential oils, marketed for refreshing a coat between baths, 1,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cE01UFBZL._AC_SL1500_.jpg"
         }
       ]
     }
