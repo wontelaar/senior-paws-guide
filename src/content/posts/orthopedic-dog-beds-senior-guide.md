@@ -39,7 +39,7 @@ As dogs get older, a lot of them start avoiding the same spots on the floor they
   </div>
 </div>
 
-<a href="https://www.amazon.com/dp/B0BDLGZCTY?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">EHEYCIGA Orthopedic Extra-Large Dog Bed</a> is built around egg-crate polyurethane foam in a 44-inch size, aimed at large and XL dogs that need the whole body supported, not just a small cushioned patch. The cover is waterproof and machine-washable, which matters more than it sounds for older dogs who may have occasional accidents. The trade-off with any bed this size is that egg-crate foam is firmer support than pure memory foam — good for weight distribution, less "sinking-in" than a plush bed.
+<a href="https://www.amazon.com/dp/B0BDLGZCTY?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">EHEYCIGA Orthopedic Extra-Large Dog Bed</a> is built around egg-crate polyurethane foam in a 44-inch size, aimed at large and XL dogs that need the whole body supported, not just a small cushioned patch. The cover is waterproof and machine-washable, which matters more than it sounds for older dogs who may have occasional accidents. Egg-crate foam offers firm, even support that's good for weight distribution, which suits big dogs who want a stable surface to lie on and push up from. It adds a non-slip bottom, so the bed stays put on the floor.
 
 ### Bedsure Orthopedic Dog Bed (Original)
 
@@ -52,7 +52,7 @@ As dogs get older, a lot of them start avoiding the same spots on the floor they
   </div>
 </div>
 
-<a href="https://www.amazon.com/dp/B089RGDQBB?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bedsure Orthopedic Dog Bed (Original)</a> is the most budget-friendly option here and is explicitly marketed toward senior dogs. It has bolstered (raised) sides, which some older dogs like to rest their head on, though bolsters aren't necessary for joint support itself — they're more about a dog's sense of security. The cover is removable and washable with a non-slip bottom, same basics as the pricier options.
+<a href="https://www.amazon.com/dp/B089RGDQBB?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bedsure Orthopedic Dog Bed (Original)</a> is a budget-friendly option and is explicitly marketed toward senior dogs. It has bolstered (raised) sides, which some older dogs like to rest their head on and which add a cozy sense of security. The cover is removable and washable with a non-slip bottom and a waterproof lining, the same practical basics found across this list.
 
 ### Bedsure SupportMax Extra-Thick Orthopedic XL Bed
 
@@ -65,7 +65,7 @@ As dogs get older, a lot of them start avoiding the same spots on the floor they
   </div>
 </div>
 
-<a href="https://www.amazon.com/dp/B0F1CM5RHT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bedsure SupportMax Extra-Thick Orthopedic XL Bed</a> steps up the foam thickness compared to Bedsure's original, with a sherpa top layer for warmth. If a dog is very large or particularly bony (common in senior dogs that have lost muscle mass), a thicker base foam means less risk of "bottoming out" and feeling the floor underneath. The cover is fully removable and washable.
+<a href="https://www.amazon.com/dp/B0F1CM5RHT?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Bedsure SupportMax Extra-Thick Orthopedic XL Bed</a> steps up the foam thickness compared to Bedsure's original, with a sherpa top layer for warmth. If a dog is very large or particularly bony (common in senior dogs that have lost muscle mass), a thicker base foam means less risk of "bottoming out" and feeling the floor underneath. The cover is fully removable and washable, which keeps the sherpa top fresh and easy to maintain, and the bed is aimed at senior and large dogs.
 
 ### LE SURE RealOrtho 3-Layer Orthopedic XL Bed
 
@@ -78,7 +78,7 @@ As dogs get older, a lot of them start avoiding the same spots on the floor they
   </div>
 </div>
 
-<a href="https://www.amazon.com/dp/B0H7X73RD6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">LE SURE RealOrtho 3-Layer Orthopedic XL Bed</a> is positioned specifically around joint support for older dogs, using a 3-layer memory foam construction rather than a single foam block. It's priced noticeably higher than the others on this list. Whether the layered construction is worth the premium depends mostly on how sensitive the dog's joints are — for a dog with diagnosed arthritis, extra engineering in the foam is a reasonable place to spend more; for a healthy older dog just starting to slow down, a simpler bed may be plenty.
+<a href="https://www.amazon.com/dp/B0H7X73RD6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">LE SURE RealOrtho 3-Layer Orthopedic XL Bed</a> is positioned specifically around joint support for older dogs, using a 3-layer memory foam construction rather than a single foam block. As the premium pick on this list, it's a natural fit for dogs whose joints call for extra engineering in the foam, and for owners who want the layered construction behind their senior dog's most-used spot. The waterproof, washable cover keeps it easy to maintain.
 
 ### CWAWZ Cooling-Gel Orthopedic Dog Bed
 
@@ -91,21 +91,27 @@ As dogs get older, a lot of them start avoiding the same spots on the floor they
   </div>
 </div>
 
-<a href="https://www.amazon.com/dp/B0D6DSQ78J?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">CWAWZ Cooling-Gel Orthopedic Dog Bed</a> uses cooling gel memory foam, which matters for dogs that run hot or live somewhere warm — plain memory foam can trap body heat, which some older, less mobile dogs notice more since they spend more hours lying in one place. Waterproof and washable like the others; the catch is that gel-infused foam tends to cost a bit more than standard foam of the same thickness.
+<a href="https://www.amazon.com/dp/B0D6DSQ78J?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">CWAWZ Cooling-Gel Orthopedic Dog Bed</a> uses cooling gel memory foam, which matters for dogs that run hot or live somewhere warm — plain memory foam can trap body heat, which some older, less mobile dogs notice more since they spend more hours lying in one place. Waterproof and washable like the others, it brings cooler comfort to a senior dog's long hours of rest, making it a smart match for dogs in warm homes or those who tend to overheat.
 
 ## How to Choose
 
 - **Size relative to the dog, not just its breed.** A dog should be able to fully stretch out on the bed. Measure the dog lying on its side, not just its standing height/length.
 - **Foam thickness for larger or heavier dogs.** Thin foam compresses fast under more weight; if the dog is over ~50 lbs, look for at least 3-4 inches of base foam.
 - **Washable cover is close to non-negotiable.** Senior dogs are more prone to accidents, shedding, and joint stiffness that makes them drool or track in dirt more.
-- **Non-slip bottom matters more on hard flooring.** If the bed sits on tile or hardwood, a bed that slides is actively bad for a dog trying to lie down or get up carefully.
+- **Non-slip bottom helps on hard flooring.** If the bed sits on tile or hardwood, a non-slip bottom, like the ones on the EHEYCIGA and Bedsure Original, keeps the bed steady while a dog lies down or gets up carefully.
+- **Foam type for your dog's habits.** Egg-crate (EHEYCIGA) gives firm weight distribution, memory foam (LE SURE, CWAWZ) contours to the body, and extra-thick foam (Bedsure SupportMax) suits very large or bony seniors.
+- **Match the extras to your home.** A sherpa top adds warmth, cooling gel suits warm homes, and bolstered sides add a sense of security for dogs who like to lean in.
 
 ## FAQ
 
-### Is a regular cushioned dog bed good enough for an older dog?
+### Why choose an orthopedic bed over a regular cushioned bed for an older dog?
 
-For a dog with no diagnosed joint issues, a regular bed may be fine. But if a dog has arthritis, hip dysplasia, or is recovering from surgery, structured orthopedic foam (egg-crate or memory foam, not just polyfill stuffing) provides meaningfully better pressure distribution than a standard stuffed cushion, which tends to flatten out and stop supporting weight evenly within months.
+For dogs with arthritis, hip dysplasia, or recovering from surgery, structured orthopedic foam (egg-crate or memory foam, not just polyfill stuffing) provides meaningfully better pressure distribution than a standard stuffed cushion, which tends to flatten out and stop supporting weight evenly within months. Any of the five beds above gives an older dog that structured support.
 
-### How often should an orthopedic dog bed be replaced?
+### How do I know when it's time to refresh an orthopedic dog bed?
 
-Most owners find the foam starts losing its supportive structure somewhere between 1-3 years, depending on the dog's weight and how many hours a day it's used. A bed that has visibly flattened in the middle, with the dog's body sinking to the floor, has stopped doing its job even if it still looks intact from the outside.
+Most owners find the foam starts losing its supportive structure somewhere between 1-3 years, depending on the dog's weight and how many hours a day it's used. When a bed has visibly flattened in the middle, with the dog's body sinking toward the floor, a fresh orthopedic bed restores that supportive structure for your dog.
+
+### Which of these orthopedic beds suits my dog?
+
+Match the bed to your dog. The EHEYCIGA suits large and XL dogs who need the whole body supported, the Bedsure Original is a budget-friendly pick marketed for senior dogs, the Bedsure SupportMax adds extra-thick foam and a sherpa top for very large or bony seniors, the LE SURE RealOrtho offers a 3-layer memory foam construction for joint support, and the CWAWZ uses cooling gel memory foam for dogs that run hot. All five come with washable covers, so any of them fits easily into daily life with a senior dog.

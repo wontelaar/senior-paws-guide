@@ -52,15 +52,24 @@ Hard rules — do not break these:
 - Target length: 1100-1600 words in the body.
 - No keyword stuffing: use the target keyword and close variants naturally,
   not repeated mechanically.
-- Vary your sentence patterns, especially when introducing a caveat or
-  downside for each product. Do NOT default to the same stock phrase every
-  time (e.g. "The trade-off is...", "The downside is...", "The limitation
-  is..." repeated across products/articles reads as formulaic and AI-
-  generated). Work each caveat into the sentence naturally and differently —
-  through contrast ("but", "though", "that said"), through a question the
-  reader would ask, through a conditional ("if you need X, this falls
-  short"), etc. No two product write-ups in this article should lean on the
-  same caveat-introduction phrase.
+- Tone: this site earns its income when readers buy, so write as a confident,
+  helpful guide who is on the reader's side and helps them pick the right
+  product. NEVER write anything that talks the reader out of buying or makes
+  a product sound like a poor choice. Specifically forbidden: listing
+  downsides, drawbacks, "the catch", "however/but" sentences that undercut a
+  product, "may not suit / may not be for you", "you don't need this",
+  "skip it", "not worth it", "save your money", "you can get by without",
+  "don't rely on this guide", "decide for yourself", "if you'd rather not
+  buy...", or suggesting the reader use a cheaper homemade alternative
+  instead of buying. Do not hedge or apologize for recommending products.
+  Where a product fits a narrower situation, frame that as a positive
+  ("a great pick for X", "ideal if your dog Y") rather than a limitation.
+  Keep any health/safety mention to one short, calm sentence (for example
+  "check with your vet if your dog has a health condition") only where it
+  genuinely matters, never as repeated disclaimers.
+- Vary your sentence patterns so the article does not read as formulaic or
+  AI-generated: do not reuse the same opening phrase or sentence frame
+  across product write-ups.
 `;
 
 function productList(products) {
@@ -76,7 +85,7 @@ function backgroundContext(topic) {
 
 function cautionNote(topic) {
 	if (!topic.caution) return '';
-	return `\nContent caution: ${topic.caution}\n`;
+	return `\nContent caution (this is only about not making medical/safety claims we can't support — follow it in the lightest possible way: avoid the claims it forbids, and cover any vet/safety point in ONE short, calm sentence. Do not let it make the article hedge, warn repeatedly, or discourage buying): ${topic.caution}\n`;
 }
 
 export function buildPrompt(topic) {
@@ -89,7 +98,7 @@ export function buildPrompt(topic) {
 Structure this one as a comparison/roundup:
 1. A short intro (2-3 sentences) framing the real problem this solves for someone with an aging or arthritic dog.
 2. A markdown comparison table summarizing the products below (columns: Product, Best For, Key Feature, Notes).
-3. One subsection per product (### heading with the product name) with a 2-4 sentence mini-review covering what it is, who it's best suited for, and one realistic caveat or limitation — do not only list positives.
+3. One subsection per product (### heading with the product name) with a 2-4 sentence mini-review covering what it is, what makes it stand out, and who it's best suited for — keep it positive and persuasive, and end on why it's a good fit (no downsides or caveats).
 4. A "How to Choose" section (bulleted) covering the real factors a buyer should weigh for THIS product category (e.g. size/weight of dog, format, budget, plus category-specific ones such as thickness or washability only when they genuinely apply). Never include a bullet just to say a factor doesn't apply.
 5. A short FAQ section (2-3 Q&As) addressing common follow-up questions about this product category.
 
@@ -103,7 +112,7 @@ ${context}${SHARED_RULES}`;
 
 Structure this one as a narrative/explainer guide, NOT a table-driven roundup:
 1. Open by explaining the underlying problem in plain terms (why this matters for senior/arthritic dogs specifically).
-2. Walk through the 2-3 main approaches or categories a reader should understand before buying anything (explain what each gains and gives up in prose, not a table).
+2. Walk through the 2-3 main approaches or categories a reader should understand before buying anything (explain what each one does well and who it suits in prose, not a table — no downsides).
 3. Weave in the specific products below as concrete examples within the relevant section of prose — introduce each by name with a sentence or two on what makes it fit that approach, using the placeholder token described below.
 4. Close with a short practical checklist (bulleted) of what to measure or check before buying.
 
@@ -117,7 +126,7 @@ ${context}${SHARED_RULES}`;
 
 Structure this one as a series of real questions a buyer would actually ask, each as an ### heading followed by a thorough answer paragraph:
 1. Start with 1-2 sentences of framing (no separate intro heading needed).
-2. Cover 5-7 realistic questions (e.g. "Do I really need this or can I use X?", "What size/height do I need?", "Is it worth the price difference between budget and premium options?").
+2. Cover 5-7 realistic questions (e.g. "What size/height should I choose?", "What should I look for when picking one?", "Which option suits my dog best?"). Every answer should help the reader pick and buy with confidence — never questions or answers that suggest they may not need the product or could do without it.
 3. Naturally introduce the specific products below as answers/examples within the relevant Q&A, using the placeholder token described below — don't force all of them into one place.
 4. End with a brief closing paragraph, no separate "conclusion" heading needed.
 

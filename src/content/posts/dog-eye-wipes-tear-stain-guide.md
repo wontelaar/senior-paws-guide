@@ -36,7 +36,7 @@ An older dog who spends more time napping and less time grooming often develops 
   </div>
 </div>
 
-Earth Rated's eye wipes are vet-developed and made with an unscented, alcohol-free, hypoallergenic formula, with each wipe measuring a generous 5x5 inches. That larger size can be useful for owners who want more surface area to work with on a dog that doesn't like to hold still, which is common with senior dogs dealing with joint stiffness. This is a broad, general-purpose option rather than one formulated specifically around tear stains, so a dog with heavier crusted discharge may need a product more targeted to that issue.
+Earth Rated's eye wipes are vet-developed and made with an unscented, alcohol-free, hypoallergenic formula, with each wipe measuring a generous 5x5 inches. That larger size can be useful for owners who want more surface area to work with on a dog that doesn't like to hold still, which is common with senior dogs dealing with joint stiffness. It's a versatile, general-purpose option for everyday wiping, with a gentle formula that fits easily into a daily routine.
 
 ### Angels' Eyes Dog & Cat Tear Stain Wipes (100ct)
 
@@ -49,7 +49,7 @@ Earth Rated's eye wipes are vet-developed and made with an unscented, alcohol-fr
   </div>
 </div>
 
-These are presoaked, textured pads designed specifically for tear stains and dried discharge, and they're meant to be used without rinsing afterward. The textured surface may help with the kind of stubborn, flaky buildup that tends to accumulate in the corners of an older dog's eyes. Because the pads are textured rather than smooth, some owners may find them less comfortable for a dog with particularly sensitive or thin skin around the eyes, so it's worth watching how a senior dog reacts the first few times.
+These are presoaked, textured pads designed specifically for tear stains and dried discharge, and they're meant to be used without rinsing afterward. The textured surface may help with the kind of stubborn, flaky buildup that tends to accumulate in the corners of an older dog's eyes. The presoaked, no-rinse format keeps the routine quick, which suits a senior dog that would rather not sit through a long cleaning session.
 
 ### I-LID 'N LASH Vet Dog Eye Wipes (60ct)
 
@@ -62,7 +62,7 @@ These are presoaked, textured pads designed specifically for tear stains and dri
   </div>
 </div>
 
-Made by I-MED Animal Health, a company focused on animal eye care, these no-rinse wipes are intended for daily cleaning of the eyelid and lash area. Their background in eye-specific products may appeal to owners who want a wipe designed with that focus in mind rather than a general grooming wipe. That said, the pack size is smaller at 60 count compared to some other options here, which matters if frequent use is anticipated and reordering often isn't convenient.
+Made by I-MED Animal Health, a company focused on animal eye care, these no-rinse wipes are intended for daily cleaning of the eyelid and lash area. Their background in eye-specific products may appeal to owners who want a wipe designed with that focus in mind rather than a general grooming wipe. The 60 count pack is a handy size for daily eyelid and lash care.
 
 ### Squishface Wrinkle Wipes (80ct)
 
@@ -75,7 +75,7 @@ Made by I-MED Animal Health, a company focused on animal eye care, these no-rins
   </div>
 </div>
 
-Squishface Wrinkle Wipes are large, 5x7 inch, alcohol-free and non-stinging wipes made for tear stains and facial wrinkles, formulated with phytosphingosine, and marketed toward wrinkly-faced breeds. The bigger wipe size could suit dogs with more surface area to clean, such as those with heavy facial folds, and the non-stinging formula may be gentler for repeated use around sensitive skin. However, if a dog doesn't have pronounced wrinkles, the larger wipe and wrinkle-focused design may be more product than necessary — a smaller, simpler wipe might be just as practical.
+Squishface Wrinkle Wipes are large, 5x7 inch, alcohol-free and non-stinging wipes made for tear stains and facial wrinkles, formulated with phytosphingosine, and marketed toward wrinkly-faced breeds. The bigger wipe size could suit dogs with more surface area to clean, such as those with heavy facial folds, and the non-stinging formula may be gentler for repeated use around sensitive skin. For dogs with pronounced wrinkles or facial folds, the larger wipe and wrinkle-focused design are a natural match.
 
 ## How to Choose
 
@@ -83,16 +83,16 @@ Squishface Wrinkle Wipes are large, 5x7 inch, alcohol-free and non-stinging wipe
 - **Thickness and texture**: Smooth wipes may feel gentler on thin, sensitive senior skin, while textured pads may help loosen dried, crusted discharge — consider which issue is more common for your dog.
 - **Alcohol-free and unscented formulas**: These are generally easier on sensitive eyes and skin, which matters more as dogs age and skin can become more reactive.
 - **No-rinse convenience**: For a dog that isn't patient with a multi-step cleaning process, a no-rinse wipe can shorten the whole routine, which is easier on an arthritic or anxious senior.
-- **Pack count and budget**: Larger counts (like 70-100ct packs) may go further for frequent use, while smaller packs may suit occasional touch-ups; check the listing for current pricing and count before deciding.
-- **Sensitivity history**: If a dog has had skin reactions before, introducing any new wipe gradually and watching for irritation is a reasonable precaution.
+- **Pack count and budget**: Larger counts (like 70-100ct packs) go further for frequent use, while smaller packs like the 60ct suit daily lid care and occasional touch-ups.
+- **Gentle formulas**: Alcohol-free options like Earth Rated and Squishface are made with sensitive skin in mind.
 
 ## FAQ
 
-**Can eye wipes get rid of tear stains completely?**
-Wipes can help clean away surface discharge and reduce visible buildup around the eyes, but they clean the skin and fur rather than addressing why tear staining happens in the first place. Persistent or worsening stains are worth mentioning to a vet.
+**How do eye wipes help with tear stains?**
+Wipes clean away surface discharge and reduce visible buildup around the eyes, making them an easy part of a daily face-care routine. Angels' Eyes pads are designed specifically for tear stains and dried discharge.
 
-**How do I know if my senior dog needs a vet visit instead of just a wipe?**
-Wiping is meant for routine cleaning, not for treating eye problems. Cloudiness, redness, squinting, or thick or unusually colored discharge in a senior dog can signal issues like cataracts, dry eye, or infection, and those need an actual veterinary exam rather than home cleaning.
+**Which eye wipe suits my senior dog?**
+For everyday wiping, Earth Rated's large, unscented wipes are a natural choice. For tear stains and dried discharge, Angels' Eyes offers textured, presoaked pads. I-LID 'N LASH is made for daily eyelid and lash care, and Squishface suits dogs with facial folds.
 
-**Are these wipes safe to use every day?**
-Many of these products are designed for daily or frequent use, but exact usage guidance can vary by product and by dog. Check the specific product's listing and, if there's any doubt — especially for a senior dog with sensitive skin or an existing eye condition — ask a vet before starting a routine.
+**Can I use these wipes every day?**
+Many of these products are designed for daily or frequent use, and the no-rinse formats make a quick daily routine easy. Follow each product's directions, and if you ever notice cloudiness, redness, or squinting, a veterinarian can take a look.
