@@ -2488,6 +2488,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71cE01UFBZL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-lick-mats-senior-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Lick Mats for Senior Dogs: Slow, Easy Treat Time That Works at Any Age",
+      "category": "Feeding & Medication",
+      "targetKeyword": "lick mat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/15147701/pexels-photo-15147701.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a lick mat treats anxiety, digestion or dental health; those are manufacturer claims. Keep health talk to at most one calm sentence.",
+      "products": [
+        {
+          "asin": "B09FPTDBRZ",
+          "name": "LUKITO Lick Mat for Dogs & Cats, 2 Pack",
+          "notes": "Silicone lick pads with 77 suction cups on the back, four textured surfaces for spreadable treats like yogurt or peanut butter, food-grade silicone, dishwasher and freezer safe, 8,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81fHamWK39L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DK6VVQJ3",
+          "name": "ChefAide Lick Mat for Dogs, Cats & Puppies, 2 Pack",
+          "notes": "Food-grade silicone mats with 49 suction cups, four textured surfaces, freezer, microwave and dishwasher safe, marketed for use during grooming, bathing and nail trims, 2,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71mnib2nplL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BBTS457S",
+          "name": "Honomastry Lick Mat for Dogs with Suction Cups",
+          "notes": "Square food-grade silicone lick pad with suction cups, top-rack dishwasher safe, marketed for bath time, grooming and training, 3,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ci688eo8L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CYBXZHS9",
+          "name": "OHMO Lick Mat for Dogs & Cats, Space Pattern, Small (2 pcs)",
+          "notes": "Small 5.9-inch food-grade BPA-free silicone mats with a maze pattern and 30+ suction cups, sold as a 2-piece set, 1,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ARcTbE3FL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-food-storage-containers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Food Storage Containers: Airtight Bins That Make Daily Feeding Easier",
+      "category": "Feeding & Medication",
+      "targetKeyword": "dog food storage container",
+      "heroImage": "https://images.pexels.com/photos/36186523/pexels-photo-36186523.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a container prevents spoilage, illness or nutrient loss; freshness wording is manufacturer marketing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B0D6WZRSFT",
+          "name": "IRIS USA Dog Food Storage Container, Up to 40 lbs",
+          "notes": "Airtight lid with snap-lock latches, BPA-free plastic made in the USA, attachable wheels, built-in storage for the included 2-cup scoop, 85,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Hxd4hh7vL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DGZFYSZ9",
+          "name": "IRIS USA Dog Food Storage Container, Up to 13 lbs",
+          "notes": "Compact 13.8 x 8.3 x 14.8 inch BPA-free bin with an included 2-cup scoop, also usable for treats and supplies, 18,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/7107gy2BUwL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CN8LPC3F",
+          "name": "HOYTAMDAR 13 lb Collapsible Dog Food Storage Container",
+          "notes": "Collapsible airtight bin with an elevated base, high-density polyethylene with a folding middle section, comes with a scoop and a silicone collapsible bowl, 530+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61KuNXSRCjL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0GZSLP7B6",
+          "name": "Vittles Vault Pawprint Pet Food Storage Container with Scoop, 25 lbs",
+          "notes": "Food-grade HDPE container with a Gamma Seal lid, scoop included, made in the USA by Gamma2, 780+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qPt5YJFDL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-portable-water-bottles-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Portable Dog Water Bottles and Travel Bowls for Walks and Trips with a Senior Dog",
+      "category": "Feeding & Medication",
+      "targetKeyword": "portable dog water bottle",
+      "heroImage": "https://images.pexels.com/photos/4873126/pexels-photo-4873126.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a bottle or bowl treats or prevents dehydration or any health issue. Skip health talk; simple practical wording only.",
+      "products": [
+        {
+          "asin": "B098KBJNMH",
+          "name": "SOICTA Portable Dog Water Bottle, 19 oz",
+          "notes": "Foldable bottle with a built-in drinking trough, silicone sealing rings, one-touch water release, nylon lanyard for carrying, also sold in a 12 oz size, 6,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/710hwxeGPaL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09F5ZYV7M",
+          "name": "Cibaabo Dog Water Bottle with Food Container & Filter",
+          "notes": "Bottle with a leak-proof lock, a 100 g food container attached to the bowl, carbon filter, BPA-free ABS and PC material, 10 oz and 19 oz sizes, 7,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qM6+6m7aL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07Q56TTD4",
+          "name": "lesotc Dog Water Bottle with Foldable Bowl, 18 oz",
+          "notes": "Squeeze bottle with a push-button lock and a fold-out cap that works as a bowl, extension strap and carabiner included, BPA-free plastic, 13,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71v5Sy8m1hL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08YYX1QLB",
+          "name": "Rest-Eazzzy Collapsible Dog Bowls, 2 Pack",
+          "notes": "Expandable firm TPE travel bowls that adjust to different heights, clip for hanging on a bag, designed to hold their shape when filled, 16,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61N6NjgnaXS._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
