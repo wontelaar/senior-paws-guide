@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/6125810/pexels-photo-6125810.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A senior dog that's constantly scratching, licking at its paws, or chewing at its flank can make daily life harder for both the dog and the owner, especially when stiff joints already limit how easily that dog moves or settles. A soft chew with skin and itch support ingredients is an easy, tasty way to add daily support to your senior's routine. This guide compares four allergy and itch support chews so you can see what each one offers and choose the one that fits your dog's flavor preferences, texture needs, and household.
