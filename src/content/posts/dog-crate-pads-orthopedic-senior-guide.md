@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/16267964/pexels-photo-16267964.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Senior dogs tend to spend more hours resting, and the right crate pad can make that time in the crate noticeably softer on aging joints and pressure points. This FAQ walks through exactly what to look for so you can choose a pad that fits your dog's crate, size, and habits with confidence.
