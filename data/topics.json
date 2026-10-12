@@ -2596,6 +2596,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61N6NjgnaXS._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-cooling-vests-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Cooling Vests for Senior Dogs: Easy Summer Comfort on Walks and in the Yard",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "cooling vest for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/19879920/pexels-photo-19879920.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a vest prevents or treats overheating or heatstroke; cooling wording is manufacturer marketing. At most one calm sentence about not leaving a dog in heat.",
+      "products": [
+        {
+          "asin": "B072DYMHSK",
+          "name": "SGODA Dog Cooling Vest Harness, Grey Green (Medium)",
+          "notes": "Three-layer evaporative cooling fabric you soak in cold water and wring out, built-in zinc-alloy leash D-ring on the back, adjustable zipper and hook-and-loop closure, marketed as UV protective, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61DY6gRCxlL._AC_SL1005_.jpg"
+        },
+        {
+          "asin": "B0CRYWYVDB",
+          "name": "Spark Paws Dog Cooling Vest with SPF-50 Protection",
+          "notes": "Evaporative cooling vest you wet before use (or dampen and chill in the freezer), side-release buckles for easy on and off, marketed with SPF-50 sun protection, 560+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IK66x6YSL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08XQ5WGYN",
+          "name": "Dog Cooling Vest, 2-Layer Microfiber Cooling Jacket (Large, Blue)",
+          "notes": "Dual-layer microfiber jacket you soak, wring out and wear, no ice packs needed and can be rewetted, hook-and-loop chest straps, can be worn under most walking harnesses, 820+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/8122loCZTVL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CW53B6GW",
+          "name": "KYEESE Dog Cooling Vest, Evaporative Cooler Jacket",
+          "notes": "Breathable cooling microfiber activated with water, reflective back label for low-light walks, machine washable, marketed for outdoor walking and hiking, 300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71bjmU3EdXL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-car-seat-belts-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Dog Car Seat Belts and Safety Harnesses for Senior Dogs: Simple Setups for Easy Rides",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog car seat belt for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/5079277/pexels-photo-5079277.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't make crash-safety or crash-test claims; strength figures are manufacturer claims. Keep health talk to at most one calm sentence or none.",
+      "products": [
+        {
+          "asin": "B0DD3MQXX3",
+          "name": "COOYOO Retractable Dog Seat Belt for Car",
+          "notes": "Nylon seat belt tether with an elastic buffer section, quick-release metal buckle and a swivel clip to limit tangling, 0.79-inch seat-belt tab width listed so owners check their buckle size, 37,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZRm3jdInL._AC_SL1100_.jpg"
+        },
+        {
+          "asin": "B07WJH6S2P",
+          "name": "Mighty Paw Dog Seat Belt for Car with Aviation Aluminum Carabiner",
+          "notes": "Nylon seat belt that adjusts from 16 to 26 inches, aviation aluminum carabiner listed as rated to withstand over 850 lbs of force, marketed for small to large dogs, 6,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61qIm72SjHS._AC_SL1499_.jpg"
+        },
+        {
+          "asin": "B09DYFHGDS",
+          "name": "SlowTon Dog Seat Belt and Harness for Car, 2-in-1 (Medium)",
+          "notes": "Breathable double-layer mesh vest harness with flannelette padded edges, two quick-release chest buckles so no step-in is needed, includes a 2-in-1 seat-belt connector, 2,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71l5Q-cF7QL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07RR89CV5",
+          "name": "VavoPaw Dog Seat Belt Vest Harness for Car, 2-in-1",
+          "notes": "Oxford-fabric vest harness filled with soft sponge and lined with elastic mesh, X-shaped structure, 2-in-1 seat-belt buckle, 3,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61d+PdEPidL._AC_SL1200_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-paw-cleaners-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Paw Cleaners for Senior Dogs: Quick Cleanups After Every Walk",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "paw cleaner for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/28898890/pexels-photo-28898890.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a cleaner treats paw problems or kills germs; antibacterial wording is manufacturer marketing. At most one calm sentence about asking a vet if paws look sore.",
+      "products": [
+        {
+          "asin": "B01N52Z30T",
+          "name": "Dexas MudBuster Large Dog Paw Cleaner (fits 2.5\"-3.5\" paws)",
+          "notes": "Portable cup with 1-inch BPA-free silicone bristles, add water, insert the paw, twist and dry, available in 3 sizes, 28,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71E70CpqkeL._SL1500_.jpg"
+        },
+        {
+          "asin": "B09WYVX474",
+          "name": "Professional 7-in-1 Dog Paw Cleaner Set",
+          "notes": "Portable silicone paw washer cup with a bath brush, 2 dog toothbrushes and 3 absorbent towels, three cup sizes for different paw widths, 8,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71BluiG5lCL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0B92VS7SH",
+          "name": "Dog Paw Cleaner Cup, Medium, with Silicone Brush",
+          "notes": "Medium cup for small and medium breeds, about 5.3 inches tall and 4.1 inches wide, soft silicone brush, sold as a kit with towels, 7,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ywqLh0qHL._SL1500_.jpg"
+        },
+        {
+          "asin": "B0CT623C62",
+          "name": "Wet Ones for Pets Foam Dog Paw Cleaner, Tropical Splash (5 oz)",
+          "notes": "No-rinse foaming cleaner with an integrated soft-bristle brush, wipe off with a towel, marketed for routine cleanups after walks, 1,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61awUfcY2DL._SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
