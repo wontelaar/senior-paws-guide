@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/1457698/pexels-photo-1457698.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Bath time gets harder as dogs get older, and the hard part usually isn't the washing — it's everything that comes after. A senior dog stepping out of the tub is often stiff in the hips or shoulders, unsteady on wet tile, and not thrilled about being toweled off with brisk, back-and-forth rubbing. Vigorous drying motions can tug on sore joints, and long stretches of standing still while someone works a towel over every inch of them asks a lot of a dog whose body doesn't move the way it used to. That's the real problem a drying robe solves: it lets water soak into the fabric while the dog simply stands or lies in it, instead of being toweled, flipped, and re-toweled.
