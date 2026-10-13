@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/6235113/pexels-photo-6235113.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An arthritic or anxious senior dog that clamps its jaw shut the moment a toothbrush appears doesn't have to go without any oral care routine at all. Finger wipes let you gently swipe along the gumline and teeth in seconds, with no bristles and no brush to maneuver. For older dogs who get stressed by handling, this small shift in tools can make a daily routine feel doable again.
