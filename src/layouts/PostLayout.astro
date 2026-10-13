@@ -15,26 +15,17 @@ interface RelatedPost {
 interface Props {
 	title: string;
 	description: string;
-	pubDate: Date;
-	updatedDate?: Date;
 	heroImage?: string;
 	related?: RelatedPost[];
 }
 
-const { title, description, pubDate, updatedDate, heroImage, related = [] } = Astro.props;
-
-const dateFmt = (d: Date) =>
-	d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const { title, description, heroImage, related = [] } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description} image={heroImage}>
 	<article>
 		<header class="post-header">
 			<h1>{title}</h1>
-			<p class="post-meta">
-				Published {dateFmt(pubDate)}
-				{updatedDate && <> &middot; Updated {dateFmt(updatedDate)}</>}
-			</p>
 		</header>
 
 		{heroImage && (
@@ -53,7 +44,6 @@ const dateFmt = (d: Date) =>
 
 <style>
 	.post-header h1 { margin-bottom: 0.25rem; }
-	.post-meta { color: var(--muted); font-size: 0.85rem; margin-top: 0; }
 	.post-hero {
 		display: block;
 		width: 100%;
