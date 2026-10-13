@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/8434641/pexels-photo-8434641.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 When a dog's teeth, gums, or jaw muscles aren't what they used to be, a rock-hard biscuit can turn treat time into a struggle instead of a joy. Soft and chewy treats let older dogs keep enjoying rewards, training sessions, and little moments of indulgence without the extra effort a crunchy snack demands. The four options below are all soft, chewy treats that make treat time easy and enjoyable.
