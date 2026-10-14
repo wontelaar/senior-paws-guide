@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/5938111/pexels-photo-5938111.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A cot-style bed lifts your dog off a cold tile floor or hot patio and lets air move underneath, giving an older dog a simple, comfortable spot to rest indoors or out. Below is a roundup of raised cot beds worth considering, with a quick comparison followed by a closer look at each one.
