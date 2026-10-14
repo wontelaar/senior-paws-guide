@@ -2704,6 +2704,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61awUfcY2DL._SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-recovery-suits-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Recovery Suits for Senior Dogs: A Soft Cone Alternative After Surgery",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "recovery suit for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/5731804/pexels-photo-5731804.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a suit heals wounds, prevents infection or replaces a vet's instructions; protective wording is manufacturer marketing. At most one calm sentence: follow your vet's guidance on recovery.",
+      "products": [
+        {
+          "asin": "B0CHYCC12F",
+          "name": "FUAMEY Recovery Suit for Dogs After Surgery, Soft Breathable Bodysuit",
+          "notes": "Soft breathable bodysuit marketed as a cone alternative for post-operative care, size guide by back length, chest and weight, designed to be easy to put on and take off, 6,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VliNhlhAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07R4325KL",
+          "name": "Dog Recovery Suit, Abdominal Wound Surgical Vest (Cone Substitute)",
+          "notes": "High-elastic four-way stretch fabric that is hand washable, row of buttons to adjust the fit, marketed as a substitute for an e-collar or cone, 15,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61qp3VIBAuL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B07WPWQKX7",
+          "name": "Surgi Snuggly Dog Surgery Recovery Suit, Cone Alternative",
+          "notes": "Marketed as a vet-designed suit invented by veterinarian Dr. Paul O. Williams, soft breathable fabric designed for extended wear, adjustable back panel for potty access, sized by spine length, 5,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71t3kRe94AL._AC_SL1254_.jpg"
+        },
+        {
+          "asin": "B0C7KPTZT8",
+          "name": "Lukovee Recovery Suit for Dogs, Spay Neuter Surgery Suit",
+          "notes": "Back zipper for easy on and off, back opening so dogs can use the restroom while wearing it, adjustable waist belt with loop fasten strap, available in 8 sizes, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LJgsEdQfL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-grooming-gloves-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Grooming Gloves for Senior Dogs: Gentle Brushing and Bathing You Can Do by Hand",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "grooming gloves for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/36006188/pexels-photo-36006188.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim gloves treat skin conditions or improve circulation or skin health; massage and skin-friendly wording is manufacturer marketing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B01N9KSITZ",
+          "name": "Pet Hair Removal Glove with 255 Silicone Tips for Dogs & Cats (1 Pair)",
+          "notes": "Flexible silicone glove with 255 grooming tips marketed to mimic the touch of a hand, usable for brushing and bathing on short, long and curly coats, 83,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JhGlBvyjL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0942ZBZV1",
+          "name": "H HANDSON Pet Grooming Gloves",
+          "notes": "Lightweight gloves with rubber nodules marketed as the original patented pet grooming glove, for shedding, bathing and massaging, described as durable and easy to clean, 20,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71l8vvB63zL._AC_SL1024_.jpg"
+        },
+        {
+          "asin": "B0DCYW46WS",
+          "name": "NVNAN Pet Hair Removal Glove for Dogs & Cats, 2-Pack",
+          "notes": "Two gloves with 260 silicone nubs, adjustable wristband to fit palm size, marketed for short, long and curly coats, 2,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71et4-6HouL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DH9BMGK9",
+          "name": "Pet Grooming Gloves, Dog Washing Gloves with High-Density Teeth",
+          "notes": "Silicone five-finger glove with a high-density brush side, usable on both sides, marketed as a 2-in-1 washing and brushing glove, 1,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71dL6YTNstL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-non-tip-bowls-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Non-Tip Dog Bowls for Senior Dogs: Steady, Quiet Bowls That Stay Put at Mealtime",
+      "category": "Feeding & Medication",
+      "targetKeyword": "non-tip dog bowl for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/13772676/pexels-photo-13772676.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a bowl helps arthritis, digestion or any health issue; no-slip and no-tip wording is manufacturer marketing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B08ZWL3VB6",
+          "name": "2.5 lb Weighted Dog Bowl, No Slip No Tip, Stainless Steel (60 oz)",
+          "notes": "Heavy stainless steel with a steel weight in the base, bonded silicone rubber foot, 60 oz (7.5 cup) capacity, marketed as a heavier alternative to ceramic, 860+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61cnukubG+S._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B01N761O5V",
+          "name": "Loving Pets Le BOL Enamel Ceramic-Look Stainless Steel Bowl, No Tip, No Skid",
+          "notes": "Stainless steel bowl with a ceramic-like coated interior and rubberized bottom, six color options, marketed as easy to clean, 980+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81OPe30byaL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B071WNKDLV",
+          "name": "Max and Neo Heavyweight Non-Skid Rubber Bottom Stainless Steel Dog Bowl",
+          "notes": "Thick stainless steel with a full non-skid rubber bottom, the maker donates a bowl to a dog rescue for every bowl sold, 2,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51PbKlFvFeL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0C76GWV39",
+          "name": "Simple Modern Insulated Stainless Steel Dog Bowl, Large (8 Cups), White",
+          "notes": "Insulated food-grade 304 (18/8) stainless steel marketed to keep water cooler longer, wide weighted base with a no-tip, no-slip silicone base, BPA-free, 1,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51cvnfYEjOL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
