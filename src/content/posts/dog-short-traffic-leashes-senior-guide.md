@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/32138086/pexels-photo-32138086.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Many senior dogs are happiest walking close to your side at an easy pace. A short traffic leash keeps that distance snug and predictable, giving you close control at crosswalks, in waiting rooms, or on crowded sidewalks. Below are the questions senior-dog owners ask most often when shopping for one.
