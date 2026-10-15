@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/15147701/pexels-photo-15147701.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Older dogs slow down, and a lick mat is a lovely way to work with that. Instead of a fast trip to the bowl, your dog settles into one spot and licks steadily at a thin layer of food spread across a textured surface. The slower rhythm gives a senior dog something calm to focus on, whether that's during a nail trim, a bath, or just a quiet afternoon. It's a small shift in how treat time works, and an easy way to make it a relaxed part of the routine.
