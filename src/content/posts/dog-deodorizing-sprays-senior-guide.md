@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/19145875/pexels-photo-19145875.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Between baths, a deodorizing spray is a quick way to keep a senior dog smelling fresh. It takes seconds to apply, and the questions below will help you choose the right one with confidence.
