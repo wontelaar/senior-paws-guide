@@ -12,7 +12,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/4873126/pexels-photo-4873126.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A portable water bottle makes it easy to offer your dog a drink on every walk or road trip. This FAQ walks through exactly what to look for in a portable dog water bottle so you can pick the right one for your daily routine and travel plans.
