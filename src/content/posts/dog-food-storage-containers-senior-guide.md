@@ -11,7 +11,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/36186523/pexels-photo-36186523.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A heavy, awkward bag of kibble is a chore to handle every day. A dedicated storage container keeps feeding simple: scoop, close, done, with no wrestling an open bag off the floor or digging through a pantry shelf. The right bin also keeps kibble organized and easy to measure out at the same portion every time.
