@@ -2812,6 +2812,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/51cvnfYEjOL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-raincoats-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Raincoats for Senior Dogs: Easy-On Waterproof Jackets for Wet-Weather Walks",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "raincoat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8499257/pexels-photo-8499257.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a raincoat prevents illness or keeps a dog warm or healthy; waterproof and reflective wording is manufacturer marketing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B09ZTY1KDK",
+          "name": "Reflective Dog Rain Coat, Waterproof Adjustable Hooded Poncho",
+          "notes": "Lightweight 100% polyester waterproof fabric, reflective strip on the belly, adjustable belly and chest straps, available in 4 sizes, elastic hood adjustment buckle, 2,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61OjVvy3iBL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C2TG7Q99",
+          "name": "Dog Raincoat, Waterproof Jacket with Hood and Leash Hole",
+          "notes": "Waterproof polyester jacket with hood, four-leg design, hidden leash opening, reflective strips on both sides of the legs, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71d24-pFbuL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CPYNMMTY",
+          "name": "Spark Paws Dog Raincoat, Waterproof Rain Jacket with Hood, Full Coverage",
+          "notes": "Waterproof and windproof full-coverage jacket, side-buckle design, reflective strips, Breatheshield breathable fabric, adjustable neck wrap for extra coverage around the neck and face, 1,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TlQahegvL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D7Y37SXD",
+          "name": "Ruffwear Sun Shower Dog Raincoat (X-Large, Mineral Yellow)",
+          "notes": "Lightweight seam-sealed 70D/210D ripstop shell, longer vest-style cut with extra coverage over the hips and thighs, back leash portal so it can be worn over most harnesses, oversized storm collar, 900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ZN1iLGhGL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-pet-dryers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Pet Hair Dryers for Senior Dogs: Quiet, Adjustable Drying After Bath Time",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog hair dryer for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/8498856/pexels-photo-8498856.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't make heat-safety, burn or noise-comfort claims; temperature and noise figures are manufacturer specs. At most one calm sentence about keeping the dryer moving and following the listing instructions.",
+      "products": [
+        {
+          "asin": "B06WLQPJ58",
+          "name": "SHELANDY Groomer Partner Pet Hair Force Dryer with Heater",
+          "notes": "2400W dog grooming blower with adjustable airflow from 65 to 135 MPH, two heating temperature settings, marketed with noise-reduction technology, stretchable hose up to 7 ft with 4 nozzles, 1-year warranty, 18,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61nPfpK73mL._AC_SL1191_.jpg"
+        },
+        {
+          "asin": "B07QQ48PBJ",
+          "name": "Dog Dryer for Pet Grooming, Pet Hair Dryer with Heater",
+          "notes": "2400W dryer with adjustable airflow speed, temperature range listed as 95 to 131 degrees F, flexible hose listed at 29.9 to 90.6 inches, 3,100+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/618PbsKrxTL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BG73SZL3",
+          "name": "Jellyfish Handheld Dog Dryer, 1.21 lb Lightweight",
+          "notes": "Handheld high-velocity dryer with 2 speeds and 4 selectable temperature settings, 3 nozzles, waterproof nano-coated internal parts, 1-year warranty, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71mYP1uH1GL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07VSPJP76",
+          "name": "2-in-1 Dog Hair Dryer with Brush for Small Dogs and Cats",
+          "notes": "300W dryer and brush in one for small dogs and cats, low (104 F) and high (140 F) heat settings, overheat protection, lightweight at 13 ounces, 4,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61S3gNz3YwL._SL1250_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-playpens-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Indoor Playpens for Senior Dogs: A Safe, Comfortable Space to Rest and Roam",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog playpen for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/12907063/pexels-photo-12907063.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a playpen calms, protects or confines a senior dog safely; keep to materials, panel counts, sizes and setup. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07584TRXX",
+          "name": "Amazon Basics Foldable Octagonal Metal Exercise Pen, 24-Inch, Single Door",
+          "notes": "Eight connected panels with thumb clips, two locking slide-bolt door latches, 8 ground anchors, can be arranged in round, square or rectangle shapes, sets up without tools and folds flat, listed for dogs up to 16 inches tall, 55,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ZJuIEmTUL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C3HYJCWB",
+          "name": "FXW Rollick Dog Playpen, 24-Inch, 8 Panels",
+          "notes": "Eight-panel playpen with rounded ball-top stakes, powder-coated finish to protect against rust, marketed as quick to assemble in about 5 minutes and pack away, for indoor, yard and RV camping use, 6,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81QHr15inLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0GJCSTF3X",
+          "name": "Feandrea 8-Panel Dog Playpen, 55 x 55 x 24 Inch",
+          "notes": "Modular 8-panel metal playpen with thickened connecting rods, one-hand lock and widened door, rust-resistant panels that can be arranged into different indoor or outdoor shapes, 130+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81cLpAmvKJL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DCN7TV8G",
+          "name": "Foldable Dog Playpen, Portable Pop-Up Kennel Tent (Oxford Fabric)",
+          "notes": "Rectangular pop-open pen in 600D Oxford fabric with a roll-up door secured by hook-and-loop, listed as waterproof and cleanable, folds down for storage and travel, 200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81QLnTtPOPL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
