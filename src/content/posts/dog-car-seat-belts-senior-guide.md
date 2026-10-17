@@ -13,7 +13,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/5079277/pexels-photo-5079277.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A secure way to keep your dog settled in the back seat makes every car ride simpler. This FAQ walks through the practical questions dog owners ask when shopping for a car seat belt or harness for an older dog, so you can pick a setup with confidence.
