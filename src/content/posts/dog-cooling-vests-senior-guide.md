@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/19879920/pexels-photo-19879920.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A cooling vest is a simple, low-effort addition for warm-weather walks, time in the yard, or lounging on the porch. Below is a roundup of four options worth comparing before you buy.
