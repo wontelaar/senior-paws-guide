@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/5731804/pexels-photo-5731804.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A recovery suit is a soft, wearable alternative to a plastic cone, letting your dog move around the house in a snug bodysuit. This guide compares four recovery suits so you can find the fit, closure style, and ease of use that works best for your dog's recovery routine.
