@@ -29,9 +29,15 @@ for (const c of creatives) {
 	if (only.length && !only.includes(c.topicId)) continue;
 	const post = matter(fs.readFileSync(`./src/content/posts/${c.topicId}.md`, 'utf-8')).data;
 	const url = new URL(post.heroImage);
-	url.searchParams.set('w', String(W));
-	url.searchParams.set('h', String(H));
-	url.searchParams.set('fit', 'crop');
+	// Optional c.position ("left", "right", "top", ...) picks the crop anchor when
+	// the centre crop cuts out the subject; fetch the uncropped photo for that case.
+	if (c.position) {
+		url.searchParams.set('w', '1500');
+	} else {
+		url.searchParams.set('w', String(W));
+		url.searchParams.set('h', String(H));
+		url.searchParams.set('fit', 'crop');
+	}
 	const photo = Buffer.from(await (await fetch(url)).arrayBuffer());
 
 	const lines = wrap(c.headline, 19);
@@ -50,6 +56,6 @@ ${tspans}
 <text x="70" y="1446" font-size="34" font-weight="700" fill="#ffffff" fill-opacity="0.85" font-family="Arial, Helvetica, sans-serif">seniorpawsguide.net</text>
 </svg>`;
 	const out = `./pin-images/${c.topicId}.jpg`;
-	await sharp(photo).resize(W, H, { fit: 'cover' }).composite([{ input: Buffer.from(svg) }]).jpeg({ quality: 88 }).toFile(out);
+	await sharp(photo).resize(W, H, { fit: 'cover', position: c.position || 'centre' }).composite([{ input: Buffer.from(svg) }]).jpeg({ quality: 88 }).toFile(out);
 	console.log('wrote', out);
 }

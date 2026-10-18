@@ -508,7 +508,8 @@
     "headline": "Dog Car Seat Belts",
     "sub": "Simple, secure car rides",
     "title": "Best Dog Car Seat Belts and Harnesses | Simple Setups for Easy Rides",
-    "description": "Keep your dog settled in the back seat. We compared dog seat belts and 2-in-1 car harnesses with quick-release hardware. See our picks."
+    "description": "Keep your dog settled in the back seat. We compared dog seat belts and 2-in-1 car harnesses with quick-release hardware. See our picks.",
+    "position": "left"
   },
   {
     "topicId": "dog-cooling-vests-senior-guide",
@@ -523,5 +524,26 @@
     "sub": "Quick cleanups after walks",
     "title": "Best Dog Paw Cleaners for Muddy Walks | Quick Cleanups at the Door",
     "description": "Keep mud off your floors. We compared dog paw cleaner cups and no-rinse foams for quick cleanups after every walk. See our picks."
+  },
+  {
+    "topicId": "dog-recovery-suits-senior-guide",
+    "headline": "Recovery Suits for Dogs",
+    "sub": "A soft cone alternative",
+    "title": "Best Dog Recovery Suits After Surgery | Soft Cone Alternatives",
+    "description": "A soft way to recover at home. We compared dog recovery suits with easy zippers, adjustable fits and back openings. See our picks."
+  },
+  {
+    "topicId": "dog-grooming-gloves-senior-guide",
+    "headline": "Grooming Gloves for Dogs",
+    "sub": "Gentle brushing by hand",
+    "title": "Best Grooming Gloves for Senior Dogs | Gentle Brushing and Bathing",
+    "description": "Groom with the natural motion of your hand. We compared silicone grooming gloves for brushing and bath time. See our picks."
+  },
+  {
+    "topicId": "dog-non-tip-bowls-senior-guide",
+    "headline": "Non-Tip Dog Bowls",
+    "sub": "Bowls that stay put",
+    "title": "Best Non-Tip Dog Bowls for Senior Dogs | Weighted, Non-Slip Picks",
+    "description": "Quieter, tidier mealtimes. We compared weighted and non-slip dog bowls in stainless steel and ceramic-look finishes. See our picks."
   }
 ]

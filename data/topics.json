@@ -2920,6 +2920,114 @@
           "imageUrl": "https://m.media-amazon.com/images/I/81QLnTtPOPL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-food-can-covers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Pet Food Can Covers: Keep Leftover Wet Food Sealed and Easy to Serve",
+      "category": "Feeding & Medication",
+      "targetKeyword": "pet food can covers",
+      "heroImage": "https://images.pexels.com/photos/27046439/pexels-photo-27046439.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a lid keeps food fresh for any specific time or prevents spoilage; airtight and freshness wording is manufacturer marketing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B0746MLFB7",
+          "name": "Comtim Pet Food Can Cover Silicone Can Lids (Universal Size)",
+          "notes": "Soft food-grade silicone lid with three rings for 2.5, 2.9 and 3.3 inch can diameters, built-in handle bump for easy removal, BPA-free, marketed as airtight, 38,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51rjVpAahSL._AC_SL1001_.jpg"
+        },
+        {
+          "asin": "B08GF8HJY6",
+          "name": "Yobbai 6 Pack Pet Food Can Lids",
+          "notes": "Six silicone lids, one lid fits three can diameters (3.3, 2.9 and 2.5 inches) for 3 oz, 5.5 oz and 12 to 13.2 oz cans, BPA-free and dishwasher safe, raised pull tab, 4,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51OO7xJQ4DL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B07Q5747XZ",
+          "name": "COMTIM Silicone Stretch Pet Food Can Lids (4 Pack)",
+          "notes": "Four mini 2.55 inch stretch lids that expand to 3.5 inches, fit 3 oz, 5.5 oz, 12.5 oz, 13 oz and 13.2 oz cans, food-grade silicone, reusable, 2,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/615wjnh1y-L._AC_SL1265_.jpg"
+        },
+        {
+          "asin": "B0CKJ846FX",
+          "name": "4 Pack Pet Food Can Cover Silicone Can Lids (Universal Size)",
+          "notes": "Four silicone lids with three rings for 2.5, 2.9 and 3.3 inch cans, built-in handle for easy opening, listed as dishwasher safe and BPA-free, 1,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61BPPHJr7wL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-treat-pouches-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Dog Treat Pouches for Walks: Hands-Free Rewards for Senior Dogs",
+      "category": "Feeding & Medication",
+      "targetKeyword": "dog treat pouch for walks",
+      "heroImage": "https://images.pexels.com/photos/14140089/pexels-photo-14140089.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't make training-result or behavior claims; stick to capacity, closures, wearing options and materials. At most one calm sentence reminding owners to account for treats in daily food. Skip other health talk.",
+      "products": [
+        {
+          "asin": "B0CQQF67P1",
+          "name": "heouvo 1.67 Cup Magnetic Dog Treat Pouch with Training Clicker",
+          "notes": "Compact 5 x 4 x 2 inch food-grade silicone pouch with magnetic closure, holds about 1.67 cups, includes a training clicker, 4,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61d4X2LfDhL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D9GFLLYP",
+          "name": "Gobeigo 2 Cup Magnetic Closure Dog Treat Pouch with Training Clicker",
+          "notes": "Two pairs of magnets on the opening so it closes automatically, 2-cup capacity, wearable on an adjustable 25 to 47 inch waist belt or other modes, clicker included, 2,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81tPH9wEQqL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09C1X5KMV",
+          "name": "Mighty Paw Dog Treat Pouch, Magnetic No-Spill Clasp",
+          "notes": "About 7 x 2.5 x 5 inches with 4 storage compartments, belt sling and metal clip, two magnetic clasps, built-in poop bag holder on the side, 1,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91ePmwn5OmL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07GX7SHPN",
+          "name": "PetAmi Hands Free Dog Treat Pouch for Training and Walking",
+          "notes": "Large inner compartment for treats, kibble or toys, built-in poop bag dispenser, adjustable strap that can be worn three ways, 7,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91Or4HnZVpL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-life-jackets-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Life Jackets for Senior Dogs: Easy-On Flotation Vests with a Lift Handle",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "life jacket for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/10884755/pexels-photo-10884755.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't make safety, rescue or buoyancy-performance claims beyond what the listing says, and don't say a vest makes swimming safe; those are manufacturer claims. At most one calm sentence about checking the fit and staying close.",
+      "products": [
+        {
+          "asin": "B0081XIKYG",
+          "name": "Outward Hound Granby Splash Dog Life Jacket (Medium, Orange)",
+          "notes": "Marketed as a maximum-buoyancy vest for medium dogs with a 21 to 27 inch girth, adjustable straps and quick-release buckles, ripstop material with foam padding, front float for head support, top rescue handle, 38,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81rzQobGnVL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B01C8H4N4Q",
+          "name": "VIVAGLORY Dog Life Vest Ripstop Swim Vest (Medium, Bright Yellow)",
+          "notes": "Extra padding marketed for strong buoyancy, durable top handle for lifting, bright colors with reflective trim, available in 6 sizes from XXS to XL, 14,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71aLcPLVfBL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09SPF2KRC",
+          "name": "EMUST Dog Life Jacket with Rescue Handle",
+          "notes": "Polyester oxford and nylon mesh fabric, sturdy rescue handle on top, 5 sizes from XS to XL, shark-fin styling, 4,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oHkWd5y+L._AC_SL1001_.jpg"
+        },
+        {
+          "asin": "B01N5DW8BK",
+          "name": "Outward Hound Dawson Swim Dog Life Jacket (Large, Red)",
+          "notes": "High-buoyancy neoprene vest for large dogs with a 28 to 32 inch girth, insulated with foam padding, adjustable straps with quick-release buckles, top safety handle, 5,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61s1ua8LzFL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
