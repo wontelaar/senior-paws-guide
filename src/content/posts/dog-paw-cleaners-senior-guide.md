@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/28898890/pexels-photo-28898890.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A quick, low-effort paw cleaning routine after every walk helps keep mud, salt, and debris off the floors and out of the bed. The right tool makes the difference between a quick dip-and-go and a wrestling match.
