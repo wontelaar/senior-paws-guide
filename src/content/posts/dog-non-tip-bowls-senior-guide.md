@@ -12,7 +12,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/13772676/pexels-photo-13772676.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A bowl that stays exactly where you put it makes mealtime quieter and tidier. Here's a look at four sturdy, floor-gripping bowls with weighted or non-slip bases, built to stay put no matter how enthusiastically (or carefully) your dog eats.
