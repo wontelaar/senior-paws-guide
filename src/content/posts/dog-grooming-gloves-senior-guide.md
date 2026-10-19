@@ -12,7 +12,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/36006188/pexels-photo-36006188.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A grooming glove is a hand-shaped tool that lets you brush, bathe, and smooth your dog's coat using the natural motion of your own hand. If you're shopping for a glove that suits your dog's coat and your routine, these are the questions worth answering before you buy.
