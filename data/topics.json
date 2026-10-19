@@ -3028,6 +3028,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61s1ua8LzFL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-pet-hair-removers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Pet Hair Removers for Furniture: Reusable Rollers That Keep Couches and Beds Fur-Free",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "pet hair remover for furniture",
+      "heroImage": "https://images.pexels.com/photos/4458433/pexels-photo-4458433.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a roller removes all hair or works on every fabric; effectiveness wording is manufacturer marketing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B00BAGTNAQ",
+          "name": "ChomChom Roller Pet Hair Remover, Original Size",
+          "notes": "Reusable lint roller marketed for dog and cat hair on furniture, couches, pillows and rugs, roll back and forth to trap fur in a built-in receptacle, no sticky sheets or refills, 200,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71mmJsbMGZL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07ZKGVWVB",
+          "name": "DELOMO Pet Hair Remover Roller, Reusable Lint Roller",
+          "notes": "Manual roller marketed for couches, bedding, rugs and car seats, made with Japanese-imported brush material, no refills, press open the collection compartment to empty, 37,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Dnw9bZOLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09YN468KG",
+          "name": "BLACK+DECKER Pet Hair Remover Roller",
+          "notes": "Reusable roller with a translucent window that shows when it is time to empty, latch-secured dust bin door that opens with a button, rubber over-molded grip, 4,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61GHMSH8OaL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B096V1FH2S",
+          "name": "Twinko Max Lint Brush for Pet Hair, Reusable",
+          "notes": "Double-sided reusable brush marketed for pet hair, lint and fuzz on bedding, upholstery, carpet, curtains and car seats, arrow on the handle shows the pick-up direction, 7,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/718M640SAJL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-bath-sprayers-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Dog Bath Sprayers: Faucet and Shower Attachments for Easier Bath Time at Home",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog bath sprayer attachment",
+      "heroImage": "https://images.pexels.com/photos/16145288/pexels-photo-16145288.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a sprayer makes bathing safe, calm or easier on joints; pressure and spray-mode wording is manufacturer marketing. At most one calm sentence about checking water temperature.",
+      "products": [
+        {
+          "asin": "B0CSF2LLS3",
+          "name": "Rinseroo Slip-On Bathtub Faucet Sprayer Attachment, 5 Foot Hose",
+          "notes": "Slips onto a tub spout up to 3 inches in diameter without tools, 5-foot hose that coils up, marketed for dog washing, can be extended with a garden hose, 3,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61SIdwUmieL._AC_SL1108_.jpg"
+        },
+        {
+          "asin": "B0867TXMMM",
+          "name": "ZCONIEY Sink Faucet Sprayer Attachment Pet Rinser Showerhead",
+          "notes": "Faucet-to-shower diverter with an aerator, 3 spray modes at a listed maximum of 1.8 GPM, stretchable coil hose about 3 meters long, stop function for saving water, 3,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71PaefvsH7S._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BZYFY7P2",
+          "name": "Dog Washing Hose Attachment with Soap Dispenser",
+          "notes": "Built-in 3.5 oz soap dispenser, thumbwheel switch to start and adjust the water, includes a tear stain grooming comb and a rubber bathing brush, 800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71DyqwUJ51L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C93MMF4C",
+          "name": "High Pressure 3-Mode Dog Shower Attachment with On/Off Switch",
+          "notes": "Three-function sprayer with a pause function, integrated brush in the showerhead, corrosion-resistant metal diverter, 100-inch hose, 600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71gdNG4s-TL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
