@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/8499257/pexels-photo-8499257.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A good raincoat is quick to slip on and simple to adjust, so wet-weather walks stay easy for both of you. Here's a lineup of easy-on waterproof options worth considering for rainy-day walks.
