@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/8498856/pexels-photo-8498856.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A pet dryer makes post-bath drying quick, with adjustable heat and airflow you control. Here are four dryers worth comparing, from hose-style units to a lightweight handheld.
