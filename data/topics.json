@@ -3100,6 +3100,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71gdNG4s-TL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-snuffle-mats-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Snuffle Mats for Senior Dogs: Hide-and-Sniff Mealtimes at Home",
+      "category": "Feeding & Medication",
+      "targetKeyword": "snuffle mat for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/4750264/pexels-photo-4750264.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a snuffle mat improves digestion, behavior or mental health, and don't repeat study or 10-minute-sniffing claims from listings. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07N1JYYCW",
+          "name": "AWOOF Pet Snuffle Mat for Dogs",
+          "notes": "Felt-cloth mat for hiding snacks or small toys, non-slip cloth bottom, can be folded into a bowl, described as easy to clean, 21,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Wmu0n5rtL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B08YN2QY5C",
+          "name": "Dogs Snuffle Mat Pet Feeding Mat (Polar Fleece)",
+          "notes": "Polar fleece mat for hiding treats on the floor, non-slip cloth bottom, marketed as a slow feeding mat for small, medium and large breeds, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oUX-So+uL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C7GJCCFM",
+          "name": "Small Silicone Snuffle Mat for Small Dogs",
+          "notes": "Silicone mat for dry or wet food with 84 suction cups on the back, food-grade silicone, marketed as a 2-in-1 snuffle and lick mat, 900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71SzMwIEvgL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0B7RBB26G",
+          "name": "Bone-Shaped Snuffle Mat for Small and Medium Dogs",
+          "notes": "Bone-shaped polar fleece mat with a built-in squeaker paw, non-slip cloth bottom, marketed for small and medium dogs, machine washable, 800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71yXCasbhUL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-pet-cameras-senior-guide",
+      "status": "ready",
+      "structureType": "qna",
+      "title": "Pet Cameras for Senior Dogs: Check In From Your Phone While You Are Out",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "pet camera for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/6468223/pexels-photo-6468223.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a camera detects health problems, keeps a dog safe or reduces anxiety; features are manufacturer specs. Note subscription and storage options only as the listing states them. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07YB8HZ8T",
+          "name": "blurams 2K Indoor Pet Camera, 360 Degree",
+          "notes": "2K indoor camera with 360 degree coverage and automatic motion tracking, IR-cut night vision, human, motion and sound alerts, works with Alexa and Google Assistant, optional cloud and local storage, 32,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vlKJywZbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BC9CC5RB",
+          "name": "MUBVIEW 2K Pan-Tilt Indoor Pet Camera",
+          "notes": "2K dual-band Wi-Fi camera with 355 degree pan and 60 degree tilt, IR night vision, motion alerts, two-way audio, privacy mode, local microSD recording with no monthly fee required for basic use, 8,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51FzpVl+9rL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08XXKJGKH",
+          "name": "Petcube Bites 2 Lite Wi-Fi Pet Camera with Treat Dispenser",
+          "notes": "1080p live video with a 110 degree view, dishwasher-safe treat dispenser holding 1.5 lbs, Alexa compatible, motion and sound alerts with the optional Petcube Care subscription, 1,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61UCem3UQbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CF5B94X2",
+          "name": "TKENPRO 2K Pet Camera with Treat Dispenser",
+          "notes": "2K camera with a 0.5 L treat dispenser sized for 7 to 15 mm treats, 355 degree pan, night vision, two-way talk, 5G and 2.4G Wi-Fi, optional cloud subscription for an AI time album, 1,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61OIHu1cxiL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
