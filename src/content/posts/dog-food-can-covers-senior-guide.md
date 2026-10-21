@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/27046439/pexels-photo-27046439.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An open can of wet food needs a good lid between meals. A dedicated pet food can cover snaps onto the rim in seconds, keeps the fridge tidier, and makes portioning out the next meal fast and mess-free.
