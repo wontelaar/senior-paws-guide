@@ -10,5 +10,5 @@ export default defineConfig({
 	// pagefind indexes the build output as part of Astro's own build (via the
 	// astro:build:done hook), so the search index gets generated regardless of
 	// what exact shell command a host (e.g. Cloudflare) runs to build the site.
-	integrations: [sitemap(), pagefind()],
+	integrations: [sitemap({ filter: (page) => !page.includes('/search/') }), pagefind()],
 });
