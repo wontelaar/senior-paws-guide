@@ -134,3 +134,35 @@ Products to reference (use ONLY these facts, do not add specs not listed here):
 ${products}
 ${context}${SHARED_RULES}`;
 }
+
+// Second generation pass: the "fit/choose guide" that helps a reader decide
+// which of the listed products fits THEIR dog, home or vehicle. Mirrors the
+// hand-written guides in data/fit-guides/. Math is verified in code afterwards
+// (see fit-guide-lib.mjs), so the model must report every computed number.
+export function buildFitGuidePrompt(topic, exemplars) {
+	return `Write a "fit/choose guide" section for the buying guide "${topic.title}" (search intent: "${topic.targetKeyword}"). It helps a buyer decide, in about two minutes, which of the products below fits THEIR dog, home or vehicle, so they can buy with confidence.
+
+Products (use ONLY these facts; do not add specs that are not listed here):
+${productList(topic.products)}
+${backgroundContext(topic)}
+What to write (copy the structure of the examples):
+- Start with one "## " question-style heading (e.g. "Will it fit your vehicle?", "What size does your dog need?").
+- One intro sentence, then "Step 1 / Step 2 / Step 3" measurement steps that are plain, universally accurate (how to measure the dog, the bed, the doorway, the stairs, the vehicle, ... whatever is relevant to THIS product type).
+- A lookup table that turns the reader's measurement into a result (computed from simple arithmetic or geometry), and a table mapping each listed product to what it covers using only its listed specs. Add a row for a product only if you can fill it from its given facts; otherwise write "Check the listing" once for that cell.
+- A short "How to read it" paragraph that points readers to the product(s) that fit, in a positive, helpful tone.
+- 150-350 words plus tables. English. Mention products by their plain names (no links, no {{LINK}} tokens).
+
+Hard rules:
+- No medical claims (never say treats/cures/relieves/prevents), no timelines, no dosing, no price/durability/quality comparisons between products, no "established/proven/track record", no first-person experience or testing claims, no downsides, no "skip it"/"you may not need this". At most ONE calm line such as "confirm exact dimensions on the product page"; if a health condition is genuinely relevant, one short "check with your vet" sentence.
+- Never mention "the facts", "notes", dates or years.
+- Convert units correctly (1 in = 2.54 cm, 1 lb = 0.4536 kg, 1 gal = 3.785 L).
+- Do ALL arithmetic through the calculations block below, never in your head.
+
+After the markdown, end your reply with ONE fenced json block (and nothing after it) listing EVERY number in the guide that you computed or converted:
+\`\`\`json
+{"calculations":[{"expr":"62*Math.sin(25*Math.PI/180)","value":26.2,"decimals":1}]}
+\`\`\`
+"expr" may use only numbers, + - * / ( ), and Math.sin/cos/tan/asin/acos/atan/sqrt/round/floor/ceil/min/max/abs/PI. "value" is the result rounded to "decimals", and that exact figure must appear in the guide text. If the guide needs no computed numbers, return {"calculations":[]}.
+
+${exemplars ? `Hand-checked examples of the style and structure:\n\n${exemplars}\n` : ''}`;
+}

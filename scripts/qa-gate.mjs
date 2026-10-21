@@ -128,7 +128,12 @@ async function checkPost(targetFile) {
 		}
 	}
 
-	return { file: targetFile, wordCount: wc, linkCount, failures };
+	const warnings = [];
+	if (!content.includes('fit-guide:start')) {
+		warnings.push('No fit/choose guide section (data/fit-guides) — add one before approving.');
+	}
+
+	return { file: targetFile, wordCount: wc, linkCount, failures, warnings };
 }
 
 async function main() {
@@ -150,6 +155,7 @@ async function main() {
 		const label = path.basename(result.file);
 		if (result.failures.length === 0) {
 			console.log(`PASS  ${label}  (${result.wordCount} words, ${result.linkCount} product links)`);
+			if (targetArg) for (const w of result.warnings) console.log(`      ! ${w}`);
 		} else {
 			anyFailed = true;
 			console.log(`FAIL  ${label}`);

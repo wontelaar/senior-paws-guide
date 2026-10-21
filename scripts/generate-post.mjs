@@ -9,7 +9,15 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
 import matter from 'gray-matter';
-import { buildPrompt } from './prompt-templates.mjs';
+import { buildPrompt, buildFitGuidePrompt } from './prompt-templates.mjs';
+import { execFileSync } from 'node:child_process';
+import {
+	loadExemplars,
+	splitGuideAndCalcs,
+	verifyCalculations,
+	validateGuideShape,
+	writeGuide,
+} from './fit-guide-lib.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const TOPICS_PATH = path.join(ROOT, 'data', 'topics.json');
@@ -276,6 +284,32 @@ async function main() {
 	await fs.writeFile(outPath, matter.stringify(body, frontmatter), 'utf-8');
 
 	console.log(`Wrote ${outPath} (${wordCount} words, draft: true)`);
+
+	// Second pass: a verified fit/choose guide. Best effort — a failure here only
+	// means the draft ships without the guide (the QA gate flags that).
+	try {
+		const guideResponse = await client.messages.create({
+			model: MODEL,
+			max_tokens: 4000,
+			thinking: { type: 'disabled' },
+			messages: [{ role: 'user', content: buildFitGuidePrompt(next, loadExemplars()) }],
+		});
+		const guideText = guideResponse.content
+			.filter((block) => block.type === 'text')
+			.map((block) => block.text)
+			.join('\n')
+			.trim();
+		const { markdown, calculations } = splitGuideAndCalcs(guideText);
+		const problems = [...validateGuideShape(markdown), ...verifyCalculations(markdown, calculations)];
+		if (problems.length) {
+			console.warn(`[generate-post] fit guide rejected:\n - ${problems.join('\n - ')}`);
+		} else {
+			writeGuide(next.id, markdown);
+			execFileSync(process.execPath, [path.join(ROOT, 'scripts', 'apply-fit-guides.mjs'), next.id], { stdio: 'inherit' });
+		}
+	} catch (err) {
+		console.warn(`[generate-post] fit guide skipped: ${err.message}`);
+	}
 
 	if (process.env.GITHUB_OUTPUT) {
 		await fs.appendFile(process.env.GITHUB_OUTPUT, `post_path=${outPath}\ntopic_id=${next.id}\n`);
