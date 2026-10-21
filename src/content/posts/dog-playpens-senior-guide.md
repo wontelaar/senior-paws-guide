@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/12907063/pexels-photo-12907063.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A playpen gives your dog a defined space to rest, stretch, and move around, right where you want it. If you're shopping for a dog playpen, these are the questions worth answering before you buy.
