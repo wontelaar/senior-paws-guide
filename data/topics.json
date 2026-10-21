@@ -2,6 +2,114 @@
   "_comment": "Topic backlog for the content-generation pipeline. Only 'ready' topics have real, manually-verified Amazon ASINs and imageUrls (checked on Amazon.com on 2026-09-07) and should be used by scripts/generate-post.mjs. 'needs-research' topics are placeholders — verify real products on Amazon before flipping them to 'ready'. Never invent an ASIN or imageUrl; a fabricated one links to/shows the wrong product.",
   "topics": [
     {
+      "id": "dog-ramps-couch-low-bed-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Ramps for Couches and Low Beds: Which Height Fits Your Senior Dog?",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog ramp for couch senior dog",
+      "heroImage": "https://images.pexels.com/photos/24595750/pexels-photo-24595750.jpeg?cs=tinysrgb&w=1200",
+      "caution": "These are mobility aids: do not claim they protect joints, reduce impact by any percentage, prevent injury, or relieve pain. Say only that they give a gentler way up and down than jumping. Do not repeat listing claims such as 'reduces impact stress by 70%'.",
+      "products": [
+        {
+          "asin": "B0H8CDCN9C",
+          "name": "2-in-1 Convertible Dog Ramp and Stairs for Bed and Couch (4 Heights)",
+          "notes": "Converts between a ramp and stairs, 4 height settings (13.6, 16.1, 18.5 and 22 inches), non-slip pad and high-grip carpet surface, foldable, for small dogs and seniors",
+          "imageUrl": "https://m.media-amazon.com/images/I/81rCr+NgrEL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FZSFWD66",
+          "name": "BAQTALE Dog Ramp for Bed and Couch (Fits 11.4 to 17.7 inch Furniture)",
+          "notes": "Fits furniture 11.4 to 17.72 inches tall, 4 height settings, locking tabs, PP plastic frame supports up to 100 lb, silicone grip mat, folds flat, washable",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+zp4MsXoL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0H73PYGF1",
+          "name": "Dog Ramp for Small and Medium Dogs, 16-Inch Height (Couch and Bed)",
+          "notes": "33-inch extended ramp, suits sofas and low beds up to 18 inches tall, deeper landing on each step, 35D high-density foam, rear carry handle, removable machine-washable corduroy cover, non-slip bottom",
+          "imageUrl": "https://m.media-amazon.com/images/I/81lFc8JJ5uL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0H9452N3V",
+          "name": "17-Inch Folding Pet Stairs and Ottoman for Couch (Charcoal)",
+          "notes": "Opens to about 34.8 x 17 inches (88.49 x 43.2 cm) as a ramp-stair; folds to an ottoman about 18 x 15.75 x 15.75 inches; textured non-slip surface with rubber feet; waterproof faux cotton-linen fabric; rubberwood legs; doubles as a side table",
+          "imageUrl": "https://m.media-amazon.com/images/I/81zFPSmi72L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-gates-extra-wide-openings-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Extra-Wide Dog Gates for Big Openings: 60-Inch and Wider Picks for Senior Dogs",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "extra wide dog gate for senior dogs",
+      "heroImage": "https://images.pexels.com/photos/31619573/pexels-photo-31619573.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Do not claim any gate is child-proof or fully escape-proof, and do not claim it prevents falls. Describe only the width range, height, mounting and latch features listed.",
+      "products": [
+        {
+          "asin": "B0FLJH6LKQ",
+          "name": "Extra Wide Baby Gate for 30 to 63 Inch Openings (Pressure Mounted, White)",
+          "notes": "Adjusts from 30 to 63 inches wide (76.2 to 160 cm), all-metal construction, pressure mounted with no drilling, wall protector pads included, double-lock mechanism that closes automatically when under 90 degrees, 4 extension pieces included, for stairways, hallways, kitchens and doorways",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IaqUvSedL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FBGJ23B3",
+          "name": "Extra Wide Auto-Close Gate for Stairs, 30 to 62 Inches (Black)",
+          "notes": "30.5 inches tall, fits 30 to 62 inch openings with 7 width settings, 3 extensions, 2 Y-shaped adapters for round banisters, auto-close and hold-open at 90 degrees, one-handed lift-and-slide latch, kick plate, pressure mount or hardware mount",
+          "imageUrl": "https://m.media-amazon.com/images/I/91zkH+Q8ThL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07YF74Z4T",
+          "name": "PAWLAND Freestanding Folding Dog Gate (144 Inches Wide, 30 Inches Tall)",
+          "notes": "6 panels joined by 360-degree hinges, up to 144 inches wide when open and 30 inches tall per the listing title, lockable door, freestanding with no wall attachment, padded stabilizing feet, wood frame with metal wire, FSC-certified wood, 35 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/91nanfV24ML._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DRFCXR3S",
+          "name": "Amibud Extra Tall Pet Gate (41 Inches Tall, 30 to 62.6 Inches Wide)",
+          "notes": "41 inches tall (104.1 cm), adjusts from 30 to 62.6 inches wide, pressure mounted with no drilling, auto-close and hold-open, metal construction, for stairs, doorways, hallways and porches",
+          "imageUrl": "https://m.media-amazon.com/images/I/712cOPfBdBL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "orthopedic-dog-beds-extra-large-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Orthopedic Beds for Extra-Large Senior Dogs: 100 Pounds and Up",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "orthopedic dog bed for large senior dogs 100 lbs",
+      "heroImage": "https://images.pexels.com/photos/5938109/pexels-photo-5938109.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Beds are not medical devices: do not say they relieve arthritis or joint pain, treat IVDD, or provide 'therapeutic' relief, and do not repeat listing claims about pain relief. Say only that the foam is firm, supportive or cushioned and that low entry can make getting on and off easier.",
+      "products": [
+        {
+          "asin": "B0CJHWCDQZ",
+          "name": "Large Orthopedic Dog Bed, 48 x 30 x 7 Inches (Memory Foam, Waterproof Liner, Grey)",
+          "notes": "48 x 30 x 7 inches (121.9 x 76.2 x 17.8 cm), 3-layer memory foam, removable machine-washable microsuede cover with 100% TPU waterproof liner, non-slip bottom, listed for large breeds",
+          "imageUrl": "https://m.media-amazon.com/images/I/51+rRnzoUWL._AC_SL1280_.jpg"
+        },
+        {
+          "asin": "B0D5QYZ1YQ",
+          "name": "Sytopia XXL 35D Memory Foam Dog Bed (Up to 150 lb, Grey)",
+          "notes": "XXL, 50 x 34 inches (127 x 86.4 cm), listed for dogs up to 150 lb (68 kg), CertiPUR-US certified memory foam, OEKO-TEX Standard 100 certified fleece cover, waterproof inner liner, removable machine-washable cover, low entry, non-slip bottom",
+          "imageUrl": "https://m.media-amazon.com/images/I/71opgQOvdAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0HHYK3LMJ",
+          "name": "2-Piece 54-Inch Orthopedic Dog Bed with Bolsters (Grey Rose Velvet)",
+          "notes": "About 54 inches long (53 x 37 x 8.75 inches per the listing), listed for dogs up to 68 kg (150 lb), egg-crate foam with 4-inch bolsters on three sides, washable velvet cover with waterproof inner lining, hook-and-loop fasteners let two beds join for an extra-large sleeping area, non-slip base",
+          "imageUrl": "https://m.media-amazon.com/images/I/61OeHE14AnL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FBM8LD3B",
+          "name": "Reversible Cooling and Sherpa Orthopedic Dog Bed for Large Dogs",
+          "notes": "CertiPUR-US memory foam, reversible bolster and cushion with a soft sherpa side and a cool side, removable center cushion can be used as a crate pad that fits most 42 and 48 inch crates, full TPU waterproof liner, washable zippered covers, non-slip bottom, low entry",
+          "imageUrl": "https://m.media-amazon.com/images/I/810XUpP4pKL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
       "id": "orthopedic-dog-beds-senior-guide",
       "status": "ready",
       "structureType": "comparison",
