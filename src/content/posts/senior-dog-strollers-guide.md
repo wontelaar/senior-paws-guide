@@ -31,8 +31,8 @@ The right stroller matches your dog's weight, body size and how easily they can 
 
 | Your dog's weight | In kilograms | Strollers in this guide with a listed limit that covers it |
 |---|---|---|
-| 40 lb | 18.1 kg | Petbobi Large Dog Stroller, Dog Stroller Wagon with Ramp |
-| 60 lb | 27.2 kg | Petbobi Large Dog Stroller, Dog Stroller Wagon with Ramp |
+| 40 lb | 18.1 kg | Pet Gear No-Zip AT3, Petbobi Large Dog Stroller, Dog Stroller Wagon with Ramp |
+| 60 lb | 27.2 kg | Pet Gear No-Zip AT3, Petbobi Large Dog Stroller, Dog Stroller Wagon with Ramp |
 | 80 lb | 36.3 kg | Petbobi Large Dog Stroller, Dog Stroller Wagon with Ramp |
 | 88 lb | 39.9 kg | Dog Stroller Wagon with Ramp |
 
@@ -45,7 +45,9 @@ The right stroller matches your dog's weight, body size and how easily they can 
 | ROODO Escort 3-Wheel Pet Stroller | Lightweight 3-wheel design, compact fold | your dog is small or medium and you want easy storage |
 | Dog Stroller Wagon with Ramp | Walk-in ramp, air-mesh | you want your dog to board without being lifted |
 
-**How to read it:** find your dog's weight in the first table, then pick the entry style that suits their mobility. The Pet Gear and ROODO listings are not given a weight limit here, so check the product page for it, and for the folded size if you plan to carry the stroller in your car.
+**How to read it:** find your dog's weight in the first table, then pick the entry style that suits their mobility. Pet Gear lists a maximum pet weight of 75 lb (34.0 kg) for the AT3 No-Zip, with an interior of 30 x 13 x 22 in (76.2 x 33.0 x 55.9 cm). The ROODO listing is not given a weight limit here, so check the product page for it, and for the folded size of either stroller if you plan to carry it in your car.
+
+Specs above for the Pet Gear product come from the manufacturer's instruction manual. ([Pet Gear AT3 No-Zip manual](https://www.petgearinc.com/Instructions/124/Product%20Series-PG8350NZ.pdf))
 <!-- fit-guide:end -->
 
 ## The Three Core Approaches to Dog Stroller Design

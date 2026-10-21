@@ -13,7 +13,7 @@ Think about three things: your dog's size, where the fountain will live, and how
 | oneisall 10L/2.6Gal Dog Water Fountain for Large Dogs | Plug-in | 10 L (2.6 gal) | Large dogs |
 | Heouvo 2.5 Gal Gravity Dog Water Dispenser | None (gravity) | 2.5 gal (9.5 L) | Homes that prefer no electricity |
 | PETLIBRO Small Dog Water Fountain (Cordless) | Battery | Not listed (small-dog fountain) | Small and medium dogs |
-| PetSafe Drinkwell Stainless Multi-Pet Fountain | Not listed | Mid-size | Multi-pet homes |
+| PetSafe Drinkwell Stainless Multi-Pet Fountain | Plug-in (wall adaptor) | 128 oz (1 gal, 3.8 L); 14.3 x 14.3 x 9.3 in (36.3 x 36.3 x 23.6 cm) | Multi-pet homes |
 
 **Which fountain suits your home?**
 
@@ -25,4 +25,6 @@ Think about three things: your dog's size, where the fountain will live, and how
 | To adjust the flow for a picky drinker | PetSafe Drinkwell (1 to 5 water streams) |
 | Filtration | oneisall (triple filtration) or PetSafe Drinkwell (carbon and foam filters included) |
 
-**How to read it:** large dogs line up with the oneisall, and small or medium dogs with the PETLIBRO. The Heouvo and PetSafe suit households that want a manageable tank size or more than one dog drinking from it. Dimensions and the PetSafe power details are not listed here, so check the listing for them to be sure it fits your space.
+**How to read it:** large dogs line up with the oneisall, and small or medium dogs with the PETLIBRO. The Heouvo and PetSafe suit households that want a manageable tank size or more than one dog drinking from it. The PetSafe is a plug-in model that holds 128 oz (1 gallon) and measures 14.3 x 14.3 x 9.3 in, so measure the spot near an outlet before ordering. The PETLIBRO capacity is not listed here, so check the listing for it to be sure it fits your space.
+
+Specs above for the PetSafe products come from the manufacturer's product pages. ([PetSafe](https://www.petsafe.com/p/drinkwell-360-fountain-stainless-steel/PWW00-13705/))

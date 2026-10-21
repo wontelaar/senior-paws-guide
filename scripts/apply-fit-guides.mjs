@@ -31,7 +31,13 @@ for (const id of ids) {
 	const block = `${START}${nl}${guide}${nl}${END}`;
 
 	if (raw.includes(START)) {
-		raw = raw.replace(new RegExp(`${START}[\s\S]*?${END}`), () => block);
+		const start = raw.indexOf(START);
+		const endIdx = raw.indexOf(END, start);
+		if (endIdx === -1) {
+			console.warn(`skip ${id}: start marker without end marker`);
+			continue;
+		}
+		raw = raw.slice(0, start) + block + raw.slice(endIdx + END.length);
 	} else {
 		// Insert before the first H2/H3 after the frontmatter (i.e. after the intro).
 		const fmEnd = raw.indexOf(`${nl}---${nl}`, 3) + `${nl}---${nl}`.length;

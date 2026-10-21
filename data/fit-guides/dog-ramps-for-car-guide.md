@@ -25,4 +25,6 @@ Length is the first thing to check when you choose a car ramp: the taller your c
 | PetThem Car Dog Ramp (180.3cm) | 71 in (180.3 cm) | 30 in | 24 in | 22 in |
 | Extra-Wide Car Dog Ramp (183.8cm) | 72 in (183.8 cm) | 31 in | 25 in | 22 in |
 
-**How to read it:** if your cargo floor is about 24 inches off the ground, any of these ramps keeps the slope at or under 25°, and the two longer ramps get you down to about 20°. For a floor around 30 inches, the PetThem and the Extra-Wide are the picks that stay within a 25° slope. Lengths are the listed lengths; confirm the exact unfolded length and weight limit on the product page before ordering, and add a few inches of landing at each end.
+**How to read it:** if your cargo floor is about 24 inches off the ground, any of these ramps keeps the slope at or under 25°, and the two longer ramps get you down to about 20°. For a floor around 30 inches, the PetThem and the Extra-Wide are the picks that stay within a 25° slope. PetSafe lists the Happy Ride at 62 x 16 x 4 in (157.5 x 40.6 x 10.2 cm), weighing 10 lb (4.5 kg) and rated for pets up to 150 lb (68.0 kg). Lengths are the listed lengths; confirm the exact unfolded length and weight limit of the other ramps on their product pages before ordering, and add a few inches of landing at each end.
+
+Specs above for the PetSafe product come from the manufacturer's product page. ([PetSafe](https://www.petsafe.com/p/happy-ride-folding-dog-ramp/62462/))

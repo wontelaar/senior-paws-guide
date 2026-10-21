@@ -12,7 +12,7 @@ A pad that lies flat from wall to wall makes the most comfortable bed. Two measu
 |---|---|---|---|
 | PETMAKER Orthopedic Memory Foam Crate Mat | 20 x 15 in | 50.8 x 38.1 cm | Sized for small dogs up to 20 lb (9.1 kg) |
 | Waterproof Orthopedic Dog Crate Bed | 23 x 17 in | 58.4 x 43.2 cm | 4 in (10.2 cm) of foam |
-| Bedsure Memory Foam Orthopedic Crate Pad | 35 x 22 in | 88.9 x 55.9 cm | Available in 4 sizes |
+| Bedsure Memory Foam Orthopedic Crate Pad | 35 x 22 in | 88.9 x 55.9 cm | 3 in (7.6 cm) thick at this size; available in 4 sizes |
 | KSIIA Washable Plush Dog Crate Bed | 41 x 27 in | 104.1 x 68.6 cm | 4 in (10.2 cm) of fiber fill |
 
 **Which pad matches your crate?**
@@ -24,4 +24,6 @@ A pad that lies flat from wall to wall makes the most comfortable bed. Two measu
 | 35 x 22 in | Bedsure Memory Foam Orthopedic Crate Pad |
 | 41 x 27 in | KSIIA Washable Plush Dog Crate Bed |
 
-**How to read it:** find the row closest to your crate floor. If your crate sits between these sizes, the Bedsure listing comes in 4 sizes, so look at its size chart on the product page for the other dimensions. If your dog has trouble getting comfortable in the crate, a quick check with your vet is a good idea.
+**How to read it:** find the row closest to your crate floor. If your crate sits between these sizes, the Bedsure listing comes in 4 sizes, and Bedsure's own site lists this memory foam crate mat in 29 x 18 in (73.7 x 45.7 cm), 35 x 22 in (88.9 x 55.9 cm) and 41 x 29 in (104.1 x 73.7 cm), among others, so check its size chart on the product page for the other dimensions. If your dog has trouble getting comfortable in the crate, a quick check with your vet is a good idea.
+
+Specs above for the Bedsure products come from the manufacturer's product pages. ([Bedsure](https://bedsurehome.com/products/orthopedic-memory-foam-dog-bed))
