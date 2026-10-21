@@ -38,3 +38,13 @@ jobs:
           git add "${{ steps.publish.outputs.published_file }}"
           git commit -m "publish: $(basename "${{ steps.publish.outputs.published_file }}" .md)"
           git push
+
+      # Give the host a few minutes to deploy, then tell IndexNow-supporting
+      # engines (Bing, Yandex, Naver, ...) about the new page. Best effort.
+      - name: Ping IndexNow
+        if: steps.publish.outputs.published_file
+        continue-on-error: true
+        run: |
+          sleep 240
+          ID="$(basename "${{ steps.publish.outputs.published_file }}" .md)"
+          node scripts/indexnow.mjs "https://seniorpawsguide.net/posts/${ID}/" "https://seniorpawsguide.net/" "https://seniorpawsguide.net/all/"
