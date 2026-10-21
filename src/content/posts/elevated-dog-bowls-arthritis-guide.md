@@ -13,6 +13,38 @@ heroImage: 'https://images.pexels.com/photos/9429165/pexels-photo-9429165.jpeg?c
 ---
 Dogs with arthritis benefit significantly from reduced strain on their joints, and elevated dog bowls can play a meaningful role in their daily comfort. By bringing food and water to a more natural eating height, these feeders help minimize neck flexion and spinal stress—particularly important for senior dogs or breeds predisposed to joint issues.
 
+
+<!-- fit-guide:start -->
+## What Bowl Height Fits Your Dog?
+
+The best raised bowl sits at a height that suits your dog's body. Here is how to find your number in a few minutes.
+
+**Step 1: Stand your dog on level floor.** Have them stand naturally with all four feet under them.
+
+**Step 2: Measure to the lower chest.** Use a tape measure from the floor to the point where the front leg meets the chest, roughly the elbow. Write it in inches.
+
+**Step 3: Pick a feeder whose range includes your number.** Adjustable feeders let you choose a setting close to that measurement, and you can change it later as your dog's needs change.
+
+| Feeder | Heights | Bowls | Details |
+|---|---|---|---|
+| COMESOON Elevated Feeder (5 Heights, Foldable) | 5, from 3.9 to 13.4 in (9.9 to 34.0 cm) | Stainless steel | Foldable, travel-friendly, non-slip |
+| COMESOON Adjustable Elevated Dog Bowl (4 Heights) | 4 | Thick stainless steel, 50 oz (about 1.5 L) | Non-slip base |
+| XIAZ Raised Bowl Stand for Large Breeds | 5 | Stainless steel food and water bowls | Non-slip, made for large breeds |
+| Niubya Stainless Steel Raised Dog Bowl Set | 5 | Two stainless bowls included | Adjustable heights |
+
+**Which feeder suits your dog?**
+
+| If your dog... | A good match |
+|---|---|
+| Is a large breed | XIAZ Raised Bowl Stand for Large Breeds |
+| Measures anywhere from about 4 to 13 inches to the elbow | COMESOON Elevated Feeder (5 Heights, Foldable) |
+| Eats a lot or drinks a lot at a time | COMESOON Adjustable Elevated Dog Bowl (50 oz bowls) |
+| Travels with you | COMESOON Elevated Feeder (foldable) |
+| Likes a ready-made food and water pair | Niubya set or XIAZ |
+
+**How to read it:** the COMESOON Foldable lists its full height range, so you can compare your measurement directly. For the other three, check the listing for the minimum and maximum height and make sure your elbow measurement falls inside it. If your dog has a specific health condition, check with your vet about the ideal feeding height.
+<!-- fit-guide:end -->
+
 ### Why choose an elevated dog bowl for a dog with arthritis?
 
 Dogs with arthritis experience genuine biomechanical benefits from elevation. When a dog eats from the ground, they must bend their neck and spine downward repeatedly, which can aggravate already-inflamed joints and contribute to discomfort during feeding times. Elevated bowls reduce this strain by allowing dogs to eat in a more neutral posture. Additionally, elevated feeders can help with digestion and reduce bloating in some cases. For arthritic dogs specifically, the difference goes beyond comfort—it's about minimizing daily strain at every meal. If your dog is already showing signs of discomfort (hesitating at mealtime, eating more slowly, or favoring one side), an elevated feeder is a practical, non-medication upgrade that makes mealtimes easier, and the adjustable feeders below make it simple to find the right fit.

@@ -33,11 +33,14 @@ for (const id of ids) {
 	if (raw.includes(START)) {
 		raw = raw.replace(new RegExp(`${START}[\s\S]*?${END}`), () => block);
 	} else {
-		// Insert before the first H2 after the frontmatter (i.e. after the intro).
+		// Insert before the first H2/H3 after the frontmatter (i.e. after the intro).
 		const fmEnd = raw.indexOf(`${nl}---${nl}`, 3) + `${nl}---${nl}`.length;
-		const h2 = raw.indexOf(`${nl}## `, fmEnd);
+		const h2 = (() => {
+			const m = new RegExp(`${nl}#{2,3} `).exec(raw.slice(fmEnd));
+			return m ? fmEnd + m.index : -1;
+		})();
 		if (h2 === -1) {
-			console.warn(`skip ${id}: no H2 to anchor on`);
+			console.warn(`skip ${id}: no heading to anchor on`);
 			continue;
 		}
 		raw = raw.slice(0, h2) + `${nl}${nl}${block}${nl}` + raw.slice(h2);
