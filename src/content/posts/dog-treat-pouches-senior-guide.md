@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/14140089/pexels-photo-14140089.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dedicated treat pouch means you're never fumbling with pockets or plastic bags while holding a leash. Below are the questions buyers ask most often when shopping for a hands-free dog treat pouch for walks, along with straightforward answers to help you choose with confidence.
