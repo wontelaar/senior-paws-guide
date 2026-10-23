@@ -33,7 +33,7 @@ Matching the furniture height to a ramp's adjustable range is the fastest way to
 |---|---|
 | 11–14 in (28–36 cm) | Fits the low end of a 4-height convertible ramp, or the BAQTALE's stated range |
 | 14–18 in (36–46 cm) | Fits mid settings on the 2-in-1 convertible ramp, the BAQTALE's upper range, or the 16-inch ramp's listed coverage |
-| 18–22 in (46–56 cm) | Fits the taller settings on the 2-in-1 convertible ramp (up to 22 in), or the 17-inch folding stairs when opened as a ramp-stair |
+| 18–22 in (46–56 cm) | Fits the taller settings on the 2-in-1 convertible ramp (18.5 and 22 in) |
 
 **Which product covers which height?**
 
