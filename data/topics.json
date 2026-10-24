@@ -2,6 +2,114 @@
   "_comment": "Topic backlog for the content-generation pipeline. Only 'ready' topics have real, manually-verified Amazon ASINs and imageUrls (checked on Amazon.com on 2026-09-07) and should be used by scripts/generate-post.mjs. 'needs-research' topics are placeholders — verify real products on Amazon before flipping them to 'ready'. Never invent an ASIN or imageUrl; a fabricated one links to/shows the wrong product.",
   "topics": [
     {
+      "id": "dog-scales-weighing-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Digital Dog Scales for Weighing Senior Dogs at Home: Capacity and Platform Size Guide",
+      "category": "Feeding & Medication",
+      "targetKeyword": "dog scale for large dogs weighing at home",
+      "heroImage": "https://images.pexels.com/photos/6716842/pexels-photo-6716842.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Do not interpret weight changes or say a weight is healthy or unhealthy. Do not claim a scale is vet-grade or clinically accurate beyond the listed precision. At most one calm sentence suggesting owners ask their vet what weight changes mean for their dog.",
+      "products": [
+        {
+          "asin": "B0DP77JGJ5",
+          "name": "Digital Pet Scale for Dogs and Cats, 220 lb Capacity (Rechargeable, 27 x 13 in Platform)",
+          "notes": "Weighs from 7 oz up to 220 lb, platform 27.16 x 12.99 inches, glass weighing surface, 3 units (lb, kg, st) with 10 g precision, 26.77-inch length scale line printed on the platform to track body length, rechargeable 200mAh battery",
+          "imageUrl": "https://m.media-amazon.com/images/I/61rSyFx5toL._SL1500_.jpg"
+        },
+        {
+          "asin": "B0HFZZ6FB8",
+          "name": "RAOYAN Dog Scale, 220 lb Max with 0.01 lb Accuracy (25.6 x 17.7 in Platform)",
+          "notes": "Measures 0.1 to 220 lb with 0.01 lb precision, 25.6 x 17.7 inch stainless steel platform, hold and tare functions, high-definition LED display, 5 measurement units, 3 AAA batteries included; remove the four white EVA protective pads from the support feet before use",
+          "imageUrl": "https://m.media-amazon.com/images/I/714QOKK-w2L._SL1500_.jpg"
+        },
+        {
+          "asin": "B0CZC8WRPQ",
+          "name": "Digital Weighing Scale for Dogs, 330 lb x 0.1 lb (33 x 19 in Tempered Glass Platform)",
+          "notes": "330 lb capacity in 0.1 lb steps, 33 x 19 inch tempered glass platform (8 mm thick), animal weighing mode for stable readings, backlit LCD display",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pO28AC7bL._SL1500_.jpg"
+        },
+        {
+          "asin": "B0FX17V1K7",
+          "name": "Digital Weighing Scale for Large Dogs, 400 lb x 0.1 lb (39 x 23 in Tempered Glass Platform)",
+          "notes": "400 lb capacity in 0.1 lb steps, extra-large 39 x 23 inch tempered glass platform (8 mm thick), animal weighing mode for stable readings, backlit LCD display",
+          "imageUrl": "https://m.media-amazon.com/images/I/71f7S2HDe3L._SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "portable-dog-bath-tubs-large-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Elevated Portable Dog Bathtubs for Large and Senior Dogs: Size, Stairs and Weight Limits",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "elevated portable dog bath tub for large dogs",
+      "heroImage": "https://images.pexels.com/photos/8343325/pexels-photo-8343325.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Do not claim a tub prevents back pain, injury or falls, and do not repeat listing claims about back pain. Describe only listed size, height, capacity, stairs, restraint and drain features. At most one calm sentence suggesting owners ask their vet about bathing if a dog has trouble standing.",
+      "products": [
+        {
+          "asin": "B0BRVZNJNR",
+          "name": "Furesh Foldable Dog Washing Station for Large Dogs with Stairs",
+          "notes": "Elevated tub 33 inches high, basin 43.1 inches long x 18.5 inches wide, one-hand folding mechanism, foldable stairs that let a large dog step into the tub, marine-grade PVC basin",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ETZ2PaHZL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DT11YMNJ",
+          "name": "VEVOR Portable Dog Bathtub, Elevated and Foldable (Light Blue)",
+          "notes": "Elevated foldable pet shower station with quick drainage, listed weight capacity up to 220 lb for the tub, for small and medium dogs and cats, indoor and outdoor use",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oMNqsrzlL._SL1500_.jpg"
+        },
+        {
+          "asin": "B0GNNJ461S",
+          "name": "SereneLife Foldable Dog Bath Tub with Adjustable Height (130 lb Capacity, Blue)",
+          "notes": "Supports pets up to 130 lb, adjustable height, 360-degree access, marine-grade PVC with stainless steel frame, three-point leash restraint with adjustable collar, drain hose with stopper, two side storage pockets",
+          "imageUrl": "https://m.media-amazon.com/images/I/81fjwgHaGgL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C9M4XD5G",
+          "name": "Beberoad 2-in-1 Elevated Foldable Dog Bath Tub for Small and Medium Dogs",
+          "notes": "Elevated collapsible tub with 360-degree access, basin about 26 inches long, folds with one hand, for small and medium dogs and cats, indoor and outdoor use",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZEx1KPlFL._SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "raised-dog-bowls-small-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Raised Dog Bowls for Small Senior Dogs: 3 to 7 Inch Heights for Chihuahuas and Other Small Breeds",
+      "category": "Feeding & Medication",
+      "targetKeyword": "raised dog bowls for small dogs",
+      "heroImage": "https://images.pexels.com/photos/8434725/pexels-photo-8434725.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Do not repeat listing claims that raised bowls reduce bloating, aid digestion, protect necks, spines or joints, or promote swallowing. Describe only the listed heights, materials, bowls and non-slip or foldable features. At most one calm sentence suggesting owners check with their vet about the best feeding height if their dog has a health condition.",
+      "products": [
+        {
+          "asin": "B08V5PM9YT",
+          "name": "Vantic Elevated Dog Bowls, Adjustable Raised Stand for Small Dogs and Cats (Natural)",
+          "notes": "6 adjustable heights from 2 to 7 inches in flat and 15-degree tilted positions, foldable and removable, natural material stand",
+          "imageUrl": "https://m.media-amazon.com/images/I/714sB-9Yy-L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CYLW2S98",
+          "name": "Elevated Dog Bowls for Small Dogs, 3-Inch High Stand with Dual 5-Inch Stainless Bowls (Black)",
+          "notes": "Fixed 3-inch (7.6 cm) height, two 5-inch stainless steel bowls, non-slip, dishwasher safe, no assembly",
+          "imageUrl": "https://m.media-amazon.com/images/I/71wX2kl-IFL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08ZYCM5S7",
+          "name": "JoyoPaw Bamboo Raised Dog Bowl Stand (4 Inches Tall)",
+          "notes": "4 inches tall bamboo stand, two stainless steel bowls included, weighs about 3 lb, silicone gasket to reduce noise, wipe-clean bamboo",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oQ1xxXMoL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D8Y5PQY9",
+          "name": "Hubulk Elevated Dog Bowls with 2 Stainless Steel Bowls (Adjusts to 2.75, 6 or 7.5 Inches)",
+          "notes": "3 height settings: 2.75, 6.0 and 7.5 inches, two 25 oz thickened stainless steel bowls, no-spill edge, non-slip stand, for small and medium dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/71gd5BwBJjL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
       "id": "dog-ramps-couch-low-bed-senior-guide",
       "status": "ready",
       "structureType": "comparison",
