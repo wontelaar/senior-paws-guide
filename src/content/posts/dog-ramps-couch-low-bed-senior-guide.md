@@ -12,6 +12,7 @@ heroImage: >-
   https://images.pexels.com/photos/24595750/pexels-photo-24595750.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 When an older dog hesitates at the edge of the couch or stalls out before hopping onto a tall bed, it's rarely stubbornness — it's a sign that jumping has become harder on them. A ramp or step gives a gentler way up and down than jumping, and matching the height and surface to your furniture makes all the difference in whether your dog actually uses it. This guide compares four options built for couches, low beds, and senior dogs of different sizes.
 

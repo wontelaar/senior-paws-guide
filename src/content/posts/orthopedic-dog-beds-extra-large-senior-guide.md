@@ -11,6 +11,7 @@ heroImage: >-
   https://images.pexels.com/photos/5938109/pexels-photo-5938109.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
 A large or giant-breed senior dog needs a bed built for their size, with room to stretch out and stay comfortable night after night. Finding the right orthopedic bed means looking at sizing for dogs 100 pounds and up, supportive foam, a low entry that can make getting on and off easier, and covers that are simple to clean when accidents or muddy paws happen.
 
