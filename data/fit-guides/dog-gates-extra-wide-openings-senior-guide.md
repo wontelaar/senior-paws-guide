@@ -1,6 +1,6 @@
 ## Will It Fit Your Doorway, Stairway or Room?
 
-Extra-wide gates only work for senior dogs if the width, height and mounting style actually suit the opening — and your dog's mobility. Here is a two-minute way to check before you buy.
+Extra-wide gates fit best when the width, height and mounting style match your opening and your dog's mobility. Here is a two-minute way to check before you buy.
 
 **Step 1: Measure the opening.** Measure wall-to-wall (or banister-to-wall) at the widest point of the doorway, hallway, or stairway top. Note the width in inches.
 
