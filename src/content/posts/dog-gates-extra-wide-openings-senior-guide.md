@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/31619573/pexels-photo-31619573.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A wide doorway, open-concept kitchen, or staircase landing can turn into a real obstacle when an older dog has trouble with mobility, vision, or balance. Extra-wide openings call for a gate that spans them and gives a senior dog a clear, consistent boundary. Several gates are built specifically to stretch across extra-wide spaces while staying easy for humans to step through or latch one-handed.
