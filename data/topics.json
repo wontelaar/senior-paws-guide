@@ -3496,6 +3496,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71hleA+x2hL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "orthopedic-dog-beds-large-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Orthopedic Beds for Large Senior Dogs: 35 to 41 Inch Memory Foam and Egg-Crate Picks",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "orthopedic dog bed for large dogs",
+      "heroImage": "https://images.pexels.com/photos/5644265/pexels-photo-5644265.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a bed relieves pain, joint pain, hip dysplasia or stiffness, or provides joint or spine support as a health benefit; foam wording is manufacturer marketing. Stick to sizes, weight ranges, foam type, liners and covers. At most one calm line suggesting a vet for health questions.",
+      "products": [
+        {
+          "asin": "B09D2XLCNK",
+          "name": "EHEYCIGA Orthopedic Dog Bed Large with Removable Washable Cover, 41 Inch",
+          "notes": "3.5-inch high-density egg-crate foam, plush sherpa top with a non-skid bottom, zippered removable machine-washable cover (the foam is not washable), sold in sizes for medium, large and extra large dogs, 7,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EQGRaIv-L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B06XSP3MKP",
+          "name": "Orthopedic Dog Bed, 2-Layer 36 x 27 Inch Memory Foam Pet Mattress with Sherpa Cover",
+          "notes": "36 x 27 x 4 inch bed listed for dogs between 40 and 65 lb, 2 inches of memory foam under a high-density foam top, machine-washable sherpa cover with a wraparound zipper, nonskid base, 9,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71sSUXkBEmL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CG9LCN8B",
+          "name": "KSIIA Orthopedic Dog Bed for Large Dogs with Waterproof Lining, 35 x 22 Inch",
+          "notes": "35 x 22 x 3 inch bed listed for dogs up to 50 lb, 3-inch high-density egg-crate foam, 3-layer waterproof cover with an L-shaped zipper, two-sided plush and Oxford fabric, 4,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61OiYMuic4L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FY52TWMC",
+          "name": "OhGeni Orthopedic M-L Dog Bed, Reversible Memory Foam, 36 Inch",
+          "notes": "36 x 27 x 4 inch reversible bed with dual-layer memory foam and egg-crate foam, waterproof inner liner, machine-washable cover, CertiPUR-US certified foam, 730+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/713kDMjvLIL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-door-mats-muddy-paws-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Absorbent Dog Door Mats for Muddy Paws: 20 to 36 Inch Microfiber Entryway Mats",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "dog door mat for muddy paws",
+      "heroImage": "https://images.pexels.com/photos/16664940/pexels-photo-16664940.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a mat prevents slips or falls, protects floors, or keeps a dog clean or healthy; absorbency, drying and grip wording is manufacturer marketing, so state it as listed. Stick to sizes, materials, backing and washing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B08N6VLJKV",
+          "name": "Muddy Mat Super Water Absorbent Door Mat, Microfiber Chenille Entryway Rug",
+          "notes": "19.69 x 31.5 inch mat with 1-inch plush chenille listed to absorb up to 5 times its weight, textured TPE non-slip backing, machine washable on a cold gentle cycle, 56,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vvnMCj5UL._AC_SL1024_.jpg"
+        },
+        {
+          "asin": "B0BWT84GZ7",
+          "name": "OLANLY Dog Door Mat for Muddy Paws, 30 x 20 Inch Chenille Mud Mat",
+          "notes": "30 x 20 inch chenille mat, textured TPR backing, machine washable, listed for entryways, under food and water bowls, after baths and as a crate liner, 27,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/9102+B7xv+L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B008CNQOXY",
+          "name": "Dog Gone Smart Dirty Dog Doormat, Fast Drying Rug, 35 x 26 Inch",
+          "notes": "35 x 26 inch microfiber mat listed at 3000 GSM and up to 7 times its weight in absorption, listed to dry 5 times faster, gripper backing, machine washable, 18,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/818Vv2u1OYL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FMLWTQTM",
+          "name": "MudGuard Mat Dog Door Muddy Mat, Super Absorbent Microfiber, 36 x 24 Inch",
+          "notes": "36 x 24 x 1 inch microfiber mat with a non-slip TPE backing, machine washable on a cold gentle cycle, listed for entryways, bathrooms and kitchens, 1,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dCgoVd5uL._AC_SL1080_.jpg"
+        }
+      ]
     }
   ]
 }
