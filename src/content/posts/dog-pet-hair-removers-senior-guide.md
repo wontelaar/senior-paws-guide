@@ -12,7 +12,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/4458433/pexels-photo-4458433.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A reusable pet hair roller offers a quick, no-mess way to clear furniture and bedding without buying refills or sticky sheets every few weeks. Here are four reusable rollers and brushes worth comparing, from built-in receptacle rollers to a double-sided brush.
