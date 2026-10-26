@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/10884755/pexels-photo-10884755.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A life jacket with a sturdy top handle gives you a reliable grip point when your dog needs a hand getting in and out of the water. The right vest is simple to put on and fits snugly. Below is a roundup of four options built around those priorities.
