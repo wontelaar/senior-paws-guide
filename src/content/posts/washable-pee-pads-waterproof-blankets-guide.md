@@ -19,6 +19,36 @@ If accidents are new or increasing, a quick word with your veterinarian is a sen
 
 It helps to think about the problem in terms of what surface you're protecting and how the dog will be positioned on it — this points to a few different approaches rather than one universal product.
 
+
+<!-- fit-guide:start -->
+## What Size Pad or Blanket Covers Your Dog's Resting Spot?
+
+A pad or blanket works best when it covers the whole area your dog uses. Measuring the spot takes a minute.
+
+**Step 1: Measure the spot.** Measure the length and width of the dog bed, the section of sofa, or the patch of floor you want covered, in inches.
+
+**Step 2: Add spare room.** Add a few inches to each number so the cover reaches past the edges, and note the result in centimeters too (1 in = 2.54 cm).
+
+**Step 3: Match the spot to a size.** Both pads list exact dimensions, and the table below shows which one covers your measurement. You can turn the pad either way round.
+
+| Your spot (with spare room) is about... | Pads that cover it |
+|---|---|
+| Up to 34 x 36 in (86.4 x 91.4 cm) | GREEN LIFESTYLE Washable Underpads (34x36in) or Washable Dog Pee Pads (Large, 36x41in) |
+| Larger than 34 x 36 in, up to 36 x 41 in (91.4 x 104.1 cm) | Washable Dog Pee Pads (Large, 36x41in) |
+| Bigger than 36 x 41 in | Check the blanket listings for their dimensions |
+
+**Pick by where your dog rests:**
+
+| Product | Listed size | Best spot | Handy detail |
+|---|---|---|---|
+| Washable Dog Pee Pads (Large, 36x41in) | 36 x 41 in (91.4 x 104.1 cm) | Floor by a bed, door or crate | 4 layers, anti-slip silicone bottom |
+| GREEN LIFESTYLE Washable Underpads (34x36in) | 34 x 36 in (86.4 x 91.4 cm) | On a dog bed | Thick quilted layer |
+| Ameritex Waterproof Dog Bed Cover Pet Blanket | Check the listing | Beds and sofas | Reversible, machine washable |
+| gogobunny Waterproof Pet Blanket | Check the listing | Sofa, car seat, vet visits | 3-layer TPU barrier, reversible, folds up |
+
+**How to read it:** find the area your dog uses most, then choose the row that covers it. Many homes pair a pad by the door or crate with a blanket on the bed or sofa, so your dog is covered wherever they settle. For the Ameritex and gogobunny blankets, compare the dimensions on the listing with your sofa or bed measurement.
+<!-- fit-guide:end -->
+
 ## Approach one: disposable-style pads, but washable
 
 The most familiar image of "pee pad" is the thin disposable square meant for puppy training. For a senior dog, a washable version of that same idea makes more sense long-term, since reusable pads can be laundered rather than thrown away after every use. Washable Dog Pee Pads (Large, 36x41in) <a href="https://www.amazon.com/dp/B07G5FP94F?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Washable Dog Pee Pads (Large, 36x41in)</a> are built as a 4-layer pad with an absorbent middle layer and a silicone anti-slip bottom, in a size meant to cover more floor space than a standard puppy pad. The anti-slip backing matters specifically for older dogs, since a pad that slides out from under stiff, unsteady legs can actually contribute to a fall. This style works well as a floor mat near a dog bed, by an exit door, or anywhere accidents tend to happen, and as a flat pad it protects the floor underneath with very little fuss.

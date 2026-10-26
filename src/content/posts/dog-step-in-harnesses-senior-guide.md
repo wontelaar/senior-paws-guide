@@ -17,6 +17,35 @@ For an older dog, a standard harness that has to be pulled over the head can tur
 
 "Step-in" covers several designs, and knowing the differences between styles helps you match a harness to an aging dog's changing skin, mobility, and tolerance for fuss.
 
+
+<!-- fit-guide:start -->
+## Which Step-In Harness Size Fits Your Dog?
+
+Step-in harnesses are sized by chest and neck, so a tape measure gets you further than a weight chart.
+
+**Step 1: Measure chest girth.** With your dog standing, wrap a soft tape around the widest part of the ribcage, just behind the front legs. Keep it snug enough to stay in place but loose enough to slide a finger under.
+
+**Step 2: Measure neck girth.** Measure around the neck where a collar sits, so you can check the neck adjustment range on the harnesses that list one.
+
+**Step 3: Note your dog's weight.** Weigh your dog (stand on a scale holding them, then subtract your own weight) and compare it with the listing's size chart alongside the chest number.
+
+| Dog's weight | In kilograms | Harnesses to look at |
+|---|---|---|
+| Up to 35 lb | Up to 15.9 kg | All four below; the Gooby's largest size fits roughly up to 35 lb |
+| Over 35 lb | Over 15.9 kg | Downtown Pet Supply, Puppia and Comfort Fit; check each size chart |
+
+**What each harness offers:**
+
+| Harness | Style | Fit and adjustment (as listed) |
+|---|---|---|
+| Downtown Pet Supply Step-In No Pull Dog Harness | Padded mesh, hook-and-loop closure | Quick-release buckle strap, double D-rings; the maker advises measuring rather than relying on weight |
+| Puppia Soft Vest Step-In Dog Harness | Soft padded mesh vest | Buckle closure; check the size chart |
+| Comfort Fit No Pull Step-In Dog Harness | Padded vest | Quick-release buckles, adjustable at neck and chest, front and back clips, top handle |
+| Gooby Escape Free Memory Foam Step-In Dog Harness | Memory-foam, fleece-lined, made for small breeds | 4-point adjustability; largest size roughly up to 35 lb |
+
+**How to read it:** write down chest girth, neck girth and weight, then compare them with the size chart on the harness you like. The Gooby is made for small breeds, so it pairs with a smaller dog; for the others, the listing's chart shows which size lines up with your dog's chest.
+<!-- fit-guide:end -->
+
 ## Buckle-and-strap step-ins versus step-in vests
 
 The simplest step-in harnesses use a strap-and-buckle system: the dog steps in, the harness is drawn up along the sides, and one or two buckles click shut near the back. This style tends to be lightweight and quick to put on, which matters if a senior dog has limited patience for being dressed. The Downtown Pet Supply Step-In No Pull Dog Harness <a href="https://www.amazon.com/dp/B07T98ZG4B?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Downtown Pet Supply Step-In No Pull Dog Harness</a> is a good example of this approach. It uses a hook-and-loop closure along with a quick-release buckle strap and double D-rings, and it's built from padded mesh fabric with reflective trim, which adds visibility on early morning or evening walks. It has more than 16,000 reviews. The maker advises measuring the dog for the right size, since two dogs at the same weight can have very different chest shapes, and a quick pass with a measuring tape sets you up for a snug, comfortable fit.

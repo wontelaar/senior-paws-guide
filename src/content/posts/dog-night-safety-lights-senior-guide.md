@@ -16,6 +16,36 @@ approved: true
 ---
 A senior dog wandering into the yard at dusk presents a problem that most owners don't fully appreciate until it happens: an aging dog with cloudy eyes or dulled hearing doesn't respond to a called name the way it used to, and it doesn't always see the porch steps, the garden edge, or the family car pulling into the driveway. Add in the stiffness of arthritis, which tends to slow a dog's reaction time even when it does notice a hazard, and evening or nighttime outings turn into something that needs real planning rather than an open door. The issue cuts both ways. An owner needs to be able to spot their own dog in low light, especially if the dog has drifted toward the tree line or gone quiet instead of barking or coming when called. And drivers, cyclists, and other pedestrians need enough advance notice to see a slow-moving, possibly confused senior dog before it's close enough to be a genuine emergency. Visibility gear exists to solve exactly this two-way problem, and understanding the categories of gear available makes it much easier to pick the right one instead of grabbing whatever shows up first in a search.
 
+
+<!-- fit-guide:start -->
+## Which Light-Up Collar or Vest Fits Your Dog and Your Evening Walks?
+
+Two things decide the match: your dog's measurements and where you walk after dark.
+
+**Step 1: Measure neck girth.** Wrap a soft tape around the neck where the collar sits, snug enough to stay in place but loose enough to slide two fingers under.
+
+**Step 2: Measure chest girth.** For the harness and vest, wrap the tape around the widest part of the ribcage, just behind the front legs.
+
+**Step 3: Pick your walking spot.** A dark yard, a roadside, or both.
+
+Use this converter to compare your numbers with size charts listed in centimeters:
+
+| Inches | 10 | 14 | 18 | 22 | 26 |
+|---|---|---|---|---|---|
+| Centimeters | 25.4 | 35.6 | 45.7 | 55.9 | 66.0 |
+
+**Which one matches your walk?**
+
+| Product | Type | Fit and features (as listed) |
+|---|---|---|
+| MASBRILL Light Up Dog Collar (Rechargeable, Waterproof) | Lighted collar | Flat optical fiber, 3 light modes, rechargeable, waterproof; check the size chart |
+| BSEEN USB Rechargeable LED Dog Collar | Lighted collar | One size, can be trimmed to fit, 3 light modes, 360-degree visibility |
+| ChalkLit Light Up No-Pull Dog Harness | Lighted harness | USB-rechargeable, wide light strip, goes on without going over the head; check the size chart |
+| SafetyPUP Reflective Dog Vest | Reflective vest (no battery) | 300D Oxford fabric, utility strap; check the size chart |
+
+**How to read it:** for a dark yard, the lighted collars and harness glow on their own. For roadside dusk walks, the SafetyPUP reflects headlights and streetlamps, and many owners pair it with a lighted collar. With your neck number in hand, the BSEEN's trim-to-fit design lets you set the length to match; for the harness or vest, compare your chest number with the listing's chart.
+<!-- fit-guide:end -->
+
 ## Lighted Gear vs. Reflective-Only Gear
 
 The most basic distinction to understand before shopping is the difference between gear that actively emits light and gear that simply reflects light back toward its source. Lighted collars and harnesses run on an internal battery and glow or flash on their own, which means they work in total darkness — a backyard with no streetlights, a wooded trail at dusk, a power outage. That self-powered visibility is what allows an owner to spot a dog from a distance in pitch-black conditions, and it's also what catches a driver's eye well before headlights would otherwise illuminate the dog. Many lighted products are rechargeable, so a quick top-up between outings keeps them ready for the evening routine.
