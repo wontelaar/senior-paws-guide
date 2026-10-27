@@ -3568,6 +3568,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/81dCgoVd5uL._AC_SL1080_.jpg"
         }
       ]
+    },
+    {
+      "id": "orthopedic-dog-beds-medium-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Orthopedic Beds for Medium Senior Dogs: 28 to 30 Inch Foam Beds and Bolster Couches",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "orthopedic dog bed for medium dogs",
+      "heroImage": "https://images.pexels.com/photos/12945473/pexels-photo-12945473.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a bed relieves pain, pressure or joint problems, or provides joint or spine support as a health benefit; foam wording is manufacturer marketing. Stick to sizes, thickness, foam type, liners and covers. At most one calm line suggesting a vet for health questions.",
+      "products": [
+        {
+          "asin": "B0BKZH4H6T",
+          "name": "EHEYCIGA Orthopedic Dog Bed Medium with Removable Washable Cover, 30 x 20 Inch",
+          "notes": "30 x 20 x 3.5 inch flat bed with 3.5-inch high-density egg-crate foam, plush sherpa top and non-skid bottom, zippered removable machine-washable cover (the foam is not washable), 7,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fZhzt0ojL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BDM7Z2P8",
+          "name": "EHEYCIGA Orthopedic Dog Bed for Medium Dogs, Waterproof Washable Sofa-Style Bed",
+          "notes": "30 x 20 x 6 inch sofa-style bed with memory foam and egg-crate foam, 3-sided bolster, waterproof film under a fleece surface (the faux linen sides are not waterproof), removable machine-washable cover, 23,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71CcfYhiWAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FY55Y8ZF",
+          "name": "OhGeni Orthopedic Medium Dog Bed, Reversible Memory Foam, 30 Inch",
+          "notes": "30 x 20 x 3 inch reversible bed with dual-layer memory foam and egg-crate foam, waterproof inner liner, machine-washable cover, CertiPUR-US certified foam, 740+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Hc9aoyujL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DHVFWSRW",
+          "name": "Spotted Play Orthopedic Dog Sofa Bed with Sides for Medium Dogs",
+          "notes": "28 x 23 x 6.5 inch bed with a 4-sided bolster, high-density egg-crate foam, waterproof liner, zippered machine-washable flannel cover (the foam insert is not washable), 2,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81TFCzUnhoL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-back-seat-extenders-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Back Seat Extenders for Dogs: 51 to 52 Inch Hard-Bottom Car Beds for Sedans and SUVs",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "back seat extender for dogs",
+      "heroImage": "https://images.pexels.com/photos/28844399/pexels-photo-28844399.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim an extender keeps a dog safe, prevents falls, reduces travel anxiety or works as a crash restraint; load ratings, side flaps and mesh windows are manufacturer wording, so state them as listed. Stick to sizes, materials, panels and cleaning. At most one calm line to measure the back seat before ordering.",
+      "products": [
+        {
+          "asin": "B0DWXJK1FY",
+          "name": "URPOWER Hard Bottom Dog Car Seat Cover, Back Seat Extender for Cars and SUVs",
+          "notes": "51 x 23.6 inch hard-bottom extender listed to hold up to 400 lb, zippered side flaps, mesh window and storage pocket, detachable honeycomb boards for cleaning, waterproof fabric, 5,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81KLAIc8MSL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FRM3X7FT",
+          "name": "URPOWER Hard Bottom Dog Car Seat Cover for Back Seat, PU Leather Hammock",
+          "notes": "51 x 23.6 inch hard-bottom extender in textured waterproof PU leather, listed to hold up to 400 lb, zippered side flaps, mesh window and pocket, detachable support panels, 47,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LgNe7oAjL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DGKDWQV5",
+          "name": "Hard Bottom Dog Car Seat Cover for Back Seat, 51 Inch Back Seat Extender",
+          "notes": "51 inch extender listed for compact cars and subcompact SUVs, 600D Oxford fabric, zippered side flaps, mesh window and storage pocket, strap and buckle installation, available in 4 sizes, 1,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/816YGPmJu5L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C93QVJZX",
+          "name": "URPOWER Large Hard Bottom Back Seat Extender for Dogs, 52 x 24.8 Inch",
+          "notes": "52 x 24.8 inch extender with 3 large hard panels listed to hold up to 550 lb, 900D Oxford fabric with a PU and TPU waterproof layer, mesh window and storage pockets, 5,900+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81G5adcEX9L._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
