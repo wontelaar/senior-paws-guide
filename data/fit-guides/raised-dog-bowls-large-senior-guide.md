@@ -1,27 +1,28 @@
-## What Height and Width Does Your Dog Need?
+## Which Stand Height and Bowl Setup Fits Your Dog?
 
-Raised feeders work best when the bowl rim sits close to your dog's elbow, and the stand is wide enough to hold their bowls steady. Here's how to check both in about two minutes.
+Raised stands differ most in their listed heights, so one measurement and a quick comparison point you to the right stand.
 
-**Step 1: Measure your dog's elbow height.** With your dog standing normally, measure straight up from the floor to the point of the elbow. Note it in inches.
+**Step 1: Measure your dog's shoulder height.** With your dog standing normally on a flat floor, measure straight up from the floor to the top of the shoulder blades, in inches.
 
-**Step 2: Check your dog's shoulder height too.** Some listings reference shoulder height as a general size cue rather than exact feeder height, so measure from the floor to the top of the shoulder blades as well.
+**Step 2: Decide the height you want to try.** Adjustable stands let you start at one setting and change it later; fixed stands keep one height.
 
-**Step 3: Measure the bowls you plan to use.** Measure the width of each bowl at its widest point, since the stand needs an opening that matches.
+**Step 3: Compare with the listed heights.** Use the tables below, which show each stand's listed heights in inches and centimeters.
 
-| Dog's elbow height | A stand height to look for |
-|---|---|
-| 12 in (30 cm) | Around 10–12 in |
-| 14 in (36 cm) | Around 12–14 in |
-| 16 in (41 cm) | Around 14–16 in |
-| 18 in (46 cm) | Around 16 in and up |
+**Listed heights by stand**
 
-**Which stand covers which range?**
-
-| Product | Height options | Width/bowl fit | Size guidance listed |
+| Stand | Listed height(s) | In centimeters | Bowl setup |
 |---|---|---|---|
-| SHAINFUN Elevated Dog Bowls | 3 adjustable heights up to 12 in | Includes slow feeder bowl and mat (15.7 x 23.6 in) | Medium and large dogs |
-| PROERR Adjustable Tall Dog Bowl Stand | 4 heights: 13, 14, 15, 16 in | Width adjustable to fit bowls 8 to 12 in | Check the listing |
-| HTB Elevated Dog Bowls | Check the listing | Comes with 2 stainless steel bowls | Large, medium and small dogs |
-| Neater Feeder Express | Check the listing | Stand and bowls dishwasher safe | Medium to large dogs over 9 in at the shoulder |
+| Neater Feeder Express | Feeding height 5.5 in | 14.0 cm | Two stainless steel bowls, spill-catching design |
+| SHAINFUN Elevated Dog Bowls | 3 settings: 8.6, 10.2, 11.8 in | 21.8, 25.9, 30.0 cm | Slow feeder bowl and 15.7 x 23.6 in mat |
+| PROERR Adjustable Tall Stand | 4 settings: 13, 14, 15, 16 in | 33.0, 35.6, 38.1, 40.6 cm | Width fits bowls from 8 to 12 in (20.3 to 30.5 cm) |
+| HTB Elevated Dog Bowls | Check the listing (17.52 x 9.45 x 10 in overall) | Check the listing | Two stainless steel bowls, bamboo stand |
 
-**How to read it:** if your dog's elbow sits around 12 inches up, the SHAINFUN stand's adjustable range up to 12 inches lines up well, and its mat is sized to catch spills around a 15.7 x 23.6 in footprint. If your dog is taller, with an elbow closer to 13–16 inches, the PROERR stand's four fixed heights (13 to 16 inches) give you more room to step up as needed, and its adjustable width fits bowls from 8 to 12 inches so you can match bowls you already own. The HTB stand is listed across large, medium and small dogs, which makes it a flexible pick if you're feeding more than one size in the same household. The Neater Feeder Express is listed for medium to large dogs over 9 inches at the shoulder and pairs that with a spill-catching design, which may be worth considering if mess control matters as much as height. Confirm exact dimensions on the product page before ordering, and if your dog has a neck or joint condition, check with your vet about the right feeding height.
+**Which stands offer the height you want to try?**
+
+| Height you want to try | Stands that offer it |
+|---|---|
+| About 5.5 in (14.0 cm) | Neater Feeder Express |
+| About 8.6 to 11.8 in (21.8 to 30.0 cm) | SHAINFUN (3 settings) |
+| About 13 to 16 in (33.0 to 40.6 cm) | PROERR (4 settings) |
+
+**How to read it:** pick the height you would like to try, find it in the second table, and use the first to choose the bowl setup you like. The SHAINFUN and PROERR let you move between settings with the same stand. The Neater Feeder Express keeps one height and adds the spill-catching design, and the HTB includes two bowls on a bamboo stand. Confirm exact dimensions on the product page before ordering.

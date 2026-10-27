@@ -1,27 +1,29 @@
-## What Size Bed Does Your Dog Actually Need?
+## Which Small Bed Size and Style Fits Your Dog?
 
-Getting the length and width right matters more than the brand you pick. Here is how to size a bed to your dog in about two minutes.
+Small orthopedic beds differ in footprint, thickness and shape, so a quick measurement and comparison point you to the right one.
 
-**Step 1: Measure your dog.** With your dog standing, measure nose to tail base for length, then measure from shoulder to shoulder (or paw to paw when lying on their side) for width. Use inches.
+**Step 1: Measure your dog.** With your dog lying in a favorite resting pose, measure from nose to tail base and across the widest point, in inches.
 
-**Step 2: Add lounging room.** A dog that curls up or stretches out fully needs extra space beyond its body length so it isn't hanging off the edges. Adding a few inches on each side is a comfortable rule of thumb.
+**Step 2: Choose a style.** Flat pads suit crates and floors, and the bolster bed has a raised 3-sided edge to lean against.
 
-**Step 3: Compare to the bed's listed footprint.** Check the bed's length and width (not just the "fits dogs up to X lb" label) against your dog's measurement plus that cushion.
+**Step 3: Compare with the listed size and weight.** Use the tables below, which show each bed's listed size in inches and centimeters.
 
-| Dog's body length | Suggested bed length to look for |
-|---|---|
-| 14 in (35.6 cm) | 20 in (50.8 cm) or more |
-| 16 in (40.6 cm) | 22 in (55.9 cm) or more |
-| 18 in (45.7 cm) | 24 in (61.0 cm) or more |
-| 20 in (50.8 cm) | 26 in (66.0 cm) or more |
+**Listed size by bed**
 
-**What each bed covers, based on its listing:**
-
-| Bed | Listed dimensions | Listed weight guidance | Good to know |
+| Bed | Listed size (in) | In centimeters | Style |
 |---|---|---|---|
-| OhGeni Orthopedic Small Dog Bed | 24 inch size | Check the listing | Reversible memory foam and egg-crate sides, waterproof inner liner |
-| KSIIA Orthopedic Dog Bed | 23 x 17 x 3 inch | Up to 20 lb (9.1 kg) | 3-inch egg-crate foam, waterproof cover with L-shaped zipper |
-| EHEYCIGA Orthopedic Small Dog Bed with Bolsters | Multiple sizes | Check the listing | Sofa-style with 3-sided bolster, non-slip bottom |
-| Waterproof Small Dog Bed Crate Pad | 24 inch size | Check the listing | Available in 8 sizes, reversible faux-leather and flannel cover |
+| OhGeni Orthopedic Small Dog Bed | 24 x 16 x 3 | 61.0 x 40.6 x 7.6 cm | Flat, reversible |
+| KSIIA Orthopedic Dog Bed | 23 x 17 x 3 | 58.4 x 43.2 x 7.6 cm | Flat, two-sided cover |
+| EHEYCIGA Orthopedic Small Dog Bed | 24 x 18 x 6 | 61.0 x 45.7 x 15.2 cm | Sofa-style, 3-sided bolster |
+| Waterproof Small Dog Bed Crate Pad | Sold as 24 in; page lists 23 x 17 x 3 | 58.4 x 43.2 x 7.6 cm | Flat crate pad |
 
-**How to read it:** if your dog's body length is close to 18 to 20 inches, both the OhGeni Orthopedic Small Dog Bed and the Waterproof Small Dog Bed Crate Pad list a 24 inch option that leaves room to stretch out. If your dog is on the smaller side and under about 20 lb, the KSIIA's 23 x 17 inch footprint is sized specifically for that range. Dogs who like to lean or rest their head on something may appreciate the raised 3-sided bolster on the EHEYCIGA bed, which also comes in multiple sizes if your dog's measurement falls outside the 24 inch range. Since the EHEYCIGA and OhGeni listings don't spell out an exact weight limit here, confirm exact dimensions on the product page before ordering. If your dog has joint sensitivity, it's a reasonable idea to check with your vet about what bed firmness and height suit them best.
+**Which bed suits what you need?**
+
+| What you need | Beds listed for it |
+|---|---|
+| Listed weight guidance | KSIIA: dogs up to 20 lb (9.1 kg) |
+| A raised edge to lean on | EHEYCIGA (3-sided bolster) |
+| A reversible surface | OhGeni (memory foam and egg-crate foam sides), Crate Pad (faux leather and flannel) |
+| A flat pad for a crate | Crate Pad, KSIIA, OhGeni |
+
+**How to read it:** match your dog's measured length and width to the footprints in the first table, then pick the style in the second. The OhGeni and EHEYCIGA list a 24 inch length, the KSIIA and Crate Pad list 23 inches, and the EHEYCIGA is the thickest at 6 inches. Confirm exact dimensions and size charts on the product page before ordering.

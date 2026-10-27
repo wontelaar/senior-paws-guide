@@ -3,8 +3,8 @@ title: >-
   Orthopedic Beds for Small Senior Dogs: 23 to 24 Inch Memory Foam and Egg-Crate
   Picks
 description: >-
-  Small senior dogs often need a little extra help getting comfortable, and a
-  bed that's too thin, too slick, or hard to clean can make daily rest harder…
+  Compare four orthopedic beds for small dogs in the 23 to 24 inch range, with
+  memory foam or egg-crate foam, waterproof liners and washable covers.
 pubDate: '2026-10-27T19:09:48.412Z'
 structureType: comparison
 topicId: orthopedic-dog-beds-small-senior-guide
@@ -13,38 +13,41 @@ heroImage: >-
   https://images.pexels.com/photos/5420821/pexels-photo-5420821.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
-Small senior dogs often need a little extra help getting comfortable, and a bed that's too thin, too slick, or hard to clean can make daily rest harder than it should be. The right orthopedic bed in the 23 to 24 inch range gives a small or aging dog a supportive place to settle in, sized appropriately for their frame and easy to keep fresh between washes. Here's a look at four well-reviewed options built specifically with small dogs in mind.
+An orthopedic bed in the 23 to 24 inch range gives a small dog a foam bed sized for a compact frame, with a cover that is easy to wash. Here are four options with memory foam or egg-crate foam, waterproof liners and removable covers.
 
 
 <!-- fit-guide:start -->
-## What Size Bed Does Your Dog Actually Need?
+## Which Small Bed Size and Style Fits Your Dog?
 
-Getting the length and width right matters more than the brand you pick. Here is how to size a bed to your dog in about two minutes.
+Small orthopedic beds differ in footprint, thickness and shape, so a quick measurement and comparison point you to the right one.
 
-**Step 1: Measure your dog.** With your dog standing, measure nose to tail base for length, then measure from shoulder to shoulder (or paw to paw when lying on their side) for width. Use inches.
+**Step 1: Measure your dog.** With your dog lying in a favorite resting pose, measure from nose to tail base and across the widest point, in inches.
 
-**Step 2: Add lounging room.** A dog that curls up or stretches out fully needs extra space beyond its body length so it isn't hanging off the edges. Adding a few inches on each side is a comfortable rule of thumb.
+**Step 2: Choose a style.** Flat pads suit crates and floors, and the bolster bed has a raised 3-sided edge to lean against.
 
-**Step 3: Compare to the bed's listed footprint.** Check the bed's length and width (not just the "fits dogs up to X lb" label) against your dog's measurement plus that cushion.
+**Step 3: Compare with the listed size and weight.** Use the tables below, which show each bed's listed size in inches and centimeters.
 
-| Dog's body length | Suggested bed length to look for |
-|---|---|
-| 14 in (35.6 cm) | 20 in (50.8 cm) or more |
-| 16 in (40.6 cm) | 22 in (55.9 cm) or more |
-| 18 in (45.7 cm) | 24 in (61.0 cm) or more |
-| 20 in (50.8 cm) | 26 in (66.0 cm) or more |
+**Listed size by bed**
 
-**What each bed covers, based on its listing:**
-
-| Bed | Listed dimensions | Listed weight guidance | Good to know |
+| Bed | Listed size (in) | In centimeters | Style |
 |---|---|---|---|
-| OhGeni Orthopedic Small Dog Bed | 24 inch size | Check the listing | Reversible memory foam and egg-crate sides, waterproof inner liner |
-| KSIIA Orthopedic Dog Bed | 23 x 17 x 3 inch | Up to 20 lb (9.1 kg) | 3-inch egg-crate foam, waterproof cover with L-shaped zipper |
-| EHEYCIGA Orthopedic Small Dog Bed with Bolsters | Multiple sizes | Check the listing | Sofa-style with 3-sided bolster, non-slip bottom |
-| Waterproof Small Dog Bed Crate Pad | 24 inch size | Check the listing | Available in 8 sizes, reversible faux-leather and flannel cover |
+| OhGeni Orthopedic Small Dog Bed | 24 x 16 x 3 | 61.0 x 40.6 x 7.6 cm | Flat, reversible |
+| KSIIA Orthopedic Dog Bed | 23 x 17 x 3 | 58.4 x 43.2 x 7.6 cm | Flat, two-sided cover |
+| EHEYCIGA Orthopedic Small Dog Bed | 24 x 18 x 6 | 61.0 x 45.7 x 15.2 cm | Sofa-style, 3-sided bolster |
+| Waterproof Small Dog Bed Crate Pad | Sold as 24 in; page lists 23 x 17 x 3 | 58.4 x 43.2 x 7.6 cm | Flat crate pad |
 
-**How to read it:** if your dog's body length is close to 18 to 20 inches, both the OhGeni Orthopedic Small Dog Bed and the Waterproof Small Dog Bed Crate Pad list a 24 inch option that leaves room to stretch out. If your dog is on the smaller side and under about 20 lb, the KSIIA's 23 x 17 inch footprint is sized specifically for that range. Dogs who like to lean or rest their head on something may appreciate the raised 3-sided bolster on the EHEYCIGA bed, which also comes in multiple sizes if your dog's measurement falls outside the 24 inch range. Since the EHEYCIGA and OhGeni listings don't spell out an exact weight limit here, confirm exact dimensions on the product page before ordering. If your dog has joint sensitivity, it's a reasonable idea to check with your vet about what bed firmness and height suit them best.
+**Which bed suits what you need?**
+
+| What you need | Beds listed for it |
+|---|---|
+| Listed weight guidance | KSIIA: dogs up to 20 lb (9.1 kg) |
+| A raised edge to lean on | EHEYCIGA (3-sided bolster) |
+| A reversible surface | OhGeni (memory foam and egg-crate foam sides), Crate Pad (faux leather and flannel) |
+| A flat pad for a crate | Crate Pad, KSIIA, OhGeni |
+
+**How to read it:** match your dog's measured length and width to the footprints in the first table, then pick the style in the second. The OhGeni and EHEYCIGA list a 24 inch length, the KSIIA and Crate Pad list 23 inches, and the EHEYCIGA is the thickest at 6 inches. Confirm exact dimensions and size charts on the product page before ordering.
 <!-- fit-guide:end -->
 
 ## Comparison Table
@@ -67,7 +70,7 @@ Getting the length and width right matters more than the brand you pick. Here is
   </div>
 </div>
 
-The OhGeni bed <a href="https://www.amazon.com/dp/B0FY4ZVJSP?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">OhGeni Orthopedic Small Dog Bed, Reversible Memory Foam, 24 Inch</a> is built around a reversible dual-layer design, pairing memory foam on one side with egg-crate foam on the other so you can offer your dog a choice of textures. It comes in a 24 inch size suited to small dogs, with a waterproof inner liner to guard the foam and a machine-washable cover for easy upkeep. The foam itself is CertiPUR-US certified, and with over 730 reviews, it has found a solid following among small-dog owners. It's a great pick for anyone who wants flexibility in feel along with straightforward cleaning.
+The OhGeni bed <a href="https://www.amazon.com/dp/B0FY4ZVJSP?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">OhGeni Orthopedic Small Dog Bed, Reversible Memory Foam, 24 Inch</a> is built around a reversible dual-layer design, pairing memory foam on one side with egg-crate foam on the other so you can offer your dog a choice of textures. It measures 24 x 16 x 3 inches, with a waterproof inner liner to guard the foam and a machine-washable cover for easy upkeep. The foam itself is CertiPUR-US certified. It's a great pick for anyone who wants flexibility in feel along with straightforward cleaning.
 
 ### KSIIA Orthopedic Dog Bed for Small Dogs with Waterproof Lining
 
@@ -80,7 +83,7 @@ The OhGeni bed <a href="https://www.amazon.com/dp/B0FY4ZVJSP?tag=seniorpawsgui-2
   </div>
 </div>
 
-Sized at 23 x 17 x 3 inches, the KSIIA bed <a href="https://www.amazon.com/dp/B0CG9K3QPC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">KSIIA Orthopedic Dog Bed for Small Dogs with Waterproof Lining, 23 x 17 Inch</a> is designed for dogs up to 20 lb, making it a fitting choice for compact breeds and smaller seniors. It uses 3-inch high-density egg-crate foam topped with a 3-layer waterproof cover that opens via an L-shaped zipper for easy on-and-off removal, and the cover itself is two-sided with plush fabric on one face and a cooler fabric on the other. With more than 4,300 reviews, it's a popular option for owners who want a close, properly proportioned fit. This bed suits dogs who do best with a snug, well-sized resting spot and a cover that's simple to swap by season.
+Sized at 23 x 17 x 3 inches, the KSIIA bed <a href="https://www.amazon.com/dp/B0CG9K3QPC?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">KSIIA Orthopedic Dog Bed for Small Dogs with Waterproof Lining, 23 x 17 Inch</a> is designed for dogs up to 20 lb, making it a fitting choice for compact breeds and smaller seniors. It uses 3-inch high-density egg-crate foam topped with a 3-layer waterproof cover that opens via an L-shaped zipper for easy on-and-off removal, and the cover itself is two-sided with plush fabric on one face and a cooler fabric on the other. This bed suits dogs who do best with a snug, well-sized resting spot and a cover that's simple to swap by season.
 
 ### EHEYCIGA Orthopedic Small Dog Bed with Bolsters
 
@@ -93,7 +96,7 @@ Sized at 23 x 17 x 3 inches, the KSIIA bed <a href="https://www.amazon.com/dp/B0
   </div>
 </div>
 
-The EHEYCIGA bed <a href="https://www.amazon.com/dp/B0D7PVB2WF?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">EHEYCIGA Orthopedic Small Dog Bed with Bolsters</a> takes a sofa-style approach, combining memory foam and egg-crate foam with a 3-sided bolster that gives a dog a place to rest their head or lean in. It includes a waterproof film layer, a non-slip bottom to help keep it in place, and a removable, washable flannel cover for easy care. Available in multiple sizes and backed by more than 23,000 reviews, it's a widely chosen option for small dogs who like curling up against a raised edge. It's an excellent fit for dogs that gravitate toward couch corners or crave a sense of enclosure while they sleep.
+The EHEYCIGA bed <a href="https://www.amazon.com/dp/B0D7PVB2WF?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">EHEYCIGA Orthopedic Small Dog Bed with Bolsters</a> takes a sofa-style approach, combining memory foam and egg-crate foam with a 3-sided bolster that gives a dog a place to rest their head or lean in. It measures 24 x 18 x 6 inches and includes a waterproof film layer, a non-slip bottom to help keep it in place, and a removable, washable flannel cover for easy care. It is available in multiple sizes and suits small dogs who like curling up against a raised edge.
 
 ### Waterproof Small Dog Bed Crate Pad
 
@@ -106,7 +109,7 @@ The EHEYCIGA bed <a href="https://www.amazon.com/dp/B0D7PVB2WF?tag=seniorpawsgui
   </div>
 </div>
 
-This crate pad <a href="https://www.amazon.com/dp/B0CG57ZQW3?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Waterproof Small Dog Bed Crate Pad, 24 Inch</a> is built from orthopedic high-density egg-crate foam and comes in a 24 inch size, with a waterproof liner underneath a removable, washable cover. The cover has a reversible design, offering faux-leather on one side and flannel on the other, so you can switch the look or feel depending on the season or your dog's preference. It's available in 8 total sizes, giving flexibility for households with more than one dog, and has gathered over 2,300 reviews. It's a strong choice for anyone using a crate setup who wants a flat, easy-to-clean pad that still delivers supportive foam underneath.
+This crate pad <a href="https://www.amazon.com/dp/B0CG57ZQW3?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Waterproof Small Dog Bed Crate Pad, 24 Inch</a> is built from orthopedic high-density egg-crate foam and comes in a 24 inch size, with a waterproof liner underneath a removable, washable cover. The cover has a reversible design, offering faux-leather on one side and flannel on the other, so you can switch the look or feel depending on the season or your dog's preference. It's available in 8 total sizes, giving flexibility for households with more than one dog. It's a strong choice for anyone using a crate setup who wants a flat, easy-to-clean pad that still delivers supportive foam underneath.
 
 ## How to Choose
 
@@ -115,7 +118,7 @@ This crate pad <a href="https://www.amazon.com/dp/B0CG57ZQW3?tag=seniorpawsgui-2
 - **Bed format:** Flat crate pads work well for dogs who already have a crate setup, while bolstered sofa-style beds suit dogs who like to lean or nestle into an edge.
 - **Waterproofing:** A waterproof liner or inner layer helps protect the foam itself and makes cleanup easier if there are any accidents or spills.
 - **Cover washability:** Removable, machine-washable covers make regular cleaning simple, and reversible fabric options (like plush/cooler or faux-leather/flannel) let you adjust for temperature or texture preference.
-- **Non-slip bottom:** A grippy base helps keep the bed in place on smooth flooring, which can matter for dogs who are less steady on their feet.
+- **Non-slip bottom:** A grippy base helps keep the bed in place on smooth flooring.
 - **Size availability:** If you have multiple dogs or anticipate needing a different size later, check whether the bed comes in a range of sizes, as several of these do.
 - **Budget:** Prices and value differ by brand and size, so compare what's included — liner, cover design, foam layers — against what matters most for your dog.
 
@@ -128,4 +131,4 @@ Look at your dog's length when stretched out and their weight, then compare that
 Yes — all four options include some combination of a waterproof liner and a removable, washable cover, which makes routine cleaning more manageable than beds without that construction. Always follow the specific washing instructions on the listing to keep the cover and foam in good shape.
 
 **Is memory foam or egg-crate foam better for a small dog?**
-Both are included across these picks, and some beds, like the OhGeni, offer a reversible design so you can try both surfaces and see what your dog prefers. If your dog has a specific health condition affecting mobility, it's worth asking your vet whether they have a recommendation on bed type.
+Both are included across these picks, and some beds, like the OhGeni, offer a reversible design so you can try both surfaces and see what your dog prefers.
