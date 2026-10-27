@@ -12,7 +12,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/6716842/pexels-photo-6716842.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A low-profile digital dog scale lets you track your dog's weight from home, on your own schedule, without the carry to the car. Below is a roundup of four platform-style dog scales built for dogs of different sizes, so you can pick the one that matches your dog's weight and size.
