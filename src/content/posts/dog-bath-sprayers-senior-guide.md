@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/16145288/pexels-photo-16145288.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dedicated sprayer attachment connects to a faucet, shower, or hose and makes it simple to rinse a dog thoroughly at home. Below are the questions owners ask most often when choosing one.
