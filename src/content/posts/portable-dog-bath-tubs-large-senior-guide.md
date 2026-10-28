@@ -12,7 +12,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/8343325/pexels-photo-8343325.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An elevated portable dog bathtub brings the wash basin up to a workable height and, in some models, adds stairs so the dog can walk in rather than be lifted. Here's a side-by-side look at four elevated and foldable options built for everything from large breeds to smaller dogs and cats.
