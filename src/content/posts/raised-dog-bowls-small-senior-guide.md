@@ -12,7 +12,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/8434725/pexels-photo-8434725.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A raised dog bowl brings food and water up to a height you choose, and with adjustable or fixed options between 2 and 7.5 inches, there's a fit for nearly every small dog. This guide compares four elevated bowl setups to help you find the right height, material, and features for your companion.
