@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/6468223/pexels-photo-6468223.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A pet camera lets you check in on your dog from your phone during the workday or a night out. Here are four indoor cameras, from a 360 degree view to models with a built-in snack dispenser.
