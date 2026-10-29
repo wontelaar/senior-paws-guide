@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/4750264/pexels-photo-4750264.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A snuffle mat lets you hide kibble or small snacks in its folds or cups so your dog sniffs out dinner instead of eating it from a bowl. The mat stays on the floor, so your dog can settle in one spot while eating. Here are four options, from large felt and fleece mats to a compact silicone mat for wet food.
