@@ -1,26 +1,29 @@
-## Will It Fit Your Trunk or Tailgate?
+## Which Steps or Ramp Fit Your Vehicle and Storage Space?
 
-The listed trunk-height range (or step count) is the fastest way to tell which dog stairs will reach your vehicle's cargo floor. Here is how to check in two minutes.
+Vehicle steps differ in height range, weight rating and folded size, so a few quick checks point you to the right one.
 
-**Step 1: Measure the height.** Open your trunk, SUV hatch, or tailgate and measure straight up from the ground to the lip your dog needs to reach. Use inches.
+**Step 1: Measure the height.** Open your trunk, SUV hatch, or tailgate and measure straight up from the ground to the lip your dog needs to reach, in inches.
 
-**Step 2: Check your dog's weight.** Weigh your dog (hold them on a bathroom scale, then subtract your own weight) and compare it against each product's weight rating.
+**Step 2: Check your dog's weight.** Weigh your dog (hold them on a bathroom scale, then subtract your own weight) and compare it with each product's listed weight rating.
 
-**Step 3: Think about storage.** Telescoping stairs collapse down small; folding stairs fold flat. Either way, check that the folded size fits where you plan to store it (trunk floor, behind a seat, or garage shelf).
+**Step 3: Check storage.** Compare each set's folded or retracted size with the spot where you plan to keep it, such as the trunk floor or behind a seat.
 
-| Your trunk/tailgate height | What to look for |
-|---|---|
-| 23–26 in | Matches the Uross telescoping range directly |
-| Under 23 in or over 26 in | Check the listing for other stairs, since the Uross is built for this specific range |
-| Not sure / varies by load | A listed weight rating and non-slip surface matter more than exact height |
+**Listed size and weight rating**
 
-**Which stairs cover which need?**
-
-| Stairs | Steps | Listed weight limit | Listed size / fit details |
+| Product | Format | Listed weight rating | Listed size |
 |---|---|---|---|
-| Uross Telescoping Dog Stairs | 4 | Up to 200 lb | Adjusts for trunk heights of 23 to 26 inches; collapses to about 17 x 13 inches |
-| PetRuna Extra Wide 20-Inch Dog Stairs | 4 | Up to 250 lb | 20 inches wide; non-slip paw-print coating and rubber mat on the bottom |
-| Brulio Foldable 5-Step Dog Stairs | 5 | Up to 230 lb | Carbon steel frame; folds for storage in a trunk or behind seats |
-| Pawccoli Foldable Dog Ramp and Stairs | N/A (ramp/stairs combo) | Check the listing | 76.4 inches long and 17 inches wide, with a gradual incline |
+| Uross Telescoping Dog Stairs | 4 steps | Up to 200 lb (90.7 kg) | Fits trunk heights of 23 to 26 in (58.4 to 66.0 cm) |
+| PetRuna Extra Wide Dog Stairs | 4 steps | Up to 250 lb (113.4 kg) | 20 in wide (50.8 cm) |
+| Brulio Foldable 5-Step Dog Stairs | 5 steps | Up to 230 lb (104.3 kg) | Check the listing |
+| Pawccoli Dog Ramp (76 x 17 in) | Long ramp | Up to 175 lb (79.4 kg) | 76.4 x 17.3 in (194.1 x 43.9 cm) |
 
-**How to read it:** if your trunk or tailgate lip sits between 23 and 26 inches off the ground, the Uross telescoping stairs are built to adjust exactly to that range. If your vehicle sits outside that window, or you simply want the widest step surface, the PetRuna's 20-inch width and rubber-matted base or the Brulio's five-step carbon steel frame are worth a look, both of which fold for storage. For dogs who prefer a shallower, more gradual approach rather than distinct steps, the Pawccoli's long, gently inclined ramp-and-stairs design and anchor hook are the relevant details here. If a joint condition is a concern for your dog, check with your vet about which approach angle suits them. As always, confirm exact dimensions on the product page before ordering.
+**Storage and surface**
+
+| Product | Folded or retracted size | Surface and extras |
+|---|---|---|
+| Uross Telescoping Dog Stairs | About 17 x 13 in (43.2 x 33.0 cm) | Non-slip rubber bottom, metal fixing buckle |
+| PetRuna Extra Wide Dog Stairs | Listed at 13 lb | Non-slip paw-print coating, rubber mat, carabiner tether |
+| Brulio Foldable 5-Step Dog Stairs | Folds for a trunk or behind seats | Non-slip metal mesh steps, mat |
+| Pawccoli Dog Ramp | 33 x 17.3 x 2.4 in (83.8 x 43.9 x 6.1 cm) | Textured PVC surface, safety snap hook, foam pads |
+
+**How to read it:** compare your measured height with the listed range, and your dog's weight with the rating. The Uross is the one listed for 23 to 26 inch trunk heights, the PetRuna has the widest steps at 20 inches, the Brulio has the most steps at five, and the Pawccoli is a 76.4 inch ramp rather than steps. Confirm exact dimensions and weight ratings on the product page before ordering.
