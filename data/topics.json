@@ -2,6 +2,78 @@
   "_comment": "Topic backlog for the content-generation pipeline. Only 'ready' topics have real, manually-verified Amazon ASINs and imageUrls (checked on Amazon.com on 2026-09-07) and should be used by scripts/generate-post.mjs. 'needs-research' topics are placeholders — verify real products on Amazon before flipping them to 'ready'. Never invent an ASIN or imageUrl; a fabricated one links to/shows the wrong product.",
   "topics": [
     {
+      "id": "dog-steps-suv-truck-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Steps for SUVs and Trucks: Telescoping and Folding Stairs Sized by Trunk Height",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog steps for suv truck",
+      "heroImage": "https://images.pexels.com/photos/12642401/pexels-photo-12642401.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Do not repeat listing claims that stairs relieve joint pain, reduce pressure on legs, protect against injury or are joint-friendly. Say only that steps give a defined way up and down. Do not claim any step set is stable or safe in every vehicle; describe only listed height range, weight rating, step count, width, material and anchoring features.",
+      "products": [
+        {
+          "asin": "B0C73QQV3Z",
+          "name": "Uross Telescoping Dog Stairs for Car, 4 Steps (Fits 23 to 26 Inch Trunk Heights)",
+          "notes": "4 telescoping aluminum steps adjustable for trunk heights of 23 to 26 inches, collapsible to about 17 x 13 inches, aluminum alloy supports pets up to 200 lb, metal fixing buckle, for cars, SUVs, trucks and high beds",
+          "imageUrl": "https://m.media-amazon.com/images/I/81caBEIcLdL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BWXHSJB9",
+          "name": "PetRuna Extra Wide 20-Inch Dog Stairs for Large Dogs, 4 Steps",
+          "notes": "4 steps 20 inches wide, rust-resistant metal steps with load bars rated up to 250 lb, non-slip paw-print coating, slip-resistant rubber mat on the bottom, carabiner safety tether, lightweight and portable",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dsLS3WhRL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0GJ6WRP6Z",
+          "name": "Brulio Foldable 5-Step Dog Stairs for Cars, Trucks and SUVs",
+          "notes": "5 steps, carbon steel frame rated up to 230 lb, non-slip metal mesh steps, folds for storage in a trunk or behind seats, with mat",
+          "imageUrl": "https://m.media-amazon.com/images/I/612UHndW1rL._AC_SL1200_.jpg"
+        },
+        {
+          "asin": "B0HG1F2DQP",
+          "name": "Pawccoli 76 x 17 Inch Foldable Dog Ramp and Stairs for Large Dogs",
+          "notes": "76.4 inches long and 17 inches wide, gradual incline, textured PVC surface that wipes clean, safety snap hook to anchor to the vehicle, protective foam pads at contact points",
+          "imageUrl": "https://m.media-amazon.com/images/I/81L7eX9J-+L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "heated-dog-water-bowls-winter-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Heated Dog Water Bowls for Winter: Capacity and Cold-Weather Guide for Senior Dogs",
+      "category": "Feeding & Medication",
+      "targetKeyword": "heated dog water bowl for outside",
+      "heroImage": "https://images.pexels.com/photos/10793172/pexels-photo-10793172.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Do not promise that water will never freeze, do not claim any bowl is chew-proof, shock-proof or completely safe, and do not give amounts of water a dog should drink. Describe only listed capacity, wattage, thermostat behavior, temperature ratings and cord features. At most one calm sentence suggesting owners follow the manufacturer's instructions for outdoor use and cord placement.",
+      "products": [
+        {
+          "asin": "B0053H89SA",
+          "name": "Farm Innovators Electric Heated Pet Water Bowl, 25 Watts, 1 Quart (Green)",
+          "notes": "25 watts, 1 quart capacity, thermostatically controlled (turns on when needed and off when not)",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LC1HnEGTL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0002DHBQQ",
+          "name": "Farm Innovators 1.5 Gallon 60 Watt Heated Pet Water Bowl with Thermostat and Anti-Chew Cord",
+          "notes": "1.5 gallon capacity, 60 watts, thermostatically controlled heating, heavy-duty anti-chew cord protector, high-impact plastic, tested to temperatures as low as -20 F (-28 C), wipes clean",
+          "imageUrl": "https://m.media-amazon.com/images/I/61NSFI2h5AL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DFYRXZJ5",
+          "name": "3.2L Heated Water Bowl for Outdoor Pets (30 Watt, Thermostatic)",
+          "notes": "3.2 L (108 oz) capacity, built-in 30 watt heater, thermostatic control that stops heating at 131 F (55 C) and restarts when the water cools, listed for use down to -4 F (-20 C), BPA-free PP plastic, anti-chew cord, for indoor or sheltered outdoor use",
+          "imageUrl": "https://m.media-amazon.com/images/I/71drZjMiv0L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0H98V8BYG",
+          "name": "5.5L Extra Large Heated Water Bowl for Dogs and Cats (1.45 Gallon)",
+          "notes": "5.5 L (1.45 gallon) capacity, thermostatic heating that holds water at 77 to 95 F (25 to 35 C), dry-burn protection, 6.6 ft anti-chew power cord, listed for large dogs, multiple pets and outdoor winter use",
+          "imageUrl": "https://m.media-amazon.com/images/I/71mPIZuxE3L._AC_SL1254_.jpg"
+        }
+      ]
+    },
+    {
       "id": "dog-scales-weighing-senior-guide",
       "status": "ready",
       "structureType": "comparison",
