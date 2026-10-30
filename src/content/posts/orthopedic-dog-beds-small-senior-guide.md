@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/5420821/pexels-photo-5420821.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An orthopedic bed in the 23 to 24 inch range gives a small dog a foam bed sized for a compact frame, with a cover that is easy to wash. Here are four options with memory foam or egg-crate foam, waterproof liners and removable covers.
