@@ -3462,78 +3462,6 @@
       ]
     },
     {
-      "id": "dog-stairs-high-beds-senior-guide",
-      "status": "ready",
-      "structureType": "comparison",
-      "title": "Dog Stairs for High Beds: 24 to 30 Inch Foam Steps for Senior Dogs",
-      "category": "Mobility & Comfort",
-      "targetKeyword": "dog stairs for high beds",
-      "heroImage": "https://images.pexels.com/photos/3880818/pexels-photo-3880818.jpeg?cs=tinysrgb&w=1200",
-      "caution": "Don't claim stairs protect joints or prevent injury; cushioning and gentle-angle wording is manufacturer marketing. Stick to listed heights, widths, weight limits and covers. At most one calm line to measure the bed height before ordering.",
-      "products": [
-        {
-          "asin": "B0FL7J4BV5",
-          "name": "Miorun Extra Wide Dog Stairs for Large Dogs, 25-Inch Tall",
-          "notes": "Foam stairs measuring 34 in long x 19.7 in wide x 25 in high, 30D high-density foam listed for up to 80 lb, plush cover with a non-slip fabric base, removable machine-washable cover, ships vacuum-compressed, 640+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/81NBvQOi7ZL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0DFH257QX",
-          "name": "Miorun Dog Stairs for High Beds, 24.5-Inch, 5 Steps",
-          "notes": "5-step foam stairs 24.5 inches tall for higher beds and sofas, 30D high-density foam, slip-resistant bottom, removable machine-washable cover, 6 color options, 650+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/81XFxDi0mzL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0FSD19NLY",
-          "name": "YENING Large Dog Stairs for High Beds, 24 Inches Tall, Extra Wide",
-          "notes": "24 inch tall stairs with 4 deep steps, each step 20 in wide x 11 in deep, listed for up to 100 lb, anti-slip granule bottom, expands to full size when opened, removable washable cover, 80+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/714NB43KExL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0FS1NX16W",
-          "name": "L-Shaped 6-Step Dog Stairs for High Beds, 27 to 30 Inches",
-          "notes": "L-shaped 6-step foam stairs listed for 27 to 30 inch tall bed frames, 30D high-density foam, ships vacuum-sealed and needs time to expand, 95+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/71hleA+x2hL._AC_SL1500_.jpg"
-        }
-      ]
-    },
-    {
-      "id": "orthopedic-dog-beds-large-senior-guide",
-      "status": "ready",
-      "structureType": "comparison",
-      "title": "Orthopedic Beds for Large Senior Dogs: 35 to 41 Inch Memory Foam and Egg-Crate Picks",
-      "category": "Mobility & Comfort",
-      "targetKeyword": "orthopedic dog bed for large dogs",
-      "heroImage": "https://images.pexels.com/photos/5644265/pexels-photo-5644265.jpeg?cs=tinysrgb&w=1200",
-      "caution": "Don't claim a bed relieves pain, joint pain, hip dysplasia or stiffness, or provides joint or spine support as a health benefit; foam wording is manufacturer marketing. Stick to sizes, weight ranges, foam type, liners and covers. At most one calm line suggesting a vet for health questions.",
-      "products": [
-        {
-          "asin": "B09D2XLCNK",
-          "name": "EHEYCIGA Orthopedic Dog Bed Large with Removable Washable Cover, 41 Inch",
-          "notes": "3.5-inch high-density egg-crate foam, plush sherpa top with a non-skid bottom, zippered removable machine-washable cover (the foam is not washable), sold in sizes for medium, large and extra large dogs, 7,700+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/71EQGRaIv-L._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B06XSP3MKP",
-          "name": "Orthopedic Dog Bed, 2-Layer 36 x 27 Inch Memory Foam Pet Mattress with Sherpa Cover",
-          "notes": "36 x 27 x 4 inch bed listed for dogs between 40 and 65 lb, 2 inches of memory foam under a high-density foam top, machine-washable sherpa cover with a wraparound zipper, nonskid base, 9,800+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/71sSUXkBEmL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0CG9LCN8B",
-          "name": "KSIIA Orthopedic Dog Bed for Large Dogs with Waterproof Lining, 35 x 22 Inch",
-          "notes": "35 x 22 x 3 inch bed listed for dogs up to 50 lb, 3-inch high-density egg-crate foam, 3-layer waterproof cover with an L-shaped zipper, two-sided plush and Oxford fabric, 4,200+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/61OiYMuic4L._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0FY52TWMC",
-          "name": "OhGeni Orthopedic M-L Dog Bed, Reversible Memory Foam, 36 Inch",
-          "notes": "36 x 27 x 4 inch reversible bed with dual-layer memory foam and egg-crate foam, waterproof inner liner, machine-washable cover, CertiPUR-US certified foam, 730+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/713kDMjvLIL._AC_SL1500_.jpg"
-        }
-      ]
-    },
-    {
       "id": "dog-door-mats-muddy-paws-senior-guide",
       "status": "ready",
       "structureType": "comparison",
@@ -3566,42 +3494,6 @@
           "name": "MudGuard Mat Dog Door Muddy Mat, Super Absorbent Microfiber, 36 x 24 Inch",
           "notes": "36 x 24 x 1 inch microfiber mat with a non-slip TPE backing, machine washable on a cold gentle cycle, listed for entryways, bathrooms and kitchens, 1,500+ reviews",
           "imageUrl": "https://m.media-amazon.com/images/I/81dCgoVd5uL._AC_SL1080_.jpg"
-        }
-      ]
-    },
-    {
-      "id": "orthopedic-dog-beds-medium-senior-guide",
-      "status": "ready",
-      "structureType": "comparison",
-      "title": "Orthopedic Beds for Medium Senior Dogs: 28 to 30 Inch Foam Beds and Bolster Couches",
-      "category": "Mobility & Comfort",
-      "targetKeyword": "orthopedic dog bed for medium dogs",
-      "heroImage": "https://images.pexels.com/photos/12945473/pexels-photo-12945473.jpeg?cs=tinysrgb&w=1200",
-      "caution": "Don't claim a bed relieves pain, pressure or joint problems, or provides joint or spine support as a health benefit; foam wording is manufacturer marketing. Stick to sizes, thickness, foam type, liners and covers. At most one calm line suggesting a vet for health questions.",
-      "products": [
-        {
-          "asin": "B0BKZH4H6T",
-          "name": "EHEYCIGA Orthopedic Dog Bed Medium with Removable Washable Cover, 30 x 20 Inch",
-          "notes": "30 x 20 x 3.5 inch flat bed with 3.5-inch high-density egg-crate foam, plush sherpa top and non-skid bottom, zippered removable machine-washable cover (the foam is not washable), 7,700+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fZhzt0ojL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0BDM7Z2P8",
-          "name": "EHEYCIGA Orthopedic Dog Bed for Medium Dogs, Waterproof Washable Sofa-Style Bed",
-          "notes": "30 x 20 x 6 inch sofa-style bed with memory foam and egg-crate foam, 3-sided bolster, waterproof film under a fleece surface (the faux linen sides are not waterproof), removable machine-washable cover, 23,000+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/71CcfYhiWAL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0FY55Y8ZF",
-          "name": "OhGeni Orthopedic Medium Dog Bed, Reversible Memory Foam, 30 Inch",
-          "notes": "30 x 20 x 3 inch reversible bed with dual-layer memory foam and egg-crate foam, waterproof inner liner, machine-washable cover, CertiPUR-US certified foam, 740+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Hc9aoyujL._AC_SL1500_.jpg"
-        },
-        {
-          "asin": "B0DHVFWSRW",
-          "name": "Spotted Play Orthopedic Dog Sofa Bed with Sides for Medium Dogs",
-          "notes": "28 x 23 x 6.5 inch bed with a 4-sided bolster, high-density egg-crate foam, waterproof liner, zippered machine-washable flannel cover (the foam insert is not washable), 2,000+ reviews",
-          "imageUrl": "https://m.media-amazon.com/images/I/81TFCzUnhoL._AC_SL1500_.jpg"
         }
       ]
     },
