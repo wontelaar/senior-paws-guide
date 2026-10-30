@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/19736117/pexels-photo-19736117.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A raised bowl stand lifts food and water off the floor. The four stands here range from a 5.5 inch feeding height to a 16 inch one, and they differ in bowls, mats and mess control. The right one depends on your dog's size, the height you want to try, and how much mess control you want built in.
