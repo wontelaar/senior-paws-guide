@@ -3604,6 +3604,150 @@
           "imageUrl": "https://m.media-amazon.com/images/I/81G5adcEX9L._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-handheld-pet-vacuums-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Handheld Pet Hair Vacuums: Cordless Cleanup for Couches, Beds and Stairs",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "handheld pet hair vacuum",
+      "heroImage": "https://images.pexels.com/photos/27176670/pexels-photo-27176670.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a vacuum improves air quality, removes allergens or is safe for the dog; suction, filtration and runtime wording is manufacturer marketing, so state it as listed. Stick to tools, bin type, battery and weight. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07CB6RBSP",
+          "name": "Bissell Pet Hair Eraser Cordless Hand Vacuum, 2390A",
+          "notes": "Cordless hand vacuum with a 14V lithium-ion battery, motorized brush tool, upholstery tool and crevice tool included, easy-empty dirt bin, triple-level filtration, 38,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61a8E6BPJxL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C7YS4MW4",
+          "name": "Shark Cyclone PET Handheld Vacuum, CH701",
+          "notes": "Cordless handheld vacuum weighing 1.6 lb, USB charging, XL bagless dust cup with one-touch emptying, removable washable filter, listed for pet hair on couches, stairs, mattresses and carpet, 4,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ET2Ba8-rL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07R89PJY6",
+          "name": "BLACK+DECKER dustbuster furbuster Pet Hair Vacuum with Motorized Pet Hair Brush",
+          "notes": "Cordless handheld vacuum with a 20V MAX lithium-ion battery, POWERBOOST mode, anti-tangle motorized pet brush with rubber bristles, extendable crevice tool, one-touch easy-empty dust bowl, 13,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61gYidrdvVL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FB3D4YW3",
+          "name": "Pet Hair Handheld Vacuum Cordless, 20000PA Rechargeable",
+          "notes": "Cordless handheld vacuum with an automatic roller brush, listed at 18 to 32 minutes of runtime, Type-C charging in about 2.5 hours, washable HEPA filter, LED light, 1,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71z-baIJm0L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-hands-free-leashes-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Hands-Free Dog Leashes: Waist Belt and Bungee Leashes for Relaxed Walks",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "hands free dog leash",
+      "heroImage": "https://images.pexels.com/photos/12016148/pexels-photo-12016148.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a leash prevents pulling, injuries or falls, or gives control of a dog; shock-absorber, traffic-handle and weight-range wording is manufacturer marketing, so state it as listed. Stick to lengths, weight ranges, handles, pouches and reflective stitching. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07R56CBWX",
+          "name": "Hands Free Dog Leash with Zipper Pouch, Large, 25-120 lbs",
+          "notes": "68 inch leash listed for dogs 25 to 120 lb, double shock absorbers, removable zipper pouch, built-in waist handle and traffic handle, waist belt adjustable from 27 to 48 inches, 21,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81J3PqjxomL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07MYRLH57",
+          "name": "Hands Free Dog Leash with Zipper Pouch for Medium and Large Dogs",
+          "notes": "51 inch bungee leash listed for dogs 25 to 130 lb, dual padded neoprene handles, adjustable 1.1-inch waist belt with 2 rings, anti-tear nylon, two-pocket pouch, 7,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71OW-p919bL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09Z7FRN8L",
+          "name": "Tuff Pupper Hands Free Bungee Dog Leash, Waist Belt for Running and Walking",
+          "notes": "43.31 inch bungee leash for one medium or large dog, thick padded waist belt with dual attachments, 2 padded handles, 3M reflective stitching along the leash, 1,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Cu5UGqCnL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08L6Y4HWG",
+          "name": "Retractable Hands Free Dog Leash, Medium/Large, 25-150 lbs",
+          "notes": "Dual-bungee leash listed for dogs 25 to 150 lb, double shock absorbers, reflective stitching on the leash and belt, built-in waist handle and a second handle near the collar, 1,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/8182oXS6h8L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-padded-collars-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Soft Padded Dog Collars: Neoprene and Mesh Collars with Reflective Stitching",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "soft padded dog collar",
+      "heroImage": "https://images.pexels.com/photos/16254917/pexels-photo-16254917.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a collar prevents chafing, hair loss, irritation or neck problems, or that padding protects skin; padding and comfort wording is manufacturer marketing, so state it as listed. Stick to materials, size charts, reflective stitching and buckles. Skip health talk.",
+      "products": [
+        {
+          "asin": "B088BLS41Z",
+          "name": "Joytale Reflective Dog Collar, Adjustable Neoprene Padded",
+          "notes": "Neoprene-padded nylon collar with a metal D-ring, reflective threads, quick-release snap buckle, adjustable, 63,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/8159fYHzpWL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B06XFLY9MT",
+          "name": "Black Rhino The Comfort Collar Ultra Soft Neoprene Padded Dog Collar",
+          "notes": "Neoprene collar with reflective stitching in sizes Small 11-15 in, Medium 15-19 in, Large 19-23 in and XL 23-27 in, quick-dry, weather-resistant, 23,500+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81T--OuBsZL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09SL1HW8D",
+          "name": "Joytale Reflective Dog Collar for Large Dogs with Wide Padding",
+          "notes": "Wide neoprene-padded collar with double-layer webbing, reflective stitching, metal pin buckle, D-ring and tag loop, sizes S 12-15.5 in, M 15-19.5 in, L 19-23 in and XL 23-27 in, 7,200+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FBLiYoFTL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B01E71XKWC",
+          "name": "Creation Core 3M Reflective Mesh Padded Dog Collar",
+          "notes": "Nylon collar with wide soft mesh padding, 3M reflective material, fully adjustable, zinc-alloy leash ring, 2,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/614qrgycXsL._AC_SL1001_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-plush-squeaky-toys-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Soft Plush Dog Toys: Squeaky Companions for Gentle Play and Cuddling",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "soft plush dog toys",
+      "heroImage": "https://images.pexels.com/photos/19449515/pexels-photo-19449515.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a toy calms anxiety, soothes a dog, is safe for chewing or reduces stress, and don't repeat the listings' comfort or senior wording. Stick to size, shape, squeakers and materials as listed; plush toys are for gentle play and supervision is a normal line. Skip health talk.",
+      "products": [
+        {
+          "asin": "B0DKNL8SBL",
+          "name": "Best Pet Supplies Bunny Buddy Squeaky Plush Dog Toy, Small",
+          "notes": "Plush rabbit with a squeaker listed for small dogs, 5.91 x 3.35 x 8.86 inches, also sold with crinkle sound options, 56,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61YbyXb1SiL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B003XVYKVI",
+          "name": "Multipet Lamb Chop Dog Plush Toy, 10 Inch, 5 Squeakers",
+          "notes": "10 inch extra-soft plush lamb with 5 squeakers, listed for small and medium dogs, 82,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71dHQoi+DCL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B000E1U7OO",
+          "name": "Multipet Original Loofa Dog Plush Toy, Squeaky",
+          "notes": "6 inch plush squeaky toy listed for small to medium dogs, ships in one of several assorted colors, 37,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71GXn5CM4cL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B000E1S8NG",
+          "name": "SPOT 9 Inch Vermont Style Fleece Bone Dog Toy",
+          "notes": "9 inch fleece bone with a built-in squeaker, no plastic eyes or buttons, listed for medium dogs and light chewers, 3,300+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pOYUxpP7L._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
