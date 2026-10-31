@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/12642401/pexels-photo-12642401.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Dog steps give your dog a defined way up into a car, SUV or truck. The right set depends mostly on your trunk or bed height, your dog's weight, and how much space you have to store it.
