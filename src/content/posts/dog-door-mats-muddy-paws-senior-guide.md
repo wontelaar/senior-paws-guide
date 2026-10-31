@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/16664940/pexels-photo-16664940.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dedicated absorbent door mat gives wet paws a soft, textured surface to land on right at the door. The four mats below are all sized for entryway use and built around microfiber or chenille surfaces, from 20 to 36 inches, so you can find the right fit for your space.
