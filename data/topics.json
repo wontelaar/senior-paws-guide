@@ -3748,6 +3748,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71pOYUxpP7L._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-airtag-collar-holders-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "AirTag Dog Collar Holders: Waterproof Silicone and Screw-Through Cases for Any Collar",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "airtag dog collar holder",
+      "heroImage": "https://images.pexels.com/photos/35511914/pexels-photo-35511914.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a holder or tracker finds a lost dog, keeps a dog safe or guarantees recovery; waterproof, IP rating and signal wording is manufacturer marketing, so state it as listed. An AirTag is sold separately. Stick to materials, how each attaches, ratings and cleaning. Skip health talk.",
+      "products": [
+        {
+          "asin": "B0CHHZW2VK",
+          "name": "GOCII AirTag Dog Collar Holder 2 Pack, Waterproof Silicone",
+          "notes": "Two-piece silicone holder for Apple AirTag 1st and 2nd generation, weighs 8.3 g, double protective case, rinses clean with water, 2-pack, 3,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ITjeP6rUL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CTT9WF4X",
+          "name": "Waterproof AirTag Holder for Dog Collar, Soft Slide-On",
+          "notes": "Soft slide-on silicone holder with a fully enclosed, seamless design listed as waterproof and shockproof, AirTag not included, 180-day warranty, 2,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61TeqGPNaEL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09DR2QNQ5",
+          "name": "AirTag Dog Collar Holder, Waterproof, Elevation Lab",
+          "notes": "Through-collar mount listed as IP69 waterproof, self-piercing screws go through collars up to 0.20 inch thick, fits any collar width or harness, composite body with nylon backplate, lifetime guarantee, 5,600+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71V7Ky5ogLL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CLCVGQ2B",
+          "name": "AirTag Dog Collar Holder with Removable Metal Loop",
+          "notes": "Hard TPU full-body case with a removable metal loop and 4 screws, listed IP68 waterproof, silicone sealing, includes a key ring, AirTag not included, 3,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/711taQ7rS+L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-no-pull-harnesses-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "No-Pull Dog Harnesses: Front-Clip Harnesses with Handles and Reflective Trim",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "no pull dog harness",
+      "heroImage": "https://images.pexels.com/photos/39617676/pexels-photo-39617676.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a harness stops pulling, prevents choking, protects the neck or joints, or controls a dog, and don't repeat the listings' training or veterinarian wording; state clips, handles, buckles and reflective trim as listed. Stick to size charts, materials and attachment points. Skip health talk.",
+      "products": [
+        {
+          "asin": "B01M8JT6FT",
+          "name": "rabbitgoo No Pull Dog Harness for Large Dogs with 2 Leash Clips",
+          "notes": "Vest harness with front and back metal leash clips, top handle, breathable mesh, reflective strips, 2 quick-release buckles, 4 adjustable straps, Large listed for chest 17 to 33.4 inches, 185,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71k8WuKoB0L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B089CK15GM",
+          "name": "PoyPet No Pull Dog Harness, Reflective Vest with Front Clip and Handle",
+          "notes": "Oxford and breathable mesh vest with front and back metal D-rings, padded handle, reflective stitching, quick-release buckles, 4 adjustable straps, 24,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VjV-UxSOL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B007S9JOLC",
+          "name": "PetSafe Easy Walk Harness, No Pull Dog Harness",
+          "notes": "Lightweight nylon harness with a front leash attachment and martingale loop, rests across the chest, quick-snap shoulder straps and a different color belly strap, less coverage than vest harnesses, 48,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/715Aii5D9wL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BTGZ6Q1J",
+          "name": "Annchwool No Pull Dog Harness with Soft Padded Handle and Front Clip",
+          "notes": "Nylon harness with soft padded handle, front clip, O-ring and D-ring, reflective stitching, 5 sizes (XS 1 inch wide, S to XL 1.5 inches wide), velcro patch area with 2 patches, 6,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YXqq92+wL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
