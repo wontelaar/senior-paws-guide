@@ -12,7 +12,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/10793172/pexels-photo-10793172.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A heated water bowl keeps an outdoor or sheltered water dish from freezing in cold weather. The four bowls here range from 1 quart to 5.5 liters, so you can match the capacity and cold rating to your dog and your setup.
