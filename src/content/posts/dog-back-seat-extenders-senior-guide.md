@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/28844399/pexels-photo-28844399.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A hard-bottom back seat extender turns the back seat into one flat platform from door to door and covers the upholstery underneath. The four options below cover different seat lengths and finishes, so measuring your back seat first makes it easy to land on the right fit.
