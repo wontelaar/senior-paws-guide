@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/27176670/pexels-photo-27176670.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Pet hair collects on couches, beds and stairs, where a full-size vacuum can be an awkward tool. A cordless handheld vacuum lets you do a quick pass on furniture and stairs without dragging out the big machine. Here are four cordless options built with pet hair pickup in mind.
