@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/12016148/pexels-photo-12016148.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A hands-free dog leash lets you keep both arms free while your dog stays connected at your waist. The options below cover a range of bungee styles, waist belts and handle setups so you can find the one that matches your dog's size and your walking routine.
