@@ -1,32 +1,29 @@
-## What Size Dog Does Each Leash Fit?
+## Which Hands-Free Leash Fits Your Dog and Your Belt?
 
-The first thing to check with a hands-free leash is whether your dog's weight falls inside the leash's listed range, and whether the waist belt will actually go around you. Here's a two-minute way to check both.
+Hands-free leashes differ in length, listed dog weight range and belt design, so two quick measurements point you to the right one.
 
-**Step 1: Weigh your dog.** Step on a scale holding your dog, then step on alone and subtract. Round to the nearest pound.
+**Step 1: Weigh your dog.** Step on a scale holding your dog, then step on alone and subtract, and compare the number with each leash's listed weight range.
 
-**Step 2: Measure your waist.** Wrap a tape measure where the belt will sit (most people wear these around the hips or lower waist). Note the number in inches.
+**Step 2: Measure your waist.** Wrap a tape measure where the belt will sit and compare it with the listed belt range.
 
-**Step 3: Compare both numbers to the tables below.**
+**Step 3: Compare handles and storage.** Check how many handles each leash lists and whether it has a pouch.
 
-| Your dog's weight | Leashes listed to fit |
-|---|---|
-| Under 25 lb | Check the listing — none of these list a range starting below 25 lb |
-| 25–120 lb | Hands Free Dog Leash with Zipper Pouch, Large; Hands Free Dog Leash with Zipper Pouch for Medium and Large Dogs; Retractable Hands Free Dog Leash, Medium/Large |
-| 121–130 lb | Hands Free Dog Leash with Zipper Pouch for Medium and Large Dogs; Retractable Hands Free Dog Leash, Medium/Large |
-| 131–150 lb | Retractable Hands Free Dog Leash, Medium/Large |
+**Listed dog weight and leash length**
 
-| Your waist | Fits |
-|---|---|
-| 27–48 in | Hands Free Dog Leash with Zipper Pouch, Large (adjustable 27 to 48 in) |
-| Other leashes | Check the listing for exact belt range |
-
-**Which leash covers what:**
-
-| Leash | Dog weight listed | Leash length | Waist belt |
+| Leash | Listed dog weight | Leash length (in) | In centimeters |
 |---|---|---|---|
-| Hands Free Dog Leash with Zipper Pouch, Large | 25–120 lb | 68 in | 27–48 in adjustable |
-| Hands Free Dog Leash with Zipper Pouch for Medium and Large Dogs | 25–130 lb | 51 in | Adjustable, 1.1 in wide, 2 rings |
-| Tuff Pupper Hands Free Bungee Dog Leash | One medium or large dog | 43.31 in | Thick padded, dual attachments |
-| Retractable Hands Free Dog Leash, Medium/Large | 25–150 lb | Dual-bungee | Built-in waist handle |
+| Hands Free Dog Leash with Zipper Pouch, Large | 25 to 120 lb (11.3 to 54.4 kg) | 68 | 172.7 cm |
+| Hands Free Dog Leash for Medium and Large Dogs | 25 to 130 lb (11.3 to 59.0 kg) | 51 | 129.5 cm |
+| Tuff Pupper Hands Free Bungee Dog Leash | One medium or large dog | 43.31 | 110.0 cm |
+| Retractable Hands Free Dog Leash, Medium/Large | 25 to 150 lb (11.3 to 68.0 kg) | Check the listing | Check the listing |
 
-**How to read it:** if your dog weighs up to 120 lb and you want a belt with a confirmed inch range, the Hands Free Dog Leash with Zipper Pouch, Large lists both the 25–120 lb dog range and a 27–48 inch belt. If your dog is on the heavier end, up to 130 or even 150 lb, the Hands Free Dog Leash with Zipper Pouch for Medium and Large Dogs or the Retractable Hands Free Dog Leash both list higher weight ceilings. The Tuff Pupper is listed for one medium or large dog without a specific weight range, so it's worth confirming your dog's size against the product page before ordering. Across all four, double shock absorbers, padded handles, or reflective stitching are listed as ways to add comfort or visibility on a walk — pick based on which weight range and belt style match what you measured.
+**Listed belt, handles and extras**
+
+| Leash | Waist belt | Handles | Extras |
+|---|---|---|---|
+| Hands Free Dog Leash with Zipper Pouch, Large | Adjustable 27 to 48 in (68.6 to 121.9 cm) | Waist handle and traffic handle | Removable zipper pouch, double shock absorbers |
+| Hands Free Dog Leash for Medium and Large Dogs | Adjustable, 1.1 in (2.8 cm) wide, 2 rings | 2 padded neoprene handles | Two-pocket pouch, anti-tear nylon |
+| Tuff Pupper Hands Free Bungee Dog Leash | Thick padded, dual attachments | 2 padded handles | 3M reflective stitching along the leash |
+| Retractable Hands Free Dog Leash, Medium/Large | Check the listing | Waist handle and a second handle near the collar | Double shock absorbers, reflective stitching on leash and belt |
+
+**How to read it:** compare your dog's weight with the first table and your waist with the second. The 68 inch leash is the longest and lists the only belt range in inches, the Retractable lists the highest weight at 150 lb, and the Tuff Pupper is listed for one medium or large dog. Confirm exact weight ranges and belt sizes on the product page before ordering.
