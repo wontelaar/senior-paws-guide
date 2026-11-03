@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/16254917/pexels-photo-16254917.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A padded collar swaps stiff nylon or leather for cushioned neoprene or mesh, and reflective stitching adds visibility for early morning or evening walks. This guide compares four padded collars to help you find the right fit for your dog's size and routine.
