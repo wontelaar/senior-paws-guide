@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/35511914/pexels-photo-35511914.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An AirTag holder is a lightweight way to attach an AirTag to a collar your dog already wears. The four options below cover the main approaches: slide-on silicone pouches, a through-collar screw mount, and a hard-shell case with a metal loop, so you can match the holder to your dog's collar and your preference for attachment style.
