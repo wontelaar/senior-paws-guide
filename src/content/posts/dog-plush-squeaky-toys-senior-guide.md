@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/19449515/pexels-photo-19449515.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A soft plush toy with a gentle squeak gives your dog something to carry, shake and cuddle. The right pick comes down to size, softness, and the kind of squeak or crinkle that keeps your dog interested.
