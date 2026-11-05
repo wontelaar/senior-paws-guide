@@ -15,7 +15,7 @@ A tag silencer only works if it actually fits around your pet's ID tags, so the 
 | 1 tag, standard shape | A single-tag wrap-style silencer |
 | 1 tag, irregular edge | Check the listing before buying a wrap-style silencer |
 | 2 to 4 tags | A connector or clip rated for multiple tags |
-| 4+ tags | A silencer specifically listed for up to 4 tags |
+| 4 or 5 tags | Check the listing; the Clear Two Pack is listed for 2 to 5 tags |
 
 **Which silencer covers which setup?**
 
