@@ -3964,6 +3964,150 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71gtg81FM3L._AC_SL1440_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-retractable-leashes-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Retractable Dog Leashes: 16 ft to 30 ft Tape Leashes by Dog Weight",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "retractable dog leash",
+      "heroImage": "https://images.pexels.com/photos/11512077/pexels-photo-11512077.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a leash prevents pulling, injuries or tangles beyond the listing wording, and don't repeat bestseller or sales-ranking claims; state tape length, listed dog weight, handle and lock as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B076F7HM8T",
+          "name": "TUG Original Retractable Dog Leash, 16 ft, Medium",
+          "notes": "16 ft nylon tape leash with a 360-degree tangle-free inlet, quick thumb lock and unlock, ergonomic anti-slip handle, Medium size listed for dogs under 55 lbs, 15.52 oz",
+          "imageUrl": "https://m.media-amazon.com/images/I/819AR4awlfL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07M98NH5L",
+          "name": "Fida Retractable Dog Leash, 16 ft, for Small Dogs up to 26 lbs",
+          "notes": "16 ft nylon tape with reflective material, rustproof swivel hook, ABS body, ergonomic anti-slip soft handle, 360-degree tangle-free, listed for small dogs up to 26 lbs, 8.82 oz",
+          "imageUrl": "https://m.media-amazon.com/images/I/61hCdJf89wL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09GS1HX8Y",
+          "name": "26 ft Retractable Dog Leash, Heavy Duty, for Dogs up to 110 lbs",
+          "notes": "26 ft nylon tape with a 360-degree tangle-free design, ergonomic anti-slip rubberized handle, push button to lock, listed for medium and large dogs up to 110 lbs, 1.04 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/61R-uNDrUUL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DHK2JW6K",
+          "name": "Fida Upgraded Retractable Dog Leash, 30 ft, Heavy Duty",
+          "notes": "30 ft nylon cord with a 360-degree tangle-free design, soft grip handle, one-hand brake, nylon, rubber and stainless steel materials, listed for medium and large dogs up to 110 lbs, 1.26 lb package",
+          "imageUrl": "https://m.media-amazon.com/images/I/71O7DK-UZaL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-collapsible-travel-bowls-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Collapsible Dog Bowls for Travel: Foldable Silicone and TPE 2-Packs",
+      "category": "Feeding & Medication",
+      "targetKeyword": "collapsible dog bowl",
+      "heroImage": "https://images.pexels.com/photos/38538699/pexels-photo-38538699.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a bowl is leak-proof, indestructible or safe for every dog beyond the listing wording; state material, size, capacity and the carabiner or clip as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07VT1468W",
+          "name": "SLSON Collapsible Dog Bowls, 2 Pack",
+          "notes": "Plastic collapsible bowls listed for camping, car, crate and hiking, 3.5 x 2.1 x 5.1 inches and 3.53 oz as listed",
+          "imageUrl": "https://m.media-amazon.com/images/I/518kVNOT7gL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B08YYX1QLB",
+          "name": "Rest-Eazzzy Collapsible Dog Bowls, 2 Pack",
+          "notes": "Firm TPE material listed as easy to wipe clean and dishwasher friendly, expands to different heights, folds flat, listed for small to medium dogs and cats, 5.1 x 5.1 x 2.1 inches",
+          "imageUrl": "https://m.media-amazon.com/images/I/61N6NjgnaXS._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C1RH2K82",
+          "name": "PetBonus 2-Pack Silicone Collapsible Dog Bowls",
+          "notes": "Food-grade BPA-free silicone listed as dishwasher safe, collapses flat, clips onto a backpack, belt loop or leash with the included metal clip",
+          "imageUrl": "https://m.media-amazon.com/images/I/51sV4b4kKpL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08925JCB9",
+          "name": "Large Collapsible Dog Bowls, 2 Pack, 34 oz",
+          "notes": "34 oz foldable travel bowls made of TPE material in a 2-pack",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+jyKO5kzL._AC_SL1200_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-crate-covers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Crate Covers: 36 and 42 Inch Covers for Wire Crates",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog crate cover",
+      "heroImage": "https://images.pexels.com/photos/27372364/pexels-photo-27372364.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a cover calms a dog, blocks all light or is fully ventilated beyond the listing wording, and don't repeat vet or trainer recommendations from listings; state crate size, materials, doors and windows as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07KQVYWYX",
+          "name": "Explore Land Dog Crate Cover, 42 inches, Black",
+          "notes": "42 x 28 x 30 inch cover listed for most 42-inch wire crates, oxford cloth, top zipper, two entrance doors, mesh window with a flap, 3.17 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JS5WuW8BL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C3WSDGPY",
+          "name": "GORILLA GRIP Dog Crate Cover, 42 inch",
+          "notes": "42 x 28 x 30 inch polyester cover with hook and loop fasteners around the sides and windows, OEKO-TEX certified fabric as listed, 2.31 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IgTHCjiWL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0C39Q1H5V",
+          "name": "Friends Forever Metal Dog Crate Cover, 36 inch",
+          "notes": "36.75 x 23.75 x 25 inch cover for 36-inch metal crates, roller shades to adjust visibility and ventilation, large opening for front and side doors, washable, 1.79 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/81KLOHNxDdL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0DPQ4PFD6",
+          "name": "Amazon Basics Dog Crate Cover for 36 inch Wire Crate",
+          "notes": "36 x 23 x 26 inch fabric cover for a 36-inch wire crate, multiple zippered panels, slides into place and can be removed for cleaning, 2.3 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ym04cOKAL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-fetch-balls-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Fetch Balls: Rubber and Tennis Balls in X-Small to Medium Sizes",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog fetch balls",
+      "heroImage": "https://images.pexels.com/photos/31841796/pexels-photo-31841796.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a ball is indestructible, safe for every dog or good for joints, and don't repeat bounce-height or durability claims beyond the listing wording; state ball size, count, material and launcher compatibility as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B000F4AVPA",
+          "name": "Chuckit! Ultra Rubber Dog Ball, Medium 2.5 in, 2-Pack",
+          "notes": "2.5 inch rubber balls that float, compatible with medium Chuckit! launchers, 6.38 oz for the pack",
+          "imageUrl": "https://m.media-amazon.com/images/I/714HUsBpO+L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B086H4FKD9",
+          "name": "Chuckit! Ultra and Rugged Dog Balls, Medium, Set of 3",
+          "notes": "Set of 3 medium rubber balls listed as compatible with Chuckit! ball launchers, 8.96 oz",
+          "imageUrl": "https://m.media-amazon.com/images/I/81hwG8pXWsL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B087RBH8XH",
+          "name": "Outward Hound Squeaker Ballz Tennis Ball Dog Toy, X-Small, 8-Pack",
+          "notes": "Eight 1.5 inch squeaky tennis balls made of rubber and tennis felt, listed for dogs under 15 lbs, bright colors",
+          "imageUrl": "https://m.media-amazon.com/images/I/81mNSaKPJ0L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08D5ZZN6C",
+          "name": "AMA SPORT Dog Tennis Balls for Medium Dogs with Mesh Bag",
+          "notes": "Bright orange regular-size tennis balls of natural rubber and needle felt, listed as fitting regular ball launchers, comes with a reusable mesh carry bag",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Ug-VmIYtL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
