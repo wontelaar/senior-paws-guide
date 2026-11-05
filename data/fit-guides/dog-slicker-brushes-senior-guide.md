@@ -1,26 +1,29 @@
-## Which Brush Head Fits Your Dog's Size?
+## Which Slicker Brush Size and Handle Fits You?
 
-Slicker brush heads come in different footprints, and matching the head to your dog's size makes grooming sessions easier to manage. Here's a quick way to check which brush suits your dog.
+Slicker brushes differ in listed size, weight and handle, so a quick comparison points you to the right one.
 
-**Step 1: Measure your dog's side.** Run a tape measure from the base of the neck to the start of the tail, following the body. This tells you roughly how much surface area you're brushing in each stroke.
+**Step 1: Decide who you are brushing.** The first brush is listed for dogs, cats and bunnies, two list dogs and cats, and the Coastal Pet is made for dogs.
 
-**Step 2: Check your dog's coat length.** Run your fingers through the coat to feel whether it's short and close to the skin or long and layered, since some brushes are listed for both.
+**Step 2: Compare size and weight.** Use the table below, which shows each brush's listed size and weight in inches, ounces and metric.
 
-**Step 3: Compare head size to coverage.** A larger brush head clears more coat per stroke, while a smaller, lighter head is easier to angle around the legs, face, and tail. Here's how the listed head sizes compare by approximate surface area:
+**Step 3: Compare handles.** Check the handle material and grip each listing describes.
 
-| Brush head size (W x H) | Approx. area per stroke |
-|---|---|
-| 1.97 x 1.97 in | 3.9 sq in |
-| 3.7 x 2 in | 7.4 sq in |
-| 4.25 x 4.06 in | 17.3 sq in |
+**Listed size and weight**
 
-**Which brush covers what?**
-
-| Brush | Listed head/size | Coat type listed | Good fit for |
+| Brush | Listed product size (in) | In centimeters | Weight |
 |---|---|---|---|
-| Self Cleaning Slicker Brush (dogs, cats, bunnies) | 5.91 x 1.97 x 1.97 in, 3.53 oz | Long or short coats | Smaller dogs, cats, and bunnies, or anyone wanting a light, compact brush |
-| Swihauk Self Cleaning Slicker Brush | 16.14 x 9.45 x 0.79 in, 8.82 oz | Check the listing | Larger dogs, thanks to its longer overall size and soft round-head bristles |
-| Pecute Self-Cleaning Slicker Brush | 6.7 x 3.7 x 2 in, 3.1 oz | Check the listing | Small to medium dogs and cats, with a lightweight ABS/TPR handle |
-| Coastal Pet Safari Dog Self-Cleaning Slicker Brush, Medium | 4.25 x 4.06 in head | Check the listing | Medium-sized dogs, with a head sized specifically for that range |
+| Self Cleaning Slicker Brush (dogs, cats, bunnies) | 5.91 x 1.97 x 1.97 | 15.0 x 5.0 x 5.0 cm | 3.53 oz (100 g) |
+| Swihauk Self Cleaning Slicker Brush | 16.14 x 9.45 x 0.79 | 41.0 x 24.0 x 2.0 cm | 8.82 oz (250 g) |
+| Pecute Self-Cleaning Slicker Brush | 6.7 x 3.7 x 2 | 17.0 x 9.4 x 5.1 cm | 3.1 oz (88 g) |
+| Coastal Pet Safari, Medium | 4.25 x 4.06 head; 2 x 5.5 x 10.5 overall | 10.8 x 10.3 cm head | 4 oz (113 g) |
 
-**How to read it:** if your dog is small or you're also brushing a cat or bunny, the Self Cleaning Slicker Brush's compact 1.97 x 1.97 in head and light 3.53 oz weight are easy to maneuver. For medium-sized dogs, the Coastal Pet Safari Medium is sized with a 4.25 x 4.06 in head specifically for that range. The Pecute sits in between, with a 6.7 x 3.7 x 2 in footprint that suits small to medium dogs who do well with a lightweight brush. If you have a larger dog or simply want a bigger brush to cover more coat per stroke, the Swihauk's 16.14 x 9.45 x 0.79 in size stands out among these options. All of these use a button-release mechanism to clear collected hair from the pins, so the choice mainly comes down to matching the head size and handle to your dog's build; confirm exact dimensions on the product page before ordering.
+**Handles, pins and pets**
+
+| Brush | Handle | Pins | Listed for |
+|---|---|---|---|
+| Self Cleaning Slicker Brush | Comfort-grip, nonslip | Stainless steel, one-click release button | Dogs, cats and bunnies; long or short coats |
+| Swihauk Self Cleaning Slicker Brush | Lightweight TPR | Stainless steel with soft round-head bristles, press-button cleaning | Dogs and cats |
+| Pecute Self-Cleaning Slicker Brush | ABS and TPR with a non-slip coating | Stainless steel with rounded tips, instant hair-ejection button | Dogs and cats |
+| Coastal Pet Safari, Medium | Comfort-grip | Retractable stainless steel pins, push button | Dogs |
+
+**How to read it:** match who you are brushing to the last table, then compare size and weight. The Pecute is the lightest at 3.1 oz, the Swihauk lists the largest size and weight, and the Coastal Pet is the one with a listed head size of 4.25 x 4.06 inches. Confirm exact dimensions on the product page before ordering.
