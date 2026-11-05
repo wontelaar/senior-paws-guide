@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/33739787/pexels-photo-33739787.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A poop bag holder keeps bags within easy reach and attached to your leash or bag. These four options cover a range of attachment styles and materials to fit different leashes and routines.
