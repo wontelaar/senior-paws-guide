@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/39617676/pexels-photo-39617676.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A front-clip harness gives you a leash attachment on your dog's chest, and many add a top handle and reflective trim for early morning or evening walks. This guide compares four options, from vest styles to a lightweight martingale harness, so you can match the fit and features to your dog.
