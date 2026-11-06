@@ -12,7 +12,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/8498543/pexels-photo-8498543.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A self-cleaning slicker brush has a button that retracts the pins and releases collected hair, so you don't have to pick it off by hand. Here are four release-button slicker brushes, compared by size, weight and handle.
