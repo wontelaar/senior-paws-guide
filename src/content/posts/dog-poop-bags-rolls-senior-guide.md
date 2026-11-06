@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/33295047/pexels-photo-33295047.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dependable, easy-to-tear poop bag makes cleanup simple, and a dispenser clipped to the leash keeps bags within reach. This guide compares four options by count, size and included extras so you can match the right roll to your routine.
