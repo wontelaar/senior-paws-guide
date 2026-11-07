@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/11512077/pexels-photo-11512077.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A retractable leash lets you extend or shorten your dog's range with a lock, without swapping gear. This guide compares four options from 16 ft to 30 ft, so you can match the tape length, weight limit and handle to your dog and your walks.
