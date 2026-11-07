@@ -4288,6 +4288,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/816WUEOJ2jL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-soft-travel-crates-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Soft-Sided Collapsible Dog Crates: 24 to 36 Inch Travel Crates That Fold Flat",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "collapsible soft dog crate",
+      "heroImage": "https://images.pexels.com/photos/17206211/pexels-photo-17206211.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a crate is escape-proof, chew-proof, safe for every dog or calming, and don't repeat sturdiness claims beyond the listing wording; state size, listed dog weight, doors, windows, fabric and frame as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B0713T9LHB",
+          "name": "Amazon Basics Portable Folding Soft Dog Crate, Double Door, Small",
+          "notes": "Small tan polyester soft-sided crate with a lightweight frame, sets up without tools and folds flat, 2 doors (top and front), zipper closures plus fastening straps, 29.92 x 21.3 x 21.3 inches",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-gz6CjvEL._AC_SL1189_.jpg"
+        },
+        {
+          "asin": "B09QZR4M11",
+          "name": "DONORO Portable Pop Up Dog Crate with Wire Frame, 28 Inch",
+          "notes": "28 x 18 x 22 inch pop-up kennel with a wire frame and water-resistant material, 3 doors with mesh windows, double zippers, listed for small and medium dogs, cats and rabbits",
+          "imageUrl": "https://m.media-amazon.com/images/I/81eQRfGon+L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B097BWZFCM",
+          "name": "Portable Collapsible Dog Crate, 24 Inch Soft Crate for Car Travel",
+          "notes": "24 x 17 x 17 inch soft crate listed for pets from 12 to 30 lbs, sets up and folds down without tools",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ob6-rPhmL._AC_SL1400_.jpg"
+        },
+        {
+          "asin": "B0C1P58XDB",
+          "name": "Garnpet 36 Inch Collapsible Soft Dog Crate for Large Dogs",
+          "notes": "36 x 25 x 25 inch foldable travel crate of 600D Oxford fabric with breathable mesh windows and a steel frame, listed for large dogs, carry handles",
+          "imageUrl": "https://m.media-amazon.com/images/I/710lISUiKHL._AC_SL1288_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-car-barriers-suv-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Car Barriers for SUVs: Adjustable Steel Wire Mesh Dividers up to 60 Inches",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog car barrier for suv",
+      "heroImage": "https://images.pexels.com/photos/27175429/pexels-photo-27175429.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a barrier keeps dogs or drivers safe in a crash, prevents all jumping or fits every vehicle beyond the listing wording; state panel sizes, maximum width, material, installation and weight as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B08JZ2LRQK",
+          "name": "Gtongoko Dog Car Barrier for SUV, Steel Wire Mesh",
+          "notes": "Steel wire mesh divider listed at 60.6 x 16.5 inches with adjustable panels, 4 knobs attach to the headrests, installs without drilling or tools, listed for SUVs, cars and trucks",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Gwb0UN-qL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CTBLWW5G",
+          "name": "NOAMOO Dog Car Barrier for SUVs, Vans and Vehicles, Adjustable Wire Mesh",
+          "notes": "Wire mesh barrier listed as extendable up to 61.9 inches for SUVs, vans, Jeeps, hatchbacks and trucks, 6.19 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/81jNTdpJTBL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09YD1GXKV",
+          "name": "FEED GARDEN Dog Car Barrier for SUV, Heavy Duty Steel Wire Mesh",
+          "notes": "Steel barrier with a 36.6 inch wide, 16.5 inch high main panel and two 16 x 12 inch side panels for a 60.6 inch total width, two lock points on each side",
+          "imageUrl": "https://m.media-amazon.com/images/I/814irJ8aO3L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CT8MQPX4",
+          "name": "CASIMR Dog Car Barrier for SUVs, Adjustable Pet Divider",
+          "notes": "Adjustable divider with a 38 x 16.1 inch main panel plus two side panels for the cargo area, 6.18 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/91HJTrcSvYL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
