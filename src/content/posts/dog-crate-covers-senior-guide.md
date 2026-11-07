@@ -1,8 +1,8 @@
 ---
 title: 'Dog Crate Covers: 36 and 42 Inch Covers for Wire Crates'
 description: >-
-  A wire crate gives a dog a safe, enclosed space, but the open sides can let in
-  drafts, bright light, and household commotion that make it harder for an…
+  Compare four dog crate covers for 36-inch and 42-inch wire crates by listed
+  size, fabric, doors, windows and weight.
 pubDate: '2026-11-06T20:11:39.874Z'
 structureType: comparison
 topicId: dog-crate-covers-senior-guide
@@ -11,8 +11,9 @@ heroImage: >-
   https://images.pexels.com/photos/27372364/pexels-photo-27372364.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
-A wire crate gives a dog a safe, enclosed space, but the open sides can let in drafts, bright light, and household commotion that make it harder for an older or arthritic dog to settle in for a long rest. A well-fitted crate cover turns an exposed wire frame into a more den-like spot while still giving you easy access through doors and windows. Here's a look at four covers sized for 36-inch and 42-inch wire and metal crates, so you can match the right one to your crate and your dog's routine.
+A crate cover slips over a wire crate and covers its open sides, with doors and windows so you can still reach your dog. Here's a look at four covers sized for 36-inch and 42-inch wire and metal crates, so you can match the right one to your crate.
 
 | Product | Best For | Key Feature | Notes |
 |---|---|---|---|
@@ -76,7 +77,7 @@ This cover is built from oxford cloth and sized at 42 x 28 x 30 inches to fit mo
   </div>
 </div>
 
-The GORILLA GRIP cover is made from polyester and sized to match 42 x 28 x 30 inch crates, with hook and loop fasteners running around the sides and windows for a secure, adjustable fit. Its fabric is OEKO-TEX certified as listed, which is a nice detail for owners who pay attention to textile standards. Weighing in at 2.31 lb, it's an easy, lightweight cover to put on and take off. This is a strong option for anyone with a 42-inch wire crate who wants a simple, adjustable cover that stays snugly in place.
+The GORILLA GRIP cover is made from polyester and sized to match 42 x 28 x 30 inch crates, with hook and loop fasteners running around the sides and windows for a secure, adjustable fit. Its fabric is listed as OEKO-TEX certified. It weighs 2.31 lb. This is a strong option for anyone with a 42-inch wire crate who wants a simple, adjustable cover that stays snugly in place.
 
 ### Friends Forever Metal Dog Crate Cover, 36 inch
 
