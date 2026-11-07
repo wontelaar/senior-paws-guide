@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/7210639/pexels-photo-7210639.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dog tag silencer wraps or clips around metal tags to cut down on the jingling. The options below range from a silicone wrap to a neoprene pouch and plastic clips, so you can match the style to your dog's tag setup.
