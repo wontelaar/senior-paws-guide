@@ -1,20 +1,21 @@
 ## How Much Reach Does Your Yard (and Back) Need?
 
-The right scooper length comes down to how far you want to bend and how your dog's waste size lines up with the scoop. Here is a two-minute way to check.
+Scoopers differ in listed length, style and what comes with them, so a quick look at how you want to clean up points you to the right one. Here is a two-minute way to check.
 
-**Step 1: Measure your reach comfort.** Stand straight and measure from the floor to your hand when your arm hangs relaxed at your side. That rough number tells you how much handle length keeps you from bending over repeatedly.
+**Step 1: Decide on a length.** Compare the listed lengths in the table below, from 28 inches up to 38 inches.
 
-**Step 2: Check your dog's size.** Small and medium dogs produce smaller waste that fits easily into a compact tray or spring jaw. For larger dogs, a wider rake or scoop head makes each pass cover more ground.
+**Step 2: Pick a style.** Choose between a tray and rake set, a rake with a bin that feeds into a bag, or a spring scooper, and check the dog size a listing mentions, such as the TOOGE's medium and small dogs.
 
-**Step 3: Think about storage and motion.** A long-handle rake-and-tray set stores flat but needs more closet space, while a folding or one-handed spring scooper collapses smaller and works with a single hand if the other is holding a leash.
+**Step 3: Think about storage and motion.** A tray and rake set has two pieces, while a foldable or one-handed spring scooper is a single tool you can use with one hand if the other is holding a leash.
 
-**Handle length to standing comfort**
+**Listed length**
 
-| Your standing hand height | Comfortable handle length | Bending required |
+| Scooper | Listed length | In centimeters |
 |---|---|---|
-| Around 30 in | 28–32 in | Slight bend |
-| Around 34 in | 32–36 in | Minimal bend |
-| Around 38 in | 36–38 in | Little to no bend |
+| TOOGE Pooper Scooper | Up to 38 in tray, 36 in rake | 96.5 cm tray, 91.4 cm rake |
+| Arm & Hammer Swivel Bin and Rake | Up to 32 in | 81.3 cm |
+| SZHLUX 28 Inch Foldable | 28 in | 71.1 cm |
+| 28 Inch Large, Heavy Duty ABS | 28 in | 71.1 cm |
 
 **Which scooper covers which need?**
 
@@ -25,4 +26,4 @@ The right scooper length comes down to how far you want to bend and how your dog
 | SZHLUX 28 Inch Foldable Pooper Scooper | 28 in | Foldable ABS, non-stick surface, arched grip with spring | Check the listing |
 | 28 Inch Large Pooper Scooper, Heavy Duty ABS | 28 in | One-handed ABS frame with easy-pull handle and two springs | Check the listing |
 
-**How to read it:** if you'd rather stand tall while cleaning up, the TOOGE set reaches the farthest at up to 38 inches and is listed for small and medium dogs. If you want something closer to waist height with a swivel-and-bag system, the Arm & Hammer scooper tops out at 32 inches and comes with two bags included. For a shorter, foldable option that still offers one-handed spring action, both the SZHLUX and the 28 Inch Heavy Duty ABS scooper sit at 28 inches, with the SZHLUX folding down and the Heavy Duty ABS version built around an easy-pull handle with two springs. Confirm exact dimensions on the product page before ordering, especially if you're matching the scooper to a particularly tall or short household member.
+**How to read it:** the TOOGE set reaches the farthest at up to 38 inches and is listed for small and medium dogs. If you want a rake with a bag system, the Arm & Hammer scooper extends up to 32 inches and comes with two bags included. For a shorter, foldable option that still offers one-handed spring action, both the SZHLUX and the 28 Inch Heavy Duty ABS scooper sit at 28 inches, with the SZHLUX folding down and the Heavy Duty ABS version built around an easy-pull handle with two springs. Confirm exact dimensions on the product page before ordering.

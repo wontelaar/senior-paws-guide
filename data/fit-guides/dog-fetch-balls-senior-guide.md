@@ -11,15 +11,15 @@ Ball size should match your dog's mouth and jaw so fetch stays comfortable, and 
 | Ball diameter | General fit |
 |---|---|
 | 1.5 in (3.8 cm) | Dogs under 15 lbs (6.8 kg) |
-| 2.5 in (6.4 cm) | Medium-size dogs, compatible with medium launchers |
-| Regular tennis-ball size | Medium dogs, fits regular launchers |
+| 2.5 in (6.4 cm) | Listed as Medium and compatible with medium Chuckit! launchers |
+| Regular tennis-ball size | AMA SPORT lists it for medium dogs and regular launchers |
 
 **Which product matches which dog or setup?**
 
 | Product | Ball size / weight | A good match for |
 |---|---|---|
-| Chuckit! Ultra Rubber Dog Ball, Medium 2.5 in, 2-Pack | 2.5 in rubber balls, floats, 6.38 oz pack, fits medium Chuckit! launchers | Medium dogs who use a medium Chuckit! launcher, including fetch near water since the balls float |
-| Chuckit! Ultra and Rugged Dog Balls, Medium, Set of 3 | Set of 3 medium rubber balls, 8.96 oz, fits Chuckit! launchers | Medium dogs who want extra balls on hand for a Chuckit! launcher |
+| Chuckit! Ultra Rubber Dog Ball, Medium 2.5 in, 2-Pack | 2.5 in rubber balls, floats, 6.38 oz (181 g) pack, fits medium Chuckit! launchers | Owners with a medium Chuckit! launcher, including fetch near water since the balls float |
+| Chuckit! Ultra and Rugged Dog Balls, Medium, Set of 3 | Set of 3 medium rubber balls, 8.96 oz (254 g), fits Chuckit! launchers | Owners who want extra balls on hand for a Chuckit! launcher |
 | Outward Hound Squeaker Ballz Tennis Ball Dog Toy, X-Small, 8-Pack | 1.5 in squeaky tennis balls, 8-pack, listed for dogs under 15 lbs | Small dogs under 15 lbs who enjoy a squeaker |
 | AMA SPORT Dog Tennis Balls for Medium Dogs with Mesh Bag | Regular-size tennis balls, fits regular ball launchers, includes mesh carry bag | Medium dogs who use a regular (non-Chuckit!) ball launcher, and owners who want a bag for carrying and storage |
 

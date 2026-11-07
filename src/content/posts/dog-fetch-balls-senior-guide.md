@@ -1,8 +1,8 @@
 ---
 title: 'Dog Fetch Balls: Rubber and Tennis Balls in X-Small to Medium Sizes'
 description: >-
-  A slower, more deliberate game of fetch is still one of the best ways to keep
-  an older or arthritic dog moving and engaged without demanding much of them.
+  Compare four dog fetch balls, from rubber balls that float to squeaky X-Small
+  and regular tennis balls, by size, pack count and launcher fit.
 pubDate: '2026-11-07T07:57:58.438Z'
 structureType: comparison
 topicId: dog-fetch-balls-senior-guide
@@ -11,8 +11,9 @@ heroImage: >-
   https://images.pexels.com/photos/31841796/pexels-photo-31841796.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
-A slower, more deliberate game of fetch is still one of the best ways to keep an older or arthritic dog moving and engaged without demanding much of them. The trick is picking a ball sized and weighted right for a smaller or gentler play style, and easy for aging jaws and paws to grip and carry. This roundup breaks down rubber and tennis-style fetch balls in X-small to medium sizes so you can match the right one to your dog.
+The right fetch ball depends on your dog's size and on whether you use a ball launcher. This roundup breaks down rubber and tennis-style fetch balls in X-Small to Medium sizes so you can match the right one to your dog.
 
 
 <!-- fit-guide:start -->
@@ -29,15 +30,15 @@ Ball size should match your dog's mouth and jaw so fetch stays comfortable, and 
 | Ball diameter | General fit |
 |---|---|
 | 1.5 in (3.8 cm) | Dogs under 15 lbs (6.8 kg) |
-| 2.5 in (6.4 cm) | Medium-size dogs, compatible with medium launchers |
-| Regular tennis-ball size | Medium dogs, fits regular launchers |
+| 2.5 in (6.4 cm) | Listed as Medium and compatible with medium Chuckit! launchers |
+| Regular tennis-ball size | AMA SPORT lists it for medium dogs and regular launchers |
 
 **Which product matches which dog or setup?**
 
 | Product | Ball size / weight | A good match for |
 |---|---|---|
-| Chuckit! Ultra Rubber Dog Ball, Medium 2.5 in, 2-Pack | 2.5 in rubber balls, floats, 6.38 oz pack, fits medium Chuckit! launchers | Medium dogs who use a medium Chuckit! launcher, including fetch near water since the balls float |
-| Chuckit! Ultra and Rugged Dog Balls, Medium, Set of 3 | Set of 3 medium rubber balls, 8.96 oz, fits Chuckit! launchers | Medium dogs who want extra balls on hand for a Chuckit! launcher |
+| Chuckit! Ultra Rubber Dog Ball, Medium 2.5 in, 2-Pack | 2.5 in rubber balls, floats, 6.38 oz (181 g) pack, fits medium Chuckit! launchers | Owners with a medium Chuckit! launcher, including fetch near water since the balls float |
+| Chuckit! Ultra and Rugged Dog Balls, Medium, Set of 3 | Set of 3 medium rubber balls, 8.96 oz (254 g), fits Chuckit! launchers | Owners who want extra balls on hand for a Chuckit! launcher |
 | Outward Hound Squeaker Ballz Tennis Ball Dog Toy, X-Small, 8-Pack | 1.5 in squeaky tennis balls, 8-pack, listed for dogs under 15 lbs | Small dogs under 15 lbs who enjoy a squeaker |
 | AMA SPORT Dog Tennis Balls for Medium Dogs with Mesh Bag | Regular-size tennis balls, fits regular ball launchers, includes mesh carry bag | Medium dogs who use a regular (non-Chuckit!) ball launcher, and owners who want a bag for carrying and storage |
 
@@ -113,12 +114,11 @@ These regular-size tennis balls are made from natural rubber and needle felt, fi
 - **Pack size and backups**: Multi-packs like the Chuckit! set of 3 or the Outward Hound 8-pack mean you'll have replacements ready without an extra trip to the store.
 - **Added features**: A squeaker, as in the Outward Hound balls, or a carry bag, as with the AMA SPORT set, can add convenience or extra engagement during play.
 - **Floating ability**: If water play is part of your routine, the Chuckit! Ultra Rubber balls are listed as floating, which suits yard, pool, or lake fetch sessions.
-- **Health considerations**: If your dog has joint issues or other health concerns, ask your vet which style and intensity of fetch play is appropriate for them.
 
 ## FAQ
 
-**What size fetch ball is right for a small or aging dog?**
-Look at your dog's weight and jaw size first — the Outward Hound Squeaker Ballz are listed for dogs under 15 lbs, which makes them a fitting choice for small or toy breeds, while the medium Chuckit! and AMA SPORT balls suit larger dogs who want a bigger ball to carry.
+**What size fetch ball is right for a small dog?**
+Look at your dog's weight and jaw size first — the Outward Hound Squeaker Ballz are listed for dogs under 15 lbs, which makes them a fitting choice for small breeds, while the medium Chuckit! and AMA SPORT balls suit larger dogs who want a bigger ball to carry.
 
 **Do these balls work with ball launchers?**
 Yes — both Chuckit! products are listed as compatible with Chuckit! launchers, and the AMA SPORT tennis balls are listed as fitting regular ball launchers, so you can pair any of these with the right launcher for hands-free throwing.
