@@ -4360,6 +4360,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/91HJTrcSvYL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-soft-pet-carriers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Soft-Sided Pet Carriers for Small Dogs: 17 to 20 Inch Carriers with Shoulder Straps",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "soft sided dog carrier",
+      "heroImage": "https://images.pexels.com/photos/8473661/pexels-photo-8473661.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a carrier is airline approved, safe, escape-proof or comfortable for every pet beyond the listing wording, and don't promise it fits under any airline seat; state size, listed pet weight, openings, straps and pad as listed and tell readers to check the listing. Skip health talk.",
+      "products": [
+        {
+          "asin": "B07JZ31KX9",
+          "name": "Henkelion Pet Carrier for Small and Medium Cats and Dogs, up to 15 lbs",
+          "notes": "Soft-sided carrier measuring 17 x 11 x 11 inches, listed for small and medium cats and dogs up to 15 lbs, two connecting loop handles and an adjustable shoulder strap",
+          "imageUrl": "https://m.media-amazon.com/images/I/813v3252ylL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BTYQZP78",
+          "name": "Top tasta Soft-Sided Pet Carrier, 17 x 11 x 11 Inches",
+          "notes": "Soft-sided carrier measuring 17 x 11 x 11 inches, listed for pets up to 15 lbs including large and medium cats and small dogs, listing advises choosing by your pet's length and height rather than weight",
+          "imageUrl": "https://m.media-amazon.com/images/I/81R6e-HWs2L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00QHC01C2",
+          "name": "Amazon Basics Soft-Sided Mesh Pet Travel Carrier with Shoulder Strap, Large",
+          "notes": "Large black polyester carrier measuring 20 x 12 x 12 inches and weighing 2.89 lb, removable machine washable fleece pad, mesh ventilation panels, front and top zippered openings, connecting top handles and adjustable shoulder strap",
+          "imageUrl": "https://m.media-amazon.com/images/I/719971mj1eL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FS7BHSPG",
+          "name": "Collapsible Soft-Sided Cat and Dog Carrier with Mesh Windows",
+          "notes": "Collapsible carrier with a steel frame and wooden support board, breathable mesh windows on four sides, a front pocket for toys and treats, tear-resistant fabric",
+          "imageUrl": "https://m.media-amazon.com/images/I/814HXtKXJ6L._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-foldable-pools-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Foldable Dog Pools: 32 to 67 Inch Hard Plastic Shell Pools with Drain Plugs",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "foldable dog pool",
+      "heroImage": "https://images.pexels.com/photos/8195255/pexels-photo-8195255.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a pool is unpuncturable, scratch-proof, safe for every pet or child, or that it prevents slips beyond the listing wording; state diameter, height, material and drain as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B01I3DIWDM",
+          "name": "Jasonwell Foldable Dog Pet Bath Pool, 48 Inch",
+          "notes": "48 x 48 x 12 inch round vinyl pool that needs no inflation, listed with a bottom or side drain for emptying, slip-resistant material",
+          "imageUrl": "https://m.media-amazon.com/images/I/61UPXLfmdoL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B0DKNZ6BYD",
+          "name": "SLOOSH Foldable Dog Kiddie Pool, 63 Inch",
+          "notes": "63 x 63 x 12 inch round pool of PVC and fiberboard with a non-slip bottom, no air pump needed, listed in multiple sizes",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Du2AFgvHL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09PBGQVB5",
+          "name": "VISTOP Extra Large Foldable Dog Pool, 67 Inch",
+          "notes": "67 x 67 x 12 inch round PVC pool with a built-in hard plastic shell and an anti-skid textured bottom, folds for storage",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Gt5lpU4aL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CXPQCFP1",
+          "name": "Foldable Dog Pool, 32 x 8 Inch, PVC Non-Slip",
+          "notes": "32 x 32 x 8 inch oval PVC pool with a spiral water outlet for emptying and a non-slip textured bottom, folds for storage",
+          "imageUrl": "https://m.media-amazon.com/images/I/516D3Izx2IL._AC_SL1280_.jpg"
+        }
+      ]
     }
   ]
 }
