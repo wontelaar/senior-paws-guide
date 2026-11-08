@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/27372364/pexels-photo-27372364.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A crate cover slips over a wire crate and covers its open sides, with doors and windows so you can still reach your dog. Here's a look at four covers sized for 36-inch and 42-inch wire and metal crates, so you can match the right one to your crate.
