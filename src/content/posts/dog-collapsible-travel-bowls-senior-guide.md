@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/38538699/pexels-photo-38538699.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Collapsible dog bowls fold flat to fit a bag, car door pocket or leash clip, so water or food is easy to bring along. The right pick comes down to material, size and how you plan to carry it. Here is a side-by-side look at four 2-pack options.
