@@ -1,8 +1,8 @@
 ---
 title: 'Dog Poop Scoopers: Long-Handle Rakes and Spring Scoopers for Yard Cleanup'
 description: >-
-  Compare four dog poop scoopers, from a long-handle tray and rake to a bag
-  rake and 28 inch spring scoopers, by listed length, style and weight.
+  Compare four dog poop scoopers, from a long-handle tray and rake to a bag rake
+  and 28 inch spring scoopers, by listed length, style and weight.
 pubDate: '2026-11-07T18:26:15.251Z'
 structureType: comparison
 topicId: dog-poop-scoopers-senior-guide
@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/25713123/pexels-photo-25713123.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dog pooper scooper with a long handle lets you clear the yard without bending down, while spring-loaded models are a one-handed option. The right pick comes down to handle length, yard size and how you prefer to collect the waste.
