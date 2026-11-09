@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/31841796/pexels-photo-31841796.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 The right fetch ball depends on your dog's size and on whether you use a ball launcher. This roundup breaks down rubber and tennis-style fetch balls in X-Small to Medium sizes so you can match the right one to your dog.
