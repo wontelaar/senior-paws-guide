@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/10509897/pexels-photo-10509897.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A knotted rope toy is made for tossing, tugging and chewing. This guide rounds up four rope toy options across different lengths and pack sizes so you can match one to your dog's size and play style.
