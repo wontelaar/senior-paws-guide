@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/14945757/pexels-photo-14945757.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A 6 ft leash is a standard length for everyday walks. This guide compares four 6 ft leashes in nylon and rope, so you can match the width, handle and materials to your dog's size.
