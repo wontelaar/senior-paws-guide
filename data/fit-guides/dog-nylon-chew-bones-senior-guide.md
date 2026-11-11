@@ -4,16 +4,16 @@ Matching a chew to your dog's weight and jaw size is the quickest way to narrow 
 
 **Step 1: Weigh your dog.** Step on a scale holding your dog, then step on it alone, and subtract to get their weight in pounds.
 
-**Step 2: Measure your dog's muzzle.** Measure the length of your dog's snout from the tip of the nose to just under the eyes, in inches. This gives you a sense of how long a chew they can comfortably hold and gnaw.
+**Step 2: Check the listed weight range.** The SPOT Bam-Bones is listed for dogs 30 to 60 lbs and the Benebone 4-Pack for dogs under 60 lbs, while the other two list a size name.
 
-**Step 3: Compare to the package size.** Longer chews (measured by their longest listed dimension) generally give a dog more surface to grip, while compact chews suit dogs with shorter muzzles or smaller mouths. Use the table below to see how the listed length of each chew compares.
+**Step 3: Compare listed sizes.** Use the table below, which shows each chew's listed size in inches and centimeters.
 
-| Chew length (longest dimension) | Suits a muzzle roughly | Package contains |
-|---|---|---|
-| 6 in (15.2 cm) | Shorter muzzles | Single T-bone chew |
-| 6.63 in (16.8 cm) | Short to medium muzzles | 3 small chews |
-| 7 in (17.8 cm) | Medium muzzles | Single chew or multi-pack |
-| 8 in (20.3 cm) | Medium muzzles | 4-pack box (box dimension) |
+| Chew | Listed size (in) | In centimeters | Listed weight |
+|---|---|---|---|
+| Benebone Wishbone, Medium | 7 x 1.5 x 4.75 | 17.8 x 3.8 x 12.1 cm | 6 oz (170 g) |
+| Nylabone Power Chew, Small, 3 Count | 6.63 x 1.05 x 7.5 (package) | 16.8 x 2.7 x 19.1 cm | 4.5 oz (128 g) package |
+| SPOT Bam-Bones Plus T-Bone, 6 in | 7 x 5 x 2 | 17.8 x 12.7 x 5.1 cm | 4.8 oz (136 g) |
+| Benebone Medium 4-Pack | 7 x 8 x 4 (box) | 17.8 x 20.3 x 10.2 cm | 2 lb (0.91 kg) |
 
 **Which product matches which dog?**
 
@@ -24,4 +24,4 @@ Matching a chew to your dog's weight and jaw size is the quickest way to narrow 
 | SPOT Bam-Bones Plus T-Bone Dog Chew, Beef, 6 in | Listed for dogs 30 to 60 lbs, 7 x 5 x 2 in, 4.8 oz | T-bone shape, bamboo fiber and nylon | Single chew |
 | Benebone Medium 4-Pack Dog Chew Toys, Under 60 lbs | Listed for dogs under 60 lbs, 7 x 8 x 4 in box, 2 lb | Medium chew shapes | 4 chews in one box |
 
-**How to read it:** if your dog weighs under 60 pounds and you want several chews on hand, the Benebone Medium 4-Pack is sized for that weight range and gives you four chews in one box. For a dog between 30 and 60 pounds, the SPOT Bam-Bones Plus T-Bone is listed specifically for that range. A single Medium Wishbone from Benebone suits a dog whose muzzle and mouth fit a 7 x 1.5 x 4.75 inch chew, while the Nylabone Power Chew Original Bone in Small, sold as a 3-count pack, is sized for smaller dogs or households wanting multiple small chews on hand. If your dog's weight sits near the edge of a listed range, confirm exact dimensions on the product page before ordering.
+**How to read it:** if your dog weighs under 60 pounds and you want several chews, the Benebone Medium 4-Pack is listed for dogs under 60 lbs and gives you four chews in one box. The SPOT Bam-Bones Plus T-Bone is listed for dogs 30 to 60 pounds. The Benebone Wishbone is listed in Medium at 7 x 1.5 x 4.75 inches, and the Nylabone Power Chew Original Bone in Small is sold as a 3-count pack. If your dog's weight sits near the edge of a listed range, confirm exact dimensions on the product page before ordering.

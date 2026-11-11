@@ -1,8 +1,8 @@
 ---
 title: 'Indoor Dog Grass Potty Pads: Artificial Turf Pads with and without Trays'
 description: >-
-  For dogs dealing with stiff joints, arthritis, or the general slowdown of
-  aging, repeated trips outside in bad weather or down stairs can become a real…
+  Compare four indoor dog grass potty pads, with and without trays, by listed
+  size, drainage, materials and cleaning.
 pubDate: '2026-11-09T08:50:03.143Z'
 structureType: comparison
 topicId: dog-grass-potty-pads-senior-guide
@@ -11,8 +11,9 @@ heroImage: >-
   https://images.pexels.com/photos/3860304/pexels-photo-3860304.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
-For dogs dealing with stiff joints, arthritis, or the general slowdown of aging, repeated trips outside in bad weather or down stairs can become a real hassle for both pet and owner. An indoor dog grass pad for potty use offers a realistic turf surface close to home, cutting down on unnecessary movement while still giving dogs a familiar texture underfoot. This guide compares four grass pad options, including tray-based and standalone designs, to help you find the right fit for your space and your dog.
+An indoor dog grass pad gives your dog a turf surface for potty use close to home. This guide compares four grass pad options, including tray-based and standalone designs, to help you find the right fit for your space.
 
 | Product | Best For | Key Feature | Notes |
 |---|---|---|---|
@@ -20,6 +21,39 @@ For dogs dealing with stiff joints, arthritis, or the general slowdown of aging,
 | PICK FOR LIFE Fake Grass Pad <a href="https://www.amazon.com/dp/B0874K5HJR?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">PICK FOR LIFE Fake Grass Pad for Dogs, 39.3 x 31.5 Inch</a> | Dogs needing good drainage | 63 drainage holes in the turf | Polypropylene, hand wash and rinse |
 | Ottomanson Artificial Grass Puppy Potty Pad <a href="https://www.amazon.com/dp/B09QMPBS3H?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">Ottomanson Artificial Grass Puppy Potty Pad with Tray, 15 x 30 Inch</a> | Small pets and dogs, compact spaces | Comes with a matching tray | 30 x 15 inch, reusable and washable |
 | LOOBANI Large Dog Grass Pad <a href="https://www.amazon.com/dp/B0DSLF2NF6?tag=seniorpawsgui-20" target="_blank" rel="nofollow sponsored noopener">LOOBANI Large Dog Grass Pad with Tray, 35 x 23 Inch</a> | Owners who want spares on hand | 3-layer system with 2 replacement pee pads | 35 x 23 x 1.5 inch, includes tray |
+
+
+<!-- fit-guide:start -->
+## Which Grass Pad Size and Setup Fits Your Space?
+
+Grass pads differ in size, whether a tray is included and how liquid drains, so a quick look at your space and your setup points you to the right one.
+
+**Step 1: Measure your space.** Note the floor, balcony or crate area you have for the pad, in inches.
+
+**Step 2: Decide on a tray.** The Ottomanson and LOOBANI come with a tray, the SSRIVER is listed as needing an additional tray for indoor use, and the PICK FOR LIFE is listed with 63 drainage holes.
+
+**Step 3: Compare cleaning.** Check how each pad is cleaned, from soap-and-water rinsing to hand washing.
+
+**Listed size**
+
+| Pad | Listed size (in) | In centimeters |
+|---|---|---|
+| SSRIVER Dog Grass Pad | 51.2 x 31.5 | 130.0 x 80.0 cm |
+| PICK FOR LIFE Fake Grass Pad | 39.3 x 31.5 | 99.8 x 80.0 cm |
+| Ottomanson Puppy Potty Pad with Tray | 30 x 15 | 76.2 x 38.1 cm |
+| LOOBANI Large Dog Grass Pad with Tray | 35 x 23 x 1.5 | 88.9 x 58.4 x 3.8 cm |
+
+**Tray, material and care**
+
+| Pad | Tray | Material | Care |
+|---|---|---|---|
+| SSRIVER Dog Grass Pad | Additional tray needed for indoor use | Plastic, 1.18 in grass height | Rinse with soap and water |
+| PICK FOR LIFE Fake Grass Pad | Not listed | Polypropylene, 63 drainage holes | Hand wash and rinse |
+| Ottomanson Puppy Potty Pad with Tray | Included | Polypropylene | Rinse with soap |
+| LOOBANI Large Dog Grass Pad with Tray | Included, 3 layers with 2 replacement pee pads | Polyethylene and TPU | Washable pee pads |
+
+**How to read it:** if you have room for a large pad, the SSRIVER is the biggest at 51.2 x 31.5 inches and lists a 1.18 inch grass height, but it needs an additional tray for indoor use. The PICK FOR LIFE is listed with 63 drainage holes. The Ottomanson is the smallest at 30 x 15 inches and comes with a tray, and the LOOBANI bundles a tray, a 3-layer system and 2 replacement pee pads. Confirm exact dimensions on the product page before ordering.
+<!-- fit-guide:end -->
 
 ### SSRIVER Dog Grass Pad
 
@@ -75,7 +109,7 @@ Measuring 35 x 23 x 1.5 inches, the LOOBANI set <a href="https://www.amazon.com/
 
 ## How to Choose
 
-- **Size of the pad relative to your dog:** Larger breeds may do better with a bigger surface like the SSRIVER's 51.2 x 31.5 inch pad, while smaller dogs or puppies can be well served by the more compact Ottomanson at 30 x 15 inches.
+- **Size of the pad relative to your dog:** Compare the listed pad size with your dog and your space, from the SSRIVER's 51.2 x 31.5 inches to the more compact Ottomanson at 30 x 15 inches.
 - **Tray included vs. sold separately:** The Ottomanson and LOOBANI sets come with trays, while the SSRIVER pad is listed as needing an additional tray for indoor use — factor that into your setup plans.
 - **Drainage design:** If passing liquid through the turf matters to your setup, the PICK FOR LIFE pad's 63 drainage holes are worth considering.
 - **Grass height:** The SSRIVER pad specifies a 1.18 inch grass height, which can help you compare texture expectations against other pads where height isn't listed.

@@ -6,15 +6,15 @@ Soft-sided crates are sized by your dog's length and height, not just breed or w
 
 **Step 2: Measure your dog's height.** Measure from the floor to the top of the head or ears (whichever is taller) while your dog is standing naturally.
 
-**Step 3: Add a comfort margin.** A crate should let your dog stand, turn around, and lie flat. As a simple rule of thumb, look for a crate that's a few inches longer than your dog's nose-to-tail length and a few inches taller than their standing height.
+**Step 3: Compare listed sizes.** Compare your measurements with each crate's listed size and any listed dog weight or size, shown in the table below.
 
 **Which crate covers which size?**
 
-| Crate (interior size) | Length | Width | Height | Listed weight/size guidance |
+| Crate | Length | Width | Height | Listed weight/size guidance |
 |---|---|---|---|---|
-| Amazon Basics Small Double Door Crate | 29.92 in | 21.3 in | 21.3 in | Listed as "Small" |
-| DONORO 28 Inch Pop Up Crate | 28 in | 18 in | 22 in | Listed for small and medium dogs, cats and rabbits |
-| 24 Inch Portable Collapsible Crate | 24 in | 17 in | 17 in | Listed for pets from 12 to 30 lbs |
-| Garnpet 36 Inch Collapsible Crate | 36 in | 25 in | 25 in | Listed for large dogs |
+| Amazon Basics Small Double Door Crate | 29.92 in (76.0 cm) | 21.3 in (54.1 cm) | 21.3 in (54.1 cm) | Listed as "Small" |
+| DONORO 28 Inch Pop Up Crate | 28 in (71.1 cm) | 18 in (45.7 cm) | 22 in (55.9 cm) | Listed for small and medium dogs, cats and rabbits |
+| 24 Inch Portable Collapsible Crate | 24 in (61.0 cm) | 17 in (43.2 cm) | 17 in (43.2 cm) | Listed for pets from 12 to 30 lbs |
+| Garnpet 36 Inch Collapsible Crate | 36 in (91.4 cm) | 25 in (63.5 cm) | 25 in (63.5 cm) | Listed for large dogs |
 
-**How to read it:** if your dog's nose-to-tail length is close to 24 inches and they weigh somewhere in the 12-to-30-lb range, the 24 Inch Portable Collapsible Crate is built around that exact range. A dog closer to 28 inches long, or a cat or rabbit, lines up with the DONORO 28 Inch Pop Up Crate, which also adds mesh windows on three sides for airflow. The Amazon Basics Small Double Door Crate offers similar interior space at 29.92 x 21.3 x 21.3 inches, with a top door as well as a front door, which can help with loading a dog who is hesitant about a single front opening. For a longer or taller dog, the Garnpet 36 Inch Collapsible Crate is listed for large dogs, with a 36 x 25 x 25 inch interior and a steel frame for structure, plus carry handles for moving it between rooms or to the car. If your dog's measurements fall between two sizes, sizing up generally gives more room to stand and turn; confirm exact dimensions on the product page before you order.
+**How to read it:** if your dog weighs in the 12-to-30-lb range, the 24 Inch Portable Collapsible Crate is listed for that range. The DONORO 28 Inch Pop Up Crate is listed for small and medium dogs, cats and rabbits and has mesh windows on three doors. The Amazon Basics Small Double Door Crate measures 29.92 x 21.3 x 21.3 inches with a top door as well as a front door. For a larger dog, the Garnpet 36 Inch Collapsible Crate is listed for large dogs, with a steel frame and carry handles. Confirm exact dimensions on the product page before you order.
