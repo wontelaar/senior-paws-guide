@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/26664416/pexels-photo-26664416.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 These picks span single bones, multi-packs and shapes made for an easy grip, so you can match the format and listed size to your dog.
