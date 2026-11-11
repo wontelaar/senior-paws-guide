@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/3860304/pexels-photo-3860304.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 An indoor dog grass pad gives your dog a turf surface for potty use close to home. This guide compares four grass pad options, including tray-based and standalone designs, to help you find the right fit for your space.
