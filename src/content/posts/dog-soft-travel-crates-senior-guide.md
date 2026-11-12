@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/17206211/pexels-photo-17206211.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A collapsible soft dog crate sets up fast, folds flat for storage and gives your dog an enclosed space on the move. The options below cover a range of sizes, from compact 24-inch crates to roomier 36-inch builds for larger breeds.
