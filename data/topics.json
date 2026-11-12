@@ -4540,6 +4540,78 @@
           "imageUrl": "https://m.media-amazon.com/images/I/51JoG31dw+L._AC_SL1000_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-ball-launchers-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Ball Launchers: Chuckit! Hand Launchers and an Automatic Launcher",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog ball launcher",
+      "heroImage": "https://images.pexels.com/photos/32003910/pexels-photo-32003910.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a launcher improves a dog's fitness, throws a guaranteed distance or keeps hands clean beyond the listing wording; state handle length, included balls, size, weight and batteries as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B00006IX59",
+          "name": "Chuckit! Classic 26 Inch Dog Ball Launcher with 1 Medium Ball",
+          "notes": "26 inch hand launcher listed to throw farther and extend your reach for ball pickup, includes 1 medium ball, 26 x 2.8 x 2.6 inches",
+          "imageUrl": "https://m.media-amazon.com/images/I/51n6uLRAukL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B000PKWKMQ",
+          "name": "Chuckit! 12M Sport Dog Ball Launcher, 12 Inch",
+          "notes": "12 inch plastic handle listed as recommended for kids and shorter hands, listed for medium dogs weighing 20 to 60 lbs, 12 x 3 x 3 inches and 5.6 oz",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VeMle0XOL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0F9ZKB3H3",
+          "name": "Chuckit! Classic 26 Inch Launcher with Ultra Dog Balls, 3 Medium Balls",
+          "notes": "26 inch launcher that includes 1 tennis ball plus 2 Ultra Balls for 3 balls in total, 29.25 x 3 x 6.38 inches and 1.5 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/51pAwqh8SpL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D2QX2MT3",
+          "name": "MEKAPLE Automatic Dog Ball Launcher with 15 Mini Tennis Balls",
+          "notes": "Automatic launcher listed for 3 distances of 10, 20 and 30 ft, includes 15 mini tennis balls of 2 inches and a mesh bag, 3 lithium ion batteries included, 10.7 x 10.2 x 8.4 inches and 3.8 lb",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Tzgh12xpL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-treat-jars-senior-guide",
+      "status": "ready",
+      "structureType": "comparison",
+      "title": "Dog Treat Jars: Airtight Ceramic, Plastic and Metal Containers for the Counter",
+      "category": "Feeding & Medication",
+      "targetKeyword": "dog treat jar",
+      "heroImage": "https://images.pexels.com/photos/27177031/pexels-photo-27177031.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim a jar keeps treats fresh for any length of time, prevents spoilage or pests beyond the listing wording; state material, capacity, size and lid style as listed. Skip health talk.",
+      "products": [
+        {
+          "asin": "B003Y7U4XO",
+          "name": "Lixit Dog Treat Plastic Jar, Airtight Storage",
+          "notes": "Plastic jar listed with an airtight seal, wide mouth and a paw print design, reusable, 4 pound capacity",
+          "imageUrl": "https://m.media-amazon.com/images/I/71myGO9+mTL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B09TM1K2ZM",
+          "name": "Pearhead Bone Appetit Ceramic Dog Treat Jar with Airtight Wooden Lid",
+          "notes": "Beige ceramic jar with a bone-themed pattern and a wooden lid, 4.9 inches wide by 6.25 inches high, 1.5 lb, listed as dishwasher safe, microwaveable and lead free",
+          "imageUrl": "https://m.media-amazon.com/images/I/61j0LFMfsdL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08L5KLGMC",
+          "name": "Barnyard Designs Ceramic Dog Treat Container with Airtight Lid, White",
+          "notes": "Large white ceramic container listed as food grade with an airtight lid, 7 cup capacity",
+          "imageUrl": "https://m.media-amazon.com/images/I/61iIv+WLRQL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C9CD46BR",
+          "name": "PERFNIQUE Dog Treat Containers, Set of 2, White Metal",
+          "notes": "Set of two airtight white metal jars measuring 7.8 x 6.2 inches and 7.3 x 5.5 inches, listed with a capacity of over 24 cups",
+          "imageUrl": "https://m.media-amazon.com/images/I/71hvhVpPbuL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
