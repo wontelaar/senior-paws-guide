@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/27175429/pexels-photo-27175429.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A wire mesh barrier separates the cargo area or back seat from the front of the vehicle. Here's a look at four adjustable steel mesh options listed for SUVs, so you can match the width, panel layout and install style to your vehicle.
