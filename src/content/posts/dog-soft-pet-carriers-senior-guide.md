@@ -12,7 +12,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/8473661/pexels-photo-8473661.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A soft-sided carrier with a shoulder strap keeps your hands free while your pet rides in a zip-up space. The options below range from compact 17-inch bags to a roomier 20-inch carrier and a collapsible mesh design, so you can match the size and features to your pet and your routine.
