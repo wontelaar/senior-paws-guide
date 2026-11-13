@@ -10,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/8195255/pexels-photo-8195255.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A foldable dog pool sets up without a hose for inflation and packs away when you're done. The four pools below span 32 to 67 inches, so you can match the size to your space and your dog.
