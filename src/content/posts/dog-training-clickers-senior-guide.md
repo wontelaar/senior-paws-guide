@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/5482841/pexels-photo-5482841.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dog training clicker is a small push-button device that makes a click sound. Choosing between a 2 pack, a single clicker or a multi-pack with wrist straps mostly comes down to how many people will use them and how you like to carry one around the house or yard.
