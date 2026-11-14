@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/25391489/pexels-photo-25391489.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A dog doorbell can be a hanging bell at the door or a wireless button-and-receiver set. Below is a look at four options, from simple hanging bells to a wireless doorbell with adjustable volume and range.
