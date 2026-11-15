@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/7086030/pexels-photo-7086030.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Stainless steel bowls are a common choice for everyday food and water. This guide compares four options, from a single 27 oz bowl to non-slip 2-packs, so you can match the capacity, base and set size to your dog and your feeding spot.
