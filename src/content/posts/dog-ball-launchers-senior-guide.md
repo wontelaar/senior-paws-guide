@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/32003910/pexels-photo-32003910.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A ball launcher extends your throw and lets you pick up a ball without touching it. This guide compares four options, from 12 and 26 inch Chuckit! hand launchers to an automatic launcher with mini tennis balls, so you can match the handle length and included balls to your dog and your yard.
