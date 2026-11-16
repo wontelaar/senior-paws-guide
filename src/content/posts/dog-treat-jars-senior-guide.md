@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/27177031/pexels-photo-27177031.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A treat jar keeps your dog's snacks in one spot on the counter. This guide compares four options in plastic, ceramic and metal, so you can match the material, capacity and lid style to your kitchen.
