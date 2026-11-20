@@ -1,5 +1,5 @@
 ---
-title: 'Allergy and Itch Support Chews for Senior Dogs: How to Choose the Right One'
+title: "Allergy and Itch Chews for Senior Dogs: How to Choose"
 description: "Allergy chews for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-09T08:08:23.490Z'
 structureType: comparison

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Self-Cleaning Slicker Brushes for Dogs: Release-Button Brushes for Shedding
-  Coats
+title: "Self-Cleaning Slicker Brushes for Shedding Dogs"
 description: >-
   Compare four self-cleaning slicker brushes for dogs with release buttons,
   stainless steel pins, non-slip handles and listed sizes and weights.

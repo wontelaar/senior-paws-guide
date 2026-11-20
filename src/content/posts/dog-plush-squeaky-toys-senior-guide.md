@@ -1,5 +1,5 @@
 ---
-title: 'Soft Plush Dog Toys: Squeaky Companions for Gentle Play and Cuddling'
+title: "Soft Plush Dog Toys for Gentle Play"
 description: >-
   Compare four soft plush squeaky dog toys from 6 to 10 inches, with single or
   multiple squeakers and a fleece bone without plastic parts.

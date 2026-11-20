@@ -1,5 +1,5 @@
 ---
-title: 'Dog Doorbells for Potty Breaks: Hanging Bells and a Wireless Doorbell'
+title: "Dog Doorbells for Potty Breaks: Bells and Wireless"
 description: >-
   Compare four dog doorbells, from hanging bells to a wireless doorbell, by
   listed length, materials, range, volume and weight.

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Nylon Dog Chew Bones: Benebone, Nylabone and Bam-Bones in Small to Medium
-  Sizes
+title: "Nylon Dog Chew Bones: Benebone, Nylabone and More"
 description: >-
   Compare four nylon dog chew bones, from a curved Wishbone to a T-bone and
   multi-packs, by listed size, weight range, flavor and material.

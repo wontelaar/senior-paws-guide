@@ -1,5 +1,5 @@
 ---
-title: 'Dog Cone Alternatives: Soft Recovery Collars to Replace the Plastic Cone'
+title: "Dog Cone Alternatives: Soft Recovery Collars"
 description: >-
   Compare five dog cone alternatives: inflatable donuts, soft fabric collars
   and a mesh cone. Matched by dog size and neck measurement, all on Amazon.

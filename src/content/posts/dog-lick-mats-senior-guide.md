@@ -1,5 +1,5 @@
 ---
-title: 'Lick Mats for Senior Dogs: Slow, Easy Treat Time That Works at Any Age'
+title: "Dog Lick Mats for Slow, Easy Treat Time"
 description: >-
   Older dogs slow down, and that is not a flaw to fix but a reality to work
   with.

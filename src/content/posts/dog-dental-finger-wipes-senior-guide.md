@@ -1,5 +1,5 @@
 ---
-title: Dental Finger Wipes for Senior Dogs Who Won't Tolerate a Toothbrush
+title: "Dental Finger Wipes for Dogs Who Hate Toothbrushes"
 description: >-
   An arthritic or anxious senior dog that clamps its jaw shut the moment a
   toothbrush appears doesn't have to go without any oral care routine at all.

@@ -1,5 +1,5 @@
 ---
-title: 'Dog Food Storage Containers: Airtight Bins That Make Daily Feeding Easier'
+title: "Dog Food Storage Containers: Airtight Bins Compared"
 description: "Dog food storage container: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-14T06:52:46.272Z'
 structureType: comparison

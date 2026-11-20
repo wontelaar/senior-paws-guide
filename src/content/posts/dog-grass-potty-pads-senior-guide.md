@@ -1,5 +1,5 @@
 ---
-title: 'Indoor Dog Grass Potty Pads: Artificial Turf Pads with and without Trays'
+title: "Indoor Dog Grass Potty Pads: Artificial Turf Compared"
 description: >-
   Compare four indoor dog grass potty pads, with and without trays, by listed
   size, drainage, materials and cleaning.

@@ -1,5 +1,5 @@
 ---
-title: 'Soft Padded Dog Collars: Neoprene and Mesh Collars with Reflective Stitching'
+title: "Soft Padded Dog Collars: Neoprene and Mesh Picks"
 description: >-
   Compare four padded dog collars with neoprene or mesh padding, reflective
   stitching and size charts from 11 to 27 inches.

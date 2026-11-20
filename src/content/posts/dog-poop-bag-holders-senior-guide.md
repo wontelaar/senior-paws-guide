@@ -1,5 +1,5 @@
 ---
-title: 'Dog Poop Bag Holders: Leash Dispensers and Fabric Carriers for Easy Walks'
+title: "Dog Poop Bag Holders: Leash Dispensers and Carriers"
 description: >-
   Compare four dog poop bag holders, from leash dispensers to a fabric carrier
   with a separate used-bag carrier, by attachment style and included bags.

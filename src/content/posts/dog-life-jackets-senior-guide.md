@@ -1,5 +1,5 @@
 ---
-title: 'Life Jackets for Senior Dogs: Easy-On Flotation Vests with a Lift Handle'
+title: "Dog Life Jackets: Easy-On Flotation Vests with Handles"
 description: >-
   A well-fitted life jacket with a sturdy handle makes pool days and lake trips
   easy to enjoy with your dog.

@@ -1,5 +1,5 @@
 ---
-title: 'Hands-Free Dog Leashes: Waist Belt and Bungee Leashes for Relaxed Walks'
+title: "Hands-Free Dog Leashes: Waist Belt and Bungee Picks"
 description: >-
   Compare four hands-free dog leashes with waist belts, bungee shock absorbers,
   padded handles and listed dog weight ranges from 25 to 150 lb.

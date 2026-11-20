@@ -1,7 +1,5 @@
 ---
-title: >-
-  Dog Car Seat Belts and Safety Harnesses for Senior Dogs: Simple Setups for
-  Easy Rides
+title: "Dog Car Seat Belts and Safety Harnesses for Seniors"
 description: "Dog car seat belt for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-15T17:57:28.365Z'
 structureType: qna

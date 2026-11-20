@@ -1,5 +1,5 @@
 ---
-title: 'Snuffle Mats for Senior Dogs: Hide-and-Sniff Mealtimes at Home'
+title: "Dog Snuffle Mats: Hide-and-Sniff Mealtimes"
 description: >-
   Compare four snuffle mats for hiding kibble and snacks at mealtime, from
   18-inch fleece mats to a compact silicone mat for wet food.

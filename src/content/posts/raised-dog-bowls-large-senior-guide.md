@@ -1,5 +1,5 @@
 ---
-title: 'Raised Dog Bowls for Large Senior Dogs: 5.5 to 16 Inch Stands and Feeders'
+title: "Raised Dog Bowls for Large Senior Dogs: 5.5 to 16 Inch"
 description: >-
   Compare four raised dog bowl stands for large dogs, with listed heights from
   5.5 to 16 inches, spill mats, slow feeder bowls and removable bowls.

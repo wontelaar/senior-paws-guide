@@ -1,7 +1,5 @@
 ---
-title: >-
-  Dog Steps for SUVs and Trucks: Telescoping and Folding Stairs Sized by Trunk
-  Height
+title: "Dog Steps for SUVs and Trucks: Sized by Trunk Height"
 description: >-
   Compare four dog steps and ramps for SUVs and trucks, from telescoping and
   folding stairs to a long ramp, with listed weight ratings and storage sizes.

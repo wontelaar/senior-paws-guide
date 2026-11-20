@@ -1,7 +1,5 @@
 ---
-title: >-
-  Orthopedic Beds for Small Senior Dogs: 23 to 24 Inch Memory Foam and Egg-Crate
-  Picks
+title: "Orthopedic Beds for Small Senior Dogs: Memory Foam Picks"
 description: >-
   Compare four orthopedic beds for small dogs in the 23 to 24 inch range, with
   memory foam or egg-crate foam, waterproof liners and washable covers.

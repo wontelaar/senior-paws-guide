@@ -1,5 +1,5 @@
 ---
-title: Orthopedic Crate Pads for Senior Dogs Who Sleep in a Crate or Kennel
+title: "Orthopedic Crate Pads for Senior Dogs in Crates"
 description: "Orthopedic crate pad for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-10T18:09:07.910Z'
 structureType: qna

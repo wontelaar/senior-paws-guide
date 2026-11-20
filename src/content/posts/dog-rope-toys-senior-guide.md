@@ -1,5 +1,5 @@
 ---
-title: 'Dog Rope Toys: Knotted Cotton Tug Toys from 15 Inches to 3 Feet'
+title: "Dog Rope Toys: Knotted Cotton Tug Toys by Length"
 description: >-
   Compare four dog rope toys, from a single 15 inch rope to a 9 pack and a 3 ft
   rope, by listed length, knots, material and dog size.

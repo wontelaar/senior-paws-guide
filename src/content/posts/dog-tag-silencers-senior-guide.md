@@ -1,5 +1,5 @@
 ---
-title: 'Dog Tag Silencers: Quiet Pet ID Tags with Rubber, Neoprene and Clip-On Covers'
+title: "Dog Tag Silencers: Quiet Pet ID Tag Covers"
 description: >-
   Compare four dog tag silencers, from a silicone wrap to a neoprene pouch and
   clear clips, by tag count, tag shape and listed features.

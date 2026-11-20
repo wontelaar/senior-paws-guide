@@ -1,5 +1,5 @@
 ---
-title: 'Collapsible Dog Bowls for Travel: Foldable Silicone and TPE 2-Packs'
+title: "Collapsible Dog Bowls for Travel: Foldable 2-Packs"
 description: >-
   Compare four collapsible dog bowl 2-packs in silicone, TPE and plastic by
   listed size, capacity, cleaning and carrying options.

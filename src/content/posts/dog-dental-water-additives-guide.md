@@ -1,5 +1,5 @@
 ---
-title: Dental Water Additives for Senior Dogs Who Won't Tolerate Brushing
+title: "Dental Water Additives for Senior Dogs"
 description: >-
   Many senior dogs who fought brushing their whole lives aren't suddenly going
   to accept a toothbrush now, especially if their mouths are sore or sensitive.

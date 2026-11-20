@@ -1,5 +1,5 @@
 ---
-title: 'Retractable Dog Leashes: 16 ft to 30 ft Tape Leashes by Dog Weight'
+title: "Retractable Dog Leashes: 16 to 30 ft by Dog Weight"
 description: >-
   Compare four retractable dog leashes from 16 ft to 30 ft, with listed weight
   limits, handles, locks and weights.

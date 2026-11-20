@@ -1,5 +1,5 @@
 ---
-title: Probiotics and Digestive Supplements for Senior Dogs with Sensitive Stomachs
+title: "Probiotics and Digestive Supplements for Senior Dogs"
 description: >-
   As dogs age, their digestive systems become more sensitive and less efficient
   at breaking down food and absorbing nutrients.

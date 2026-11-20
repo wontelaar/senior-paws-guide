@@ -1,7 +1,5 @@
 ---
-title: >-
-  Dog Toothbrush and Toothpaste Kits for Senior Dogs: What to Buy and How to
-  Start
+title: "Dog Toothbrush and Toothpaste Kits for Senior Dogs"
 description: "Dog toothpaste and toothbrush for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-20T17:12:46.594Z'
 structureType: qna

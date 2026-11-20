@@ -1,5 +1,5 @@
 ---
-title: 'Pet Hair Dryers for Senior Dogs: Quiet, Adjustable Drying After Bath Time'
+title: "Pet Hair Dryers for Senior Dogs: Quiet and Adjustable"
 description: >-
   A pet dryer makes post-bath drying quick, with adjustable heat and airflow you
   control.

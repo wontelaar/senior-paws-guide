@@ -1,5 +1,5 @@
 ---
-title: Non-Slip Stair Treads for Senior Dogs Who Struggle on Wooden Stairs
+title: "Non-Slip Stair Treads for Senior Dogs on Wood Stairs"
 description: >-
   When a senior dog starts hesitating at the top of the stairs or slipping on
   the way down, it's natural to start searching for an easy fix.

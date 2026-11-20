@@ -1,5 +1,5 @@
 ---
-title: 'Dog Training Clickers: Wrist-Strap Clickers in Single and 4-Pack Sets'
+title: "Dog Training Clickers: Wrist-Strap and 4-Pack Sets"
 description: >-
   Compare four dog training clickers, from a 2 pack to two 4 packs, by listed
   wrist band, keyring, colors, size and weight.

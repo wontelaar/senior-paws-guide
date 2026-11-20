@@ -1,5 +1,5 @@
 ---
-title: 'Dog Poop Scoopers: Long-Handle Rakes and Spring Scoopers for Yard Cleanup'
+title: "Dog Poop Scoopers: Long-Handle Rakes and Spring Picks"
 description: >-
   Compare four dog poop scoopers, from a long-handle tray and rake to a bag rake
   and 28 inch spring scoopers, by listed length, style and weight.

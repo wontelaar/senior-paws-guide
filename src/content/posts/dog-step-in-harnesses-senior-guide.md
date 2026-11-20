@@ -1,5 +1,5 @@
 ---
-title: Step-In Harnesses for Senior Dogs Who Dislike Things Pulled Over Their Head
+title: "Step-In Dog Harnesses for Seniors Who Hate Head Pull-Overs"
 description: >-
   For an older dog, a standard harness that has to be pulled over the head can
   turn a simple walk into a small ordeal.

@@ -1,5 +1,5 @@
 ---
-title: 'Dog Treat Pouches for Walks: Hands-Free Rewards for Senior Dogs'
+title: "Dog Treat Pouches for Walks: Hands-Free Rewards"
 description: >-
   A dedicated treat pouch means you're never fumbling with pockets or plastic
   bags while holding a leash.

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Grooming Gloves for Senior Dogs: Gentle Brushing and Bathing You Can Do by
-  Hand
+title: "Dog Grooming Gloves for Gentle Brushing and Bathing"
 description: "Grooming gloves for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-17T16:46:36.465Z'
 structureType: qna

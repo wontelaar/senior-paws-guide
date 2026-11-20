@@ -1,7 +1,5 @@
 ---
-title: >-
-  Soft-Sided Pet Carriers for Small Dogs: 17 to 20 Inch Carriers with Shoulder
-  Straps
+title: "Soft-Sided Carriers for Small Dogs with Shoulder Straps"
 description: >-
   Compare four soft-sided pet carriers for small dogs from 17 to 20 inches by
   listed size, weight guidance, openings and carrying options.

@@ -1,5 +1,5 @@
 ---
-title: 'Indoor Playpens for Senior Dogs: A Comfortable Space to Rest and Roam'
+title: "Indoor Dog Playpens for Seniors: Space to Rest and Roam"
 description: >-
   A playpen gives your dog a defined space to rest, stretch, and move around,
   right where you want it.

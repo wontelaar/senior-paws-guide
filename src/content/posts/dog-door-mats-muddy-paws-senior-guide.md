@@ -1,5 +1,5 @@
 ---
-title: 'Absorbent Dog Door Mats for Muddy Paws: 20 to 36 Inch Microfiber Entryway Mats'
+title: "Absorbent Dog Door Mats for Muddy Paws"
 description: >-
   Compare four absorbent dog door mats from 20 to 36 inches, with chenille or
   microfiber tops, non-slip backing and machine-washable care.

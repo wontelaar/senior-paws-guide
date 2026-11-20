@@ -1,6 +1,5 @@
 ---
-title: >-
-  Dog Leg Braces for Arthritis: Knee, Hock and Wrist Braces for Senior Dogs
+title: "Dog Leg Braces for Arthritis: Knee, Hock and Wrist"
 description: >-
   Compare dog leg braces for senior dogs with arthritis. Four knee, hock and
   front-leg wrist braces on Amazon, matched by joint, side and size.

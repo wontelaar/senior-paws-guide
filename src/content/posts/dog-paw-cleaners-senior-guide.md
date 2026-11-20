@@ -1,5 +1,5 @@
 ---
-title: 'Paw Cleaners for Senior Dogs: Quick Cleanups After Every Walk'
+title: "Dog Paw Cleaners for Quick Cleanups After Walks"
 description: >-
   Older dogs don't always appreciate a long wipe-down session at the door,
   especially if sore joints make standing still for too long uncomfortable.

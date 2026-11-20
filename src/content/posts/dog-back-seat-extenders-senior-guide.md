@@ -1,7 +1,5 @@
 ---
-title: >-
-  Back Seat Extenders for Dogs: 51 to 52 Inch Hard-Bottom Car Beds for Sedans
-  and SUVs
+title: "Dog Back Seat Extenders: Hard-Bottom Car Beds"
 description: >-
   Compare four hard-bottom back seat extenders for dogs, from 51 to 52 inches,
   with listed weight ratings, fabrics and zippered side flaps.

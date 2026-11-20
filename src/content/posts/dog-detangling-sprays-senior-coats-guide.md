@@ -1,7 +1,5 @@
 ---
-title: >-
-  Detangling Sprays and Leave-In Conditioners for Senior Dogs with Tangle-Prone
-  Coats
+title: "Detangling Sprays and Conditioners for Senior Dog Coats"
 description: "Detangling spray for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-08T08:08:43.262Z'
 structureType: comparison

@@ -1,5 +1,5 @@
 ---
-title: 'Soft-Sided Collapsible Dog Crates: 24 to 36 Inch Travel Crates That Fold Flat'
+title: "Soft-Sided Collapsible Dog Crates: 24 to 36 Inch"
 description: >-
   Compare four collapsible soft dog crates from 24 to 36 inches by listed size,
   dog weight, doors, mesh windows and frame.

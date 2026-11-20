@@ -1,5 +1,5 @@
 ---
-title: 'Dog Ramps for Couches and Low Beds: Which Height Fits Your Senior Dog?'
+title: "Dog Ramps for Couches and Low Beds: Which Height?"
 description: "Dog ramp for couch senior dog: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-22T06:47:50.569Z'
 structureType: comparison

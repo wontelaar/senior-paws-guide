@@ -1,5 +1,5 @@
 ---
-title: 'Calming Aids for Anxious Senior Dogs: Chews, Wraps, and What to Try First'
+title: "Calming Aids for Anxious Senior Dogs: What to Try First"
 description: "Calming aid for anxious senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-25T18:10:20.207Z'
 structureType: comparison

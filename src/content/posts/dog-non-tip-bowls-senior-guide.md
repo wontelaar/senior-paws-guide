@@ -1,7 +1,5 @@
 ---
-title: >-
-  Non-Tip Dog Bowls for Senior Dogs: Steady, Quiet Bowls That Stay Put at
-  Mealtime
+title: "Non-Tip Dog Bowls: Steady, Quiet Bowls for Seniors"
 description: >-
   An older dog that nudges, leans, or shuffles up to its food bowl needs that
   bowl to stay exactly where it is.

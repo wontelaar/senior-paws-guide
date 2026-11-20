@@ -1,5 +1,5 @@
 ---
-title: 'Pet Cameras for Senior Dogs: Check In From Your Phone While You Are Out'
+title: "Pet Cameras for Senior Dogs: Check In From Your Phone"
 description: >-
   Compare four pet cameras for checking in on your dog from your phone, from a
   360 degree view to models with a built-in snack dispenser.

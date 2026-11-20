@@ -1,7 +1,5 @@
 ---
-title: >-
-  Pet Hair Removers for Furniture: Reusable Rollers That Keep Couches and Beds
-  Fur-Free
+title: "Pet Hair Removers for Furniture: Reusable Rollers"
 description: >-
   A reusable pet hair roller offers a quick, no-mess way to clear furniture and
   bedding without refills or sticky sheets.

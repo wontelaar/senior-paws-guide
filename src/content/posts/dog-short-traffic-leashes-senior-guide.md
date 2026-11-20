@@ -1,5 +1,5 @@
 ---
-title: 'Short Traffic Leashes for Senior Dogs: Close Control on Walks Without a Tug'
+title: "Short Traffic Leashes for Senior Dogs: Close Control"
 description: >-
   Senior dogs often do their best walking close to your side, away from sudden
   lunges toward squirrels or strange dogs that could jolt an aging body.

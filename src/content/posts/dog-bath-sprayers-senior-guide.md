@@ -1,5 +1,5 @@
 ---
-title: 'Dog Bath Sprayers: Faucet and Shower Attachments for Easier Bath Time at Home'
+title: "Dog Bath Sprayers: Faucet and Shower Attachments"
 description: >-
   A dedicated sprayer attachment connects to a faucet, shower, or hose and makes
   rinsing a dog at home simple.

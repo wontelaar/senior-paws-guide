@@ -1,5 +1,5 @@
 ---
-title: Waterless No-Rinse Shampoos for Senior Dogs Who Struggle with Bath Time
+title: "Waterless No-Rinse Dog Shampoos for Seniors"
 description: >-
   For a senior dog with arthritis, joint pain, or anxiety around standing in a
   tub, a full bath can turn into a stressful ordeal for everyone involved.

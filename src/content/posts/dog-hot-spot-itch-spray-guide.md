@@ -1,5 +1,5 @@
 ---
-title: Hot Spot and Itch Relief Sprays for Senior Dogs with Irritated Skin
+title: "Hot Spot and Itch Sprays for Senior Dogs"
 description: "Hot spot spray for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-01T19:11:36.442Z'
 structureType: comparison

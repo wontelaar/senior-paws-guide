@@ -129,6 +129,8 @@ async function checkPost(targetFile) {
 	}
 
 	const warnings = [];
+	const titleMatch = raw.match(/^title:\s*["']?(.+?)["']?\s*$/m);
+	if (titleMatch && titleMatch[1].length > 60) warnings.push(`Title is ${titleMatch[1].length} chars — keep it to 60 or fewer so it is not cut off in search results.`);
 	if (!content.includes('fit-guide:start')) {
 		warnings.push('No fit/choose guide section (data/fit-guides) — add one before approving.');
 	}

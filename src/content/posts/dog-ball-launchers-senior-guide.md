@@ -1,5 +1,5 @@
 ---
-title: 'Dog Ball Launchers: Chuckit! Hand Launchers and an Automatic Launcher'
+title: "Dog Ball Launchers: Hand and Automatic Picks"
 description: >-
   Compare four dog ball launchers, from 12 and 26 inch Chuckit! hand launchers
   to an automatic launcher, by listed size, included balls and weight.

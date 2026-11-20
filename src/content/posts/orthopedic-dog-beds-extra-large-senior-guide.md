@@ -1,5 +1,5 @@
 ---
-title: 'Best Orthopedic Dog Beds for 100 lb and Larger Senior Dogs (Up to 150 lb)'
+title: "Best Orthopedic Dog Beds for 100 lb+ Senior Dogs"
 description: >-
   Four orthopedic dog beds for 100 lb dogs and larger seniors, with a length
   chart, listed weight limits up to 150 lb, waterproof liners and low entry.

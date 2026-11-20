@@ -1,5 +1,5 @@
 ---
-title: Pet Gates for Blocking Stairs and Keeping Senior Dogs Safe at Home
+title: "Pet Gates for Blocking Stairs: Safe Picks for Seniors"
 description: "Pet gate for stairs senior dog: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-21T07:23:33.157Z'
 structureType: comparison

@@ -1,5 +1,5 @@
 ---
-title: Washable Pee Pads and Waterproof Blankets for Senior Dogs with Accidents
+title: "Washable Pee Pads and Waterproof Blankets for Seniors"
 description: >-
   A senior dog that starts having accidents in the house isn't being difficult,
   and it isn't "forgetting" its training.

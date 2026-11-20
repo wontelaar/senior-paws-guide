@@ -1,5 +1,5 @@
 ---
-title: Medicated Ear Drops for Senior Dogs with Recurring Ear Infections
+title: "Medicated Ear Drops for Senior Dogs: How to Choose"
 description: "Medicated ear drops for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-29T19:02:58.284Z'
 structureType: comparison

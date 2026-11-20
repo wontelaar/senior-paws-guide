@@ -1,7 +1,5 @@
 ---
-title: >-
-  Digital Dog Scales for Weighing Senior Dogs at Home: Capacity and Platform
-  Size Guide
+title: "Digital Dog Scales for Weighing Seniors at Home"
 description: >-
   A digital dog scale lets you track your dog's weight from home, on your own
   schedule.

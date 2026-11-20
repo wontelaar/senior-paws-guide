@@ -1,7 +1,5 @@
 ---
-title: >-
-  Heated Dog Water Bowls for Winter: Capacity and Cold-Weather Guide for Senior
-  Dogs
+title: "Heated Dog Water Bowls for Winter: Capacity Guide"
 description: >-
   Compare four heated dog water bowls from 1 quart to 5.5 liters, with listed
   wattage, cold-weather ratings and anti-chew cords.

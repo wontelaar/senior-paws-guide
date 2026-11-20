@@ -1,7 +1,5 @@
 ---
-title: >-
-  Raised Dog Bowls for Small Senior Dogs: 3 to 7 Inch Heights for Chihuahuas and
-  Other Small Breeds
+title: "Raised Dog Bowls for Small Dogs: 3 to 7 Inch Heights"
 description: >-
   A raised bowl brings food and water up to a height you choose, with fixed and
   adjustable stands from 2 to 7.5 inches.

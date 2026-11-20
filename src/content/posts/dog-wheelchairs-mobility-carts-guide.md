@@ -1,7 +1,5 @@
 ---
-title: >-
-  Dog Wheelchairs and Mobility Carts: A Guide for Senior Dogs with Limited Leg
-  Function
+title: "Dog Wheelchairs and Mobility Carts for Senior Dogs"
 description: "Dog wheelchair for senior dogs back legs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-11T17:27:39.130Z'
 structureType: narrative-guide

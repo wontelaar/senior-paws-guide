@@ -1,5 +1,5 @@
 ---
-title: 'Handheld Pet Hair Vacuums: Cordless Cleanup for Couches, Beds and Stairs'
+title: "Handheld Pet Hair Vacuums for Couches and Stairs"
 description: >-
   Compare four cordless handheld pet hair vacuums with motorized brushes,
   crevice tools, washable filters and USB or Type-C charging.

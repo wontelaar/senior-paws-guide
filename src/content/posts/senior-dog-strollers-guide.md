@@ -1,5 +1,5 @@
 ---
-title: Dog Strollers for Senior Dogs Who Can't Walk as Far as They Used To
+title: "Dog Strollers for Senior Dogs Who Cannot Walk Far"
 description: >-
   Senior dogs often retain their love of outdoor exploration and neighborhood
   sniffing long after their bodies stop cooperating with multi-mile walks.

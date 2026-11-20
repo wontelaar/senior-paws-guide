@@ -1,5 +1,5 @@
 ---
-title: Non-Slip Feeding Mats for Senior Dogs Who Push Bowls Around and Spill
+title: "Non-Slip Dog Feeding Mats for Messy Eaters"
 description: "Non slip dog food mat for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-07T19:40:31.200Z'
 structureType: comparison

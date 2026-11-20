@@ -1,5 +1,5 @@
 ---
-title: Nail Clippers and Grinders for Senior Dogs with Thick or Brittle Nails
+title: "Nail Clippers and Grinders for Senior Dogs"
 description: "Nail grinder for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-16T17:53:26.514Z'
 structureType: comparison

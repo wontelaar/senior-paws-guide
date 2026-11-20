@@ -1,5 +1,5 @@
 ---
-title: 'Raincoats for Senior Dogs: Easy-On Waterproof Jackets for Wet-Weather Walks'
+title: "Dog Raincoats: Easy-On Waterproof Jackets for Seniors"
 description: >-
   A good raincoat is quick to slip on and simple to adjust, so wet-weather walks
   stay easy for both of you.

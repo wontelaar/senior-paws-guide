@@ -1,5 +1,5 @@
 ---
-title: 'Heart Health Supplements for Senior Dogs: Taurine, CoQ10, and More'
+title: "Heart Health Supplements for Senior Dogs"
 description: "Heart supplement for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-04T07:33:14.901Z'
 structureType: comparison

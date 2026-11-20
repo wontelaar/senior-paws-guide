@@ -1,5 +1,5 @@
 ---
-title: Grip Socks and Toe Grips for Senior Dogs Who Slip on Hard Floors
+title: "Dog Grip Socks and Toe Grips for Slippery Floors"
 description: "Non slip socks for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-04T17:56:18.917Z'
 structureType: qna

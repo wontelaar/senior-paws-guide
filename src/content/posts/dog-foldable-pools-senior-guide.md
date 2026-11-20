@@ -1,5 +1,5 @@
 ---
-title: 'Foldable Dog Pools: 32 to 67 Inch Pools That Fold for Storage'
+title: "Foldable Dog Pools: 32 to 67 Inch Sizes"
 description: >-
   Compare four foldable dog pools from 32 to 67 inches by listed size, depth,
   material, bottom texture and drain.

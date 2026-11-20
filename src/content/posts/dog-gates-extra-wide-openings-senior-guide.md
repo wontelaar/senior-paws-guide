@@ -1,5 +1,5 @@
 ---
-title: 'Extra-Wide Dog Gates for Big Openings: 60-Inch and Wider Picks for Senior Dogs'
+title: "Extra-Wide Dog Gates: 60-Inch and Wider Picks"
 description: >-
   A wide doorway, open-concept kitchen, or staircase landing can turn into a
   real obstacle when an older dog has trouble with mobility, vision, or balance.

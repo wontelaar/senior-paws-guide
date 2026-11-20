@@ -1,5 +1,5 @@
 ---
-title: 'Dog Treat Jars: Airtight Ceramic, Plastic and Metal Containers for the Counter'
+title: "Dog Treat Jars: Airtight Ceramic, Plastic and Metal"
 description: >-
   Compare four dog treat jars in plastic, ceramic and metal by listed capacity,
   size, lid style and material.

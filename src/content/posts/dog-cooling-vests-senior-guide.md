@@ -1,5 +1,5 @@
 ---
-title: 'Cooling Vests for Senior Dogs: Easy Summer Comfort on Walks and in the Yard'
+title: "Cooling Vests for Senior Dogs: Summer Walk Comfort"
 description: "Cooling vest for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-15T06:40:36.714Z'
 structureType: comparison

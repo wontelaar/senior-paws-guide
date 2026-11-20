@@ -1,5 +1,5 @@
 ---
-title: 'Dog Fetch Balls: Rubber and Tennis Balls in X-Small to Medium Sizes'
+title: "Dog Fetch Balls: Rubber and Tennis Balls by Size"
 description: >-
   Compare four dog fetch balls, from rubber balls that float to squeaky X-Small
   and regular tennis balls, by size, pack count and launcher fit.

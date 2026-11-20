@@ -1,5 +1,5 @@
 ---
-title: 'Dog Leashes, 6 ft: Nylon, Reflective and Rope Leashes with Padded Handles'
+title: "6 ft Dog Leashes: Nylon and Padded-Handle Picks"
 description: >-
   Compare four 6 ft dog leashes in nylon and rope by listed dog size, width,
   handle, reflective stitching and weight.

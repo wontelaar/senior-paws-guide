@@ -1,5 +1,5 @@
 ---
-title: Puzzle Toys and Enrichment for Senior Dogs Slowing Down Mentally
+title: "Puzzle Toys and Enrichment for Senior Dogs"
 description: >-
   When an older dog starts sleeping more, moving slower, and showing less
   interest in the world around it, it's easy to write that off as simple aging.

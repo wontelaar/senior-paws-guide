@@ -1,7 +1,5 @@
 ---
-title: >-
-  AirTag Dog Collar Holders: Waterproof Silicone and Screw-Through Cases for Any
-  Collar
+title: "AirTag Dog Collar Holders: Waterproof Silicone Cases"
 description: >-
   Compare four AirTag dog collar holders, from slide-on silicone cases to a
   screw-through mount, with listed waterproof ratings.

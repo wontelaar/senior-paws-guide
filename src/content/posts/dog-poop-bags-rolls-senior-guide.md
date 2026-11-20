@@ -1,5 +1,5 @@
 ---
-title: 'Dog Poop Bags: 120 to 1,000 Count Rolls with Dispensers and Leash Clips'
+title: "Dog Poop Bags: Bulk Rolls with Dispensers"
 description: >-
   Compare four dog poop bag options from 120 to 1,000 count, with listed bag
   sizes, roll formats and dispensers with leash clips.

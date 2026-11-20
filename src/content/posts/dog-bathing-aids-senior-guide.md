@@ -1,5 +1,5 @@
 ---
-title: Bathing Aids for Senior Dogs Who Struggle to Stand or Climb Into a Tub
+title: "Bathing Aids for Senior Dogs Who Struggle in the Tub"
 description: "Bathing aids for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-03T07:15:11.726Z'
 structureType: narrative-guide

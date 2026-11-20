@@ -1,5 +1,5 @@
 ---
-title: Cleansing Wipes for Senior Dogs with Incontinence or Sensitive Skin
+title: "Cleansing Wipes for Senior Dogs with Sensitive Skin"
 description: >-
   Senior dogs face a unique combination of physical and physiological challenges
   that make routine hygiene more complicated than it is for younger animals.

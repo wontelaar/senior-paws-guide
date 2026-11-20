@@ -1,5 +1,5 @@
 ---
-title: 'Fish Oil and Omega-3 Supplements for Senior Dogs: Liquids vs. Chews'
+title: "Fish Oil and Omega-3 for Senior Dogs: Liquids vs Chews"
 description: "Fish oil for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-27T18:00:49.365Z'
 structureType: comparison

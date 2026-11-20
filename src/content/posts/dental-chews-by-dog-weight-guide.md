@@ -1,5 +1,5 @@
 ---
-title: 'Dental Chews for Dogs by Weight: Picking the Right Size for Your Senior Dog'
+title: "Dental Chews by Dog Weight: Pick the Right Size"
 description: "Dental chews for senior dogs by size: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-12T16:40:36.393Z'
 structureType: comparison

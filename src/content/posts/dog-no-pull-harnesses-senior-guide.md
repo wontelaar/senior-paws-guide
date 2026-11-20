@@ -1,5 +1,5 @@
 ---
-title: 'No-Pull Dog Harnesses: Front-Clip Harnesses with Handles and Reflective Trim'
+title: "No-Pull Dog Harnesses: Front-Clip Picks with Handles"
 description: >-
   Compare four front-clip dog harnesses with top handles, reflective trim and
   listed size charts, from vest styles to a lightweight martingale harness.

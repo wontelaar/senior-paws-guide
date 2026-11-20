@@ -1,7 +1,5 @@
 ---
-title: >-
-  Elevated Portable Dog Bathtubs for Large and Senior Dogs: Size, Stairs and
-  Weight Limits
+title: "Elevated Portable Dog Bathtubs for Large Dogs"
 description: >-
   An elevated portable dog bathtub brings the wash basin up to a workable
   height, with stairs on some models.

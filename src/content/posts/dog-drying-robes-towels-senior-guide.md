@@ -1,5 +1,5 @@
 ---
-title: Drying Robes and Absorbent Towels for Senior Dogs After Bath Time
+title: "Dog Drying Robes and Absorbent Towels After Baths"
 description: >-
   Bath time gets harder as dogs get older, and the hard part usually isn't the
   washing — it's everything that comes after.

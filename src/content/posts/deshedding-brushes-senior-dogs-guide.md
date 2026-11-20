@@ -1,5 +1,5 @@
 ---
-title: Deshedding Brushes for Senior Dogs with Thinning or Sensitive Coats
+title: "Deshedding Brushes for Senior Dogs with Thin Coats"
 description: "Deshedding brush for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-16T06:58:04.313Z'
 structureType: comparison

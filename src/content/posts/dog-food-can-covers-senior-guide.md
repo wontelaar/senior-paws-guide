@@ -1,5 +1,5 @@
 ---
-title: 'Pet Food Can Covers: Keep Leftover Wet Food Sealed and Easy to Serve'
+title: "Pet Food Can Covers for Leftover Wet Food"
 description: >-
   A dedicated pet food can cover snaps onto the rim in seconds and keeps the
   fridge tidier.

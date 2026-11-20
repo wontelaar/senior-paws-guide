@@ -1,5 +1,5 @@
 ---
-title: 'Elevated Cot Beds for Senior Dogs: Cool, Raised Resting Spots Indoors and Out'
+title: "Elevated Dog Cot Beds: Cool, Raised Resting Spots"
 description: "Elevated dog bed for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-12T21:56:35.807Z'
 structureType: comparison

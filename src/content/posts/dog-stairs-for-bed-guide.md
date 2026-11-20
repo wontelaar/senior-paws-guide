@@ -1,5 +1,5 @@
 ---
-title: 'Dog Stairs vs Ramps for Getting on the Bed: A Senior Dog Owner''s Guide'
+title: "Dog Stairs vs Ramps for the Bed: A Senior Dog Guide"
 description: >-
   For many senior dogs, jumping onto a bed—once an effortless part of their
   daily routine—becomes a source of strain and pain.

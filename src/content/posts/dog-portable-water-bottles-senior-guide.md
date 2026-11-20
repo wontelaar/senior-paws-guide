@@ -1,7 +1,5 @@
 ---
-title: >-
-  Portable Dog Water Bottles and Travel Bowls for Walks and Trips with a Senior
-  Dog
+title: "Portable Dog Water Bottles and Travel Bowls for Walks"
 description: "Portable dog water bottle: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-14T18:15:29.454Z'
 structureType: qna

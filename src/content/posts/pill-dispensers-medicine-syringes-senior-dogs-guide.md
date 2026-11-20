@@ -1,5 +1,5 @@
 ---
-title: Pill Dispensers and Medicine Syringes for Senior Dogs on Daily Medication
+title: "Pill Dispensers and Medicine Syringes for Dogs"
 description: >-
   Getting a senior dog to take their daily medications can feel like a small
   battle every single day.

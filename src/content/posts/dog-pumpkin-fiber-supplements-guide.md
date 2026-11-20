@@ -1,5 +1,5 @@
 ---
-title: Pumpkin and Fiber Supplements for Senior Dog Digestive Regularity
+title: "Pumpkin and Fiber Supplements for Senior Dogs"
 description: "Pumpkin fiber supplement for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-28T07:53:59.833Z'
 structureType: comparison

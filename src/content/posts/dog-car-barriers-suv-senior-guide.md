@@ -1,5 +1,5 @@
 ---
-title: 'Dog Car Barriers for SUVs: Adjustable Steel Wire Mesh Dividers up to 60 Inches'
+title: "Dog Car Barriers for SUVs: Adjustable Wire Mesh Dividers"
 description: >-
   Compare four adjustable steel wire mesh dog car barriers for SUVs by listed
   width, panel layout, weight and installation.

@@ -1,5 +1,5 @@
 ---
-title: Soft and Chewy Treats for Senior Dogs Who Struggle with Hard Biscuits
+title: "Soft and Chewy Treats for Senior Dogs"
 description: >-
   When a dog's teeth, gums, or jaw muscles aren't what they used to be, a
   rock-hard biscuit can turn treat time into a struggle instead of a joy.

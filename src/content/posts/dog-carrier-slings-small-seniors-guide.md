@@ -1,5 +1,5 @@
 ---
-title: Carrier Slings and Front Packs for Small Senior Dogs Who Tire on Walks
+title: "Carrier Slings for Small Senior Dogs Who Tire on Walks"
 description: >-
   For an older dog, a walk around the block can stop being simple exercise and
   start being a genuine challenge.
