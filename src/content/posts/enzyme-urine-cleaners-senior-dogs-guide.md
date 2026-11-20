@@ -1,8 +1,6 @@
 ---
 title: 'Enzyme Cleaners for Senior Dog Urine Accidents on Carpet, Floors, and Bedding'
-description: >-
-  When an aging dog starts having accidents on the carpet or bedding, the mess
-  is only half the problem — leftover odor can pull the dog back to the same…
+description: "Best enzyme cleaner for dog urine: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-26T17:32:41.115Z'
 structureType: comparison
 topicId: enzyme-urine-cleaners-senior-dogs-guide

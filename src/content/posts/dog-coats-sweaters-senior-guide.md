@@ -1,8 +1,6 @@
 ---
 title: Warm Coats and Sweaters for Senior Dogs in Cold Weather
-description: >-
-  Older dogs lose the ability to regulate their own body temperature nearly as
-  efficiently as they did when they were young, and that shift matters more…
+description: "Warm coat for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-22T17:51:54.945Z'
 structureType: narrative-guide
 topicId: dog-coats-sweaters-senior-guide

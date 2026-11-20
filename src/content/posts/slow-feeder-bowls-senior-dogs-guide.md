@@ -1,8 +1,6 @@
 ---
 title: Slow Feeder Bowls for Senior Dogs Who Eat Too Fast
-description: >-
-  Senior dogs who eat too fast face real health risks—from vomiting and choking
-  to uncomfortable bloat-like sensations—especially as their digestive systems…
+description: "Slow feeder bowl for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-12T06:40:17.619Z'
 structureType: qna
 topicId: slow-feeder-bowls-senior-dogs-guide

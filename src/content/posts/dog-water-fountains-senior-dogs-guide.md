@@ -1,8 +1,6 @@
 ---
 title: Best Dog Water Fountains to Keep Senior Dogs Hydrated
-description: >-
-  Senior dogs often struggle to stay hydrated due to arthritis, mobility issues,
-  or reduced motivation to drink from static bowls—problems that can lead to…
+description: "Dog water fountain for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-13T06:57:03.871Z'
 structureType: comparison
 topicId: dog-water-fountains-senior-dogs-guide

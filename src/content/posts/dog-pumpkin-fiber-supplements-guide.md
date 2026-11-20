@@ -1,8 +1,6 @@
 ---
 title: Pumpkin and Fiber Supplements for Senior Dog Digestive Regularity
-description: >-
-  As dogs age, digestive regularity often gets less predictable — arthritis and
-  reduced activity can slow things down, medications can upset stool…
+description: "Pumpkin fiber supplement for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-28T07:53:59.833Z'
 structureType: comparison
 topicId: dog-pumpkin-fiber-supplements-guide

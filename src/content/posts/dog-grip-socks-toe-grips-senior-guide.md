@@ -1,8 +1,6 @@
 ---
 title: Grip Socks and Toe Grips for Senior Dogs Who Slip on Hard Floors
-description: >-
-  Watching an older dog's paws splay out on the kitchen tile is unsettling, and
-  it's a common enough problem that a whole category of grip socks and toe…
+description: "Non slip socks for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-04T17:56:18.917Z'
 structureType: qna
 topicId: dog-grip-socks-toe-grips-senior-guide

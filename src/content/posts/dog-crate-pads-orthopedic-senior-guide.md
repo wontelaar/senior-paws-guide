@@ -1,8 +1,6 @@
 ---
 title: Orthopedic Crate Pads for Senior Dogs Who Sleep in a Crate or Kennel
-description: >-
-  Senior dogs tend to spend more hours resting, and the right crate pad can make
-  that time in the crate noticeably softer on aging joints and pressure…
+description: "Orthopedic crate pad for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-10T18:09:07.910Z'
 structureType: qna
 topicId: dog-crate-pads-orthopedic-senior-guide

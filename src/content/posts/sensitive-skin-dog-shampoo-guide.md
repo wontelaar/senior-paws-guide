@@ -1,9 +1,6 @@
 ---
 title: Best Medicated Shampoos for Dogs with Sensitive Skin
-description: >-
-  Dogs with sensitive skin—especially aging or arthritic companions that
-  struggle to groom themselves effectively—often suffer from persistent
-  itching,…
+description: "Medicated dog shampoo sensitive skin: 5 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-07T12:00:00Z'
 structureType: comparison
 topicId: sensitive-skin-dog-shampoo-guide

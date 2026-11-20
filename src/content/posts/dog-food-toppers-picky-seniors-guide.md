@@ -1,8 +1,6 @@
 ---
 title: Food Toppers to Tempt Picky Senior Dogs at Mealtime
-description: >-
-  When an older dog starts turning up its nose at a food bowl that used to get
-  emptied in seconds, it's a frustrating and sometimes worrying change for any…
+description: "Food topper for picky senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-27T07:17:58.628Z'
 structureType: qna
 topicId: dog-food-toppers-picky-seniors-guide

@@ -1,8 +1,6 @@
 ---
 title: Soft Nail Caps for Senior Dogs Who Won't Tolerate Nail Trims
-description: >-
-  Many senior dogs reach a point where the sound of nail clippers sends them
-  into a panic, whether from past pain, arthritis that makes paw-handling…
+description: "Soft nail caps for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-24T18:06:04.537Z'
 structureType: qna
 topicId: dog-nail-caps-senior-guide

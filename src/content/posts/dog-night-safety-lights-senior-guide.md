@@ -1,9 +1,6 @@
 ---
 title: LED Collars and Reflective Gear for Senior Dogs with Fading Vision or Hearing
-description: >-
-  A senior dog wandering into the yard at dusk presents a problem that most
-  owners don't fully appreciate until it happens: an aging dog with cloudy eyes
-  or…
+description: "Led collar for senior dogs night walks: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-25T06:49:29.277Z'
 structureType: narrative-guide
 topicId: dog-night-safety-lights-senior-guide

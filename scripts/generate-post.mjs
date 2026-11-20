@@ -4,6 +4,7 @@
 // result to src/content/posts/<topicId>.md as a draft (draft: true) so the
 // QA gate + human spot-check happen before it ever appears on the live site.
 
+import { topicDescription } from './descriptions-lib.mjs';
 import 'dotenv/config';
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -263,7 +264,7 @@ async function main() {
 
 	const frontmatter = {
 		title: next.title,
-		description: deriveDescription(rawBody),
+		description: deriveDescription(rawBody).endsWith('…') ? topicDescription(next) : deriveDescription(rawBody),
 		// Full timestamp (not just the date) so posts generated on the same
 		// calendar day still sort correctly newest-first on the homepage —
 		// a date-only string makes same-day posts tie and fall back to

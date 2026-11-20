@@ -1,8 +1,6 @@
 ---
 title: 'Dental Chews for Dogs by Weight: Picking the Right Size for Your Senior Dog'
-description: >-
-  Senior dogs often struggle with dental health due to weakened teeth and gums,
-  making it harder for them to chew traditional, rock-hard dental chews…
+description: "Dental chews for senior dogs by size: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-12T16:40:36.393Z'
 structureType: comparison
 topicId: dental-chews-by-dog-weight-guide

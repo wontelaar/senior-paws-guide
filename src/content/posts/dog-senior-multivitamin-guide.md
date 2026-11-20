@@ -1,8 +1,6 @@
 ---
 title: Senior Dog Multivitamins for Overall Wellness
-description: >-
-  As dogs age, their nutritional needs shift, and many owners start wondering
-  whether a daily multivitamin could help fill in nutritional gaps that come…
+description: "Senior dog multivitamin: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-01T07:58:00.016Z'
 structureType: qna
 topicId: dog-senior-multivitamin-guide

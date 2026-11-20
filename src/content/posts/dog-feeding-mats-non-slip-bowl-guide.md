@@ -1,8 +1,6 @@
 ---
 title: Non-Slip Feeding Mats for Senior Dogs Who Push Bowls Around and Spill
-description: >-
-  An older dog that nudges its bowl across the kitchen floor, drools onto the
-  tile, or slops water over the rim at every meal isn't being careless —…
+description: "Non slip dog food mat for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-07T19:40:31.200Z'
 structureType: comparison
 topicId: dog-feeding-mats-non-slip-bowl-guide

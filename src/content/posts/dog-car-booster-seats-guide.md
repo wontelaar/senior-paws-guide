@@ -1,8 +1,6 @@
 ---
 title: Car Booster Seats for Small Senior Dogs Who Can't Jump In
-description: >-
-  As senior dogs lose the hip strength, vision, or joint comfort needed to hop
-  into the car, a booster seat can turn a stressful lift-and-wrestle routine…
+description: "Dog car booster seat for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-02T18:51:31.172Z'
 structureType: qna
 topicId: dog-car-booster-seats-guide

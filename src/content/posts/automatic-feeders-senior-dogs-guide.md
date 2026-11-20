@@ -1,8 +1,6 @@
 ---
 title: Automatic Pet Feeders for Senior Dogs on Feeding Schedules
-description: >-
-  Keeping a senior dog on a consistent feeding schedule can be challenging when
-  arthritis, mobility issues, or your own unpredictable schedule gets in the…
+description: "Automatic feeder for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-15T06:55:48.169Z'
 structureType: comparison
 topicId: automatic-feeders-senior-dogs-guide

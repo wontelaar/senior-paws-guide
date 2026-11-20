@@ -1,8 +1,6 @@
 ---
 title: 'Fish Oil and Omega-3 Supplements for Senior Dogs: Liquids vs. Chews'
-description: >-
-  As dogs get older, stiff mornings, duller coats, and slower walks become part
-  of daily life, prompting many owners to look for supplements that support…
+description: "Fish oil for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-27T18:00:49.365Z'
 structureType: comparison
 topicId: dog-fish-oil-omega-3-senior-guide

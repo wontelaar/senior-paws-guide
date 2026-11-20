@@ -1,8 +1,6 @@
 ---
 title: 'Recovery Suits for Senior Dogs: A Soft Cone Alternative After Surgery'
-description: >-
-  An older dog recovering from surgery often struggles with a plastic cone more
-  than the incision itself, bumping into furniture, refusing to eat or rest…
+description: "Recovery suit for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-16T17:46:27.495Z'
 structureType: comparison
 topicId: dog-recovery-suits-senior-guide

@@ -1,8 +1,6 @@
 ---
 title: Deshedding Brushes for Senior Dogs with Thinning or Sensitive Coats
-description: >-
-  As your dog enters their senior years, grooming becomes less about aesthetics
-  and more about comfort—matted fur can trap heat, irritate sensitive skin,…
+description: "Deshedding brush for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-16T06:58:04.313Z'
 structureType: comparison
 topicId: deshedding-brushes-senior-dogs-guide

@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import { categorySlug } from '../lib/category-slug';
 
 interface RelatedPost {
 	id: string;
@@ -16,20 +17,50 @@ interface Props {
 	title: string;
 	description: string;
 	heroImage?: string;
+	category?: string;
 	related?: RelatedPost[];
 }
 
-const { title, description, heroImage, related = [] } = Astro.props;
+const { title, description, heroImage, category, related = [] } = Astro.props;
+
+const siteURL = new URL('/', Astro.site).href.replace(/\/$/, '');
+const categoryURL = category ? `${siteURL}/category/${categorySlug(category)}/` : null;
+const crumbs = [
+	{ name: 'Home', url: `${siteURL}/` },
+	...(category && categoryURL ? [{ name: category, url: categoryURL }] : []),
+	{ name: title, url: new URL(Astro.url.pathname, Astro.site).href },
+];
+const jsonLd = [
+	{
+		'@context': 'https://schema.org',
+		'@type': 'BreadcrumbList',
+		itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.url })),
+	},
+	{
+		'@context': 'https://schema.org',
+		'@type': 'Article',
+		headline: title,
+		description,
+		...(heroImage ? { image: [heroImage] } : {}),
+		mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
+	},
+];
 ---
 
 <BaseLayout title={title} description={description} image={heroImage}>
+	<script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd)} />
 	<article>
+		{category && categoryURL && (
+			<nav class="breadcrumbs" aria-label="Breadcrumb">
+				<a href="/">Home</a> <span aria-hidden="true">&rsaquo;</span> <a href={`/category/${categorySlug(category)}/`}>{category}</a>
+			</nav>
+		)}
 		<header class="post-header">
 			<h1>{title}</h1>
 		</header>
 
 		{heroImage && (
-			<img class="post-hero" src={heroImage} alt="" loading="eager" />
+			<img class="post-hero" src={heroImage} alt={title} loading="eager" />
 		)}
 
 		<AffiliateDisclosure />
@@ -43,6 +74,8 @@ const { title, description, heroImage, related = [] } = Astro.props;
 </BaseLayout>
 
 <style>
+	.breadcrumbs { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }
+	.breadcrumbs a { color: var(--muted); }
 	.post-header h1 { margin-bottom: 0.25rem; }
 	.post-hero {
 		display: block;

@@ -1,8 +1,6 @@
 ---
 title: Bathing Aids for Senior Dogs Who Struggle to Stand or Climb Into a Tub
-description: >-
-  For a dog that once bounded in and out of the tub without a second thought,
-  the sight of them hesitating at the edge, trembling, or needing to be lifted…
+description: "Bathing aids for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-03T07:15:11.726Z'
 structureType: narrative-guide
 topicId: dog-bathing-aids-senior-guide

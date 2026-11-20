@@ -2,9 +2,7 @@
 title: >-
   Lift Harnesses and Support Slings for Senior Dogs Who Need Help Standing and
   Climbing
-description: >-
-  A dog that once bounded up the porch steps without a second thought can, over
-  months or years, turn a simple flight of stairs into a hesitant, wobbly…
+description: "Dog lift harness for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-21T19:00:27.377Z'
 structureType: narrative-guide
 topicId: dog-lift-harness-slings-guide

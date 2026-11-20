@@ -2,9 +2,7 @@
 title: >-
   Portable Dog Water Bottles and Travel Bowls for Walks and Trips with a Senior
   Dog
-description: >-
-  Senior dogs tend to walk a little slower and rest a little more, which makes a
-  reliable way to offer water on the go an essential part of every walk or…
+description: "Portable dog water bottle: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-14T18:15:29.454Z'
 structureType: qna
 topicId: dog-portable-water-bottles-senior-guide

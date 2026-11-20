@@ -1,8 +1,6 @@
 ---
 title: Nail Clippers and Grinders for Senior Dogs with Thick or Brittle Nails
-description: >-
-  Nail care becomes significantly more challenging as dogs age, especially when
-  arthritis, thick nails, or brittle keratin make traditional clipping painful…
+description: "Nail grinder for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-16T17:53:26.514Z'
 structureType: comparison
 topicId: nail-clippers-grinders-senior-dogs-guide

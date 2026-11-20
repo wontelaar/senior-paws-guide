@@ -1,9 +1,6 @@
 ---
 title: 'Dog Ramps for Couches and Low Beds: Which Height Fits Your Senior Dog?'
-description: >-
-  When an older dog hesitates at the edge of the couch or stalls out before
-  hopping onto a tall bed, it's rarely stubbornness — it's a sign that jumping
-  has…
+description: "Dog ramp for couch senior dog: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-22T06:47:50.569Z'
 structureType: comparison
 topicId: dog-ramps-couch-low-bed-senior-guide

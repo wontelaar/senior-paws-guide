@@ -1,8 +1,6 @@
 ---
 title: 'Elevated Cot Beds for Senior Dogs: Cool, Raised Resting Spots Indoors and Out'
-description: >-
-  An older dog's joints do best on surfaces that are easy to get onto and gentle
-  to lie on, and a cot-style bed that lifts them off a cold tile floor or hot…
+description: "Elevated dog bed for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-12T21:56:35.807Z'
 structureType: comparison
 topicId: dog-elevated-cot-beds-senior-guide

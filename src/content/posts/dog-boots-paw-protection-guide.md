@@ -1,8 +1,6 @@
 ---
 title: Outdoor Boots for Senior Dogs with Sensitive or Arthritic Paws
-description: >-
-  For an older dog, arthritic joints and thinning paw pads can turn an ordinary
-  walk into something that hurts — hot asphalt, rock salt, and rough trails…
+description: "Outdoor boots for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-02T07:42:29.477Z'
 structureType: comparison
 topicId: dog-boots-paw-protection-guide

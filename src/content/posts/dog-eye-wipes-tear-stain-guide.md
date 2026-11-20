@@ -1,9 +1,6 @@
 ---
 title: Dog Eye Wipes for Senior Dogs with Tear Stains and Discharge
-description: >-
-  An older dog who spends more time napping and less time grooming often
-  develops crusty buildup or reddish-brown tear stains around the eyes, and
-  stiff…
+description: "Dog eye wipes for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-22T07:00:44.875Z'
 structureType: comparison
 topicId: dog-eye-wipes-tear-stain-guide

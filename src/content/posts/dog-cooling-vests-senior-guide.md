@@ -1,8 +1,6 @@
 ---
 title: 'Cooling Vests for Senior Dogs: Easy Summer Comfort on Walks and in the Yard'
-description: >-
-  Older dogs often struggle to regulate body temperature as well as they used
-  to, and stiff joints or arthritis can make them less willing to cut a summer…
+description: "Cooling vest for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-15T06:40:36.714Z'
 structureType: comparison
 topicId: dog-cooling-vests-senior-guide

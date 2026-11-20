@@ -1,8 +1,6 @@
 ---
 title: Hot Spot and Itch Relief Sprays for Senior Dogs with Irritated Skin
-description: >-
-  Senior dogs often deal with thinning fur, drier skin, and slower healing,
-  which makes hot spots and itchy patches more likely to crop up and more…
+description: "Hot spot spray for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-01T19:11:36.442Z'
 structureType: comparison
 topicId: dog-hot-spot-itch-spray-guide

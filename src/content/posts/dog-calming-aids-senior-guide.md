@@ -1,9 +1,6 @@
 ---
 title: 'Calming Aids for Anxious Senior Dogs: Chews, Wraps, and What to Try First'
-description: >-
-  An older dog who suddenly starts pacing at night, panting during storms, or
-  whining when left alone isn't being difficult — aging bodies and brains
-  change…
+description: "Calming aid for anxious senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-25T18:10:20.207Z'
 structureType: comparison
 topicId: dog-calming-aids-senior-guide

@@ -1,8 +1,6 @@
 ---
 title: Pet Gates for Blocking Stairs and Keeping Senior Dogs Safe at Home
-description: >-
-  For a senior or arthritic dog, stairs can turn from a minor obstacle into a
-  real safety hazard — a slip near the top of a staircase or a stumble…
+description: "Pet gate for stairs senior dog: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-21T07:23:33.157Z'
 structureType: comparison
 topicId: pet-gates-stairs-senior-dogs-guide

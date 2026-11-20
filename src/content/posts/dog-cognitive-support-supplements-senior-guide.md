@@ -1,8 +1,6 @@
 ---
 title: 'Cognitive Support Supplements for Senior Dogs: What to Know Before You Try One'
-description: >-
-  When an older dog starts pacing at night, staring blankly at walls, or seeming
-  a little lost in a familiar house, it's natural to want to help right away…
+description: "Cognitive supplement for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-06T08:17:13.481Z'
 structureType: comparison
 topicId: dog-cognitive-support-supplements-senior-guide

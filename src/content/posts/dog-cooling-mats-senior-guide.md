@@ -1,8 +1,6 @@
 ---
 title: Best Cooling Mats for Senior Dogs Who Overheat Easily
-description: >-
-  As senior dogs age, their ability to regulate body temperature declines, and
-  conditions like arthritis make it harder for them to seek shade or move to…
+description: "Cooling mat for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-19T16:57:36.297Z'
 structureType: comparison
 topicId: dog-cooling-mats-senior-guide

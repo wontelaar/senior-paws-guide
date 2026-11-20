@@ -1,8 +1,6 @@
 ---
 title: Medicated Ear Drops for Senior Dogs with Recurring Ear Infections
-description: >-
-  For a senior dog whose ears keep flaring up, ear infections aren't just a
-  minor annoyance — they mean repeated head shaking, scratching, and discomfort…
+description: "Medicated ear drops for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-29T19:02:58.284Z'
 structureType: comparison
 topicId: dog-medicated-ear-drops-guide

@@ -1,9 +1,6 @@
 ---
 title: Appetite Stimulant Supplements for Senior Dogs Who Won't Eat
-description: >-
-  When an older dog starts turning its nose up at food, it's rarely just
-  stubbornness — arthritis, dental discomfort, or simple age-related changes in
-  smell…
+description: "Appetite stimulant for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-03T17:42:38.227Z'
 structureType: comparison
 topicId: dog-appetite-stimulant-supplements-guide

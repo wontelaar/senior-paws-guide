@@ -1,9 +1,6 @@
 ---
 title: Low-Calorie Treats for Senior Dogs Managing Their Weight
-description: >-
-  As dogs get older, the treats they've always loved can quietly become a
-  problem — arthritic joints have to carry extra weight, and slowing
-  metabolisms…
+description: "Low calorie treats for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-30T07:40:35.427Z'
 structureType: comparison
 topicId: dog-low-calorie-treats-senior-guide

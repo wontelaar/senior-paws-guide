@@ -2,9 +2,7 @@
 title: >-
   Detangling Sprays and Leave-In Conditioners for Senior Dogs with Tangle-Prone
   Coats
-description: >-
-  As dogs age, many develop stiff joints or sore muscles that make long brushing
-  sessions genuinely uncomfortable, even as their coats become more prone to…
+description: "Detangling spray for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-10-08T08:08:43.262Z'
 structureType: comparison
 topicId: dog-detangling-sprays-senior-coats-guide

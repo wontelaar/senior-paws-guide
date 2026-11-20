@@ -1,9 +1,6 @@
 ---
 title: Best Heated Dog Beds for Senior Dogs with Arthritis
-description: >-
-  Aging dogs with arthritis often struggle to find comfortable resting
-  positions, especially during cold months or in poorly insulated spaces—leaving
-  owners…
+description: "Heated dog bed for senior dogs: 4 picks compared by features and what each is best for, with Amazon links."
 pubDate: '2026-09-11T06:48:07.395Z'
 structureType: comparison
 topicId: heated-dog-beds-guide
