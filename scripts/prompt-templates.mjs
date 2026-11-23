@@ -67,6 +67,9 @@ Hard rules — do not break these:
   Keep any health/safety mention to one short, calm sentence (for example
   "check with your vet if your dog has a health condition") only where it
   genuinely matters, never as repeated disclaimers.
+  In the FAQ, never write a question about older, senior or arthritic dogs, and
+  never add an "ask your vet" sentence unless the product facts themselves
+  raise a health point.
 - Vary your sentence patterns so the article does not read as formulaic or
   AI-generated: do not reuse the same opening phrase or sentence frame
   across product write-ups.
@@ -96,7 +99,7 @@ export function buildPrompt(topic) {
 		return `Write a buying-guide article titled "${topic.title}" targeting the search intent "${topic.targetKeyword}".
 
 Structure this one as a comparison/roundup:
-1. A short intro (2-3 sentences) framing the real problem this solves for someone with an aging or arthritic dog.
+1. A short intro (2-3 sentences) framing what this product category is and what differs between the options (size, material, format, features). Do NOT tie the intro to an aging, older, senior or arthritic dog, and do not assume anything about the reader's dog, unless the product facts below explicitly say the products are made for senior or arthritic dogs.
 2. A markdown comparison table summarizing the products below (columns: Product, Best For, Key Feature, Notes).
 3. One subsection per product (### heading with the product name) with a 2-4 sentence mini-review covering what it is, what makes it stand out, and who it's best suited for — keep it positive and persuasive, and end on why it's a good fit (no downsides or caveats).
 4. A "How to Choose" section (bulleted) covering the real factors a buyer should weigh for THIS product category (e.g. size/weight of dog, format, budget, plus category-specific ones such as thickness or washability only when they genuinely apply). Never include a bullet just to say a factor doesn't apply.
@@ -111,7 +114,7 @@ ${context}${SHARED_RULES}`;
 		return `Write an informational guide article titled "${topic.title}" targeting the search intent "${topic.targetKeyword}".
 
 Structure this one as a narrative/explainer guide, NOT a table-driven roundup:
-1. Open by explaining the underlying problem in plain terms (why this matters for senior/arthritic dogs specifically).
+1. Open by explaining the underlying problem in plain terms (why this matters, in plain terms; only mention senior or arthritic dogs if the product facts below explicitly say so).
 2. Walk through the 2-3 main approaches or categories a reader should understand before buying anything (explain what each one does well and who it suits in prose, not a table — no downsides).
 3. Weave in the specific products below as concrete examples within the relevant section of prose — introduce each by name with a sentence or two on what makes it fit that approach, using the placeholder token described below.
 4. Close with a short practical checklist (bulleted) of what to measure or check before buying.
@@ -148,12 +151,12 @@ ${backgroundContext(topic)}
 What to write (copy the structure of the examples):
 - Start with one "## " question-style heading (e.g. "Will it fit your vehicle?", "What size does your dog need?").
 - One intro sentence, then "Step 1 / Step 2 / Step 3" measurement steps that are plain, universally accurate (how to measure the dog, the bed, the doorway, the stairs, the vehicle, ... whatever is relevant to THIS product type).
-- A lookup table that turns the reader's measurement into a result (computed from simple arithmetic or geometry), and a table mapping each listed product to what it covers using only its listed specs. Add a row for a product only if you can fill it from its given facts; otherwise write "Check the listing" once for that cell.
+- A table of each listed product's size, capacity or weight in inches/ounces/pounds with the metric conversion next to it (computed through the calculations block), and a table mapping each listed product to what it covers using only its listed specs. Do NOT invent sizing rules, safety margins, thresholds or lookup tables that the product facts do not state (for example "add 2-4 inches", "dogs under X lb need Y", or mapping a body measurement to a recommended size). Only compare a reader measurement to a number that appears in a listed spec. Add a row for a product only if you can fill it from its given facts; otherwise write "Check the listing" once for that cell.
 - A short "How to read it" paragraph that points readers to the product(s) that fit, in a positive, helpful tone.
 - 150-350 words plus tables. English. Mention products by their plain names (no links, no {{LINK}} tokens).
 
 Hard rules:
-- No medical claims (never say treats/cures/relieves/prevents), no timelines, no dosing, no price/durability/quality comparisons between products, no "established/proven/track record", no first-person experience or testing claims, no downsides, no "skip it"/"you may not need this". At most ONE calm line such as "confirm exact dimensions on the product page"; if a health condition is genuinely relevant, one short "check with your vet" sentence.
+- No medical claims (never say treats/cures/relieves/prevents), no timelines, no dosing, no price/durability/quality comparisons between products, no "established/proven/track record", no first-person experience or testing claims, no downsides, no "skip it"/"you may not need this". At most ONE calm line such as "confirm exact dimensions on the product page". Do not mention vets, older, senior, arthritic or joint-related reasons, and do not tell the reader to check with a vet.
 - Never mention "the facts", "notes", dates or years.
 - Convert units correctly (1 in = 2.54 cm, 1 lb = 0.4536 kg, 1 gal = 3.785 L).
 - Do ALL arithmetic through the calculations block below, never in your head.

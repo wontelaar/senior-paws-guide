@@ -2,18 +2,18 @@
 
 A toy basket needs to match both the volume of toys you own and the floor space you can spare for it. Here is a two-minute way to work that out.
 
-**Step 1: Measure your toy pile.** Gather the toys, chews and accessories you want stored and estimate the space they take up — picture how many "shoebox-sized" piles you'd need, or just eyeball a rough volume in liters.
+**Step 1: Compare capacity.** The 35L woven rope basket lists 35 liters and the 30L Woof basket lists 30 liters. The other two list a size but not a capacity.
 
-**Step 2: Measure the floor spot.** Measure the length and width of the corner, hallway, or crate-side spot where the basket will sit, in inches.
+**Step 2: Measure the floor spot.** Measure the length and width of the corner or hallway spot where the basket will sit, in inches.
 
-**Step 3: Check the footprint.** Multiply a basket's listed length by its width to see the floor space it needs. Here is the math for the baskets in this guide:
+**Step 3: Check the footprint.** Multiplying a basket's listed length by its width shows the floor space it needs. Here is the math for the baskets in this guide:
 
-| Basket | Listed length x width | Footprint (length x width) |
-|---|---|---|
-| 35L Woven Rope Toy Box and Bin | 19.7 x 11 in | 216.7 sq in |
-| Felt Toy Bin Basket with Metal Handles | 14.9 x 10.6 in | 157.9 sq in |
-| Large Foldable Dog Toy Basket, 28.7 Inch | 28.7 x 15.7 in | 450.6 sq in |
-| 30L Woof Dog Toy Basket, Woven Rope | 17 x 12 in | 204.0 sq in |
+| Basket | Listed size (in) | In centimeters | Footprint (length x width) |
+|---|---|---|---|
+| 35L Woven Rope Toy Box and Bin | 19.7 x 11 x 7.9 | 50.0 x 27.9 x 20.1 cm | 216.7 sq in |
+| Felt Toy Bin Basket with Metal Handles | 14.9 x 10.6 x 9.8 | 37.8 x 26.9 x 24.9 cm | 157.9 sq in |
+| Large Foldable Dog Toy Basket, 28.7 Inch | 28.7 x 15.7 x 9.1 | 72.9 x 39.9 x 23.1 cm | 450.6 sq in |
+| 30L Woof Dog Toy Basket, Woven Rope | 17 x 12 x 9 | 43.2 x 30.5 x 22.9 cm | 204.0 sq in |
 
 **What each basket is listed to hold:**
 

@@ -1,8 +1,8 @@
 ---
 title: 'Dog Toy Baskets: Woven Rope and Felt Storage Bins'
 description: >-
-  When toys are scattered across the floor, an older or arthritic dog has to
-  bend, stretch, and strain just to settle in with a favorite chew.
+  Compare four dog toy baskets in woven rope and felt by listed size, capacity,
+  handles and whether they fold.
 pubDate: '2026-11-21T20:19:49.641Z'
 structureType: comparison
 topicId: dog-toy-storage-baskets-senior-guide
@@ -11,8 +11,9 @@ heroImage: >-
   https://images.pexels.com/photos/5942487/pexels-photo-5942487.jpeg?cs=tinysrgb&w=1200
 tags: []
 draft: true
+approved: true
 ---
-When toys are scattered across the floor, an older or arthritic dog has to bend, stretch, and strain just to settle in with a favorite chew. A dedicated toy basket keeps everything in one easy-to-reach spot near the dog bed or living room, cutting down on unnecessary movement while also keeping the house tidier. The four options below cover a range of sizes, materials, and designs so you can match the basket to your space and your dog's collection of toys.
+A toy basket keeps your dog's toys in one spot. The four options below cover a range of sizes, materials and designs so you can match the basket to your space and your dog's collection of toys.
 
 | Product | Best For | Key Feature | Notes |
 |---|---|---|---|
@@ -27,18 +28,18 @@ When toys are scattered across the floor, an older or arthritic dog has to bend,
 
 A toy basket needs to match both the volume of toys you own and the floor space you can spare for it. Here is a two-minute way to work that out.
 
-**Step 1: Measure your toy pile.** Gather the toys, chews and accessories you want stored and estimate the space they take up — picture how many "shoebox-sized" piles you'd need, or just eyeball a rough volume in liters.
+**Step 1: Compare capacity.** The 35L woven rope basket lists 35 liters and the 30L Woof basket lists 30 liters. The other two list a size but not a capacity.
 
-**Step 2: Measure the floor spot.** Measure the length and width of the corner, hallway, or crate-side spot where the basket will sit, in inches.
+**Step 2: Measure the floor spot.** Measure the length and width of the corner or hallway spot where the basket will sit, in inches.
 
-**Step 3: Check the footprint.** Multiply a basket's listed length by its width to see the floor space it needs. Here is the math for the baskets in this guide:
+**Step 3: Check the footprint.** Multiplying a basket's listed length by its width shows the floor space it needs. Here is the math for the baskets in this guide:
 
-| Basket | Listed length x width | Footprint (length x width) |
-|---|---|---|
-| 35L Woven Rope Toy Box and Bin | 19.7 x 11 in | 216.7 sq in |
-| Felt Toy Bin Basket with Metal Handles | 14.9 x 10.6 in | 157.9 sq in |
-| Large Foldable Dog Toy Basket, 28.7 Inch | 28.7 x 15.7 in | 450.6 sq in |
-| 30L Woof Dog Toy Basket, Woven Rope | 17 x 12 in | 204.0 sq in |
+| Basket | Listed size (in) | In centimeters | Footprint (length x width) |
+|---|---|---|---|
+| 35L Woven Rope Toy Box and Bin | 19.7 x 11 x 7.9 | 50.0 x 27.9 x 20.1 cm | 216.7 sq in |
+| Felt Toy Bin Basket with Metal Handles | 14.9 x 10.6 x 9.8 | 37.8 x 26.9 x 24.9 cm | 157.9 sq in |
+| Large Foldable Dog Toy Basket, 28.7 Inch | 28.7 x 15.7 x 9.1 | 72.9 x 39.9 x 23.1 cm | 450.6 sq in |
+| 30L Woof Dog Toy Basket, Woven Rope | 17 x 12 x 9 | 43.2 x 30.5 x 22.9 cm | 204.0 sq in |
 
 **What each basket is listed to hold:**
 
@@ -63,7 +64,7 @@ A toy basket needs to match both the volume of toys you own and the floor space 
   </div>
 </div>
 
-This 35 liter woven rope basket measures 19.7 x 11 x 7.9 inches and offers an open-top design that makes it simple to drop toys in or scoop them out without fumbling with lids or zippers. Its generous capacity means it can hold not just toys but collars, leashes, and other daily essentials, helping you consolidate all your dog's gear into a single spot. The woven rope construction gives it a natural, textured look that fits easily into a living room or entryway. It's a strong pick for households with a lot of toys or dog-related items that need one consistent home.
+This 35 liter woven rope basket measures 19.7 x 11 x 7.9 inches and offers an open-top design that makes it simple to drop toys in or scoop them out without fumbling with lids or zippers. It is listed to hold toys, collars and daily essentials, so you can keep your dog's gear in a single spot. The woven rope construction gives it a natural, textured look that fits easily into a living room or entryway. It's a strong pick for households with a lot of toys or dog-related items that need one consistent home.
 
 ### Dog Toy Bin Basket with Metal Handles, Felt
 
@@ -76,7 +77,7 @@ This 35 liter woven rope basket measures 19.7 x 11 x 7.9 inches and offers an op
   </div>
 </div>
 
-Built from felt and finished with metal handles, this basket measures 14.9 x 10.6 x 9.8 inches and is designed to stay quiet on hard floors, which is a thoughtful touch for homes with tile or hardwood where a dragged or bumped bin can otherwise be noisy. It also folds down for storage, so it can be tucked away when not in use or when traveling. The soft felt material paired with sturdy metal handles gives it an easy-to-carry, tidy look that works well in smaller spaces. This is a great choice for dog owners who want a compact, low-noise option that's easy to move from room to room.
+Built from felt and finished with metal handles, this basket measures 14.9 x 10.6 x 9.8 inches and is designed to stay quiet on hard floors, which suits homes with tile or hardwood floors. It also folds down for storage. The soft felt material paired with sturdy metal handles gives it an easy-to-carry, tidy look that works well in smaller spaces. This is a great choice for dog owners who want a compact, low-noise option that's easy to move from room to room.
 
 ### Large Foldable Dog Toy Basket with Handle, 28.7 Inch
 
@@ -89,7 +90,7 @@ Built from felt and finished with metal handles, this basket measures 14.9 x 10.
   </div>
 </div>
 
-At 28.7 x 15.7 x 9.1 inches, this large foldable basket offers plenty of room and a built-in handle for carrying it from one part of the house to another. It's versatile enough to hold toys, chews, clothes, and pee pads, making it useful well beyond just toy storage. Because it folds, it can be flattened for easy storage when it's not needed or when you're packing for a trip. It's an excellent fit for multi-dog households or anyone who wants one basket to handle several categories of pet supplies at once.
+At 28.7 x 15.7 x 9.1 inches, this large foldable basket offers plenty of room and a built-in handle for carrying it from one part of the house to another. It's versatile enough to hold toys, chews, clothes, and pee pads, making it useful well beyond just toy storage. Because it folds, it can be flattened for easy storage when it's not needed or when you're packing for a trip. It's an excellent fit for anyone who wants one basket to handle several categories of pet supplies at once.
 
 ### 30L Woof Dog Toy Basket with Handles, Woven Rope
 
@@ -106,13 +107,12 @@ This 30 liter woven rope basket measures 17 x 12 x 9 inches and brings a playful
 
 ## How to Choose
 
-- **Capacity needed**: Consider how many toys, chews, and accessories you want to store — larger households or multi-dog homes may benefit from the 35L or 28.7-inch options, while smaller collections suit the more compact felt bin.
+- **Capacity needed**: Consider how many toys, chews, and accessories you want to store — the 35L and 28.7-inch options are the largest, while the felt bin is the most compact.
 - **Material and look**: Woven rope offers a natural, textured aesthetic, while felt provides a softer, quieter feel — choose based on your home's decor and flooring type.
 - **Noise on floors**: If your dog's basket will sit on hardwood or tile and gets bumped or dragged often, a felt design built to be quiet on hard floors can be a practical choice.
 - **Portability**: Handles make a real difference if you plan to move the basket between rooms or need to carry it while cleaning; reinforced or metal handles add confidence when lifting a full load.
 - **Foldability for storage**: If you have limited space or want to pack the basket away occasionally, a foldable design lets you flatten it when it's not in active use.
 - **Multi-purpose use**: Some baskets are roomy enough to double as storage for clothes, pee pads, or other pet essentials, which can simplify organization if you'd rather not buy separate bins for each item.
-- **Placement near your dog's resting spot**: Keeping the basket close to a bed or favorite lounging area makes it easier for an aging or arthritic dog to access toys without extra walking or stretching.
 
 ## FAQ
 
