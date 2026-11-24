@@ -10,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/6527909/pexels-photo-6527909.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A flying disc is a classic fetch toy for open yards and water. This guide compares four dog frisbees by material, size and listed features so you can match one to your dog's size and play style.
