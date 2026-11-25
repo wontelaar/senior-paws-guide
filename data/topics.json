@@ -4720,6 +4720,132 @@
           "imageUrl": "https://m.media-amazon.com/images/I/818V5c6GkpL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "dog-slipping-hardwood-floors-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Dog Slipping on Hardwood Floors: Rugs, Socks and Grips",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog slipping on hardwood floors",
+      "heroImage": "https://images.pexels.com/photos/32468378/pexels-photo-32468378.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim any rug, sock, grip or tread prevents falls or fixes weak legs, and don't explain why the dog is unsteady. State listed sizes, backing, care and review counts only. Stair treads: tell readers to check they stay flat and attached.",
+      "products": [
+        {
+          "asin": "B0D89V1RX1",
+          "name": "Washable Hallway Runner Rug, 2x6 ft, Vintage Low-Pile",
+          "notes": "2x6 ft low-pile washable runner with a non-slip backing and a solid edge, listed as stain resistant and machine washable, 11,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UddNOmg5L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C1YG36PS",
+          "name": "KOZYFLY Boho Washable Cotton Runner, 2x6 ft",
+          "notes": "Braided cotton runner measuring 2x6 ft (24 x 72 in) and 0.2 in thick with a slip-resistant rubber backing, listed as vacuumable, shakeable or machine washable, 7,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/818Lpi6xM0L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CB38QLRG",
+          "name": "Washable Hallway Runner Rug, 2x8 ft, Turmeric/Grey",
+          "notes": "2x8 ft retro low-pile washable runner with a non-skid backing, 5,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81-OQ4EC85L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BHKN1G9C",
+          "name": "DOK TigerToes Non-Slip Dog Socks",
+          "notes": "Thick-grip traction socks for hardwood floors, protects paws, sized S-L",
+          "imageUrl": "https://m.media-amazon.com/images/I/817ncfpteiL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CW9RB4YR",
+          "name": "Roilpet Non-Slip Dog Socks for Senior Dogs",
+          "notes": "Double-sided grip, adjustable straps, marketed for senior dogs and post-surgery recovery, machine washable",
+          "imageUrl": "https://m.media-amazon.com/images/I/71w1+O-nphL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00GWHISI6",
+          "name": "Dr. Buzby's ToeGrips",
+          "notes": "Vet-developed rubber grips that attach to nails for instant traction on hardwood, specifically marketed for senior dogs",
+          "imageUrl": "https://m.media-amazon.com/images/I/81-qNjkoBqL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0H3DX25WL",
+          "name": "OUTTDOZ Paw Grip Traction Spray",
+          "notes": "Fast-drying spray-on paw traction, no socks/boots required",
+          "imageUrl": "https://m.media-amazon.com/images/I/81uXIFKrFRL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07ZNXYCB6",
+          "name": "MBIGM Carpet Stair Treads for Wooden Steps (15 pack, 8 x 30 in)",
+          "notes": "Peel-and-stick treads with a three-layer build (polyester fiber, nonwoven buffer, TPU non-skid bottom), can be cut to fit with scissors, machine washable per the maker, 8,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81vuhdLwLqL._SL1500_.jpg"
+        },
+        {
+          "asin": "B09M7WQRL8",
+          "name": "COSY HOMEER Non-Slip Stair Treads (4 pc, 28 x 9 in)",
+          "notes": "Low-profile polyester treads with TPE non-skid backing that peel and stick without residue per the maker, said to stay effective through up to 30 washes, 8,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FWrKimGTL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "senior-dog-night-accidents-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Senior Dog Accidents at Night: Pads, Bands and Cleaners",
+      "category": "Grooming & Recovery",
+      "targetKeyword": "senior dog accidents at night",
+      "heroImage": "https://images.pexels.com/photos/2608011/pexels-photo-2608011.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Accidents can have a treatable cause, so recommend a vet check once. Don't claim a product stops leaks or odors beyond the listing. Cleaners are for surfaces, never the dog; spot test fabrics.",
+      "products": [
+        {
+          "asin": "B07G5FP94F",
+          "name": "Washable Dog Pee Pads (Large, 36x41in)",
+          "notes": "4-layer reusable pad with absorbent middle layer and anti-slip silicone bottom, 23,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51awri6LdzL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B09N6NGX3C",
+          "name": "gogobunny Waterproof Pet Blanket",
+          "notes": "3-layer TPU waterproof barrier, reversible, folds up for travel and vet visits, 18,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/91plC2rZf6L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B087BCGVS9",
+          "name": "Ameritex Waterproof Dog Bed Cover Pet Blanket",
+          "notes": "Reversible waterproof blanket for beds and sofas, machine washable, 36,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/7146J4uayuL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07283JXS4",
+          "name": "Amazon Basics Male Dog Diapers, Ultra Absorbent Disposable Wrap (Large, 30ct)",
+          "notes": "Disposable male wrap with wetness indicator, leakproof and breathable design, budget-friendly bulk pack, 37,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Kg-zWhxVL._AC_SY450_.jpg"
+        },
+        {
+          "asin": "B06ZY3NWG4",
+          "name": "Pet Parents Washable Dog Diapers, Female (3-pack, X-Large)",
+          "notes": "Reusable washable female diaper set with extender straps for a secure fit, lower long-term cost than disposables, 44,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/512BrKD8OLL._AC_SY450_PIbundle-3,TopRight,0,0_SH20_.jpg"
+        },
+        {
+          "asin": "B077ZTYKZC",
+          "name": "wegreeco Washable Male Dog Belly Wrap, Pack of 3",
+          "notes": "Pack of 3 washable male belly wraps with an absorbent pad sewn in and a leak-free outer layer, sized by waist measurement (Medium is listed for a 15 to 17 in waist), 36,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81eZfc4GZAL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B00CKFL93K",
+          "name": "Rocco & Roxie Enzyme Stain & Odor Eliminator (32 oz)",
+          "notes": "Chlorine-free, color-safe formula listed for carpets, floors, furniture and clothing, for cat and dog urine, 128,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ssqqP6-iL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B071W6CQ7S",
+          "name": "Nature's Miracle Dog Stain & Odor Remover, Enzymatic Cleaner (32 oz)",
+          "notes": "Enzymatic formula with a light citrus scent that starts breaking down stains on contact and keeps working while bio-based mess remains, 23,700+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IjtTv+RhL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
