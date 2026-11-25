@@ -10,7 +10,7 @@ category: Feeding & Medication
 heroImage: >-
   https://images.pexels.com/photos/3877899/pexels-photo-3877899.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Ceramic bowls are a classic choice for food and water. This guide compares four ceramic options, from a small set of two to an 8-cup crock dish, so you can match the size, capacity and base to your dog.
