@@ -4846,6 +4846,126 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71IjtTv+RhL._AC_SL1500_.jpg"
         }
       ]
+    },
+    {
+      "id": "senior-dog-bowl-struggles-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Senior Dog Struggling at the Bowl: Stands, Mats and Bowls",
+      "category": "Feeding & Medication",
+      "targetKeyword": "senior dog trouble eating from floor bowl",
+      "heroImage": "https://images.pexels.com/photos/9428284/pexels-photo-9428284.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim any stand, bowl or mat helps joints, neck, digestion or bloat. State listed heights, sizes and care only. One calm vet line.",
+      "products": [
+        {
+          "asin": "B08V5PM9YT",
+          "name": "Vantic Elevated Dog Bowls, Adjustable Raised Stand for Small Dogs and Cats (Natural)",
+          "notes": "6 adjustable heights from 2 to 7 inches in flat and 15-degree tilted positions, foldable and removable, natural material stand",
+          "imageUrl": "https://m.media-amazon.com/images/I/714sB-9Yy-L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C1V9LNG1",
+          "name": "COMESOON Adjustable Elevated Dog Bowl (4 Heights)",
+          "notes": "4 adjustable heights, thick stainless steel bowls (50oz), non-slip base",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EeQMpFkHL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07CV32JZH",
+          "name": "Neater Feeder Express Mess-Proof Elevated Dog Bowls for Medium to Large Dogs",
+          "notes": "Raised stand with a spill-catching design that contains spilled food, listed for medium to large dogs over 9 inches at the shoulder, stand and stainless steel bowls are top-rack dishwasher safe, made in the USA except the bowls, 11,800+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81yyit4YZoL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CSZ4QBVF",
+          "name": "PROERR Adjustable Tall Dog Bowl Stand, 8-12 Inch Width, 4 Heights",
+          "notes": "Durable metal four-leg stand with 4 feeding heights of 13, 14, 15 and 16 inches, width adjustable to fit bowls from 8 to 12 inches, removable bowls, 620+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EqTS5kV7L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B08ZWL3VB6",
+          "name": "2.5 lb Weighted Dog Bowl, No Slip No Tip, Stainless Steel (60 oz)",
+          "notes": "Heavy stainless steel with a steel weight in the base, bonded silicone rubber foot, 60 oz (7.5 cup) capacity, marketed as a heavier alternative to ceramic, 860+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61cnukubG+S._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B071WNKDLV",
+          "name": "Max and Neo Heavyweight Non-Skid Rubber Bottom Stainless Steel Dog Bowl",
+          "notes": "Thick stainless steel with a full non-skid rubber bottom, the maker donates a bowl to a dog rescue for every bowl sold, 2,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/51PbKlFvFeL._AC_SL1000_.jpg"
+        },
+        {
+          "asin": "B09KWFY79H",
+          "name": "DogBuddy Dog Food Mat",
+          "notes": "Food-grade silicone mat with a 0.6 in raised edge and a smooth surface marketed as easier to wipe clean, rolls up for storage, dishwasher safe per the maker, 14,400+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+N41GotQL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CD7NWBZ7",
+          "name": "MateeyLife Silicone Pet Food Mat (18 x 12 in)",
+          "notes": "Compact 18 x 12 in food-grade silicone mat with a 0.5 in raised edge and a raised-dot surface meant to keep bowls in place, foldable and dishwasher safe, 9,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/61iGlIhgDYL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dog-cant-jump-into-car-guide",
+      "status": "ready",
+      "structureType": "narrative-guide",
+      "title": "Dog Can't Jump Into the Car? Ramps, Steps and Lift Help",
+      "category": "Mobility & Comfort",
+      "targetKeyword": "dog can't jump into the car anymore",
+      "heroImage": "https://images.pexels.com/photos/12106834/pexels-photo-12106834.jpeg?cs=tinysrgb&w=1200",
+      "caution": "Don't claim ramps or harnesses protect joints, prevent injury or treat weakness. State listed sizes and ratings. One calm vet line for sudden change.",
+      "products": [
+        {
+          "asin": "B0016HNU12",
+          "name": "PetSafe Happy Ride Folding Pet Ramp",
+          "notes": "62 inch lightweight folding ramp with side rails and a high-traction surface",
+          "imageUrl": "https://m.media-amazon.com/images/I/61jJ0Mw2neL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0D2NMKNWH",
+          "name": "PetThem Car Dog Ramp (180.3cm)",
+          "notes": "71-inch extra-long, foldable, non-slip rug surface, 250lb capacity",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FfmAXH40L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0HG1F2DQP",
+          "name": "Pawccoli 76 x 17 Inch Foldable Dog Ramp and Stairs for Large Dogs",
+          "notes": "76.4 inches long and 17 inches wide, gradual incline, textured PVC surface that wipes clean, safety snap hook to anchor to the vehicle, protective foam pads at contact points",
+          "imageUrl": "https://m.media-amazon.com/images/I/81L7eX9J-+L._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0C73QQV3Z",
+          "name": "Uross Telescoping Dog Stairs for Car, 4 Steps (Fits 23 to 26 Inch Trunk Heights)",
+          "notes": "4 telescoping aluminum steps adjustable for trunk heights of 23 to 26 inches, collapsible to about 17 x 13 inches, aluminum alloy supports pets up to 200 lb, metal fixing buckle, for cars, SUVs, trucks and high beds",
+          "imageUrl": "https://m.media-amazon.com/images/I/81caBEIcLdL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0BWXHSJB9",
+          "name": "PetRuna Extra Wide 20-Inch Dog Stairs for Large Dogs, 4 Steps",
+          "notes": "4 steps 20 inches wide, rust-resistant metal steps with load bars rated up to 250 lb, non-slip paw-print coating, slip-resistant rubber mat on the bottom, carabiner safety tether, lightweight and portable",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dsLS3WhRL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B07L3VLH5S",
+          "name": "LOOBANI Adjustable Dog Sling for Large Dogs (Hind Leg Support)",
+          "notes": "Rear-end lift sling for elderly dogs and weak hind legs, soft sheepskin-style lining, reflective nylon handle strap, used for stairs, vehicles and furniture, 13,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/611zvRxVbbL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0CHRVSCTY",
+          "name": "OneTigris Dog Lift Harness for Large Dogs (Full Body)",
+          "notes": "Full-body lift harness with handles, a separate front chest piece and stainless steel D-rings, sold in sizes S and up",
+          "imageUrl": "https://m.media-amazon.com/images/I/71D-MgFeFGL._AC_SL1500_.jpg"
+        },
+        {
+          "asin": "B0FRM3X7FT",
+          "name": "URPOWER Hard Bottom Dog Car Seat Cover for Back Seat, PU Leather Hammock",
+          "notes": "51 x 23.6 inch hard-bottom extender in textured waterproof PU leather, listed to hold up to 400 lb, zippered side flaps, mesh window and pocket, detachable support panels, 47,000+ reviews",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LgNe7oAjL._AC_SL1500_.jpg"
+        }
+      ]
     }
   ]
 }
