@@ -1,7 +1,8 @@
 ---
 title: 'Dog Slipping on Hardwood Floors: Rugs, Socks and Grips'
 description: >-
-  Runner rugs, grip socks, nail grips and stair treads for a dog that slips on hardwood floors, with listed sizes and care.
+  Runner rugs, grip socks, nail grips and stair treads for a dog that slips on
+  hardwood floors, with listed sizes and care.
 pubDate: '2026-11-25T01:40:28.226Z'
 structureType: narrative-guide
 topicId: dog-slipping-hardwood-floors-guide
@@ -9,7 +10,7 @@ category: Mobility & Comfort
 heroImage: >-
   https://images.pexels.com/photos/32468378/pexels-photo-32468378.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 Hardwood, tile and laminate give paws very little to hold on to. If your dog has started to skate across the kitchen or slide in the hallway, the fix is usually small and cheap. The options below fall into three groups: grip on the floor, grip on the paws and grip on the stairs. Start with the spot where your dog slips most and add more as you go.
