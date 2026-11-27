@@ -1,7 +1,8 @@
 ---
 title: 'Senior Dog Accidents at Night: Pads, Bands and Cleaners'
 description: >-
-  Washable pads, waterproof blankets, wraps and enzyme cleaners for a senior dog with accidents overnight, with listed sizes and care.
+  Washable pads, waterproof blankets, wraps and enzyme cleaners for a senior dog
+  with accidents overnight, with listed sizes and care.
 pubDate: '2026-11-25T01:40:29.226Z'
 structureType: narrative-guide
 topicId: senior-dog-night-accidents-guide
@@ -9,7 +10,7 @@ category: Grooming & Recovery
 heroImage: >-
   https://images.pexels.com/photos/2608011/pexels-photo-2608011.jpeg?cs=tinysrgb&w=1200
 tags: []
-draft: true
+draft: false
 approved: true
 ---
 A wet bed at 3 a.m. is hard on you and on your dog. The answer is usually three small layers: protect the bed, manage the mess on the dog, and clean up so the smell does not linger. If accidents are new or increasing, a visit to the vet is a sensible first step, and the products below keep nights easier in the meantime.
